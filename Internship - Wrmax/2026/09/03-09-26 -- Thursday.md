@@ -1,0 +1,18 @@
+- Tenho que consertar as artes de aviso e de convenio da oxcentro, apenas o “O” eh que eh maiusculo
+- Tem uma demanda de estatico tambem da Keylianne que eu devo fazer
+- Tenho que ver tambem o negocio do dominio do forno paulista
+- Tenho que ver tambem a skill que o Roberth falou ontem por mensagem
+- Ontem eu “consertei” o site da APIPA de 2021 feito em wordpress
+- Tenho que consertar o MCP do claude com o gpt image tambem, aparentemente eh alguma coisa com o Google oAuth ID e Token
+- Hoje a gente vai fazer um monte de edicao de video com o claude + o capcut em uma extensao do chrome
+- Parece que a Keylianne ficou meio brava quando eu coloquei a conta da empresa no meu pc
+- Estou fazendo alguns designs de imagens, gostaria de focar mais na parte de track com pixels e essas coisas, espero que o estagio nao va para essa linha de design, se ocorer eu pago a disciplina de estagio enquanto procuro outras oportunidades
+- Agora a Compex se tornou mais atrativo pra mim no geral, para continuar tendo contato com programacao e fazer parte de uma equipe de desenvolvimento de software, mesmo que as pessoa de la nao sejam as mais legais
+- Vou segurar um pouco esse sentimento, nao tomar uma atitude no pico da minha frustracao.
+- A Keylianne me pediu para editar um video mas eu disse que nao era minha praia e ela me mandou alguns estaticos para fazer.
+- Me pergunto se eu ainda vou aprender alguma coisa de gestao de trafego pago ou afins, se a empresa parou com isso depois que a Victoria saiu ou vao continuar
+- Vou fazer igual o gpt falou, vou continuar na vaga porem procurando outras de desenvolvimento
+- Consertei a inconscistencia do MCP com o claude + gpt-image, era apenas questao de consertar o google client ID e o token no env do deploy do easypanel
+- Saindo aqui eu vou mandar mensagem pro Roberth tentar agilizar o termo de convenio para eu agilizar o termo de estagio para pagar logo essa disciplina
+- Olha pelo lado bom, eh uma experiencia de trabalho a mais que eu vou ter, alem do $$
+- Bom, hoje eu fiz alguns estaticos, a keylianne e o robert ficaram de mandar pra gente coisas pra fazer mas so tem demandas de videos aparentemente. Queria algo mais voltado a TI, mas esse eh o sacrificio que eu vou fazer pra pagar a disciplina de estagio supervisionado, vou levar por esse lado

@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45fce8c01a4df06e",
+        "id": "d4f9a5446db4b41f",
         "type": "tabs",
         "children": [
           {
-            "id": "148ce7ff6c3511f7",
+            "id": "288ff053c17b91ef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": -180,
-                  "zoom": -0.971591584814246
-                }
+                "file": "Internship - Wrmax/2026/09/11-09-26 -- Friday.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Engenharia Reversa"
+              "icon": "lucide-file",
+              "title": "11-09-26 -- Friday"
             }
           }
         ]
@@ -102,14 +99,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
+                "file": "Internship - Wrmax/2026/09/11-09-26 -- Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
+                "file": "Internship - Wrmax/2026/09/11-09-26 -- Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
+                "file": "Internship - Wrmax/2026/09/11-09-26 -- Friday.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ae998338f0f3a7bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +196,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "f50279a0d2e60b5c",
+  "active": "288ff053c17b91ef",
   "lastOpenFiles": [
-    "Internship - Wrmax",
-    "Faculdade/Banco de Dados Relacionais/Engenharia Para Frente.md",
-    "Faculdade/Topicos em Inteligencia Artificial/Benchmark - Questoes sobre o Piaui.md",
-    "2026-09-05.md",
-    "Faculdade/Topicos em Engenharia de Software"
+    "Internship - Wrmax/2026/09/10-09-26 -- Thursday.md",
+    "Internship - Wrmax/2026/09/09-09-26 -- Wednesday.md",
+    "Internship - Wrmax/2026/09/08-09-26 -- Tuesday.md",
+    "Internship - Wrmax/2026/09/04-09-26 -- Friday.md",
+    "Internship - Wrmax/2026/09/03-09-26 -- Thursday.md",
+    "Internship - Wrmax/2026/09/02-09-26 -- Wednesday.md",
+    "Internship - Wrmax/2026/09/01-09-26 -- Tuesday.md",
+    "Internship - Wrmax/2026/08/31-08-26 -- Monday.md",
+    "Internship - Wrmax/2026/08/28-08-26 -- Friday.md",
+    "Internship - Wrmax/2026/08/27-08-26 -- Thursday.md",
+    "Internship - Wrmax/2026/08/26-08-26 -- Wednesday.md",
+    "Internship - Wrmax/2026/08/25-08-26 -- Tuesday.md",
+    "Internship - Wrmax/2026/08/24-08-26 -- Monday.md",
+    "Internship - Wrmax/2026/08/21-08-26 -- Friday.md",
+    "Internship - Wrmax/2026/08/20-08-26 -- Thursday.md",
+    "Internship - Wrmax/2026/08/19-08-26 -- Wednesday.md",
+    "Internship - Wrmax/2026/08/18-08-26 -- Tuesday.md",
+    "Internship - Wrmax/2026/08/17-08-26 -- Monday.md",
+    "Internship - Wrmax/2026/08/13-08-26 -- Thursday.md",
+    "Diario-wrmax/Dia 1.md",
+    "Diario-wrmax/Dia 08.md",
+    "Diario-wrmax/WRMax · Orquestração de agentes para edição e geração de imagem.md",
+    "Diario-wrmax/Prompt Obrigatorio.md",
+    "Diario-wrmax/Resumo do sistema wrm-criativo MCP.md",
+    "Diario-wrmax/Automação de criativo com IA — parecer de viabilidade.md",
+    "Diario-wrmax/Rotina de Implementação- Extrator de Posts Agendados.md",
+    "Diario-wrmax",
+    "Internship - Wrmax/2026/09",
+    "Internship - Wrmax/2026/08",
+    "Internship - Wrmax/2026",
+    "Internship - Wrmax/12/09",
+    "Internship - Wrmax/12",
+    "Internship - Wrmax/09 / 10 ",
+    "Internship - Wrmax/09 / 11 ",
+    "Internship - Wrmax/09 ",
+    "Internship - Wrmax/template",
+    "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas"
   ]
 }
