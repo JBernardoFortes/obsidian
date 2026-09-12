@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:JBernardoFortes/obsidian-first-vault.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
