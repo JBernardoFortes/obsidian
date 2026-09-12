@@ -11,10 +11,17 @@
             "id": "148ce7ff6c3511f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": -180,
+                  "zoom": -0.971591584814246
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Engenharia Reversa"
             }
           }
         ]
@@ -95,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-09-05.md",
+                "file": "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,9 +188,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "f50279a0d2e60b5c",
-  "lastOpenFiles": []
+  "active": "148ce7ff6c3511f7",
+  "lastOpenFiles": [
+    "Faculdade/Banco de Dados Relacionais/Engenharia Para Frente.md",
+    "Faculdade/Topicos em Inteligencia Artificial/Benchmark - Questoes sobre o Piaui.md",
+    "2026-09-05.md",
+    "Faculdade/Topicos em Engenharia de Software"
+  ]
 }
