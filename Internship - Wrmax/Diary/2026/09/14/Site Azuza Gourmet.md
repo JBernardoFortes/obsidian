@@ -1,9 +1,7 @@
 
-# Site Azuza Gourmet
-
 ## Status
 
- Em ajustes finais
+Em ajustes finais
 
 Estrutura do site aprovada.  
 Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
@@ -35,7 +33,7 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 
 - [x] Adicionar Data Estimada do Evento
 - [x] Adicionar calendário
-- [x] Testar preenchimento automático
+- [ ] Testar preenchimento automático
 - [ ] Testar envio
 
 ## Vídeos
@@ -50,12 +48,3 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 - [ ] Integrar avaliações do Google
 - [ ] Exibir na seção Depoimentos
 
----
-
-## Relacionamentos
-
-Cliente: [[Azuza Gourmet]]
-
-Projeto: [[Sites WRMAX]]
-
-Responsável: [[WRMAX Marketing & IA]]
