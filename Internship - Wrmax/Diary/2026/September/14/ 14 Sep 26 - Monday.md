@@ -6,10 +6,14 @@
 
 - Preciso tambem perguntar ao Roberth se tem Radiologia no site da neuropleno como a Keylianne tambem me pediu
 
- + [ ] Ajustar o site da Azuza
+ + [x] Ajustar o site da Azuza
 	 + O Roberth vai me passar os detalhes que foram conversados
+	 + Site da Azuza: https://azuza-landpage.vercel.app/
+	 + Fiz o que podia hoje 
  + [ ] Perguntar sobre o Site da Neuropleno
- + [ ] Aprender como cadastrar novos clientes no site de clientes
+	 + Tem o mesmo problema, falta de material para colocar as fotos, o que associar com alzheimer ?
+	 + Site da Neuropleno: https://neuropleno-landpage.vercel.app/
+ + [x] Aprender como cadastrar novos clientes no site de clientes
 	 + Preciso alinhar melhor o que a Keylianne quer exatamente
  + [x] Ver se da pra cadastrar o meu email e o da Iara no Notion
 	 + [x] Bernardo
