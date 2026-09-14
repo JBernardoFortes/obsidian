@@ -33,7 +33,7 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 - [x] Adicionar Data Estimada do Evento
 - [x] Adicionar calendário
 - [x] Testar preenchimento automático
-- [ ] Testar envio
+- [x] Testar envio
 
 ## Vídeos
 
@@ -42,9 +42,12 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 - [ ] Integrar YouTube API
 - [ ] Exibir em Eventos Realizados
 
+- Preciso tratar melhor essa parte dos videos, nao sei onde os videos estao e eu nao sei se eu posso subir.
+- Preciso do material para fazer essa parte, nao sei se eu preciso produzir ele
+
 ## Depoimentos
 
-- [ ] Integrar avaliações do Google
+- [ ] Integrar avaliações do Google ( Stand-By )
 	- A API do google esta com um problema, ela esta retornando codigo 200 OK mas elas estao vindo vazias, depois vou pesquisar mais sobre isso, mas por enquanto vou deixar com as reviews mockadas  
 - [x] Exibir na seção Depoimentos
 
