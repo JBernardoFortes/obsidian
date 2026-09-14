@@ -25,34 +25,36 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 
   Ajustes Visuais
 
-- [ ] Trocar foto por imagem de gastronomia
-- [ ] Remover fotos de mesa de doces
-- [ ] Remover menção a decoração de casamento
+- [x] Trocar foto por imagem de gastronomia
+- [x] Remover fotos de mesa de doces
+- [x] Remover menção a decoração de casamento
 
   Gastronomia
 
 - [ ] Adicionar Finger Foods
+	- [x] Imagem
 - [ ] Adicionar Ilha Gastronômica
+	- [x] Imagem
 - [ ] Adicionar Feijoada
-- [ ] Solicitar fotos da feijoada à Teresa
-- [ ] Buscar fotos da festa infantil da Ravens
+	- [ ] Solicitar fotos da feijoada à Teresa
+- [ ] Buscar fotos da festa infantil da Ravena
 - [ ] Ativar slide automático
 
   Formulário
 
-- [ ] Adicionar Data Estimada do Evento
-- [ ] Adicionar calendário
-- [ ] Testar preenchimento automático
+- [x] Adicionar Data Estimada do Evento
+- [x] Adicionar calendário
+- [x] Testar preenchimento automático
 - [ ] Testar envio
 
- 🎥 Vídeos
+ Vídeos
 
 - [ ] Subir vídeos no YouTube
 - [ ] Selecionar um vídeo de cada tipo de evento
 - [ ] Integrar YouTube API
 - [ ] Exibir em Eventos Realizados
 
-  Depoimentos
+ Depoimentos
 
 - [ ] Integrar avaliações do Google
 - [ ] Exibir na seção Depoimentos
