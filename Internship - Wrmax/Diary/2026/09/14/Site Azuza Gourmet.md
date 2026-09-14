@@ -45,5 +45,6 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 ## Depoimentos
 
 - [ ] Integrar avaliações do Google
-- [ ] Exibir na seção Depoimentos
+	- A API do google esta com um problema, ela esta retornando codigo 200 OK mas elas estao vindo vazias, depois vou pesquisar mais sobre isso, mas por enquanto vou deixar com as reviews mockadas  
+- [x] Exibir na seção Depoimentos
 
