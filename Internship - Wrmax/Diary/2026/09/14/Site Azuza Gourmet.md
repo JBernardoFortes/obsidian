@@ -16,24 +16,23 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 
 ## Gastronomia
 
-- [ ] Adicionar Finger Foods
+- [x] Adicionar Finger Foods
 	- [x] Imagem
-- [ ] Adicionar Ilha Gastronômica
+- [x] Adicionar Ilha Gastronômica
 	- [x] Imagem
 - [ ] Adicionar Feijoada
 	- [ ] Solicitar fotos da feijoada à Teresa
 	- [ ] Imagem
 - [ ] Buscar fotos da festa infantil da Ravena
-	- Nao tem
-	- [ ] Solicitar
+	- [ ] Solicitar fotos da Festa infantil
 	- [ ] Imagem
-- [ ] Ativar slide automático
+- [x] Ativar slide automático
 
 ## Formulário
 
 - [x] Adicionar Data Estimada do Evento
 - [x] Adicionar calendário
-- [ ] Testar preenchimento automático
+- [x] Testar preenchimento automático
 - [ ] Testar envio
 
 ## Vídeos
