@@ -27,3 +27,8 @@
 
 - Hoje foi o primeiro dia usando o Obsidian como editor de texto
 - Depois eu vou ajustar para os dias virarem pastas 
+
+
+- Me estressei tentando cadastrar um pessoal no Notion, nao entendi como fazer e aparentemnete parece que precisa de uma conta Bussiness para conseguir e a da empresa eh apenas Plus
+- Mandei mensagem para eles sobre isso
+- As vezes eu sinto que tenho que fazer fogo com pedra nessa empresa, eh me passado demandas que eu nao tenho os recursos necessarios para fazer, como quem diz, "se vira"
