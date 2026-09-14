@@ -1,17 +1,4 @@
 
-
-cliente: Azuza Gourmet
-tipo: Site
-status: Em ajustes
-prioridade: Alta
-responsavel: WRMAX
-prazo:
-tags:
-  - cliente
-  - site
-  - desenvolvimento
-
-
 # Site Azuza Gourmet
 
 ## Status
@@ -23,13 +10,13 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 
 
 
-  Ajustes Visuais
+## Ajustes Visuais
 
 - [x] Trocar foto por imagem de gastronomia
 - [x] Remover fotos de mesa de doces
 - [x] Remover menção a decoração de casamento
 
-  Gastronomia
+## Gastronomia
 
 - [ ] Adicionar Finger Foods
 	- [x] Imagem
@@ -37,31 +24,35 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 	- [x] Imagem
 - [ ] Adicionar Feijoada
 	- [ ] Solicitar fotos da feijoada à Teresa
+	- [ ] Imagem
 - [ ] Buscar fotos da festa infantil da Ravena
+	- Nao tem
+	- [ ] Solicitar
+	- [ ] Imagem
 - [ ] Ativar slide automático
 
-  Formulário
+## Formulário
 
 - [x] Adicionar Data Estimada do Evento
 - [x] Adicionar calendário
 - [x] Testar preenchimento automático
 - [ ] Testar envio
 
- Vídeos
+## Vídeos
 
 - [ ] Subir vídeos no YouTube
 - [ ] Selecionar um vídeo de cada tipo de evento
 - [ ] Integrar YouTube API
 - [ ] Exibir em Eventos Realizados
 
- Depoimentos
+## Depoimentos
 
 - [ ] Integrar avaliações do Google
 - [ ] Exibir na seção Depoimentos
 
 ---
 
- ## Relacionamentos
+## Relacionamentos
 
 Cliente: [[Azuza Gourmet]]
 
