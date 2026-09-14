@@ -1,5 +1,5 @@
 {
-  "format": "YYYY/MM/DD/ DD-MM-YY -- dddd",
+  "format": "YYYY/MMMM/DD/ DD-MM-YY -- dddd",
   "folder": "Internship - Wrmax/Diary",
   "template": "Internship - Wrmax/Diary/template/## {{ date }}.md"
 }
