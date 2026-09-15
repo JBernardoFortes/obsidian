@@ -11,3 +11,7 @@
 ### !! Preciso falar do pagamento tambem, vai fazer quase 1 mes de dias trabalhados
 
 	 Teoricamente eu acho que entreguei o site da Neuropleno, mandei para o Roberth e acho que ele ficou de mandar para o pessoal dar feedback sobre, preciso desse feedback pra continuar, porque nao tem imagens que eles querem pra colocar no lugar das doencas.
+
+
+	 Me pediram para fazer uma parte do Kommo, mas parece que tem que sincronizar os horarios, ai tem que esperar 24h
+	 Criei e cadastrei um novo cliente no painel de controle da empresa, o feito em next pela victoria.
