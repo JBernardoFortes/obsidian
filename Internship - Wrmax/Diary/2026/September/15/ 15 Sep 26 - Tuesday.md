@@ -6,3 +6,8 @@
 	 Ainda tenho que trabalhar nos ajustes do site da Azuza hoje, mas tenho que esperar me derem acesso as coisas que eu preciso aind
   - [[Site Azuza Gourmet]]
 	  Posso focar na parte de integrar a API do Google
+	  Vou fazer isso por enquanto, de tentar entender o porque que ele nao esta me retornando nenhum valor enquanto nao me passam nenhuma task
+
+### !! Preciso falar do pagamento tambem, vai fazer quase 1 mes de dias trabalhados
+
+	 Teoricamente eu acho que entreguei o site da Neuropleno, mandei para o Roberth e acho que ele ficou de mandar para o pessoal dar feedback sobre, preciso desse feedback pra continuar, porque nao tem imagens que eles querem pra colocar no lugar das doencas.
