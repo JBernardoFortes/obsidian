@@ -16,11 +16,11 @@
 
 	 Me foi passado a task de fazer o disparo de mensagens de follow up da forno, preciso pegar o id deles do numero do wpp e cadastrar no fluxo que ja tem feito no n8n e fazer alguns ajustes
 
-- [ ] Cadastrar o ID do novo numero da forno
-	- [ ] Aprender a como cadastrar novas chaves no n8n de credenciamento
+- [x] Cadastrar o ID do novo numero da forno
+	- [x] Aprender a como cadastrar novas chaves no n8n de credenciamento
 - [ ] Fazer os ajustes de imagens
 - [ ] Fazer os ajustes de texto
-- [ ] Testar enviando para o meu numero
+- [x] Testar enviando para o meu numero
 
 
 	 Interessante que eu vou ter que usar o Evolution API, depois eu vou pesquisar mais sobre o que ele eh de verdade depois de usar ele e sobrar um tempinho
