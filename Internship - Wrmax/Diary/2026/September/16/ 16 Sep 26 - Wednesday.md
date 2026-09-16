@@ -28,3 +28,9 @@
 
 
 	 Me pediram tambem para modificar um telefone de um site que eles tem de geracao de links como se fosse aqueles link de bio
+	 Modifiquei, foi tranquilo
+
+
+	 Me pediram agora para trackear o link do whatsapp que vai ser enviado
+
+	 Me pediram para fazer uma arte de convite
