@@ -25,7 +25,3 @@
 
 	 Interessante que eu vou ter que usar o Evolution API, depois eu vou pesquisar mais sobre o que ele eh de verdade depois de usar ele e sobrar um tempinho
 
-
-	 Hoje eu brinquei com a Maria, falei uma brincadeira que ela nao gostou e ela ficou mordida comigo, depois disso eu quis fazer uma brincadeira que era muito engracada ( Realmente ) mas ela nao quis dar trela e eu fiquei irritado por conta disso, e me veio pensamentos de inseguranca de que talvez a gente nao de certo por conta dessas coisas, porem essa eh so uma situacao dentre outras 500 que dao certo, eu estou com um pensamento de que ela me trata como um estranho as vezes, que ela tem medo de eu ser mal com ela como os estranhos sao, e isso me frustra, 
-	 Preciso levar essas coisas pra terapia, sobre a minha inseguranca de ficar bolado quando ela fala sobre coisas do passado dela ou menciona que conhece outra pessoa e nao desenvolve de primeira, essa parte da brincadiera de eu ficar rirritado por ela naoq uerer brincar e tambem sobre a inseguranca dela que me incomoda em relacao a eu fazer alguma coisa de mal com ela
-	 Vou me tranquilizar mais quanto a isso, eh o nosso primeiror relacionamento, vai ter coisas erradas
