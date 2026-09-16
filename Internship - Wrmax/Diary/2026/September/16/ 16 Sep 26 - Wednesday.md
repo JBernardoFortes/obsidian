@@ -25,3 +25,6 @@
 
 	 Interessante que eu vou ter que usar o Evolution API, depois eu vou pesquisar mais sobre o que ele eh de verdade depois de usar ele e sobrar um tempinho
 
+
+
+	 Me pediram tambem para modificar um telefone de um site que eles tem de geracao de links como se fosse aqueles link de bio
