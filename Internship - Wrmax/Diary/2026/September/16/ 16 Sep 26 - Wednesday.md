@@ -21,3 +21,6 @@
 - [ ] Fazer os ajustes de imagens
 - [ ] Fazer os ajustes de texto
 - [ ] Testar enviando para o meu numero
+
+
+	 Interessante que eu vou ter que usar o Evolution API, depois eu vou pesquisar mais sobre o que ele eh de verdade depois de usar ele e sobrar um tempinho
