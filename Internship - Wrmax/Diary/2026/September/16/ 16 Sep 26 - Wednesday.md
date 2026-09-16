@@ -10,4 +10,5 @@
 	 Hoje tambem chegou uma nova estagiaria, tivemos que nos apresentar, foi bem constrangedor mas nao tem porque ficar remoendo isso
 
 	 Quando for emitido o meu termo de compromisso eu vou abordar sobre o pagamento
-	 
+
+	Agora to esperando eles me passarem o que mudar no site da neuropleno, por enquanto nao tem muitas demandas pra mim, nao sei se eu tenho que dar o acesso do Notion para a nova estagiaria ainda, pra ela ver as demandas. Vou esperar ser me passado a visao.
