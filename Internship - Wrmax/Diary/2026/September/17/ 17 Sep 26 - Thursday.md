@@ -8,8 +8,11 @@
 
 	 Hoje tambem provavalmente vou ter que testar a parte do disparo automatico, espero que ele tenha testado ou nao tenha rodado para eu testar pra ver se o campo {{ $json.name }} realmente retorna o nome cadastrado do cliente
 
+	 Uma coisa que eu tenho que aprender eh a dar uma freada nas demandas, em relacao a tempo principalmente, quando eles falam que querem lancar hoje logo as coisas acaba que eu fico na pressa e nao testo tanto quanto eu poderia, e se errado eh culpa minha, vou tentar ser mais assertivo em relacao a isso de prazo com eles internamente em si.
+
 
 - [ ] Consertar o nome da APIPA
+	- Mandei para o Roberth avaliar as mudancas
 - [ ] Alinhar as mudancas no site da neuropleno
 - [ ] Testar o disparo automatico de mensagens
 - [ ] Disparar os disparos de Follow-up
