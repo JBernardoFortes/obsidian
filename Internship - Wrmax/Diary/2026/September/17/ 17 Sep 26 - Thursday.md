@@ -44,3 +44,7 @@
 - [ ] Atualizar o Google meu negocio - Oxcentro centro
 	- Preciso do acesso e nao tenho
 - [ ] Carrossel APIPA - O Piaui nunca teve um dia so para isso
+
+
+
+- [ ] Deixar a campanha no n8
