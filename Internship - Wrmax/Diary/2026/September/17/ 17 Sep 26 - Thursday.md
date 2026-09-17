@@ -21,7 +21,7 @@
 	 O Roberth me chamou para fazer um teste do disparo de mensagens, falei para ele que esta disparando normalmente, mas que o rastreamento eh um pouco complicado por conta de eu nao ter acesso a tuigo
 
 
-	 Depois criar um excel com os links rastreaveis e os parametros usados
+	 Depois criar um excel com os links rastreaveis e os parametros usados para rastreamento, mais para se basear
 	 
 
 - [x] Consertar o nome da APIPA
