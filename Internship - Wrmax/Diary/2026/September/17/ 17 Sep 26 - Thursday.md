@@ -25,7 +25,7 @@
 - [x] Testar se o Google Analytics esta rastreando tambem
 	- Tive dificuldades por envolver a Tuigo
 	- Sinto que nesse estagio a maioria das coisas sao dificultadas por conta de nao ter acesso as coisas principais dos clientes, como eu configuraria a Tuigo para fazer o rastreamento ?  Simplesmente nao sei, vou comunicar ao Roberth
-	- Ele me disse para tentar entrar na tuigo e ver os links rastreaveis proprios dela, vou ter que pedir acesso a tuigo, mas nao sei nao, mei perigoso 
+	- Ele me disse para tentar entrar na tuigo e ver os links rastreaveis proprios dela, vou ter que pedir acesso a tuigo, mas nao sei nao, mei perigoso, nao gosto da ideia
 - [x] Fazer dois cards de aniversario - Oftalmed
 - [ ] Carrossel Dr Romilto - Tadala
 - [ ] Atualizar o Google meu negocio - Oxcentro centro
