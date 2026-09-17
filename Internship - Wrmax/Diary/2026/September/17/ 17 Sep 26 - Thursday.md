@@ -14,11 +14,12 @@
 - [x] Consertar o nome da APIPA
 	- Mandei para o Roberth avaliar as mudancas
 - [ ] Alinhar as mudancas no site da neuropleno
+	- Tenho que esperar a Kellyane chamar para a avaliacao com o Roberth
 - [x] Testar o disparo automatico de mensagens
-- [ ] Testar se o Google Analytics esta rastreando tambem
+- [x] Testar se o Google Analytics esta rastreando tambem
 	- Tive dificuldades por envolver a Tuigo
 	- Sinto que nesse estagio a maioria das coisas sao dificultadas por conta de nao ter acesso as coisas principais dos clientes, como eu configuraria a Tuigo para fazer o rastreamento ?  Simplesmente nao sei, vou comunicar ao Roberth
-- [ ] Fazer dois cards de aniversario - Oftalmed
+- [x] Fazer dois cards de aniversario - Oftalmed
 - [ ] Carrossel Dr Romilto - Tadala
 - [ ] Atualizar o Google meu negocio - Oxcentro centro
 	- Preciso do acesso e nao tenho
