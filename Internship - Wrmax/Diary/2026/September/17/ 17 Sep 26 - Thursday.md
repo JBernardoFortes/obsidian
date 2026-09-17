@@ -13,3 +13,4 @@
 - [ ] Alinhar as mudancas no site da neuropleno
 - [ ] Testar o disparo automatico de mensagens
 - [ ] Disparar os disparos de Follow-up
+- [ ] Testar se o Google Analytics esta rastreando tambem
