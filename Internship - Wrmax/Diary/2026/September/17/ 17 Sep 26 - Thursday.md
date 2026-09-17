@@ -17,6 +17,8 @@
 
 	 Tenho que consertar a inscricao no TJ, mandar a foto do meu documento juntamente com o outro para garantir que vai ser valido
 
+
+	 O Roberth me chamou para fazer um teste do disparo de mensagens, falei para ele que esta disparando normalmente, mas que o rastreamento eh um pouco complicado por conta de eu nao ter acesso a tuigo
 	 
 
 - [x] Consertar o nome da APIPA
