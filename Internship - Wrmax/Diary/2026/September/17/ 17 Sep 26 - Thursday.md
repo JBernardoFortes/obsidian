@@ -1,8 +1,7 @@
 
 	 Hoje completa 1 mes de estagio, queria receber logo hoje mas to com receio de perguntar sobre o pagamento para eles ainda mais na frente das outras estagiarias.
 
-	 Tenho que consertar uns convites da APIPA que o Roberth me mandou no wpp, tem que ter uma mudanca no nome para a Fazenda Alvorada -> Grupo Agroflix
-
+	 Tenho que consertar uns convites da APIPA que o Roberth me mandou no wpp, tem que ter uma mudanca no nome para a Fazenda Alvorada -> Grupo AgroFritzen
 
 	 Hoje tambem a gente vai alinhar sobre o site da neuropleno, parece que a Chefe nao gostou muito, o chefe elogiou o video no inicio, mas ai tem que ver com ela tambem pra nao ficar nada desigual e a gente entrar em concordancia sobre o que mostrar para o cliente, vou confiar nela porque ela conhece mais os clientes e os gostos deles do que eu.
 
@@ -10,10 +9,16 @@
 
 	 Uma coisa que eu tenho que aprender eh a dar uma freada nas demandas, em relacao a tempo principalmente, quando eles falam que querem lancar hoje logo as coisas acaba que eu fico na pressa e nao testo tanto quanto eu poderia, e se errado eh culpa minha, vou tentar ser mais assertivo em relacao a isso de prazo com eles internamente em si.
 
+	 A chefe ta confundindo as coisas, ta me passando task de design, enquanto o chefe sabe realmente aproveitar um estagiario de TI, ela precisa de um estagiario de design, vou listar as tarefas abaixo na lista
 
-- [ ] Consertar o nome da APIPA
+- [x] Consertar o nome da APIPA
 	- Mandei para o Roberth avaliar as mudancas
 - [ ] Alinhar as mudancas no site da neuropleno
-- [ ] Testar o disparo automatico de mensagens
-- [ ] Disparar os disparos de Follow-up
+- [x] Testar o disparo automatico de mensagens
 - [ ] Testar se o Google Analytics esta rastreando tambem
+	- Tive dificuldades por envolver a Tuigo
+	- Sinto que nesse estagio a maioria das coisas sao dificultadas por conta de nao ter acesso as coisas principais dos clientes, como eu configuraria a Tuigo para fazer o rastreamento ?  Simplesmente nao sei, vou comunicar ao Roberth
+- [ ] Fazer dois cards de aniversario - Oftalmed
+- [ ] Carrossel Dr Romilto - Tadala
+- [ ] Atualizar o Google meu negocio - Oxcentro centro
+- [ ] Carrossel APIPA - O Piaui nunca teve um dia so para isso
