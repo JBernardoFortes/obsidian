@@ -19,6 +19,7 @@
 	- Mandei para o Roberth avaliar as mudancas
 	- Preciso mudar o retangulo da logo azul, tem uma linha branca separando
 	- O GPT ta retornando borrado onde ele edita demais 
+	- O GPT comeca a alucinar quando eu peco varias edicoes 1
 - [ ] Alinhar as mudancas no site da neuropleno
 	- Tenho que esperar a Kellyane chamar para a avaliacao com o Roberth
 - [x] Testar o disparo automatico de mensagens
@@ -26,6 +27,7 @@
 	- Tive dificuldades por envolver a Tuigo
 	- Sinto que nesse estagio a maioria das coisas sao dificultadas por conta de nao ter acesso as coisas principais dos clientes, como eu configuraria a Tuigo para fazer o rastreamento ?  Simplesmente nao sei, vou comunicar ao Roberth
 	- Ele me disse para tentar entrar na tuigo e ver os links rastreaveis proprios dela, vou ter que pedir acesso a tuigo, mas nao sei nao, mei perigoso, nao gosto da ideia
+	- Preciso do Link rastreavel feita pela Tuigo, mas nao tenho acesso a tuigo, vou falar com o Roberth
 - [x] Fazer dois cards de aniversario - Oftalmed
 - [ ] Carrossel Dr Romilto - Tadala
 	- Tenho que falar pra Keylianne aprovar ainda, mas ja foi feito
