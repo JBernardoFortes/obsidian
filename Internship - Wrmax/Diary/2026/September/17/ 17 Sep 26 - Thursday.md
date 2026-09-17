@@ -15,8 +15,9 @@
 
 	 Procurar como fazer links rastreaveis usando a tuigo
 
-
 	 Tenho que consertar a inscricao no TJ, mandar a foto do meu documento juntamente com o outro para garantir que vai ser valido
+
+	 
 
 - [x] Consertar o nome da APIPA
 	- Mandei para o Roberth avaliar as mudancas
