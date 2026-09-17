@@ -18,11 +18,12 @@
 
 	 Tenho que consertar a inscricao no TJ, mandar a foto do meu documento juntamente com o outro para garantir que vai ser valido
 
-- [ ] Consertar o nome da APIPA
+- [x] Consertar o nome da APIPA
 	- Mandei para o Roberth avaliar as mudancas
 	- Preciso mudar o retangulo da logo azul, tem uma linha branca separando
 	- O GPT ta retornando borrado onde ele edita demais 
 	- O GPT comeca a alucinar quando eu peco varias edicoes 1
+	- Falta so mandar o zip final das mudancas para o Roberth
 - [ ] Alinhar as mudancas no site da neuropleno
 	- Tenho que esperar a Kellyane chamar para a avaliacao com o Roberth
 - [x] Testar o disparo automatico de mensagens
