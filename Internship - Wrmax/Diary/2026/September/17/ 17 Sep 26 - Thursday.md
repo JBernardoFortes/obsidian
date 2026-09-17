@@ -47,4 +47,10 @@
 
 
 
-- [ ] Deixar a campanha no n8
+- [ ] Deixar a campanha no n8n no ponto de enviar
+	- [ ] Criar links rastreaveis:
+		- [ ] Dirceu
+		- [ ] Dom Severino
+		- [ ] Hugo Napoleao
+		- [ ] Sul
+	- [ ] Fazer um no que commuta entre os links e escolhe o lugar mais pxomi
