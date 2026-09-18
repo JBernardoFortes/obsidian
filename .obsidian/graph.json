@@ -11,7 +11,7 @@
       "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 65505
       }
     },
     {
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 2719929
       }
+    },
+    {
+      "query": "path:\"Internship - Wrmax\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -68,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 200,
   "scale": 0.5846358443777131,
-  "close": true
+  "close": false
 }
