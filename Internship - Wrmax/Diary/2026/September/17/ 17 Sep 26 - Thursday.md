@@ -47,13 +47,13 @@
 
 
 
-- [ ] Deixar a campanha no n8n no ponto de enviar
-	- [ ] Criar links rastreaveis:
-		- [ ] Dirceu
-		- [ ] Dom Severino
-		- [ ] Hugo Napoleao
-		- [ ] Sul
-	- [ ] Fazer um no que commuta entre os links e escolhe o lugar mais pxomi
+- [x] Deixar a campanha no n8n no ponto de enviar
+	- [x] Criar links rastreaveis:
+		- [x] Dirceu
+		- [x] Dom Severino
+		- [x] Hugo Napoleao
+		- [x] Sul
+	- [x] Fazer um no que commuta entre os links e escolhe o lugar mais pxomi
 
 
-#internship-wrmax 
+[[September]]

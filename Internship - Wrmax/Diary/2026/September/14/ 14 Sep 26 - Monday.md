@@ -33,4 +33,4 @@
 - Mandei mensagem para eles sobre isso
 - As vezes eu sinto que tenho que fazer fogo com pedra nessa empresa, eh me passado demandas que eu nao tenho os recursos necessarios para fazer, como quem diz, "se vira"
 
-#internship-wrmax 
+[[September]]

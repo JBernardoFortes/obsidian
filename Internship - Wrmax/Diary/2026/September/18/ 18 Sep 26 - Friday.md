@@ -27,8 +27,8 @@
 - [x] Fazer uma arte da APIPA
 	- [[Arte APIPA]]
 - [x] Mandar o convite da APIPA com o nome em branco para o Roberth
-- [ ] Fazer um banner para colocar no site da APIPA
-- [ ] Colocar no site da APIPA
+- [x] Fazer um banner para colocar no site da APIPA
+- [x] Colocar no site da APIPA
 - [ ] ver se tem como fazer o Claude baixar videos no whatsapp
 
 
@@ -38,4 +38,4 @@
 
 
 
-#internship-wrmax 
+[[September]]

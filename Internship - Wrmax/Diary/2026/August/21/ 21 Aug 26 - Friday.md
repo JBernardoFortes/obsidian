@@ -33,4 +33,4 @@
 - Tenho que ver, estou na duvida se era pra fazer de edicao de imagens ou geracao delas, acho que se for edicao basta modificar o script, o agente ja esta implementado com sucesso.
 
 
-#internship-wrmax 
+[[August]]

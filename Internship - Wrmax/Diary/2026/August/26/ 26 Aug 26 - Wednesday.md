@@ -19,4 +19,4 @@
         - Depois de baixar as midias eu puxo uma execucao do fluxo da Victoria de publicar para cada item no array e passando o que eles sao ( carrossel, reels, post )
 - Amanha eu comeco a fazer a parte pratica, faltam ainda 1h mas a parte de testar eh um pouco complexa, talvez hoje eu tente fazer o webhook para puxar as postagens agendadas
 
-#internship-wrmax 
+[[August]]

@@ -16,4 +16,4 @@
 - A Keylianne me pediu para fazer algumas imagens de convenios
 - Tentei consertar o MCP mas nao consegui, parece que deu erro em alguma configuracao de oAuth do proprio google. Amanha eu vejo
 
-#internship-wrmax 
+[[September]]

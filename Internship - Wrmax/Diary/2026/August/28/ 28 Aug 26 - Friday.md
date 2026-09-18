@@ -19,4 +19,4 @@
 - O Roberth me pediu pra fazer algo que eu nao entendi, ele falou pra fazer alguma coisa sobre a PIPA, nao entendi, vou perguntar pra ele na proxima oportunidades por instrucoes mais detalhadas
 - Hoje eu nao desenvolvi nada de novo, fiquei mais na parte de reuniao e ouvir e aprender o que a Vicky tava passando pra gente
 
-#internship-wrmax 
+[[August]]

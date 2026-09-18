@@ -33,4 +33,4 @@
 - ## Pedi para o Claude me gerar um planejamento para o dia de amanha
 
 
-#internship-wrmax 
+[[August]]

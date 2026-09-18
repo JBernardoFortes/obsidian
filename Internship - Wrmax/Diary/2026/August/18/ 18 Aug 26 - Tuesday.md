@@ -18,4 +18,4 @@
     
     [Planejamento SEM grupo intermediario](https://app.notion.com/p/Planejamento-SEM-grupo-intermediario-3c065d1423108067b56bdb3662fac029?pvs=21)
 
-#internship-wrmax 
+[[August]]
