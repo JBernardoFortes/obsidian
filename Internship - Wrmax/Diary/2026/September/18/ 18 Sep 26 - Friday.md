@@ -6,18 +6,20 @@
 	 Foi pedido para ajustar as imagens do Google meu negocio da neuropleno
 
 
-### A principio essas sao as demandas de hoje :
+### A principio essas sao as demandas pendentes :
+  _Nem todas dependem de mim_
 
 - [ ] Alinhar as mudancas necessarias no site da neuropleno
-- [ ] Fazer o carrossel do Dr Romilto - Tadala
+- [ ] Fazer o carrossel do Dr Romilto - Tadala ( Notion )
 	- Ontem eu tive dificuldade com o GPT, a depender da emergencia eu faco um design no canvas mesmo, como eh bem simples isso eh possivel
 - [ ] Atualizar Google meu negocio das empresas
-	- [ ] Oxcentro centro medico
+	- [ ] Oxcentro centro medico ( Notion )
 		- Esse tem o problema de eu nao ter o acesso e nao saber ainda, tenho que perguntar para a chefe
 	- [ ] Neuropleno
-- [ ] Carrossel da APIPA
+- [ ] Carrossel da APIPA ( Notion )
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
+- [ ] Fazer uma arte da APIPA
 
 
 	 Por enquanto essas sao as demandas de hoje
