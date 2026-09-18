@@ -17,3 +17,5 @@ G2-07	T2	Estudante de Graduação	"Quero participar de um programa de mobilidade
 
 
 #college #topicos-inteligencia-artificial
+
+[[Topicos em Inteligencia Artificial]]

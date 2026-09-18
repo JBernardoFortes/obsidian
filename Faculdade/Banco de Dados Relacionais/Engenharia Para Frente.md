@@ -98,3 +98,5 @@ Relacionamentos N:N geram tabela associativa;
 
 
 #college #bdr
+
+[[Banco de Dados Relacionais]]
