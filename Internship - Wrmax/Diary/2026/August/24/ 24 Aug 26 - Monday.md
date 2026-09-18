@@ -32,5 +32,6 @@
 - No final do expediente deu um bug com o conector e o oAuth com o google
     
 - Vou deixar aqui para pegar amanha e consertar esse bug
-    
-    
+
+
+#internship-wrmax 

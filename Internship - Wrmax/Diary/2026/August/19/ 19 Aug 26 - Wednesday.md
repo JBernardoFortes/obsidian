@@ -32,3 +32,5 @@
 
 - Acabei o dia arrumando o notion e fiquei vendo o que fazer amanha, confesso que me sinto travado por nao saber muito sobre essa parte de integracao e infraestrutura.
 - Amanha vou comecar a fazer a parte de rodar localmente na minha maquina e testar a captacao de mensagens usando o meu celular mesmo mandando mensagens de teste
+
+#internship-wrmax 

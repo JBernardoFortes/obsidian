@@ -9,3 +9,6 @@
 - Uma skill basicamente eh uma janela de contexto com dados injetados que vao ser considerados antes do agente dar uma resposta
 - O Roberth pediu para eu mandar uma relatorio do que eu fiz hoje.
     - Basicamente eu fiquei entendendo os fluxos do n8n, configurar as contas da empresa e tambem a do claude, e estudar mais sobre as skills do claude.
+
+
+#internship-wrmax 

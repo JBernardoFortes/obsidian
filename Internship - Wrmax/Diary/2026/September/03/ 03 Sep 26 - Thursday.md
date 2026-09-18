@@ -15,4 +15,6 @@
 - Consertei a inconscistencia do MCP com o claude + gpt-image, era apenas questao de consertar o google client ID e o token no env do deploy do easypanel
 - Saindo aqui eu vou mandar mensagem pro Roberth tentar agilizar o termo de convenio para eu agilizar o termo de estagio para pagar logo essa disciplina
 - Olha pelo lado bom, eh uma experiencia de trabalho a mais que eu vou ter, alem do $$
-- Bom, hoje eu fiz alguns estaticos, a keylianne e o robert ficaram de mandar pra gente coisas pra fazer mas so tem demandas de videos aparentemente. Queria algo mais voltado a TI, mas esse eh o sacrificio que eu vou fazer pra pagar a disciplina de estagio supervisionado, vou levar por esse lado
+ Bom, hoje eu fiz alguns estaticos, a keylianne e o robert ficaram de mandar pra gente coisas pra fazer mas so tem demandas de videos aparentemente. Queria algo mais voltado a TI, mas esse eh o sacrificio que eu vou fazer pra pagar a disciplina de estagio supervisionado, vou levar por esse lado
+
+#internship-wrmax 

@@ -16,3 +16,6 @@
 	 Me pediram para fazer uma parte do Kommo, mas parece que tem que sincronizar os horarios, ai tem que esperar 24h
 	 Criei e cadastrei um novo cliente no painel de controle da empresa, o feito em next pela victoria.
 	 Me pediram para fazer o rastreamento de uma campanha de anuncios, como fazer eu nao sei, so me pediram isso, complicado trabalhar assim, acaba desanimando trabalhar com instrucoes pela metade, porem eh o jeito, eu e o Claude vamos dar um jeito
+
+
+#internship-wrmax 

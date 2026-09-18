@@ -21,3 +21,4 @@
         - Nao me passaram o parecer do que fazer
         - O robert ficou de me mandar as landpages para eu me inspirar
 - A impressao que eu tenho eh que ele deixa para gerenciar tudo e acaba ficando sobrecarregado e esquecendo de algumas coisas, acho que ele deveria ter um gerente para monitorar essas tasks.
+#internship-wrmax 

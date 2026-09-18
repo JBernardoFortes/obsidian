@@ -97,4 +97,4 @@ Relacionamentos N:N geram tabela associativa;
 
 
 
-#college
+#college #bdr

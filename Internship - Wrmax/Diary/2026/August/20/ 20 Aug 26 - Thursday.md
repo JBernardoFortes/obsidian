@@ -31,5 +31,6 @@
 - Para o dia de amanha vou comecar a fazer a classificacao das mensagens em demandas ou nao, e comecar a criar um contexto para o modelo se basear
     
 - ## Pedi para o Claude me gerar um planejamento para o dia de amanha
-    
-    
+
+
+#internship-wrmax 

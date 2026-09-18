@@ -22,3 +22,4 @@
     - Quero adiantar logo para definir meu tempo para pagar a disciplina
 - Editei umas imagens e configurei a fingerprint do meu pc
 - Tenho que reconfigurar o mcp que quebrou por algum motivo
+#internship-wrmax 

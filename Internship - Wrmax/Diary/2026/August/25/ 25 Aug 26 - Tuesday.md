@@ -26,3 +26,8 @@
             - Como ficaria o Banco de dados?
             - Da pra puxar a midia do notion depois?
             - Garantir que a midia fique intacta ate o dia da postagem automatica
+
+
+
+#internship-wrmax 
+ 

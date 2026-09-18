@@ -13,3 +13,7 @@ G2-06	T2	Candidato	"Como uma pessoa pode emitir uma declaração de que não pos
 G2-07	T2	Estudante de Graduação	"Quais documentos são necessários para solicitar o diploma digital de graduação na UFPI?"	Entre os documentos exigidos estão requerimento de diploma, documento oficial de identificação, CPF, quitação eleitoral, documento militar quando aplicável, certificado de conclusão e histórico escolar do ensino médio, nada consta da Biblioteca e histórico escolar da graduação concluído.	DAA/PREG - Solicitação do Diploma Digital	https://ufpi.br/colacao-de-grau-e-diploma-preg	05/09/2026
 
 G2-07	T2	Estudante de Graduação	"Quero participar de um programa de mobilidade acadêmica para cursar disciplinas em outra universidade federal. Como funciona esse processo na UFPI?"	O estudante deve participar do processo seletivo de Mobilidade Acadêmica Nacional ANDIFES/UFPI e, caso selecionado, cursará componentes curriculares na instituição de destino durante o período de mobilidade.	CAAC/PREG - Mobilidade Acadêmica Nacional	https://ufpi.br/mobilidade-academica	05/09/2026
+
+
+
+#college #topicos-inteligencia-artificial

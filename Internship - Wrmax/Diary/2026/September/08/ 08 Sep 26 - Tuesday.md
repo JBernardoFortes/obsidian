@@ -18,3 +18,5 @@
 - Ajustar o nome da home → inicial na landingpage da neuroclinica
 - Ajustar o background para ser um carrossel das imagens da clinica no fundo dos doutores
 - Tenho que consertar as tags ou entender o porque de no tag assistant ele nao mostrar os eventos mandados pelo tuigo
+
+#internship-wrmax 

@@ -164,3 +164,6 @@ Virtual Private Cloud é uma rede virtual isolada dentro da infraestrutura da AW
  definir características da rede, como faixas de endereços IP, subredes, tabelas de rotas e regras de controle de acesso. 
 
 Ela é importante pois permite ter um maior controle sobre a comunicação entre os recursos, além de possibilitar a criação de regras para controlar quais recursos podem se comunicar entre si, quais podem ter acesso a internet. Ela é fundamental para criar soluções na AWS pois fornece uma estrutura de rede isolada e configurável, permitindo organizar os recursos de acordo com as necessidades da aplicação
+
+
+#college #topicos-engenharia-de-software

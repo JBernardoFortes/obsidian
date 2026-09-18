@@ -19,3 +19,5 @@
 - Resultado bom eh abaixo de 10 reais o custo de compra
     
 - Vou comecar agora a mexer no trafego pago da forno paulista
+
+#internship-wrmax 
