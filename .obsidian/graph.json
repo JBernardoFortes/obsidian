@@ -27,10 +27,38 @@
         "a": 1,
         "rgb": 15291240
       }
+    },
+    {
+      "query": "path:\"Faculdade/Faculdade.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Banco de Dados Relacionais\"",
+      "color": {
+        "a": 1,
+        "rgb": 1482885
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Topicos em Engenharia de Software\"",
+      "color": {
+        "a": 1,
+        "rgb": 9323693
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Topicos em Inteligencia Artificial\"",
+      "color": {
+        "a": 1,
+        "rgb": 2719929
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -39,6 +67,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 0.35498552728031935,
+  "scale": 0.5189073780186431,
   "close": true
 }
