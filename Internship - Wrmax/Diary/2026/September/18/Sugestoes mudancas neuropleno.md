@@ -61,3 +61,6 @@ Eu mexeria nessa ordem:
 
 - [ ] Avaliar viabilidade da lista de doencas
 	- Estou achando muito verboso
+
+
+#internship-wrmax 

@@ -94,3 +94,7 @@ Relacionamentos N:N geram tabela associativa;
 - PESSOAS (CPF PK, nome, sexo, dt_masc)
 
 - APARTAMENTO_PESSOA (Cod_Edificio, numero, CPF, data, tipo)  [PK composta]
+
+
+
+#college

@@ -5,3 +5,7 @@
 [9:20 AM, 18/09/2026] Roberth Moreira WRM Chefe: Nesta safra, por se tratar da maior área já cultivada no Estado, o vazio sanitário do algodão vem a ser ainda mais importante
 [9:20 AM, 18/09/2026] Roberth Moreira WRM Chefe: só ajustar esse aí e dar uma melhorada no design
 [9:20 AM, 18/09/2026] Roberth Moreira WRM Chefe: blza?/
+
+
+
+#internship-wrmax 
