@@ -8,7 +8,7 @@ ALTERAÇÕES 16/09
 
 Eu mexeria nessa ordem:
 
-1. **Reescreveria completamente o primeiro bloco.** Não colocaria “Neurorradiologia” apenas como uma terceira palavra no título, porque o paciente comum nem sempre entende o que ela significa. Eu transformaria isso em benefício. Algo assim:
+- [x]   **Reescreveria completamente o primeiro bloco.** Não colocaria “Neurorradiologia” apenas como uma terceira palavra no título, porque o paciente comum nem sempre entende o que ela significa. Eu transformaria isso em benefício. Algo assim:
 
 > **Referência em Neurologia, Neurocirurgia e Neurorradiologia em Teresina**
 > 
@@ -18,7 +18,7 @@ Eu mexeria nessa ordem:
 > 
 > Neurologia • Neurocirurgia • Neurointervenção • Exames especializados
 
-2 **Criaria três portas de entrada logo depois do hero.** Hoje você joga aproximadamente 20 condições/procedimentos numa mesma seção. Isso aumenta carga cognitiva. Eu colocaria três cards grandes: **Neurologia**, para AVC, Parkinson, epilepsia, demências, cefaleias etc.; **Neurocirurgia**, para tumores, coluna, trigêmeo e procedimentos cirúrgicos; e **Neurorradiologia Intervencionista**, explicando em linguagem humana: “tratamentos minimamente invasivos realizados pelos vasos sanguíneos”, com aneurisma, angioplastia de carótida, angiografia, tratamento endovascular etc. Isso posiciona a clínica como centro completo, não como “mais uma clínica de neurologia”.
+- [ ] **Criaria três portas de entrada logo depois do hero.** Hoje você joga aproximadamente 20 condições/procedimentos numa mesma seção. Isso aumenta carga cognitiva. Eu colocaria três cards grandes: **Neurologia**, para AVC, Parkinson, epilepsia, demências, cefaleias etc.; **Neurocirurgia**, para tumores, coluna, trigêmeo e procedimentos cirúrgicos; e **Neurorradiologia Intervencionista**, explicando em linguagem humana: “tratamentos minimamente invasivos realizados pelos vasos sanguíneos”, com aneurisma, angioplastia de carótida, angiografia, tratamento endovascular etc. Isso posiciona a clínica como centro completo, não como “mais uma clínica de neurologia”.
 
 3- **Transformaria “Referência Nacional” de slogan em prova.** Aqui está o ponto mais importante. Coloque uma seção imediatamente após o hero chamada algo como **“Por que a Neuropleno se tornou referência”**. Aí entram apenas fatos comprováveis: formação dos médicos, atuação acadêmica, tratamentos de alta complexidade, participações científicas, estrutura, número real de pacientes, anos de atuação, publicações e presença na imprensa. A página já mostra médicos com CRM/RQE e qualificações relevantes; isso é muito mais poderoso do que repetir “tecnologia de ponta”.
 
