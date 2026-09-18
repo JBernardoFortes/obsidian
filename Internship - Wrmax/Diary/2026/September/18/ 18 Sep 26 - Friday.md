@@ -22,6 +22,9 @@
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
 - [ ] Fazer uma arte da APIPA
+	- [[Arte APIPA]]
 
 
-	 Por enquanto essas sao as demandas de hoje
+
+
+>Fazer uma tarefa por vez para nao sobrecarregar
