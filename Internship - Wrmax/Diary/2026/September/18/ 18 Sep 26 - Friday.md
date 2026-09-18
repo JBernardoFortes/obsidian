@@ -9,7 +9,9 @@
 ### A principio essas sao as demandas pendentes :
   _Nem todas dependem de mim_
 
-- [ ] Alinhar as mudancas necessarias no site da neuropleno
+- [x] Alinhar as mudancas necessarias no site da neuropleno
+- [ ] Fazer as mudancas no site da neuropleno
+[ Sugestoes mudanca neuropleno ]
 - [ ] Fazer o carrossel do Dr Romilto - Tadala ( Notion )
 	- Ontem eu tive dificuldade com o GPT, a depender da emergencia eu faco um design no canvas mesmo, como eh bem simples isso eh possivel
 - [ ] Atualizar Google meu negocio das empresas
