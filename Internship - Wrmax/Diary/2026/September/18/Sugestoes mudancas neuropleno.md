@@ -36,7 +36,7 @@ Eu mexeria nessa ordem:
 - [ ] **Há um problema de SEO local e de consistência cadastral que eu verificaria imediatamente.** A landing mostra o endereço na **R. Gov. Joca Pires, 2020**, enquanto o cadastro do CNES que encontrei ainda apresenta **Rua Governador Artur de Vasconcelos, 289**, apesar de indicar atualização em 2026. Pode haver explicação — mudança de sede, unidade distinta etc. — mas Google Business Profile, CNES, CRM, site, Maps e diretórios precisam conversar entre si. Inconsistência de NAP prejudica SEO local e também confiança.
 	- [ ] Preciso definir qual endereco usar com eles 
 
-- [ ] **Tecnicamente, eu não deixaria essa landing em `vercel.app` quando entrar em produção.** O domínio principal já existe. Eu colocaria algo como `neuropleno.com.br` ou uma rota do próprio domínio, configuraria canonical, Search Console, sitemap, schema de `MedicalClinic`/`Physician`, dados estruturados dos médicos, Open Graph, GA4 e acompanhamento de conversões. E criaria páginas próprias para **Neurologia em Teresina**, **Neurocirurgia em Teresina**, **Neurorradiologia em Teresina**, **Aneurisma cerebral**, **AVC**, **Eletroneuromiografia** etc. Essa landing pode vender; essas páginas específicas é que vão construir autoridade orgânica.
+- [x] **Tecnicamente, eu não deixaria essa landing em `vercel.app` quando entrar em produção.** O domínio principal já existe. Eu colocaria algo como `neuropleno.com.br` ou uma rota do próprio domínio, configuraria canonical, Search Console, sitemap, schema de `MedicalClinic`/`Physician`, dados estruturados dos médicos, Open Graph, GA4 e acompanhamento de conversões. E criaria páginas próprias para **Neurologia em Teresina**, **Neurocirurgia em Teresina**, **Neurorradiologia em Teresina**, **Aneurisma cerebral**, **AVC**, **Eletroneuromiografia** etc. Essa landing pode vender; essas páginas específicas é que vão construir autoridade orgânica.
 	- Esse link eh temporario
 
 - [ ] Também colocaria no footer os dados institucionais exigidos pela publicidade médica. Hoje consigo ver CRM/RQE nos cards dos médicos, mas não encontrei no rodapé da landing a identificação do **registro da clínica no CRM e do diretor técnico-médico**, que a Resolução CFM nº 2.336/2023 exige para publicidade de estabelecimentos assistenciais em ambiente virtual. Confirmem com a clínica quais são os dados corretos antes de publicar.
@@ -57,5 +57,7 @@ Eu mexeria nessa ordem:
 
 - [x] E logo abaixo: **“Conheça as três áreas de atuação”** com os três cards. Isso já muda completamente o posicionamento.
 
-
 - [x] Tirar o "aqui" de Teresina tambem
+
+- [ ] Avaliar viabilidade da lista de doencas
+	- Estou achando muito verboso

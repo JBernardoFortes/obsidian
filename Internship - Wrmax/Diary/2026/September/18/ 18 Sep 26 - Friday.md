@@ -12,6 +12,7 @@
 - [x] Alinhar as mudancas necessarias no site da neuropleno
 - [ ] Fazer as mudancas no site da neuropleno
 	- [[Sugestoes mudancas neuropleno]]
+	- [x] 80%
 - [ ] Fazer o carrossel do Dr Romilto - Tadala ( Notion )
 	- Ontem eu tive dificuldade com o GPT, a depender da emergencia eu faco um design no canvas mesmo, como eh bem simples isso eh possivel
 - [ ] Atualizar Google meu negocio das empresas
