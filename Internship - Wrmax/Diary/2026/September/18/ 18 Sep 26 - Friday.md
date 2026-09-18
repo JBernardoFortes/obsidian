@@ -24,6 +24,7 @@
 	- Provavelmente o Roberth vai querer mudar algo ainda 
 - [ ] Fazer uma arte da APIPA
 	- [[Arte APIPA]]
+- [ ] Mandar o convite da APIPA com o nome em branco para o Roberth
 
 
 
