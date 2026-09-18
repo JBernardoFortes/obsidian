@@ -5,4 +5,5 @@ project: internship-wrmax
 ---
 #internship-wrmax
 
-[[{{date:MMMM}}]] 
+[[{{date:MMMM}}]]
+[[Internship - Wrmax Diary]] 
