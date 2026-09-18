@@ -5,6 +5,8 @@
 
 	 Foi pedido para ajustar as imagens do Google meu negocio da neuropleno
 
+	 Perguntei sobre o monetario por mensagem, to achando que eles querem fazer o pagamento so depois que eu fazer o termo de compromisso, se for eles estao dando um tiro no pe, porque eu ate estava com duvida se ia pro TJ ou continuava aqui, mas se isso acontecer, se eu passar no TJ com certeza eu iria 
+
 
 ### A principio essas sao as demandas pendentes :
   _Nem todas dependem de mim_
@@ -22,9 +24,9 @@
 - [ ] Carrossel da APIPA ( Notion )
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
-- [ ] Fazer uma arte da APIPA
+- [x] Fazer uma arte da APIPA
 	- [[Arte APIPA]]
-- [ ] Mandar o convite da APIPA com o nome em branco para o Roberth
+- [x] Mandar o convite da APIPA com o nome em branco para o Roberth
 
 
 
