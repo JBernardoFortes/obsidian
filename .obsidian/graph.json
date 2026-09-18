@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -57,10 +57,17 @@
       }
     },
     {
-      "query": "path:\"Internship - Wrmax\"  ",
+      "query": "path:\"Internship - Wrmax/internship - Wrmax\"  ",
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Documents\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16507985
       }
     }
   ],
@@ -75,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 107,
   "scale": 0.5846358443777131,
-  "close": false
+  "close": true
 }
