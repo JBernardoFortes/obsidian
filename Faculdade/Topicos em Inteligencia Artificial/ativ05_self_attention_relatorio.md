@@ -1,4 +1,8 @@
+
+[[ativ05_self_attention-1.pdf]]
+
 # Tópicos em IA 
+
 
 Atividade: Prática 2 — Self-Attention  
 Grupo 02: ARTUR VINICIUS SILVA SOUSA, JOSE BERNARDO ALVES FORTES, THALYSSON ARAUJO MELO
