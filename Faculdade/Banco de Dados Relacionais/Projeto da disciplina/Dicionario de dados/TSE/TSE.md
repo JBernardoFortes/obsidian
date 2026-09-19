@@ -8,5 +8,5 @@
 	- [[BEM_CANDIDATO]]
 - [x] Coligacoes
 - [x] Vagas
-- [ ] Motivo da Cassacao
-- [ ] Redes Sociais de Candidatos
+- [x] Motivo da Cassacao
+- [x] Redes Sociais de Candidatos
