@@ -11,7 +11,7 @@
       "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
       "color": {
         "a": 1,
-        "rgb": 4688307
+        "rgb": 13509246
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "path:\"Faculdade/Faculdade.md\"",
       "color": {
         "a": 1,
-        "rgb": 14352523
+        "rgb": 56101
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "path:\"Faculdade/Topicos em Engenharia de Software\"",
       "color": {
         "a": 1,
-        "rgb": 9323693
+        "rgb": 11793557
       }
     },
     {
@@ -82,5 +82,5 @@
   "linkStrength": 1,
   "linkDistance": 165,
   "scale": 0.5846358443777131,
-  "close": false
+  "close": true
 }
