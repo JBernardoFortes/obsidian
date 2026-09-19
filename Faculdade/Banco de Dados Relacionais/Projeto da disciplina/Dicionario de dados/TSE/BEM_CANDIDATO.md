@@ -1,12 +1,6 @@
 
 [[TSE]]
 
-# Dicionário de Dados - Tabela BEM_CANDIDATO (TSE)
-
-Este dicionário descreve a estrutura dos dados contidos na tabela de declaração de bens de candidatos (`BEM_CANDIDATO_<ANO>_<UF>`), conforme a documentação oficial do Tribunal Superior Eleitoral (TSE)[cite: 3].
-
----
-
 ## 1. Considerações e Regras Gerais
 
 * **Codificação de Caracteres:** `Latin 1` (ISO-8859-1)[cite: 3].
