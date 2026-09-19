@@ -1,0 +1,11 @@
+{
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}
