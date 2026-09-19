@@ -3,7 +3,8 @@
 
 ### TSE: 
 
-- [ ] Candidatos
+- [x] Candidatos
+	- [[CONSULTA_CAND]]
 - [ ] Informacoes complementares dos cadidatos
 - [ ] Bens 
 - [ ] Coligacoes
