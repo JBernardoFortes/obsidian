@@ -6,7 +6,7 @@
 	- [[CONSULTA_CAND_COMPLEMENTAR]
 - [x] Bens 
 	- [[BEM_CANDIDATO]]
-- [ ] Coligacoes
-- [ ] Vagas
+- [x] Coligacoes
+- [x] Vagas
 - [ ] Motivo da Cassacao
 - [ ] Redes Sociais de Candidatos

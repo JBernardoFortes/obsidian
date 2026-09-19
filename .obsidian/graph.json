@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
@@ -11,7 +11,7 @@
       "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
       "color": {
         "a": 1,
-        "rgb": 65505
+        "rgb": 4688307
       }
     },
     {
@@ -32,7 +32,7 @@
       "query": "path:\"Faculdade/Faculdade.md\"",
       "color": {
         "a": 1,
-        "rgb": 15105570
+        "rgb": 14352523
       }
     },
     {
@@ -75,12 +75,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.59615005907838,
   "collapse-forces": false,
   "centerStrength": 0.385978731784167,
-  "repelStrength": 9.53884246363355,
+  "repelStrength": 10.434334055504,
   "linkStrength": 1,
-  "linkDistance": 107,
+  "linkDistance": 165,
   "scale": 0.5846358443777131,
-  "close": true
+  "close": false
 }

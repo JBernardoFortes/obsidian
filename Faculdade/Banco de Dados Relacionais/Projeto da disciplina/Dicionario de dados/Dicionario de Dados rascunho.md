@@ -1,6 +1,0 @@
-[[Dicionario de dados]]
-
-
-### IBGE:
-
-- [ ] 
