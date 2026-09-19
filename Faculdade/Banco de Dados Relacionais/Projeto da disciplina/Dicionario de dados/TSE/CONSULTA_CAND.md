@@ -30,6 +30,7 @@ Este dicionário descreve a estrutura dos dados contidos na tabela de consulta d
   * `VT`: Voto em trânsito.
   * `ZZ`: Exterior.
 
+### Essa tabela possui dados das candidaturas dos candidatos
 
 ## 2. Dicionário dos Campos
 

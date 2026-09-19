@@ -2,6 +2,7 @@
 Este dicionário descreve a estrutura dos dados contidos na tabela de consulta complementar de candidaturas (`CONSULTA_CAND_COMPLEMENTAR_<ANO>_<UF>`), conforme a documentação oficial do Tribunal Superior Eleitoral (TSE).
 
 
+
 ## 1. Considerações e Regras Gerais
 
 * **Codificação de Caracteres:** `Latin 1` (ISO-8859-1).
@@ -20,6 +21,7 @@ Este dicionário descreve a estrutura dos dados contidos na tabela de consulta c
   * `VT`: Voto em trânsito.
   * `ZZ`: Exterior.
 
+### Essa tabela possui dados complementares dos candidatos
 
 
 ## 2. Dicionário dos Campos
@@ -38,16 +40,16 @@ Este dicionário descreve a estrutura dos dados contidos na tabela de consulta c
 
 ### 2.2. Perfil Pessoal, Demográfico e Diversidade
 
-| Variável | Tipo | Descrição | Domínio / Valores Possíveis |
-| :--- | :--- | :--- | :--- |
-| **CD_NACIONALIDADE** | Numérico | Código da nacionalidade do candidato. | `1`: Brasileira nata<br>`2`: Brasileira (naturalizada)<br>`3`: Portuguesa com igualdade de direitos<br>`4`: Estrangeiro |
-| **DS_NACIONALIDADE** | Texto | Descrição da nacionalidade do candidato. | `BRASILEIRA NATA`, `BRASILEIRA (NATURALIZADA)`, etc. |
-| **CD_MUNICIPIO_NASCIMENTO** | Numérico | Código de identificação do município de nascimento do candidato. | Código TSE do município |
-| **NM_MUNICIPIO_NASCIMENTO** | Texto | Nome do município de nascimento do candidato. | Texto |
-| **NR_IDADE_DATA_POSSE** | Numérico | Idade do candidato na data da posse. | Idade calculada com base na data da posse |
-| **ST_QUILOMBOLA** | Texto | Indica se o candidato se autodeclara quilombola. | `S`: Sim<br>`N`: Não |
-| **CD_ETNIA_INDIGENA** | Numérico | Código da etnia indígena autodeclarada pelo candidato. | Código da etnia no cadastro eleitoral ou `0` |
-| **DS_ETNIA_INDIGENA** | Texto | Descrição da etnia indígena autodeclarada pelo candidato. | Nome da etnia ou `NÃO INFORMADA` |
+| Variável                    | Tipo     | Descrição                                                        | Domínio / Valores Possíveis                                                                                             |
+| :-------------------------- | :------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| **CD_NACIONALIDADE**        | Numérico | Código da nacionalidade do candidato.                            | `1`: Brasileira nata<br>`2`: Brasileira (naturalizada)<br>`3`: Portuguesa com igualdade de direitos<br>`4`: Estrangeiro |
+| **DS_NACIONALIDADE**        | Texto    | Descrição da nacionalidade do candidato.                         | `BRASILEIRA NATA`, `BRASILEIRA (NATURALIZADA)`, etc.                                                                    |
+| **CD_MUNICIPIO_NASCIMENTO** | Numérico | Código de identificação do município de nascimento do candidato. | Código TSE do município                                                                                                 |
+| **NM_MUNICIPIO_NASCIMENTO** | Texto    | Nome do município de nascimento do candidato.                    | Texto                                                                                                                   |
+| **NR_IDADE_DATA_POSSE**     | Numérico | Idade do candidato na data da posse.                             | Idade calculada com base na data da posse                                                                               |
+| **ST_QUILOMBOLA**           | Texto    | Indica se o candidato se autodeclara quilombola.                 | `S`: Sim<br>`N`: Não                                                                                                    |
+| **CD_ETNIA_INDIGENA**       | Numérico | Código da etnia indígena autodeclarada pelo candidato.           | Código da etnia no cadastro eleitoral ou `0`                                                                            |
+| **DS_ETNIA_INDIGENA**       | Texto    | Descrição da etnia indígena autodeclarada pelo candidato.        | Nome da etnia ou `NÃO INFORMADA`                                                                                        |
 
 
 
@@ -77,16 +79,16 @@ Este dicionário descreve a estrutura dos dados contidos na tabela de consulta c
 
 ### 2.5. Situações Históricas de Julgamento e Urna (Até 2022)
 
-| Variável | Tipo | Descrição | Domínio / Valores Possíveis |
-| :--- | :--- | :--- | :--- |
-| **CD_DETALHE_SITUACAO_CAND** | Numérico | Código do detalhe da situação do registro (*aplicável até 2022*). | Código numérico ou `-3` (`#NE`) |
-| **DS_DETALHE_SITUACAO_CAND** | Texto | Descrição do detalhe da situação do registro (*aplicável até 2022*). | Texto ou `#NE` |
-| **CD_SITUACAO_CANDIDATO_PLEITO** | Numérico | Código da situação da candidatura no dia do pleito (*aplicável até 2022*). | Código numérico ou `-3` (`#NE`) |
-| **DS_SITUACAO_CANDIDATO_PLEITO** | Texto | Descrição da situação da candidatura no dia do pleito (*aplicável até 2022*). | Texto ou `#NE` |
-| **CD_SITUACAO_CANDIDATO_URNA** | Numérico | Código da situação da candidatura na urna (*aplicável até 2022*). | Código numérico ou `-3` (`#NE`) |
-| **DS_SITUACAO_CANDIDATO_URNA** | Texto | Descrição da situação da candidatura na urna (*aplicável até 2022*). | Texto ou `#NE` |
-| **CD_SITUACAO_CANDIDATO_TOT** | Numérico | Código da situação atual no banco de totalização (*aplicável até 2022*). | Código numérico |
-| **DS_SITUACAO_CANDIDATO_TOT** | Texto | Descrição da situação atual no banco de totalização (*aplicável até 2022*). | Ex: `DEFERIDO`, `INDEFERIDO` |
+| Variável                         | Tipo     | Descrição                                                                     | Domínio / Valores Possíveis     |
+| :------------------------------- | :------- | :---------------------------------------------------------------------------- | :------------------------------ |
+| **CD_DETALHE_SITUACAO_CAND**     | Numérico | Código do detalhe da situação do registro (*aplicável até 2022*).             | Código numérico ou `-3` (`#NE`) |
+| **DS_DETALHE_SITUACAO_CAND**     | Texto    | Descrição do detalhe da situação do registro (*aplicável até 2022*).          | Texto ou `#NE`                  |
+| **CD_SITUACAO_CANDIDATO_PLEITO** | Numérico | Código da situação da candidatura no dia do pleito (*aplicável até 2022*).    | Código numérico ou `-3` (`#NE`) |
+| **DS_SITUACAO_CANDIDATO_PLEITO** | Texto    | Descrição da situação da candidatura no dia do pleito (*aplicável até 2022*). | Texto ou `#NE`                  |
+| **CD_SITUACAO_CANDIDATO_URNA**   | Numérico | Código da situação da candidatura na urna (*aplicável até 2022*).             | Código numérico ou `-3` (`#NE`) |
+| **DS_SITUACAO_CANDIDATO_URNA**   | Texto    | Descrição da situação da candidatura na urna (*aplicável até 2022*).          | Texto ou `#NE`                  |
+| **CD_SITUACAO_CANDIDATO_TOT**    | Numérico | Código da situação atual no banco de totalização (*aplicável até 2022*).      | Código numérico                 |
+| **DS_SITUACAO_CANDIDATO_TOT**    | Texto    | Descrição da situação atual no banco de totalização (*aplicável até 2022*).   | Ex: `DEFERIDO`, `INDEFERIDO`    |
 
 
 
