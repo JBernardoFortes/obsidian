@@ -4,3 +4,6 @@ Fazer o EDR da API do TSE e das apis necessarias para puxar os dados das analise
 
 ### EDR - Joao Carlos
 - [[Tabelas - Joao Carlos]]
+
+### EDR - Rascunho
+[[ER]]

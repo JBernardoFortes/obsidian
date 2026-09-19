@@ -1,3 +1,5 @@
+
+[[Tabelas]]
 # Arquitetura Geral do Banco de Dados Relacional (TSE + IBGE + Atlas)
 
 Este documento descreve a estrutura completa das tabelas do modelo de dados relacional projetado para o projeto, incluindo suas chaves primárias (PK), chaves estrangeiras (FK) e como elas se conectam para responder às análises eleitorais e socioeconômicas.

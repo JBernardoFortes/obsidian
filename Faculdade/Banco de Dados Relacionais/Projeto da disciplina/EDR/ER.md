@@ -160,3 +160,6 @@ erDiagram
     DIM_PARTIDO ||--o{ FATO_COLIGACAO : "compõe agremiações"
 
 ```
+
+
+[[EDR - Projeto da disciplina]] [[ER.canvas]]
