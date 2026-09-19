@@ -1,3 +1,4 @@
+[[TSE]]
 
 Este dicionário descreve a estrutura dos dados contidos na tabela de consulta complementar de candidaturas (`CONSULTA_CAND_COMPLEMENTAR_<ANO>_<UF>`), conforme a documentação oficial do Tribunal Superior Eleitoral (TSE).
 
