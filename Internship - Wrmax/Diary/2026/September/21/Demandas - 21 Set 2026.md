@@ -18,12 +18,13 @@
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
 - [ ] ver se tem como fazer o Claude baixar videos no 
-- [ ] Fazer estaticos para a empresa G360
+- [x] Fazer estaticos para a empresa G360
 	- [x] 1
 	- [x] 2
 	- [x] 3
 	- [x] 4
 	- Elas foram entregues mas estou aguardando avaliacao da chefe sobre, vou pedir para ela avaliar depois de ter tudo feito
+	- Pedi avaliacao e ela disse que estava otimo
 - [ ] Fazer carrossel para a empresa G360
 	- [ ] 1
 	- [ ] 2
