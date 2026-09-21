@@ -28,7 +28,7 @@
 	- Pedi avaliacao e ela disse que estava otimo
 - [ ] Fazer carrossel para a empresa G360
 	- [x] 1
-	- [ ] 2
+	- [x] 2
 	- [ ] 3
 	- [ ] 4
 	- Ainda tenho que pedir para a chefe avaliar os carrosseis 
