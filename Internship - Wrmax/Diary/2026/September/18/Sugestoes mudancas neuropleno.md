@@ -43,7 +43,7 @@ Eu mexeria nessa ordem:
 
 - [x]  A estrutura que eu montaria seria, no fundo, esta: **autoridade → prova → escolha da especialidade → condições tratadas → médicos → procedimentos de alta complexidade → estrutura → mídia → como funciona → FAQ → CTA**. Hoje a página está mais próxima de **sintomas → catálogo → explicação → equipe**. Essa inversão muda a percepção da Neuropleno de clínica generalista para **centro de referência neurológica de alta complexidade**.
 
-- [ ] E tem uma chave aqui: **Neurorradiologia não deve ser só adicionada ao texto. Ela precisa mudar a narrativa do site.** É ela que permite comunicar que vocês não ficam apenas em consulta e cirurgia: existe diagnóstico vascular e tratamento endovascular dentro do ecossistema neurológico. No fundo, é isso que diferencia.
+- [x] E tem uma chave aqui: **Neurorradiologia não deve ser só adicionada ao texto. Ela precisa mudar a narrativa do site.** É ela que permite comunicar que vocês não ficam apenas em consulta e cirurgia: existe diagnóstico vascular e tratamento endovascular dentro do ecossistema neurológico. No fundo, é isso que diferencia.
 
 - [x] Se eu estivesse desenvolvendo essa landing, minha próxima versão começaria o hero assim:
 
