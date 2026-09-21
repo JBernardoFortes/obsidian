@@ -29,7 +29,7 @@
 - [ ] Fazer carrossel para a empresa G360
 	- [x] 1
 	- [x] 2
-	- [ ] 3
+	- [x] 3
 	- [ ] 4
 	- Ainda tenho que pedir para a chefe avaliar os carrosseis 
 - [ ] Fazer estatico Enf Regina

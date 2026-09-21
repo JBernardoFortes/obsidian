@@ -11,6 +11,18 @@ project: internship-wrmax
 	 Parece que vao fazer alguns ajustes na empresa, gostei da reuniao de hoje, teve cafe com deus pai e reza do pai nossso, fui pedido para se apresentar e falar uma palavra posistiva, foi interessante
 
 
+	 Aprendi a usar o $_ e o _ dos parametros no linux, da pra fazer um comando assim:
+
+```bash
+
+find /home/bernardo/downloads -type f -delete && mv /home/documents/file _ && cd $_
+
+```  
+
+	Onde o find vai deletar os arquivos, o mv vai mover os arquivos daquele diretorio para onde foi apagado e o cd vai mudar para o diretorio onde foi feito o mv
+
+
+
 As demandas de hoje:
 
 - [[Demandas - 21 Set 2026]]
