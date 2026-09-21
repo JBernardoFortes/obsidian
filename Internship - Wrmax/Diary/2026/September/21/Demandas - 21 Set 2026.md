@@ -6,7 +6,7 @@
 	 
 
 
-- [ ] Fazer as mudancas no site da neuropleno
+- [x] Fazer as mudancas no site da neuropleno
 	- [[Sugestoes mudancas neuropleno]]
 	- [x] 80%
 - [ ] Fazer o carrossel do Dr Romilto - Tadala ( Notion )
