@@ -66,12 +66,22 @@ Eu mexeria nessa ordem:
 - [ ] Tirar o nacional da hero page
 - [ ] Ajustar o altura do video
 - [ ] Alterar o texto abaixo do titulo, trocar porque est repetido
-- [ ] Alterar os anos de experiencia
 - [ ] Tirar Falar com nossa equipe
 - [ ] Alterar prova de autoridade
 	- Colocar a parte do cerebro com as principais doencas que eles tratam
 	- A chefe vai me mandar o link do design do Behance
 	- Neurologia, Neurocirurgia, neuroradiologia, Avaliacao clinica e acompanhamento.
-- [ ] 
+- [ ] Carrossel com os doutores, os 4 doutores
+	- [ ] 
+- [ ] "Sinais que precisa mde atencao neurologica" - retirar
+	- Por Sobre a clinica no lugar
+- [ ] O que tratamos -> substituir por slide e por o titulo exames consultas. Procedimentos e tratamentos ( site antigo )
+- [ ] Retirar as imagens do Doutor romito na sobre a conheca a nossa clinica, deixar so imagens da clinica
+- [ ] Retirar as fontes de informacao, as noticias
+- [ ] Como funciona - Retirar essa secao
+- [ ] Por que a neuropleno - retirar essa secao
+- [ ] Forma de pagamento - retirar
+- [ ] Melhorar as perguntas e respostas do FAQ
+- [ ] "Agende agora a sua avaliacao neurologica"
 
 #internship-wrmax 
