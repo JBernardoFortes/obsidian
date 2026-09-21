@@ -37,8 +37,9 @@
 - [ ] O Roberth me pediu para checar o Supabase da plataforma de acesso dos clientes
 	- Ele quer fazer um sistema que o cliente consegue fazer o upload de midia pela propria plataforma e que ela redireciona a midia que ele mandou para a pasta respectiva dele no drive.
 	- Interessante
-- [ ] Ele tambem me pediu para fazer uns criativos para o doutor Gabriel Baiao
-	- [ ] Dia 23 - Baixa Grande de Ribeiro
-	- [ ] Dia 24 - Urucui ( Com c cidilha )
-	- [ ] Dia 25 - Floriano
+- [x] Ele tambem me pediu para fazer uns criativos para o doutor Gabriel Baiao
+	- [x] Dia 23 - Baixa Grande de Ribeiro
+	- [x] Dia 24 - Urucui ( Com c cidilha )
+	- [x] Dia 25 - Floriano
 	- Vou desenrolar esses criativos e ai eu vou pro supabase
+	- Esqueci que os meses sao para setembro

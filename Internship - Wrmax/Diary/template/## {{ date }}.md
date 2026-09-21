@@ -11,4 +11,3 @@ project: internship-wrmax
 #internship-wrmax
 
 [[{{date:MMMM}}]]
-[[Internship - Wrmax Diary]] 

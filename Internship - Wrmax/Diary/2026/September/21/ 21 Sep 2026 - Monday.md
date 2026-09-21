@@ -31,4 +31,3 @@ As demandas de hoje:
 #internship-wrmax
 
 [[September]]
-[[Internship - Wrmax Diary]] 
