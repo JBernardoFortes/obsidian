@@ -24,7 +24,7 @@ find /home/bernardo/downloads -type f -delete && mv /home/documents/file _ && cd
 
 	 Me chamaram para uma reuniao para alinhar as coisa da neuropleno, vou anotar as mudancas que precisam ser feitas
 
-- 
+	 Eu listei as mudancas pedidas nas mudancas da neuropleno em demandas, vou fazer elas todas para dar o parecer para eles.
 
 
 As demandas de hoje:
