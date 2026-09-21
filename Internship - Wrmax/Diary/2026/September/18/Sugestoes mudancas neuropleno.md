@@ -80,14 +80,17 @@ Eu mexeria nessa ordem:
 - [ ] "Sinais que precisa mde atencao neurologica" - retirar
 	- Por Sobre a clinica no lugar
 - [ ] O que tratamos -> substituir por slide e por o titulo exames consultas. Procedimentos e tratamentos ( site antigo )
+	- Os carrosseis devem ficar automaticos
 - [ ] Retirar as imagens do Doutor romito na sobre a conheca a nossa clinica, deixar so imagens da clinica
 - [ ] Retirar as fontes de informacao, as noticias
-	- [ ] Deixar e deixar as fontes sem links
+	- Deixar e deixar as fontes sem links
 - [ ] Como funciona - Retirar essa secao
 - [ ] Por que a neuropleno - retirar essa secao
 - [ ] Forma de pagamento - retirar
 - [ ] Melhorar as perguntas e respostas do FAQ
-- [ ] "Agende agora a sua avaliacao neurologica"
+	- Vao me mandar os textos melhorados
+- [ ] "Agende agora a sua avaliacao neurologica" no lugar de "Nao deixe sua saude para depois"
 - [ ] No lugar de bastidores, puxar os posts do instagram mais recentes da clinica deles 
+	- https://www.instagram.com/neuroplenoclinica/
 
 #internship-wrmax  
