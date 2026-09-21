@@ -63,33 +63,33 @@ Eu mexeria nessa ordem:
 	- Estou achando muito verboso
 
 
-- [ ] Tirar o nacional da hero page, no titulo principal
-- [ ] Ajustar o altura do video, fazer ele ficar na mesma altura do agendar consulta mais ou menos, ficar alinhado com ele
-- [ ] Alterar o texto abaixo do titulo, trocar porque esta repetido
+- [x] Tirar o nacional da hero page, no titulo principal
+- [x] Ajustar o altura do video, fazer ele ficar na mesma altura do agendar consulta mais ou menos, ficar alinhado com ele
+- [x] Alterar o texto abaixo do titulo, trocar porque esta repetido
 	- "Referência em Neurologia, Neurocirurgia e Neurorradiologia em Teresina"
 	- Trocar por "Do diagnóstico ao tratamento clínico, cirúrgico e endovascular de condições neurológicas complexas, com equipe especializada e tecnologia de alta precisão."
-- [ ] Tirar Falar com nossa equipe, deixar apenas o botao de "Agendar consulta"
-- [ ] Alterar prova de autoridade
+- [x] Tirar Falar com nossa equipe, deixar apenas o botao de "Agendar consulta"
+- [x] Alterar prova de autoridade
 	- Colocar a parte do cerebro com as principais doencas que eles tratam
 	- A chefe vai me mandar o link do design do Behance
 	- [https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)
 	- Neurologia, Neurocirurgia, neuroradiologia, Avaliacao clinica e acompanhamento.
-- [ ] Carrossel com os doutores, os 4 doutores
+- [x] Carrossel com os doutores, os 4 doutores
 	- No estilo do link da behance que a chefe me mandou
 	- [https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)
-- [ ] "Sinais que precisa mde atencao neurologica" - retirar
+- [x] "Sinais que precisa mde atencao neurologica" - retirar
 	- Por Sobre a clinica no lugar
-- [ ] O que tratamos -> substituir por slide e por o titulo exames consultas. Procedimentos e tratamentos ( site antigo )
+- [x] O que tratamos -> substituir por slide e por o titulo exames consultas. Procedimentos e tratamentos ( site antigo )
 	- Os carrosseis devem ficar automaticos
-- [ ] Retirar as imagens do Doutor romito na sobre a conheca a nossa clinica, deixar so imagens da clinica
-- [ ] Retirar as fontes de informacao, as noticias
+- [x] Retirar as imagens do Doutor romito na sobre a conheca a nossa clinica, deixar so imagens da clinica
+- [x] Retirar as fontes de informacao, as noticias
 	- Deixar e deixar as fontes sem links
-- [ ] Como funciona - Retirar essa secao
-- [ ] Por que a neuropleno - retirar essa secao
-- [ ] Forma de pagamento - retirar
+- [x] Como funciona - Retirar essa secao
+- [x] Por que a neuropleno - retirar essa secao
+- [x] Forma de pagamento - retirar
 - [ ] Melhorar as perguntas e respostas do FAQ
 	- Vao me mandar os textos melhorados
-- [ ] "Agende agora a sua avaliacao neurologica" no lugar de "Nao deixe sua saude para depois"
+- [x] "Agende agora a sua avaliacao neurologica" no lugar de "Nao deixe sua saude para depois"
 - [ ] No lugar de bastidores, puxar os posts do instagram mais recentes da clinica deles 
 	- https://www.instagram.com/neuroplenoclinica/
 

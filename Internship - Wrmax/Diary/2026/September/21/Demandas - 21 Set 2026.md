@@ -34,7 +34,7 @@
 	- Ainda tenho que pedir para a chefe avaliar os carrosseis 
 - [ ] Fazer estatico Enf Regina
 	- Pode esperar, vou ver primeiro essa parte do supabase e dos criativos
-- [ ] O Roberth me pediu para checar o Supabase da plataforma de acesso dos clientes
+- [x] O Roberth me pediu para checar o Supabase da plataforma de acesso dos clientes
 	- Ele quer fazer um sistema que o cliente consegue fazer o upload de midia pela propria plataforma e que ela redireciona a midia que ele mandou para a pasta respectiva dele no drive.
 	- Interessante
 - [x] Ele tambem me pediu para fazer uns criativos para o doutor Gabriel Baiao
