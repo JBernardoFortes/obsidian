@@ -22,6 +22,8 @@ find /home/bernardo/downloads -type f -delete && mv /home/documents/file _ && cd
 	Onde o find vai deletar os arquivos, o mv vai mover os arquivos daquele diretorio para onde foi apagado e o cd vai mudar para o diretorio onde foi feito o mv
 
 
+	 Me chamaram para um 
+
 
 As demandas de hoje:
 
