@@ -3,6 +3,7 @@
 	 Essas a principio sao as demandas do dia 21 Set 2026.
 
 	 A principio nao foi me dado uma ordem de prioridade para executar as tarefas, vou comecar pelas que eu acho mais facil de serem feitas.
+	 
 
 
 - [ ] Fazer as mudancas no site da neuropleno
@@ -26,8 +27,9 @@
 	- Elas foram entregues mas estou aguardando avaliacao da chefe sobre, vou pedir para ela avaliar depois de ter tudo feito
 	- Pedi avaliacao e ela disse que estava otimo
 - [ ] Fazer carrossel para a empresa G360
-	- [ ] 1
+	- [x] 1
 	- [ ] 2
 	- [ ] 3
 	- [ ] 4
+	- Ainda tenho que pedir para a chefe avaliar os carrosseis 
 - [ ] Fazer estatico Enf Regina
