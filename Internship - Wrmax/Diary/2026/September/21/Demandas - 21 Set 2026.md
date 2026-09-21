@@ -18,7 +18,7 @@
 - [ ] Carrossel da APIPA ( Notion )
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
-- [ ] ver se tem como fazer o Claude baixar videos no 
+- [ ] ver se tem como fazer o Claude baixar videos no wpp
 - [x] Fazer estaticos para a empresa G360
 	- [x] 1
 	- [x] 2
@@ -26,10 +26,19 @@
 	- [x] 4
 	- Elas foram entregues mas estou aguardando avaliacao da chefe sobre, vou pedir para ela avaliar depois de ter tudo feito
 	- Pedi avaliacao e ela disse que estava otimo
-- [ ] Fazer carrossel para a empresa G360
+- [x] Fazer carrossel para a empresa G360
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] 4
+	- [x] 4
 	- Ainda tenho que pedir para a chefe avaliar os carrosseis 
 - [ ] Fazer estatico Enf Regina
+	- Pode esperar, vou ver primeiro essa parte do supabase e dos criativos
+- [ ] O Roberth me pediu para checar o Supabase da plataforma de acesso dos clientes
+	- Ele quer fazer um sistema que o cliente consegue fazer o upload de midia pela propria plataforma e que ela redireciona a midia que ele mandou para a pasta respectiva dele no drive.
+	- Interessante
+- [ ] Ele tambem me pediu para fazer uns criativos para o doutor Gabriel Baiao
+	- [ ] Dia 23 - Baixa Grande de Ribeiro
+	- [ ] Dia 24 - Urucui ( Com c cidilha )
+	- [ ] Dia 25 - Floriano
+	- Vou desenrolar esses criativos e ai eu vou pro supabase
