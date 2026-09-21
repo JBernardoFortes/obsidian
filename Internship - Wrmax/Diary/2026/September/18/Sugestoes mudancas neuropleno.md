@@ -63,4 +63,15 @@ Eu mexeria nessa ordem:
 	- Estou achando muito verboso
 
 
+- [ ] Tirar o nacional da hero page
+- [ ] Ajustar o altura do video
+- [ ] Alterar o texto abaixo do titulo, trocar porque est repetido
+- [ ] Alterar os anos de experiencia
+- [ ] Tirar Falar com nossa equipe
+- [ ] Alterar prova de autoridade
+	- Colocar a parte do cerebro com as principais doencas que eles tratam
+	- A chefe vai me mandar o link do design do Behance
+	- Neurologia, Neurocirurgia, neuroradiologia, Avaliacao clinica e acompanhamento.
+- [ ] 
+
 #internship-wrmax 
