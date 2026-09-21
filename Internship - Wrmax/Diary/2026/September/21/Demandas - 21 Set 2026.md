@@ -1,4 +1,4 @@
-[[ 21 Sep 2026 - Monday]]
+
 
 	 Essas a principio sao as demandas do dia 21 Set 2026.
 
