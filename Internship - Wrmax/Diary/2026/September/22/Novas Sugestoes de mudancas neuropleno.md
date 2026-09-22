@@ -11,72 +11,65 @@ INSPIRAÇÃO 2 [https://meuneuro.com.br/](https://meuneuro.com.br/)
 
 INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)[https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects|neurologia+site&l=17](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)
 
-Alterações por Roberth 21/09/2026
+- [ ] Alterações por Roberth 21/09/2026
+	- [ ] mudar texto para :  
+		- Cuidado neurológico completo em um só lugar: do diagnóstico preciso ao tratamento clínico, cirúrgico e endovascular, com equipe especializada e tecnologia de ponta.
+	- [ ] colocar : Teresina-PI
+	- [ ] aqui coloque esse texto:
+		### Neurologia
+		
+		**Entenda o que está acontecendo com seu corpo e volte a viver com mais segurança.**
+		
+		Investigação e tratamento de dores de cabeça, enxaqueca, Parkinson, Alzheimer, epilepsia, AVC e outros sintomas neurológicos, com avaliação individualizada e acompanhamento especializado.
 
-mudar texto para :  
-Cuidado neurológico completo em um só lugar: do diagnóstico preciso ao tratamento clínico, cirúrgico e endovascular, com equipe especializada e tecnologia de ponta.
 
-colocar : Teresina-PI
+### Alteracoes no grid do cerebro
 
-aqui coloque esse texto:
+- [ ] Alterar a parte de neurocirurgia e por
+	 ### Neurocirurgia
+	
+	 **Quando a cirurgia é necessária, precisão e experiência fazem diferença.**
+	
+	 Tratamento especializado de tumores cerebrais, doenças da coluna, compressões nervosas e outras condições neurocirúrgicas, sempre buscando a melhor estratégia para cada paciente.
 
-### Neurologia
+- [ ] Alterar a parte de nrurorradiologia e por
+	 ### Neurorradiologia
+	
+	 **Tratamentos modernos por cateter, com alta precisão e menor invasividade.**
+	
+	 Abordagem de aneurismas cerebrais, doenças vasculares, angioplastia de carótida, angiografia e outros procedimentos realizados pelos vasos sanguíneos.
 
-**Entenda o que está acontecendo com seu corpo e volte a viver com mais segurança.**
 
-Investigação e tratamento de dores de cabeça, enxaqueca, Parkinson, Alzheimer, epilepsia, AVC e outros sintomas neurológicos, com avaliação individualizada e acompanhamento especializado.
-
-### Neurocirurgia
-
-**Quando a cirurgia é necessária, precisão e experiência fazem diferença.**
-
-Tratamento especializado de tumores cerebrais, doenças da coluna, compressões nervosas e outras condições neurocirúrgicas, sempre buscando a melhor estratégia para cada paciente.
-
-### Neurorradiologia
-
-**Tratamentos modernos por cateter, com alta precisão e menor invasividade.**
-
-Abordagem de aneurismas cerebrais, doenças vasculares, angioplastia de carótida, angiografia e outros procedimentos realizados pelos vasos sanguíneos.
-
-### Avaliação clínica e acompanhamento
-
-**Não conviva com sintomas sem entender a causa.**
-
-Uma consulta humanizada e detalhada para investigar seus sintomas, definir o diagnóstico e construir o tratamento mais adequado para você, com acompanhamento em cada etapa.
-
----
-
-LOCALIZAÇÃO E CONTATO
-
-Segunda à quinta, das 08h às 19h
-
-Sexta das 08h às 17h
-
-Agende: (86) 98851-9192
-
-R. Gov. Joca Pires, 2020 — Ininga - Centro Médico San Vitta, Teresina/PI .
-
-FOTOS DA CLINICA [https://drive.google.com/drive/folders/1mPMf5S3RSJ3pIUuN26GJCWAdXMXWvSlx?usp=sharing](https://drive.google.com/drive/folders/1mPMf5S3RSJ3pIUuN26GJCWAdXMXWvSlx?usp=sharing)
-
-![image.png](attachment:ceb77753-a996-46b9-88a7-4aa48312cba0:image.png)
+- [ ] Alterar a parte de Avaliacao clinica e acompanhamento e por
+	 ### Avaliação clínica e acompanhamento
+	
+	
+	 **Não conviva com sintomas sem entender a causa.**
+	
+	 Uma consulta humanizada e detalhada para investigar seus sintomas, definir o diagnóstico e construir o tratamento mais adequado para você, com acompanhamento em cada etapa.
 
 ---
 
-- **Depoimentos reais e comprovados**
-
-### **~~O que dizem os pacientes (extraído do [Google Maps](https://www.google.com/maps/place/Dr+Marcelo+Lamberti+-+Instituto+do+C%C3%A9rebro,+Coluna+e+Dor+de+Itumbiara/@-18.4223847,-49.2242916,17z/data=!3m1!4b1!4m6!3m5!1s0x94a10d6a224bd09f:0xccf69e6ae14cc29b!8m2!3d-18.4223847!4d-49.2217167!16s%2Fg%2F11rzq3rl_y?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D))~~**
-
-![image.png](attachment:ba289875-fe89-46f9-bd5f-9798184e28d9:image.png)
-
-cerebro 4 - [](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)[https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects|neurologia+site&l=19](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)
+- [ ] Alterar a parte de localizacao e contato e por
+	LOCALIZAÇÃO E CONTATO
+	
+	Segunda à quinta, das 08h às 19h
+	
+	Sexta das 08h às 17h
+	
+	Agende: (86) 98851-9192
+	
+	R. Gov. Joca Pires, 2020 — Ininga - Centro Médico San Vitta, Teresina/PI .
+	
+	FOTOS DA CLINICA [https://drive.google.com/drive/folders/1mPMf5S3RSJ3pIUuN26GJCWAdXMXWvSlx?usp=sharing](https://drive.google.com/drive/folders/1mPMf5S3RSJ3pIUuN26GJCWAdXMXWvSlx?usp=sharing)
 
 ---
 
-Na aba de conheça nossos especialistas
 
-![image.png](attachment:8d11d4ff-5098-4179-b1fa-98e4c8c4abeb:image.png)
+## Na aba de conheça nossos especialistas
 
-Sim. Para essa proposta visual, eu deixaria cada card com **nome + especialidade + 4 informações curtas de autoridade/atuação + CTA**, sem transformar a peça em uma lista enorme de doenças.
+- [ ] Alterar o card dos especialistas:
+	PropostPara essa proposta visual, eu deixaria cada card com **nome + especialidade + 4 informações curtas de autoridade/atuação + CTA**, sem transformar a peça em uma lista enorme de doenças.
 
 ### Dr. Davi Said Araújo
 
