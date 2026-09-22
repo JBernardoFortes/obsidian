@@ -1,4 +1,3 @@
-[[Assuntos]]
 
 
 A tecnologia TRIM representa um dos comandos de integracao mais fundamentais entre o sistema operacional e os dispositivos de armazenamento de estado solido (Solid-State Drives - SSDs). sua criacao foi indispensavel para contornar as limitacoes fisicas das memorias Flash NAND e evitar a degradacao drastica de desempenho e da vida util dessas unidades ao longo do tempo
@@ -71,3 +70,6 @@ O comando TRIM eh uma solucao de engenharia de software e hardware indispensavel
 ## Importante:
 
 **O TRIM nao apaga o arquivo imediatamente na hora do delete, mas sim avisa ao controlador quais blocos estao invalidos para que a coleta de lixo os limpe nos momentos de ociosidade ( idle ) do sistema.
+
+- [[Questao 17 - 2025]]
+- [[Assuntos]]
