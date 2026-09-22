@@ -19,3 +19,4 @@
 	- Fiz mas preciso tirar umas duvidas sobre qual fazer
 		- Fazer de ribeirao tambem ?
 		- Tirar o estatico dos outros conjuntos de anuncios?
+- [ ] Foi pedido para mudar a data de anuncio tambem
