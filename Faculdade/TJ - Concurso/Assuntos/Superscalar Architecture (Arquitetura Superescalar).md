@@ -29,7 +29,22 @@ O processamento de multiplo despacho divide-se em duas abordagens principais:
 
 O maior obstaculo para manter as unidades funcionais ocupadas sao os conflitos gerados pelo fluxo do codigo, dividios em tres categorias de dependencias de dados.
 
-1. **Dependencia Verdadeira de Dados ( RAW - Read-After-Write )**: Ocorre quando uma instrucao posterior precisa ler um operando produzido por uma instrucao anterior. Essa dependencia reflete o fluxo real de 
+1. **Dependencia Verdadeira de Dados ( RAW - Read-After-Write )**: Ocorre quando uma instrucao posterior precisa ler um operando produzido por uma instrucao anterior. Essa dependencia reflete o fluxo real de dados do programa e nao pode ser eliminada por renomeacao de hardware, exigindo congelamento ( Stalls ) ou barramentos de encaminhamento rapido ( Common Data Bus ).
+2. **Antidependencia ( WAR - Write-After-Read )**: Ocorre quando uma instrucao posterior tenta escrever em um registrador antes que uma instrucao anterior tenha concluido a leitura do seu valor antigo
+3. **Dependencia de Saida ( WAW - Write-After-Write )**: Surge quando duas instrucoes tentam escrever no mesmo registrador de destino, correndo o risco de sobrescrever a ordem correta do valor final.
+
+As dependencias WAR e WAW sao conhecidas como **Falsas dependencias ( Dependencias de nome)**, pois derivam do numero limitado de registradores logicos disponivesi na arquitetura de conjunto de instrucoes ( ISA ).
+
+---
+
+## 4. Mecanismos avancados de Hardware
+
+
+Para superar as dependencias e evitar paradas no pipelina, os processadores superescalares empregam um conjunto de tecnicas coordenadas em hardware:
+
+- **Renomeacao de Registradores( Register Renaming )**: Mapeia dinamicamente os registradores logicos do programa em uma quantidade maior de registradores fisicos temporarios do chip ( Como nas estacoes de reserva e no Reorder Buffer ). isso elimina totalmente as falsas dependencias WAR e WAW.
+- **Execucao Fora de Ordem ( Out-of-Order Execution - OoOE )**: Permite que instrucoes independentes que se encontram mais a frente no codigo sejam enviadas as unidades funcionais e executadas enquanto instrucoes anteriore
+
 
 
 
