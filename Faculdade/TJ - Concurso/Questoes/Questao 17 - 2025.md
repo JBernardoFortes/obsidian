@@ -8,3 +8,6 @@ b) ECC (Error Correction Code)
 c) TRIM  
 d) Defragmentação  
 e) Wear Leveling
+
+Gabarito : C) TRIM
+[[TRIM]]
