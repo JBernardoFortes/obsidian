@@ -15,6 +15,8 @@ DIferente do superpipeline - que busca aumentar a frequencia de opereacao subdiv
 
 ## 2. O Pilar do Paralelismo em Nivel de Instrucao (ILP)
 
+A sustentacao do desempenho superescalar depende diretamente do Paralelismo em Nivel de Instrucao ( ILP ), que mede a quantidade de instrucoes em u
+
 
 
 
