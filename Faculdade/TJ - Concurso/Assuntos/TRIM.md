@@ -54,4 +54,8 @@ Para que o TRIM funcione corretamente, o suporte deve estar ativo em tres camada
 
 - **Firmware do SSD**: Suporte ao comando ATA8-ACS2 em unidades SATA ou ao comando Dataset Management / Deallocate em SSDs NVMe.
 - **Sistema Operacional**: Suporte nativo presente nas versoes modernas do Windows ( Windows 7 ou superior ) , Linux ( kernel 2.6.28+ ) e macOS.
-- **Driver de armazenamento**:
+- **Driver de armazenamento**: Modos de controladora configurados em AHCI para SSDs SATA ( o modo IDE desativa o TRIM ) ou drivers nativos NVMe.
+
+Impacto na computacao forense
+
+Uma limicatacao/consequencia crucial do TRIM atinge a area de Pericia Digital e Computacao Forense. Em HDDs trdicionais 
