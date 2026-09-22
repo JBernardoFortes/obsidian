@@ -44,3 +44,4 @@ O processo ocorre da seguinte forma:
 - **Coleta de Lixo Otimizada**: Quando o computador entra em estado de ociosidade (idle time), a rotina interna de Coleta de Lixo limpa os blocos que contem apenas paginas marcadas como invalidas pelo TRIM.
 - **Disponibilizacao de Blocos Limpos**: Como a Coleta de Lixo nao precisa copiar paginas invalidas para outros lugares, os blocos sao zerados com eficiencia e ficam prontos para receber novas gravacoes diretamente.
 
+Dessa forma, a taxa de amplificacao de escrita eh mantida em niveis ideais ( proximos a 1
