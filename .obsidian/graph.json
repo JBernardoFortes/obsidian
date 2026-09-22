@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 16507985
       }
+    },
+    {
+      "query": "path:\"Faculdade/TJ - Concurso\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6760347
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.9327659279013613,
-  "close": true
+  "scale": 0.15724827887446496,
+  "close": false
 }
