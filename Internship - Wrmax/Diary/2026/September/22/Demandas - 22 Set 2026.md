@@ -22,9 +22,9 @@
 		- Tirar o estatico dos outros conjuntos de anuncios?
 - [x] Foi pedido para mudar a data de anuncio tambem
 - [x] Fazer estatico da enfermeira regina
-- [ ] Tem algumas demandas do google meu negocio para mudar algumas coisas
-	- [ ] Oxcentro centro
-		- E-mail marketing@renovedigital.com.br
-		- Login: institutomedicoox@gmail.com
-		- Senha: Oxcentrol811
-	- [ ] Neuropleno
+- [x] Tem algumas demandas do google meu negocio para mudar algumas coisas
+	- [x] Oxcentro centro
+		- As senhas e as credenciais nao esta batendo, nao pra fazer esse da oxcentro por enquanto
+	- [x] Neuropleno
+		- Tem autenticacao de dois fatores, nao tem como fazer a principio
+	
