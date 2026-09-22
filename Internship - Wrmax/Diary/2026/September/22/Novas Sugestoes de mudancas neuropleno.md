@@ -14,17 +14,21 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 - [ ]  Alterações por Roberth 21/09/2026
 	- [ ] mudar texto para :  
 		- Cuidado neurológico completo em um só lugar: do diagnóstico preciso ao tratamento clínico, cirúrgico e endovascular, com equipe especializada e tecnologia de ponta.
-	- [ ] colocar : Teresina-PI
-	- [ ] aqui coloque esse texto:
-		### Neurologia
-		
-		**Entenda o que está acontecendo com seu corpo e volte a viver com mais segurança.**
-		
-		Investigação e tratamento de dores de cabeça, enxaqueca, Parkinson, Alzheimer, epilepsia, AVC e outros sintomas neurológicos, com avaliação individualizada e acompanhamento especializado.
+		- Duvida sobre o que tem que tirar e o que tem que virar titulo
+			- "Cuidado neurologico completo em um so lugar:" tem que virar titulo?
+			- Peguntar pra Keylianne
+			- Eh isso mesmo, esse trecho eh titulo, estava no Notion
+	- [x] colocar : Teresina-PI
 
 
 ### Alteracoes no grid do cerebro
 
+- [ ] Alterar a parte de neurologia e por
+	 ### Neurologia
+	
+	 **Entenda o que está acontecendo com seu corpo e volte a viver com mais segurança.**
+	
+	 Investigação e tratamento de dores de cabeça, enxaqueca, Parkinson, Alzheimer, epilepsia, AVC e outros sintomas neurológicos, com avaliação individualizada e acompanhamento especializado.
 - [ ] Alterar a parte de neurocirurgia e por
 	 ### Neurocirurgia
 	
