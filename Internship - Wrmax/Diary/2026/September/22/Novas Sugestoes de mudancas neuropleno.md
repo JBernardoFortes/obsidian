@@ -54,7 +54,7 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 
 ---
 
-- [ ] Alterar a parte de localizacao e contato e por
+- [x] Alterar a parte de localizacao e contato e por
 	LOCALIZAÇÃO E CONTATO
 	
 	Segunda à quinta, das 08h às 19h
@@ -72,80 +72,80 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 
 ## Na aba de conheça nossos especialistas
 
-- [ ] Alterar o card dos especialistas:
+- [x] Alterar o card dos especialistas:
 	Proposta: _Para essa proposta visual, eu deixaria cada card com **nome + especialidade + 4 informações curtas de autoridade/atuação + CTA**, sem transformar a peça em uma lista enorme de doenças._
 
-- [ ] Dr. Davi Said Araujo
-	 ### Dr. Davi Said Araújo
+	- [x] Dr. Davi Said Araujo
+		 ### Dr. Davi Said Araújo
+		
+		 **Neurologista | CRM-PI 4898 | RQE 3230**
+		
+		 Neurologista com atuação em doenças cerebrovasculares e condições neurológicas
+		
+		 Diagnóstico e acompanhamento de AVC e outras doenças neurológicas
+		
+		 Atuação em cefaleias, enxaqueca, Alzheimer, Parkinson e epilepsia
+		
+		 Também acompanha neuropatias, miastenia e distúrbios do sono
+		
+		 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 	
-	 **Neurologista | CRM-PI 4898 | RQE 3230**
 	
-	 Neurologista com atuação em doenças cerebrovasculares e condições neurológicas
+	- [x] Dr.Marconi Cosme Soares de Oliveira Filho
+		 ### Dr. Marconi Cosme Soares de Oliveira Filho
+		
+		 **Neurologista e Neurofisiologista Clínico | CRM-PI 5303 | RQE 3558 / 3791**
+		
+		 Especialista em Neurologia e Neurofisiologia Clínica
+		
+		 Atuação com foco em doenças neuromusculares e neuropatias
+		
+		 Realiza eletroneuromiografia e punção lombar
+		
+		 Investiga formigamentos, fraqueza, túnel do carpo, radiculopatias e outras alterações neurológicas
+		
+		 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 	
-	 Diagnóstico e acompanhamento de AVC e outras doenças neurológicas
 	
-	 Atuação em cefaleias, enxaqueca, Alzheimer, Parkinson e epilepsia
+	- [x] Dr. Frederico Maia Prado
+		
+		 ### Dr. Frederico Maia Prado
+		
+		 **Neurologista e Neurofisiologista Clínico | CRM-PI 4096 | RQE 3578**
+		
+		 Neurologista e Neurofisiologista Clínico pela Universidade Federal Fluminense – UFF
+		
+		 Mestre em Neurologia com ênfase em doenças neuromusculares pela UFF
+		
+		 Doutorando pela UFPI e Professor de Medicina na UNICET
+		
+		 Realiza consultas, eletroneuromiografia e bloqueios de nervos periféricos
+		
+		 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 	
-	 Também acompanha neuropatias, miastenia e distúrbios do sono
 	
-	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
+	- [x] Dr. Romilto Pacheco
+		 ### Dr. Romilto Pacheco
+		
+		 **Neurocirurgião e Neurorradiologista Intervencionista | CRM-PI 5160 | RQE 4472 / 5512**
+		
+		 Neurocirurgião formado pelo HCFMRP-USP
+		
+		 Especialização em Radiologia e Neurorradiologia Intervencionista pelo HCFMRP-USP
+		
+		 Mestre em Ciências das Imagens e Preceptor da Neurocirurgia do HGV
+		
+		 Doutorando em Neurologia e Neurociências -USP
+		
+		 Atuação em AVC, aneurismas, tumores, doenças da coluna e tratamentos por cirurgia ou cateter
+		
+		 **BOTÃO:** QUERO AGENDAR MINHA AVALIAÇÃO
 
-
-- [ ] Dr.Marconi Cosme Soares de Oliveira Filho
-	 ### Dr. Marconi Cosme Soares de Oliveira Filho
-	
-	 **Neurologista e Neurofisiologista Clínico | CRM-PI 5303 | RQE 3558 / 3791**
-	
-	 Especialista em Neurologia e Neurofisiologia Clínica
-	
-	 Atuação com foco em doenças neuromusculares e neuropatias
-	
-	 Realiza eletroneuromiografia e punção lombar
-	
-	 Investiga formigamentos, fraqueza, túnel do carpo, radiculopatias e outras alterações neurológicas
-	
-	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
-
-
-- [ ] Dr. Frederico Maia Prado
-	
-	 ### Dr. Frederico Maia Prado
-	
-	 **Neurologista e Neurofisiologista Clínico | CRM-PI 4096 | RQE 3578**
-	
-	 Neurologista e Neurofisiologista Clínico pela Universidade Federal Fluminense – UFF
-	
-	 Mestre em Neurologia com ênfase em doenças neuromusculares pela UFF
-	
-	 Doutorando pela UFPI e Professor de Medicina na UNICET
-	
-	 Realiza consultas, eletroneuromiografia e bloqueios de nervos periféricos
-	
-	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
-
-
-- [ ] Dr. Romilto Pacheco
-	 ### Dr. Romilto Pacheco
-	
-	 **Neurocirurgião e Neurorradiologista Intervencionista | CRM-PI 5160 | RQE 4472 / 5512**
-	
-	 Neurocirurgião formado pelo HCFMRP-USP
-	
-	 Especialização em Radiologia e Neurorradiologia Intervencionista pelo HCFMRP-USP
-	
-	 Mestre em Ciências das Imagens e Preceptor da Neurocirurgia do HGV
-	
-	 Doutorando em Neurologia e Neurociências -USP
-	
-	 Atuação em AVC, aneurismas, tumores, doenças da coluna e tratamentos por cirurgia ou cateter
-	
-	 **BOTÃO:** QUERO AGENDAR MINHA AVALIAÇÃO
-
-Para essa arte, **eu evitaria colocar todas as doenças no card**. O que gera mais desejo aqui é combinar **autoridade + especialidade + o que ele resolve**. A lista completa de patologias pode aparecer quando a pessoa clicar em “Saiba mais” ou na página individual de cada médico.
+"Para essa arte, **eu evitaria colocar todas as doenças no card**. O que gera mais desejo aqui é combinar **autoridade + especialidade + o que ele resolve**. A lista completa de patologias pode aparecer quando a pessoa clicar em “Saiba mais” ou na página individual de cada médico."
 
 ---
 
-- [ ] Ajustar a aba de perguntas frequentes	
+- [x] Ajustar a aba de perguntas frequentes	
 	1. **Quais especialidades são atendidas na Neuropleno?**
 	    
 	    A clínica conta com atendimento em Neurologia, Neurocirurgia e Neurorradiologia, com profissionais especializados em diferentes áreas da saúde neurológica.
