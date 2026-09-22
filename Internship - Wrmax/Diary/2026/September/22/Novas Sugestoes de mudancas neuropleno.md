@@ -11,7 +11,7 @@ INSPIRAÇÃO 2 [https://meuneuro.com.br/](https://meuneuro.com.br/)
 
 INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)[https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects|neurologia+site&l=17](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)
 
-- [ ] Alterações por Roberth 21/09/2026
+- [ ]  Alterações por Roberth 21/09/2026
 	- [ ] mudar texto para :  
 		- Cuidado neurológico completo em um só lugar: do diagnóstico preciso ao tratamento clínico, cirúrgico e endovascular, com equipe especializada e tecnologia de ponta.
 	- [ ] colocar : Teresina-PI
@@ -69,106 +69,104 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 ## Na aba de conheça nossos especialistas
 
 - [ ] Alterar o card dos especialistas:
-	PropostPara essa proposta visual, eu deixaria cada card com **nome + especialidade + 4 informações curtas de autoridade/atuação + CTA**, sem transformar a peça em uma lista enorme de doenças.
+	Proposta: _Para essa proposta visual, eu deixaria cada card com **nome + especialidade + 4 informações curtas de autoridade/atuação + CTA**, sem transformar a peça em uma lista enorme de doenças._
 
-### Dr. Davi Said Araújo
+- [ ] Dr. Davi Said Araujo
+	 ### Dr. Davi Said Araújo
+	
+	 **Neurologista | CRM-PI 4898 | RQE 3230**
+	
+	 Neurologista com atuação em doenças cerebrovasculares e condições neurológicas
+	
+	 Diagnóstico e acompanhamento de AVC e outras doenças neurológicas
+	
+	 Atuação em cefaleias, enxaqueca, Alzheimer, Parkinson e epilepsia
+	
+	 Também acompanha neuropatias, miastenia e distúrbios do sono
+	
+	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 
-**Neurologista | CRM-PI 4898 | RQE 3230**
 
-Neurologista com atuação em doenças cerebrovasculares e condições neurológicas
+- [ ] Dr.Marconi Cosme Soares de Oliveira Filho
+	 ### Dr. Marconi Cosme Soares de Oliveira Filho
+	
+	 **Neurologista e Neurofisiologista Clínico | CRM-PI 5303 | RQE 3558 / 3791**
+	
+	 Especialista em Neurologia e Neurofisiologia Clínica
+	
+	 Atuação com foco em doenças neuromusculares e neuropatias
+	
+	 Realiza eletroneuromiografia e punção lombar
+	
+	 Investiga formigamentos, fraqueza, túnel do carpo, radiculopatias e outras alterações neurológicas
+	
+	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 
-Diagnóstico e acompanhamento de AVC e outras doenças neurológicas
 
-Atuação em cefaleias, enxaqueca, Alzheimer, Parkinson e epilepsia
+- [ ] Dr. Frederico Maia Prado
+	
+	 ### Dr. Frederico Maia Prado
+	
+	 **Neurologista e Neurofisiologista Clínico | CRM-PI 4096 | RQE 3578**
+	
+	 Neurologista e Neurofisiologista Clínico pela Universidade Federal Fluminense – UFF
+	
+	 Mestre em Neurologia com ênfase em doenças neuromusculares pela UFF
+	
+	 Doutorando pela UFPI e Professor de Medicina na UNICET
+	
+	 Realiza consultas, eletroneuromiografia e bloqueios de nervos periféricos
+	
+	 **BOTÃO:** QUERO AGENDAR MINHA CONSULTA
 
-Também acompanha neuropatias, miastenia e distúrbios do sono
 
-**BOTÃO:** QUERO AGENDAR MINHA CONSULTA
-
----
-
-### Dr. Marconi Cosme Soares de Oliveira Filho
-
-**Neurologista e Neurofisiologista Clínico | CRM-PI 5303 | RQE 3558 / 3791**
-
-Especialista em Neurologia e Neurofisiologia Clínica
-
-Atuação com foco em doenças neuromusculares e neuropatias
-
-Realiza eletroneuromiografia e punção lombar
-
-Investiga formigamentos, fraqueza, túnel do carpo, radiculopatias e outras alterações neurológicas
-
-**BOTÃO:** QUERO AGENDAR MINHA CONSULTA
-
----
-
-### Dr. Frederico Maia Prado
-
-**Neurologista e Neurofisiologista Clínico | CRM-PI 4096 | RQE 3578**
-
-Neurologista e Neurofisiologista Clínico pela Universidade Federal Fluminense – UFF
-
-Mestre em Neurologia com ênfase em doenças neuromusculares pela UFF
-
-Doutorando pela UFPI e Professor de Medicina na UNICET
-
-Realiza consultas, eletroneuromiografia e bloqueios de nervos periféricos
-
-**BOTÃO:** QUERO AGENDAR MINHA CONSULTA
-
----
-
-### Dr. Romilto Pacheco
-
-**Neurocirurgião e Neurorradiologista Intervencionista | CRM-PI 5160 | RQE 4472 / 5512**
-
-Neurocirurgião formado pelo HCFMRP-USP
-
-Especialização em Radiologia e Neurorradiologia Intervencionista pelo HCFMRP-USP
-
-Mestre em Ciências das Imagens e Preceptor da Neurocirurgia do HGV
-
-Doutorando em Neurologia e Neurociências -USP
-
-Atuação em AVC, aneurismas, tumores, doenças da coluna e tratamentos por cirurgia ou cateter
-
-**BOTÃO:** QUERO AGENDAR MINHA AVALIAÇÃO
+- [ ] Dr. Romilto Pacheco
+	 ### Dr. Romilto Pacheco
+	
+	 **Neurocirurgião e Neurorradiologista Intervencionista | CRM-PI 5160 | RQE 4472 / 5512**
+	
+	 Neurocirurgião formado pelo HCFMRP-USP
+	
+	 Especialização em Radiologia e Neurorradiologia Intervencionista pelo HCFMRP-USP
+	
+	 Mestre em Ciências das Imagens e Preceptor da Neurocirurgia do HGV
+	
+	 Doutorando em Neurologia e Neurociências -USP
+	
+	 Atuação em AVC, aneurismas, tumores, doenças da coluna e tratamentos por cirurgia ou cateter
+	
+	 **BOTÃO:** QUERO AGENDAR MINHA AVALIAÇÃO
 
 Para essa arte, **eu evitaria colocar todas as doenças no card**. O que gera mais desejo aqui é combinar **autoridade + especialidade + o que ele resolve**. A lista completa de patologias pode aparecer quando a pessoa clicar em “Saiba mais” ou na página individual de cada médico.
 
 ---
 
-ABA DE PERGUNTAS FREQUENTES
+- [ ] Ajustar a aba de perguntas frequentes	
+	1. **Quais especialidades são atendidas na Neuropleno?**
+	    
+	    A clínica conta com atendimento em Neurologia, Neurocirurgia e Neurorradiologia, com profissionais especializados em diferentes áreas da saúde neurológica.
+	    
+	2. **Quais exames e procedimentos são realizados na clínica?**
+	    
+	    A Neuropleno realiza exames e procedimentos como eletroneuromiografia, punção lombar e bloqueios de nervos periféricos, conforme indicação médica.
+	    
+	1. **Quais sintomas indicam que devo procurar um neurologista?**
+	    
+	    Dores de cabeça frequentes, formigamentos, perda de força, tremores, alterações de memória, crises convulsivas, tonturas e outros sintomas neurológicos merecem avaliação especializada.
+	    
+	2. **Quanto tempo dura a consulta?**
+	    
+	    O tempo pode variar conforme cada caso, pois a consulta é direcionada à avaliação cuidadosa dos sintomas, histórico clínico e exames do paciente.
+	    
+	3. **Como funciona o retorno após a consulta?**
+	    
+	    O retorno segue as orientações e o prazo estabelecidos pelo médico de acordo com a necessidade de cada paciente.
+	    
+	4. **Como faço para agendar uma consulta ou exame?**
+	    
+	    O agendamento pode ser realizado pelo WhatsApp da clínica. A equipe orienta sobre o profissional mais adequado, horários disponíveis e documentos necessários.
 
-1. **Quais especialidades são atendidas na Neuropleno?**
-    
-    A clínica conta com atendimento em Neurologia, Neurocirurgia e Neurorradiologia, com profissionais especializados em diferentes áreas da saúde neurológica.
-    
-2. **Quais exames e procedimentos são realizados na clínica?**
-    
-    A Neuropleno realiza exames e procedimentos como eletroneuromiografia, punção lombar e bloqueios de nervos periféricos, conforme indicação médica.
-    
-3. **Quais sintomas indicam que devo procurar um neurologista?**
-    
-    Dores de cabeça frequentes, formigamentos, perda de força, tremores, alterações de memória, crises convulsivas, tonturas e outros sintomas neurológicos merecem avaliação especializada.
-    
-4. **Quanto tempo dura a consulta?**
-    
-    O tempo pode variar conforme cada caso, pois a consulta é direcionada à avaliação cuidadosa dos sintomas, histórico clínico e exames do paciente.
-    
-5. **Como funciona o retorno após a consulta?**
-    
-    O retorno segue as orientações e o prazo estabelecidos pelo médico de acordo com a necessidade de cada paciente.
-    
-6. **Como faço para agendar uma consulta ou exame?**
-    
-    O agendamento pode ser realizado pelo WhatsApp da clínica. A equipe orienta sobre o profissional mais adequado, horários disponíveis e documentos necessários.
-    
-    ---
-    
-    FOTOS DAS PATOLOGIAS
-    
+- [ ] Alterar as fotos das patologias
     AVC [https://drive.google.com/file/d/1EtSQqAU2FVSJzdo4aKBgp1YI8iEv-HQ1/view?usp=sharing](https://drive.google.com/file/d/1EtSQqAU2FVSJzdo4aKBgp1YI8iEv-HQ1/view?usp=sharing)
     
     aneurisma cerebral
@@ -188,8 +186,6 @@ ABA DE PERGUNTAS FREQUENTES
     fIBROMIALGIA [https://drive.google.com/drive/folders/18_cr4NoJj6dlxNgwSvxNypSo8dEFl_Tt?usp=drive_link](https://drive.google.com/drive/folders/18_cr4NoJj6dlxNgwSvxNypSo8dEFl_Tt?usp=drive_link)
     
     neuropatias/doenças da coluna: [https://www.instagram.com/p/Dc1xeuyhPRH/](https://www.instagram.com/p/Dc1xeuyhPRH/)
-    
-    ---
     
     FOTOS EXAMES [https://drive.google.com/drive/folders/1NPEK9MP0UkwGggafZV9-D9XYWRxEykMb?usp=drive_link](https://drive.google.com/drive/folders/1NPEK9MP0UkwGggafZV9-D9XYWRxEykMb?usp=drive_link)
     
