@@ -23,20 +23,20 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 
 ### Alteracoes no grid do cerebro
 
-- [ ] Alterar a parte de neurologia e por
+- [x] Alterar a parte de neurologia e por
 	 ### Neurologia
 	
 	 **Entenda o que está acontecendo com seu corpo e volte a viver com mais segurança.**
 	
 	 Investigação e tratamento de dores de cabeça, enxaqueca, Parkinson, Alzheimer, epilepsia, AVC e outros sintomas neurológicos, com avaliação individualizada e acompanhamento especializado.
-- [ ] Alterar a parte de neurocirurgia e por
+- [x] Alterar a parte de neurocirurgia e por
 	 ### Neurocirurgia
 	
 	 **Quando a cirurgia é necessária, precisão e experiência fazem diferença.**
 	
 	 Tratamento especializado de tumores cerebrais, doenças da coluna, compressões nervosas e outras condições neurocirúrgicas, sempre buscando a melhor estratégia para cada paciente.
 
-- [ ] Alterar a parte de nrurorradiologia e por
+- [x] Alterar a parte de nrurorradiologia e por
 	 ### Neurorradiologia
 	
 	 **Tratamentos modernos por cateter, com alta precisão e menor invasividade.**
@@ -44,7 +44,7 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 	 Abordagem de aneurismas cerebrais, doenças vasculares, angioplastia de carótida, angiografia e outros procedimentos realizados pelos vasos sanguíneos.
 
 
-- [ ] Alterar a parte de Avaliacao clinica e acompanhamento e por
+- [x] Alterar a parte de Avaliacao clinica e acompanhamento e por
 	 ### Avaliação clínica e acompanhamento
 	
 	
