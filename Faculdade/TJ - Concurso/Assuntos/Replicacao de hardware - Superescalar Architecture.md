@@ -36,4 +36,4 @@ Para gerenciar qual das unidades clonadas vai executar cada instrucao, sao adico
 
 ### Analogia Pratica:
 
-Uma analogia didatica eh a de uma lavanderia: Um processador escalar tradicoinal eh como uma lavanderia pequena com apenas 1 maquina de lavar e 1 de secar ( Processando um cesto de roupa por etapa). O processador superescalar "clona" o hardware instalando 3 maquinas de lavar e 3 de secar lado a lado no mesmo espaco. O volume deroupas lavadas por hora se multiplica, mas passa a exigit tubulacoes ( barramentos ) mais largas e um funcionario ( Unidade de despacho ) para organizar qual cesto vai para qual maquina sem gerar confusao
+Uma analogia didatica eh a de uma lavanderia: Um processador escalar tradicoinal eh como uma lavanderia pequena com apenas 1 maquina de lavar e 1 de secar ( Processando um cesto de roupa por etapa). O processador superescalar "clona" o hardware instalando 3 maquinas de lavar e 
