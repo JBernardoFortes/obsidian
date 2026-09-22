@@ -10,3 +10,9 @@
  - [x] Colocar os estaticos que eu criei na campanha do Gabriel Baiao
 	 - [x] Floriano
 	 - [x] Urucui
+ - [ ] Cadastrar um novo cliente no painel da wrmax
+	- Email: jailson.pdsaude@gmail.com
+	- Senha: 1234
+- [ ] Duplicar as campanhas de anuncio dos videos e subir apenas como imagem
+	- [ ] Floriano
+	- [ ] Urucui
