@@ -40,4 +40,7 @@ O TRIM foi padronizado no protocolo ATA ( e renomeado tecnicamente como Desaloca
 O processo ocorre da seguinte forma:
 
 - **Notificacao Logica**: Quando o usuario deleta um arquivo ou formata uma particao, o sistema operacional envia o comando TRIM contendo a lista de enderecos logicos do bloco ( Logical Block Adresses - LBAs ) invalidados.
-- **Atualizacao da Tabela do Controlador**: A controladora do SSD atualiza seu mapa interno de alocacao, marcando esses LBAs como "dados invalidos/"
+- **Atualizacao da Tabela do Controlador**: A controladora do SSD atualiza seu mapa interno de alocacao, marcando esses LBAs como "dados invalidos/descartaveis". Nenhum apagamento fisico ocorre nesse exato momento, o que garante que a operacao seja assincrona e nao cause lentidao no uso do computador
+- **Coleta de Lixo Otimizada**: Quando o computador entra em estado de ociosidade (idle time), a rotina interna de Coleta de Lixo limpa os blocos que contem apenas paginas marcadas como invalidas pelo TRIM.
+- **Disponibilizacao de Blocos Limpos**: Como a Coleta de Lixo nao precisa copiar paginas invalidas para outros lugares, os blocos sao zerados com eficiencia e ficam prontos para receber novas gravacoes diretamente.
+
