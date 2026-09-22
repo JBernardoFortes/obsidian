@@ -58,4 +58,14 @@ Para que o TRIM funcione corretamente, o suporte deve estar ativo em tres camada
 
 Impacto na computacao forense
 
-Uma limicatacao/consequencia crucial do TRIM atinge a area de Pericia Digital e Computacao Forense. Em HDDs trdicionais 
+Uma limicatacao/consequencia crucial do TRIM atinge a area de Pericia Digital e Computacao Forense. Em HDDs trdicionais, peritos consequem recuperar arquivos deletados por meio de tecnicas de Data Carving no espaco nao alocado do disco. Em SSDs com TRIM ativo, a limpeza fisica e assincrona realizada pelo controlador limpa e zera os blocos em segundo plano, tornando os dados permanentemente irrecuperaveis via software apos a execucao da rotina
+
+---
+
+### 5. Conclusao
+
+O comando TRIM eh uma solucao de engenharia de software e hardware indispensavel para a viabilidade dos SSDs modernos. Ao informar proativamente ao controlador quais dados foram invalidados no sistema de arquivos, o TRIM previne a amplificacao de escrita, mantem a coleta de lixo eficiente, preserva a velocidade de gravacao original e estende por anos a durabilidade das celulas de memoria Flash NAN.
+
+---
+
+## Impor
