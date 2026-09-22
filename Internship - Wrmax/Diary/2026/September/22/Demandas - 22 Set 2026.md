@@ -7,7 +7,7 @@
  - [x] Duplicar e colocar os videos do Dr Gabriel Baiao Baixa Grande do Ribeiro
 	 - Colocar o video e o estatico que eu criei ontem em um novo conjunto de anuncios para o dia 30
  - [x] [[Novas Sugestoes de mudancas neuropleno]]
-	 - [ ] 
+	 - Foram feitas mas eu preciso alinhar com eles sobre as mudancas ainda
  - [x] Colocar os estaticos que eu criei na campanha do Gabriel Baiao
 	 - [x] Floriano
 	 - [x] Urucui
@@ -21,3 +21,4 @@
 		- Fazer de ribeirao tambem ?
 		- Tirar o estatico dos outros conjuntos de anuncios?
 - [x] Foi pedido para mudar a data de anuncio tambem
+- [ ] Fazer estatico da enfermeira regina
