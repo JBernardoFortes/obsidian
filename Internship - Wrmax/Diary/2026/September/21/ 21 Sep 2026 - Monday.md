@@ -28,7 +28,7 @@ find /home/bernardo/downloads -type f -delete && mv /home/documents/file _ && cd
 
 As demandas de hoje:
 
-- [[Demandas - 21 Set 2026]]
+- [[Internship - Wrmax/Diary/2026/September/21/Demandas - 21 Set 2026]]
 
 ---
 #internship-wrmax

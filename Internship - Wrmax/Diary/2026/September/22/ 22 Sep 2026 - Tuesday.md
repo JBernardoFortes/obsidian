@@ -12,7 +12,6 @@ project: internship-wrmax
 
 ### Demandas do dia 
 
-- [[Demandas - 21 Set 2026]]
 - [[Demandas - 22 Set 2026]]
 
 
