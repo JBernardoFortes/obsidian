@@ -7,7 +7,7 @@ A arquitetura superescalar representa uma das inovacoes mais importantes no proj
 
 ## 1. Conceito fundamental e evolucao da arquitetura
 
-Enquanto processadores escalares tradicionais executam no maximo uma instrucao a cada ciclo de clock ( IPC <= 1 ), a arquitetura superescalar replica componentes internos do hardware, como Unidades Logicas e Aritmeticas ( ALUs ), Unidades de Ponto Flutuante ( FPUs ) e Unidades de Load/Store. Essa multiplicacao de unidades funcionais independentes permite buscar, decodificar e despachar um bloco contendo multiplas instrucoes simultaneamente.
+Enquanto processadores escalares tradicionais executam no maximo uma instrucao a cada ciclo de clock ( IPC <= 1 ), a arquitetura superescalar replica componentes internos do hardware( [[Replicacao de hardware]] ), como Unidades Logicas e Aritmeticas ( ALUs ), Unidades de Ponto Flutuante ( FPUs ) e Unidades de Load/Store. Essa multiplicacao de unidades funcionais independentes permite buscar, decodificar e despachar um bloco contendo multiplas instrucoes simultaneamente.
 
 DIferente do superpipeline - que busca aumentar a frequencia de opereacao subdividindo os estagios do pipeline em etapas mais curtas -, a tecnica superescalar foca na emissao paralela em largura ( Multiple issue ). Isso resulta em um tempo medio por instrucao reduzido ( CPI < 1 ) e permite que a arquitetura seja aplicada tanto a processadores RISC quanto CISC.
 
@@ -43,9 +43,16 @@ As dependencias WAR e WAW sao conhecidas como **Falsas dependencias ( Dependenci
 Para superar as dependencias e evitar paradas no pipelina, os processadores superescalares empregam um conjunto de tecnicas coordenadas em hardware:
 
 - **Renomeacao de Registradores( Register Renaming )**: Mapeia dinamicamente os registradores logicos do programa em uma quantidade maior de registradores fisicos temporarios do chip ( Como nas estacoes de reserva e no Reorder Buffer ). isso elimina totalmente as falsas dependencias WAR e WAW.
-- **Execucao Fora de Ordem ( Out-of-Order Execution - OoOE )**: Permite que instrucoes independentes que se encontram mais a frente no codigo sejam enviadas as unidades funcionais e executadas enquanto instrucoes anteriore
+- **Execucao Fora de Ordem ( Out-of-Order Execution - OoOE )**: Permite que instrucoes independentes que se encontram mais a frente no codigo sejam enviadas as unidades funcionais e executadas enquanto instrucoes anteriores aguardam a chegada de dados da memoria RAM ou cache.
+- **Previsao de Desvios ( Branch Prediction ) e Especulacao**: Utiliza algoritmos dinamicos para prever o resultado de estrutura de controle (if/else, loops). As instrucoes do caminho previsto sao buscadas e executadas especulativamente antes da confirmacao do desvio.
+- **Reorder Buffer (ROB)**: Buffer temporario que armazena os resultados das instrucoes concluidos fora de ordem. O ROB preserva a sequencia exata do programa e realiza a gravacao final nos registradores visiveis ( In-Order Commit / Retirement ) apenas quando a instrucao se torna a mais antiga do buffer e a especulacao eh confirmada. Caso a previsao de desvio tenha sido incorreta, o ROB descarta ( flushes ) os resultados especulados e restaura o estado preciso do processador.
 
 
+--- 
+
+## 5. Conclusao
+
+Em sintese, a arquitetura superescalar transforma a execucao sequencial do software em um fluxo paralelo e altamente otimizado por hardware. Ao combinar o paralelismo em nivel de instrucao ( ILP ) com tecnicas como renomeacao de registradores, execucao fora de ordem e confirmacao em ordem via Reorder Buffer, esses processadores superam os limites do ciclo de clock mantendo a compatibilidade estrita do software original.
 
 
 
