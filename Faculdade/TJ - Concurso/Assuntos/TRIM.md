@@ -68,4 +68,6 @@ O comando TRIM eh uma solucao de engenharia de software e hardware indispensavel
 
 ---
 
-## Impor
+## Importante:
+
+**O TRIM nao apaga o arquivo imediatamente na hora do delete, mas sim avisa ao controlador quais blocos estao invalidos para que a coleta de lixo os limpe nos momentos de ociosidade ( idle ) do sistema.
