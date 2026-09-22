@@ -4,4 +4,6 @@
 
 
  - [ ] [[Sugestoes mudancas neuropleno]]
- - [ ] Duplicar e colocar os videos do Dr Gabriel Baiao Baixa Grande do Ribeiro
+ - [x] Duplicar e colocar os videos do Dr Gabriel Baiao Baixa Grande do Ribeiro
+	 - Colocar o video e o estatico que eu criei ontem em um novo conjunto de anuncios para o dia 30
+ - [ ] [[Novas Sugestoes de mudancas neuropleno]]
