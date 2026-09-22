@@ -21,4 +21,10 @@
 		- Fazer de ribeirao tambem ?
 		- Tirar o estatico dos outros conjuntos de anuncios?
 - [x] Foi pedido para mudar a data de anuncio tambem
-- [ ] Fazer estatico da enfermeira regina
+- [x] Fazer estatico da enfermeira regina
+- [ ] Tem algumas demandas do google meu negocio para mudar algumas coisas
+	- [ ] Oxcentro centro
+		- E-mail marketing@renovedigital.com.br
+		- Login: institutomedicoox@gmail.com
+		- Senha: Oxcentrol811
+	- [ ] Neuropleno

@@ -12,6 +12,8 @@ project: internship-wrmax
 
 	 Parece que ele ficou de me pagar, arrumar o pagamento, mas ele disse que era da 21 que era pra pagar entao de qualquer forma o pagamento ta atrasado, tambem preciso que a keylianne assine o documento de termo de compromisso
 
+	 Acho que quando me pagarem volta me gas 
+
 ### Demandas do dia 
 
 - [[Demandas - 22 Set 2026]]

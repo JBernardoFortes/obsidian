@@ -11,8 +11,8 @@ INSPIRAÇÃO 2 [https://meuneuro.com.br/](https://meuneuro.com.br/)
 
 INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)[https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects|neurologia+site&l=17](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurologia?tracking_source=search_projects%7Cneurologia+site&l=17)
 
-- [ ]  Alterações por Roberth 21/09/2026
-	- [ ] mudar texto para :  
+- [x]  Alterações por Roberth 21/09/2026
+	- [x] mudar texto para :  
 		- Cuidado neurológico completo em um só lugar: do diagnóstico preciso ao tratamento clínico, cirúrgico e endovascular, com equipe especializada e tecnologia de ponta.
 		- Duvida sobre o que tem que tirar e o que tem que virar titulo
 			- "Cuidado neurologico completo em um so lugar:" tem que virar titulo?
@@ -170,7 +170,7 @@ INSPIRACAO 3 [](https://www.behance.net/gallery/251341787/WEBSITE-Sinapse-Neurol
 	    
 	    O agendamento pode ser realizado pelo WhatsApp da clínica. A equipe orienta sobre o profissional mais adequado, horários disponíveis e documentos necessários.
 
-- [ ] Alterar as fotos das patologias
+- [x] Alterar as fotos das patologias
     AVC [https://drive.google.com/file/d/1EtSQqAU2FVSJzdo4aKBgp1YI8iEv-HQ1/view?usp=sharing](https://drive.google.com/file/d/1EtSQqAU2FVSJzdo4aKBgp1YI8iEv-HQ1/view?usp=sharing)
     
     aneurisma cerebral
