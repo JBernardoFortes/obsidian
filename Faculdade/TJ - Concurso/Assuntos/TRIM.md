@@ -44,4 +44,14 @@ O processo ocorre da seguinte forma:
 - **Coleta de Lixo Otimizada**: Quando o computador entra em estado de ociosidade (idle time), a rotina interna de Coleta de Lixo limpa os blocos que contem apenas paginas marcadas como invalidas pelo TRIM.
 - **Disponibilizacao de Blocos Limpos**: Como a Coleta de Lixo nao precisa copiar paginas invalidas para outros lugares, os blocos sao zerados com eficiencia e ficam prontos para receber novas gravacoes diretamente.
 
-Dessa forma, a taxa de amplificacao de escrita eh mantida em niveis ideais ( proximos a 1
+Dessa forma, a taxa de amplificacao de escrita eh mantida em niveis ideais ( proximos a 1,0 ), preservando as taxas nominais de velocidade do fabricante e meximizando a longevidade da unidade.
+
+---
+
+### 4. Requisitos so Sistema e limitacoes
+
+Para que o TRIM funcione corretamente, o suporte deve estar ativo em tres camadas:
+
+- **Firmware do SSD**: Suporte ao comando ATA8-ACS2 em unidades SATA ou ao comando Dataset Management / Deallocate em SSDs NVMe.
+- **Sistema Operacional**: Suporte nativo presente nas versoes modernas do Windows ( Windows 7 ou superior ) , Linux ( kernel 2.6.28+ ) e macOS.
+- **Driver de armazenamento**:
