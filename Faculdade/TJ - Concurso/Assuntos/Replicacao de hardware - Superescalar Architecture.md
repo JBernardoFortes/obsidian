@@ -29,7 +29,11 @@ Ter varias "Calculadoras" internas nao traz ganho se os dados nao chegarem ate e
 
 Para gerenciar qual das unidades clonadas vai executar cada instrucao, sao adicoinados circuitos de suporte:
 
-- **Estacoes de Reserva ( E)
+- **Estacoes de Reserva ( Reservation Stations )**: Pequenas memorias intermediarias acopladas na entrada de cada grupo de unidades funcionais. Elas retem as instrucoes e seus operandos ate que uma das ALUs ou FPUs correspondentes fique livre.
+- **Barramento Comum de Dados ( Common Data Bus - CDB )**: Uma rede de canais fisicos que interconecta a saida de todas as unidades duplicadas. Assim que uma ALU termina um calculo, o resultado eh transmitido ( Broadcast ) diretamente para as outras unidades que dependem daquele valor, sem precisar aguardar a gravacao lenta nos registradores
 
 ---
 
+### Analogia Pratica:
+
+Uma analogia didatica eh a de uma lavanderia: Um processador escalar tradicoinal eh como uma lavanderia pequena com apenas 1 maquina de lavar e 1 de secar ( Processando um cesto de roupa por etapa). O processador superescalar "clona" o hardware instalando 3 maquinas de lavar e 3 de secar lado a lado no mesmo espaco. O volume deroupas lavadas por hora se multiplica, mas passa a exigit tubulacoes ( barramentos ) mais largas e um funcionario ( Unidade de despacho ) para organizar qual cesto vai para qual maquina sem gerar confusao
