@@ -68,7 +68,27 @@ Nao confunda os operadores, pois esta eh uma pegadinha classica:
 
 #### Funcoes Logicas e de Contagem
 
-- **SE**: Estrutura `(teste_logico; valor_se_verdadeiro; valor_se_falso)`. Admite o "aninhamento" ( Uma funcao SE dentro de outra) para multi
+- **SE**: Estrutura `(teste_logico; valor_se_verdadeiro; valor_se_falso)`. Admite o "aninhamento" ( Uma funcao SE dentro de outra) para multiplos criterios.
+- **SOMASE** e **CONT.SE**: Conta celulas que nao estao vazias, independentemente de conterem numeros, textos ou erros.
+- **CONT.VALORES**: Conta celulas que nao estao vazias, independentemente de conterem numeros, textos ou erros.
+
+---
+
+### 6. A Evolucao: PROCX (XLOOKUP)
+
+O PROCX eh o sucessor moderno do PROCV ( disponibvel no Microsoft 365 ). Suas vantagens principais sao:
+
+1. **Direcao independente**: Busca em qualquer direcao ( resolve a limitacao da esquerda)
+2. **Exatidao Nativa**: Por padrao, a busca eh exata ( nao precisa do "0" ou "FALSO")
+3. **Flexibilidade**: Nao exige a contagem de indices de coluna, reduzindo erros de referencia
+
+--- 
+
+### 7. Conclusao e Dicas para o Candidato
+
+Para gabaritar Excel, foque na sintaxe:
+
+- **Aspas Duplas**: Obrigatorias para textos em formulas ( ex: `"Aprovado"`)
 
 
 ---
