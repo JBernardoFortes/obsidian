@@ -63,7 +63,12 @@ Nao confunda os operadores, pois esta eh uma pegadinha classica:
 #### Operacoes basicas e estatisticas:
 
 - **SOMA, MINIMO e MAXIMO**: Aplicacoes diretas de adicao e identificacao de extremos absolutos.
-- 
+- **MEDIA vs MED**: A **MEDIA** eh a media aritmetica simples. A funcao **MED**( mediana ) identifica o valor central
+- **MAIOR vs. MAXIMO e MENOR vs. MINIMO**: Enquanto o MAXIMO/MINIMO sao absolutos, **MAIOR** e **MENOR** exigem um argumento 'k' ( posicao no ranking ). Ex: `=MAIOR(A1:A10; 2)` para o segundo maior. Se "k" for invalido ou maior que o numero de dados, ocorrera erro.
+
+#### Funcoes Logicas e de Contagem
+
+- **SE**: Estrutura `(teste_logico; valor_se_verdadeiro; valor_se_falso)`. Admite o "aninhamento" ( Uma funcao SE dentro de outra) para multi
 
 
 ---
