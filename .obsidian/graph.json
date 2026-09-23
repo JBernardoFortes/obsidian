@@ -71,27 +71,37 @@
       }
     },
     {
-      "query": "path:\"Faculdade/TJ - Concurso\"  ",
+      "query": "file:Questao",
       "color": {
         "a": 1,
-        "rgb": 6760347
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"Faculdade/TJ - Concurso/Assuntos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9057155
+      }
+    },
+    {
+      "query": "file:TJ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.59615005907838,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.385978731784167,
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-<<<<<<< main
-  "scale": 0.38975722958514203,
-=======
-  "scale": 0.49995105424948316,
->>>>>>> origin/main
-  "close": true
+  "scale": 0.5846358443777131,
+  "close": false
 }
