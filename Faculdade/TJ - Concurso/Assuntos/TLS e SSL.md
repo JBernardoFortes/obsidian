@@ -67,7 +67,22 @@ O SSL/TLS atua na camada intermediaria entre a **Aplicacao** ( como o HTTP ) e o
 ```
 
 - **Fase Assimetrica ( Troca de Chaves )**: O servidor envia seu **Certificado Digital** ( que contem sua chave publica e eh emitido por uma Autoridade Certificadora - CA ). O navegador verifica a autenticidade do certificado. Em seguida, ambos usam a chave publica/privada para negociar de forma segura uma **chave simetrica temporaria** (chave de sessao).
-- **Fase Simetrica ( Trafego de Dados )**: Com a chave de sessao estabelecida, a comunicacao passa a utilizar a **c**
+- **Fase Simetrica ( Trafego de Dados )**: Com a chave de sessao estabelecida, a comunicacao passa a utilizar a **criptografia simetrica** (como AES), permitindo cifrar e decifrar grandes volumes de dados de forma extremamente rapida.
+
+---
+
+### 5. Tabela resumo
+
+
+| Recurso / Conceito     | SSL<br>(Secure Sockets Layer)      | TSL<br>(Transport Layer Security)          |
+| ---------------------- | ---------------------------------- | ------------------------------------------ |
+| Situacao atual         | Obsoleto                           | Ativo e padrao                             |
+| Desenvolvedor          | Netscape                           | IETF                                       |
+| Iniciacao do Handshake | Conexao explicita, mais lenta      | Conexao implicita, otimizada e mais rapida |
+| Autenticacao de Dados  | MAC baseado em MD5                 | HMAC com hashes seguros                    |
+| Mensagem de Alerta     | Apenas 2 tipos, nao cripotgrafadas | Diversificadas criptografadas              |
+| Uso no HTTPS           |                                    |                                            |
+
 
 ---
 
