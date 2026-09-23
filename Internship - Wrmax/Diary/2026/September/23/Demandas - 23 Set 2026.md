@@ -12,5 +12,5 @@
 - [ ] Estatico Regina Nogueira - Falta de libido
 - [ ] Estatico Clinica RN - Exames laboratoriais
 - [ ] Estatico Clinica RN - Exames laboratoriais
-- [ ] Ajustes site neuropleno
+- [x] Ajustes site neuropleno
 	- Muitos
