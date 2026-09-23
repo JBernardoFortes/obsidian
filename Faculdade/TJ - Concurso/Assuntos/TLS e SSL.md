@@ -42,5 +42,34 @@ Embora ambos compartilhem o objetivo de criar canais criptografados, o TLS intro
 
 ### 4. Funcionamento Pratico : A Criptografia Hibrida
 
-O SSL/TLS atua na camada intermediaria entre a **Aplicacao** ( como o HTTP ) e o **Transporte** (TCP). Para conciliar alta seguranca e alto desempenho, a conexao utiliza **cripto**
+O SSL/TLS atua na camada intermediaria entre a **Aplicacao** ( como o HTTP ) e o **Transporte** (TCP). Para conciliar alta seguranca e alto desempenho, a conexao utiliza **criptografia hibrida**:
 
+
+```text
+┌──────────────────────┐                         ┌──────────────────────┐
+│  Cliente / Navegador │                         │    Servidor Web      │
+└──────────┬───────────┘                         └──────────┬───────────┘
+           │                                                │
+           │  (1) Criptografia Assimétrica                  │
+           │        → Handshake                             │
+           │───────────────────────────────────────────────>│
+           │                                                │
+           │  • Autenticação via Certificado                │
+           │  • Negociação da Chave de Sessão               │
+           │                                                │
+           │  (2) Criptografia Simétrica                    │
+           │        → Transmissão de Dados                   │
+           │<══════════════════════════════════════════════>│
+           │                                                │
+           │  • Chave de sessão utilizada                  │
+           │  • Transmissão rápida e eficiente              │
+           │                                                │
+```
+
+- **Fase Assimetrica ( Troca de Chaves )**: O servidor envia seu **Certificado Digital** ( que contem sua chave publica e eh emitido por uma Autoridade Certificadora - CA ). O navegador verifica a autenticidade do certificado. Em seguida, ambos usam a chave publica/privada para negociar de forma segura uma **chave simetrica temporaria** (chave de sessao).
+- **Fase Simetrica ( Trafego de Dados )**: Com a chave de sessao estabelecida, a comunicacao passa a utilizar a **c**
+
+---
+
+[[Protocolo HTTPS]]
+[[Criptografia simetrica e assimetrica]]
