@@ -3,8 +3,9 @@
 
 ### A principio essas sao as demandas de hoje
 
-- [ ] Carrossel APIPA - O Piaui nunca teve um dia so para isso
+- [x] Carrossel APIPA - O Piaui nunca teve um dia so para isso
 - [ ] Carrossel Dr Romilto - Tadala
+	- Tenho que pedir para outra pessoa fazer por conta da IA nao dar conta 
 - [ ] OxCentro centro medico avancado
 	- Ainda tem aquele problema de as credenciais nao baterem
 - [ ] Estatico Regina Nogueira - Laser intimo
