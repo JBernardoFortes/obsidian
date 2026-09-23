@@ -89,6 +89,7 @@ O PROCX eh o sucessor moderno do PROCV ( disponibvel no Microsoft 365 ). Suas va
 Para gabaritar Excel, foque na sintaxe:
 
 - **Aspas Duplas**: Obrigatorias para textos em formulas ( ex: `"Aprovado"`)
+- **Curingas e Escape**: O asterisco ( `*` ) reprsenta varios caracteres; a interrogacao (`?`)  representa um unico caractere. Se a questao pedir para localizar o simbolo reall de asterisco ou interrogacao, deve-se usar o til(*!*)
 
 
 ---

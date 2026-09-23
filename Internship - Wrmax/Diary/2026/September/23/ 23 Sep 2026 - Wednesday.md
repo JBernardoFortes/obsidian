@@ -13,6 +13,8 @@ project: internship-wrmax
 
 
 	A reuniao eh 10h, ela me mandou coisas para consertar as 9:43. Terminei de consertar era 9:51. E isso com o salario atrasado
+
+	 To me estressando demais com essa reuniao, a empresa nem eh minha. Eles se organizaram mal que paguem por isso.
 ### Demandas de hoje:
 
 - [[Demandas - 23 Set 2026]]
