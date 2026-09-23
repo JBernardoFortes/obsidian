@@ -58,6 +58,16 @@ Nao confunda os operadores, pois esta eh uma pegadinha classica:
 
 ---
 
+### 5. Analise de Funcoes Estatisticas e Condicionais
+
+#### Operacoes basicas e estatisticas:
+
+- **SOMA, MINIMO e MAXIMO**: Aplicacoes diretas de adicao e identificacao de extremos absolutos.
+- 
+
+
+---
+
 - [[Questao 20 - 2025]]
 - [[Assuntos]]
 
