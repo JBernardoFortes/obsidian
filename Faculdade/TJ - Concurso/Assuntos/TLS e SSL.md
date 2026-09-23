@@ -26,9 +26,19 @@ O TLS eh o padrao ativo e obrigatorio no setor.
 Embora ambos compartilhem o objetivo de criar canais criptografados, o TLS introduziu mudancas profundas na arquitetura e no funcionamento:
 
 1. **Processo de Handshake**: 
-	1. **SSL**: Realizaca uma conexao explicita e lenta, exigindo mais etapas ( Round-trips ) de troca de pacotes entre o cliente e o servidor
+	1. **SSL**: Realiza uma conexao explicita e lenta, exigindo mais etapas ( Round-trips ) de troca de pacotes entre o cliente e o servidor
 	2. **TLS**: Executa uma conexao implicita e mais rapida, reduzindo o numero de etapas e pacotes necessarios para estabelecer a sessao. O TLS 1.3 otimizou ainda mais esse processo para apenas um tempo de viagem e volta ( 1-RTT )
 2. **Autenticacao e integridade de Mensagens**:
 	1. **SSL**: Utilizava **MAC**( Message Authentication Code) baseado em algoritmos de hash antigos como o **MD5**, vulneraveis a ataque de colisao
-	2. **TLS**: Adotou o **HMAC**( Hash-based )
+	2. **TLS**: Adotou o **HMAC**( Hash-based Message Authentication Code ), um mecanismo mais seguro e resistente a adulteracoes.
+3. **Mensagens de Alerta (Alert Messages)**:
+	1. **SSL**: Possuia apenas dois tipos de mensagens de erro ( Aviso e Fatal ), transmitidas em **texto claro (sem criptografia)**
+	2. **TLS**: Criptografa todas as mensagens de alerta e introduziu notificacoes especificas , como o alerta de encerramento seguro de sessao ( close_notify )
+4. **Pacotes de Criptografia ( Cipher Suites )**:
+	1. **SSL**: Mantinha suporte a algoritmos antigos e inseguros
+	2. **TLS**: Removeu cifras obsoletas (como RC4 e MD5) e passou a exigir algoritmos de criptografia moderna com **Sigilo Perfeito para Apoiadores** (Forward Secrecy), garantindo que, mesmo que uma chave privada seja vazada no futuro, as sessoes passadas nao possam ser decifradas.
+
+---
+
+
 
