@@ -45,12 +45,15 @@ Nativamente, o PROCV so pesquisa para a direita. O criterio de busca deve estar 
 ### 3. Guia de Diagnostico: Tratamento de Erros no PROCV
 
 
-| Erro  | Causa Provavel                                                                                                      | Solucao Baseada na fonte                                                         |
-| ----- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| #N/D  | Valor nao encontrado( FALSO ) ou, se VERDADEIRO, o `valor_procurado` eh menor que o menor valor da primeira coluna. | Verificar a existencia do valor ou classificar a coluna se usar busca aproximada |
-| #REF! | O `num_indice_coluna` eh maior que a quantidade de colunas na matriz                                                | Ajustar o indice para um numero dentro dos lim                                   |
 
+---
 
+### 4. Operadores Fundamentais de Intervalo
+
+Nao confunda os operadores, pois esta eh uma pegadinha classica:
+
+- **Dois-pontos ( : )**: Significa "Ate". Define um intervalo continuo ( ex: `A1:A10` engloba todas as 10 celulas)
+- **Ponto e virgula ( ; )**: Significa "e". Define uma uniao de celulas isoladas ou separa argumentos (ex: `SOMA(A1;A10)` soma apena as duas celulas)
 
 
 ---
