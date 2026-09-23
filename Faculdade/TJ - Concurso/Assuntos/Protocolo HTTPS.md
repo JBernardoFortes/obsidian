@@ -74,4 +74,5 @@ Eh comum as bancas compararem esses dois protocolos para confundir o candidato:
 ---
 
 [[Assuntos]]
+[[TLS e SSL]]
 [[Questao 27 - 2025]]

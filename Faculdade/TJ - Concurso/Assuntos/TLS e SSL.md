@@ -25,3 +25,10 @@ O TLS eh o padrao ativo e obrigatorio no setor.
 
 Embora ambos compartilhem o objetivo de criar canais criptografados, o TLS introduziu mudancas profundas na arquitetura e no funcionamento:
 
+1. **Processo de Handshake**: 
+	1. **SSL**: Realizaca uma conexao explicita e lenta, exigindo mais etapas ( Round-trips ) de troca de pacotes entre o cliente e o servidor
+	2. **TLS**: Executa uma conexao implicita e mais rapida, reduzindo o numero de etapas e pacotes necessarios para estabelecer a sessao. O TLS 1.3 otimizou ainda mais esse processo para apenas um tempo de viagem e volta ( 1-RTT )
+2. **Autenticacao e integridade de Mensagens**:
+	1. **SSL**: Utilizava **MAC**( Message Authentication Code) baseado em algoritmos de hash antigos como o **MD5**, vulneraveis a ataque de colisao
+	2. **TLS**: Adotou o **HMAC**( Hash-based )
+
