@@ -3,9 +3,9 @@
 
 O Microfost Excel eh uma ferramenta de produtividade onipresente em editais de concursos publicos, sendo cobrada tanto para cargos administrativos quanto para especialistas em Tecnologia da Informacao (TI). Para dominar as questoes da prova, o candidato deve compreender a estrutura espacial da planilha:
 
-- Colunas 
-- Linhas
-- Celulas
+- **Colunas**: Sao estruturas verticais ( dispostas de cima para baixo), identificadas por letras ( A, B, C... ) no cabecalho horizontal
+- **Linhas**: Sao estruturas horizontais ( dispostas da esquerda para a direita ), identificadas por numeros ( 1,2,3... ) na barra lateral vertical
+- **Celulas**: O ponto de intersecao entre uma coluna e uma linha (ex: `B5`)
 
 ---
 
@@ -43,6 +43,12 @@ Nativamente, o PROCV so pesquisa para a direita. O criterio de busca deve estar 
 
 
 ### 3. Guia de Diagnostico: Tratamento de Erros no PROCV
+
+
+
+| Erro  | Causa Provavel                                                      | Solucao Baseada na Fonte |
+| ----- | ------------------------------------------------------------------- | ------------------------ |
+| \#N/D | Valor nao encontrado (FALSO) ou, se VERDADEIRO, o `valor_procurado` |                          |
 
 
 
@@ -89,8 +95,9 @@ O PROCX eh o sucessor moderno do PROCV ( disponibvel no Microsoft 365 ). Suas va
 Para gabaritar Excel, foque na sintaxe:
 
 - **Aspas Duplas**: Obrigatorias para textos em formulas ( ex: `"Aprovado"`)
-- **Curingas e Escape**: O asterisco ( `*` ) reprsenta varios caracteres; a interrogacao (`?`)  representa um unico caractere. Se a questao pedir para localizar o simbolo reall de asterisco ou interrogacao, deve-se usar o til(*!*)
-
+- **Curingas e Escape**: O asterisco ( `*` ) reprsenta varios caracteres; a interrogacao (`?`)  representa um unico caractere. Se a questao pedir para localizar o simbolo reall de asterisco ou interrogacao, deve-se usar o til(~) antes deles ( Ex: `"~*"` para achar um asterisco literal).
+- **Referencias Absolutas**: Utilize o cifrao (`$`) para travar celulas (ex: `$A$1`) e evitar que o intervalo mude ao arrastar a formula
+- **Limpeza**: Lembre-se das funcoes **ARRUMAR** ou **LIMPAR** para remover espacos extras que invalidam buscas.
 
 ---
 
