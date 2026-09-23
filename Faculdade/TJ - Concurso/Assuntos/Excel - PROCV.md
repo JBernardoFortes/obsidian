@@ -28,6 +28,33 @@ A sintaxe oficial eh: ``````
 
 #### Se esse quarto elemento for omitido, o Excel assume por padrao o valor 1/VERDADEIRO.
 
+#### Limitacoes e Pulo do gato
+
+Nativamente, o PROCV so pesquisa para a direita. O criterio de busca deve estar obrigatoriamente na coluna 1 da matriz. Para realizar uma busca para a esquerda, utiliza-se funcao ESCOLHER como um artificio tecnico
+
+- **Logica**: Atraves de uma constante de matriz como {1/2} ou {2/1}, eh possivel reordenar virtualmente as colunas
+- **Exemplo**: 
+
+```excel
+=PROCV(F2, ESCOLHER({2/1}); A2:A17; C2:C17); 2; 0)
+```
+
+	Aqui, o Excel engana a funcao, invertendo a ordem das colunas A e C para permitir a busca.
+
+
+### 3. Guia de Diagnostico: Tratamento de Erros no PROCV
+
+
+| Erro  | Causa Provavel                                                                                                      | Solucao Baseada na fonte                                                         |
+| ----- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| #N/D  | Valor nao encontrado( FALSO ) ou, se VERDADEIRO, o `valor_procurado` eh menor que o menor valor da primeira coluna. | Verificar a existencia do valor ou classificar a coluna se usar busca aproximada |
+| #REF! | O `num_indice_coluna` eh maior que a quantidade de colunas na matriz                                                | Ajustar o indice para um numero dentro dos lim                                   |
+
+
+
+
+---
+
 - [[Questao 20 - 2025]]
 - [[Assuntos]]
 
