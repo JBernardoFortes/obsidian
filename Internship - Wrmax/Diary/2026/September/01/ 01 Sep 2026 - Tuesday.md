@@ -1,0 +1,26 @@
+- O Robert me disse para fazer alguma mudanca no google analitycs sobre um site e migrar para outro, vou pedir para ele esclarecer mais tarde o que ele quis dizer quando as tiazinhas da limpeza sairem
+- Ontem eu fiquei de subir os criativos da campanha tmax_alfa, ele disse para subir os com foto e os sem foto
+- Ele tambem me disse para fazer um site para um comercio que eu esqueci o nome e uma landpage para o Azuza
+- Transferencia de base dados eh prioridade, fazer ela antes.
+- Estou esperando ele me instruir na transferencia de dados, como ele nao esta aprofundando acho que nao eh uma prioridade no momento
+- Ele me passou o acesso do forno paulista
+    - O gmail e a conta, agora como fazer eh uma incognita
+- Pedi para o Robert pagar o dominio da hostinger de novo, deu certo
+- Ele saiu, vou perguntar pra ele se ele quer que eu transfira uma base de dados da forno paulista pra a wrm ou se eh o contrario
+- Tentei acessar o email do pessoal do forno paulista mas aparentemente precisa de codigo de acesso, mandei ao robert, ainda tenho que confirmar se ele quer que eu passe a base de dados de qual conta para qual conta
+- Por enquanto estou esperando ele voltar com a Keylianne, foram em algum lugar que eu nao to ligado
+- Estou tranquilo em relacao as fofocas que me contaram, parece que eles estao de boa comigo no geral
+- A transferencia da base de dados eh da nossa pra deles
+    - Sera que aconteceu algo ?
+- Como eu nunca tinha feito essa transferencia ela esta um pouco obscura na minha mente, muitas duvidas que eu tenho vontade de perguntar
+- Resumo da opera, preciso do acesso ao dominio deles para configurar para que eles apontem para o nosso site que esta hospedado na vercel, preciso do acesso do dominio deles, para configurar o cname para o nosso dominio e conseguir fazer o rastreamento de trafego
+    - Porque parece que no beacon realmente nao tem como fazer o rastreamento de trafego
+    - Ai a gente so usaria o site que ja tem feito mas substituiria o dominio pelo o deles ( [grupofornopaulista.com](http://grupofornopaulista.com) ).
+- Por enquanto eu nao tenho mais nada a fazer, fiz isso que era prioridade ai agora tenho que fazer uma landpage / site para algum cliente mas que nao foi me passado exatamente o que fazer.
+- Chegando na faculdade eu vou resolver as questoes de bdr com o tempo livre da aula que ele nao vai dar
+- Depois eu vou pedir para eles assinarem os contratos para adiantar o termo de compromisso
+    - Quero adiantar logo para definir meu tempo para pagar a disciplina
+- Editei umas imagens e configurei a fingerprint do meu pc
+- Tenho que reconfigurar o mcp que quebrou por algum motivo
+
+[[September]]

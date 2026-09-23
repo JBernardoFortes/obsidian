@@ -1,0 +1,18 @@
+
+
+
+### A principio essas sao as demandas de hoje
+
+- [x] Carrossel APIPA - O Piaui nunca teve um dia so para isso
+- [ ] Carrossel Dr Romilto - Tadala
+	- Tenho que pedir para outra pessoa fazer por conta da IA nao dar conta 
+- [ ] OxCentro centro medico avancado
+	- Ainda tem aquele problema de as credenciais nao baterem
+- [ ] Estatico Regina Nogueira - Laser intimo
+- [ ] Estatico Regina Nogueira - Falta de libido
+- [ ] Estatico Clinica RN - Exames laboratoriais
+- [ ] Estatico Clinica RN - Exames laboratoriais
+- [x] Ajustes site neuropleno
+	- Muitos
+
+#### O claude caiu, nao tem como eu fazer os estaticos

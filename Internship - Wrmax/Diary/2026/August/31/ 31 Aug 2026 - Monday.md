@@ -1,0 +1,24 @@
+- Hoje vai ser o primeiro dia sem a Victoria no escritorio, quero ver como as coisas vao se desenrolar e o que eles vao pedir pra mim fazer
+- O Robert pediu pra eu fazer alguma coisa visual do PIPA e uma landpage para o AZUZA Buffet, mas ele ta stackando task atras de task, hoje vou esperar para ele me dar um direcionamento sobre o que fazer nos proximos dias
+    - Parece que vai ser mais a parte de gestao de trafego e pixels
+        - Preciso estudar mais sobre pixels e como colocar nos sites, eventualmente eu consigo aprender, nao tem nada que eu nao consiga aprender
+        - Sobre trafego eu ja consegui ver um pouco dos videos falando sobre o basico, a introducao. Que eh o que o robert pediu pra eu estudar
+- Conversamos com o Robert e parece que realmente eu vou ficar na parte do trafego pago, ele quer que eu entenda como fazer e como postar
+    - Ele me disse que mais tarde a Keylianne vai me mostrar como postar no meta ads
+- Alem disso, ele disse para deixar a postagem automatica de lado por enquanto, e focar no gerenciamento de anuncios
+- Ele tambem disse que vai ter uma reuniao hoje com o Paulo para ele alinhar as coisas que nos estamos fazendo
+- O Robert me instruiu em uma reuniao de cerca de 1h30min sobre trafego pago e como fazer, passou recomendacoes de nomenclatura e algumas opcoes que devem ser selecionadas.
+- Por enquanto nao tenho nenhuma task pra fazer, vou esperar a parte da iara acabar que eh a parte de producao dos reels, edicao, etc etc.
+- Mandei o Kommo Token para o Robert que ele me pediu
+- O Andre me respondeu no email, falta so o termo de convenio, assinar ele e depois solicitar o termo de compromisso e assinar ele tambem
+- Fiquei um tempo ocioso esperando a iara acabar as edicoes, o Robert analisar ate eu comecar a criar de fato os anuncios. Nesse momento eu to esperando o Robert analisar o criativo e me passar o parecer do que fazer. Criar ou nao criar as midias.
+- Parece que a menina tava tentando negociar algum valor a mais de comissao com o Robert, nao sei o que se desenrolou.
+- So relembrando os projetos que me passaram, que eu fiz ou que estao pendentes:
+    - Servidor mcp + gpt image + nano banana ( gpt image integrado )
+    - postagem automatica - n8n + notion ( pausado )
+    - gerenciar os trafegos pagos ( em andamento )
+    - Fazer a landpage da azuza buffet ( indefinido )
+        - Nao me passaram o parecer do que fazer
+        - O robert ficou de me mandar as landpages para eu me inspirar
+- A impressao que eu tenho eh que ele deixa para gerenciar tudo e acaba ficando sobrecarregado e esquecendo de algumas coisas, acho que ele deveria ter um gerente para monitorar essas tasks.
+[[August]]

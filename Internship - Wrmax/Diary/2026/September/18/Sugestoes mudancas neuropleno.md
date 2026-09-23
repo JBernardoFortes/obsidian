@@ -43,7 +43,7 @@ Eu mexeria nessa ordem:
 
 - [x]  A estrutura que eu montaria seria, no fundo, esta: **autoridade → prova → escolha da especialidade → condições tratadas → médicos → procedimentos de alta complexidade → estrutura → mídia → como funciona → FAQ → CTA**. Hoje a página está mais próxima de **sintomas → catálogo → explicação → equipe**. Essa inversão muda a percepção da Neuropleno de clínica generalista para **centro de referência neurológica de alta complexidade**.
 
-- [ ] E tem uma chave aqui: **Neurorradiologia não deve ser só adicionada ao texto. Ela precisa mudar a narrativa do site.** É ela que permite comunicar que vocês não ficam apenas em consulta e cirurgia: existe diagnóstico vascular e tratamento endovascular dentro do ecossistema neurológico. No fundo, é isso que diferencia.
+- [x] E tem uma chave aqui: **Neurorradiologia não deve ser só adicionada ao texto. Ela precisa mudar a narrativa do site.** É ela que permite comunicar que vocês não ficam apenas em consulta e cirurgia: existe diagnóstico vascular e tratamento endovascular dentro do ecossistema neurológico. No fundo, é isso que diferencia.
 
 - [x] Se eu estivesse desenvolvendo essa landing, minha próxima versão começaria o hero assim:
 
@@ -59,8 +59,38 @@ Eu mexeria nessa ordem:
 
 - [x] Tirar o "aqui" de Teresina tambem
 
-- [ ] Avaliar viabilidade da lista de doencas
+- [x] Avaliar viabilidade da lista de doencas
 	- Estou achando muito verboso
 
 
-#internship-wrmax 
+- [x] Tirar o nacional da hero page, no titulo principal
+- [x] Ajustar o altura do video, fazer ele ficar na mesma altura do agendar consulta mais ou menos, ficar alinhado com ele
+- [x] Alterar o texto abaixo do titulo, trocar porque esta repetido
+	- "Referência em Neurologia, Neurocirurgia e Neurorradiologia em Teresina"
+	- Trocar por "Do diagnóstico ao tratamento clínico, cirúrgico e endovascular de condições neurológicas complexas, com equipe especializada e tecnologia de alta precisão."
+- [x] Tirar Falar com nossa equipe, deixar apenas o botao de "Agendar consulta"
+- [x] Alterar prova de autoridade
+	- Colocar a parte do cerebro com as principais doencas que eles tratam
+	- A chefe vai me mandar o link do design do Behance
+	- [https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)
+	- Neurologia, Neurocirurgia, neuroradiologia, Avaliacao clinica e acompanhamento.
+- [x] Carrossel com os doutores, os 4 doutores
+	- No estilo do link da behance que a chefe me mandou
+	- [https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?](https://www.behance.net/gallery/224261935/Site-Clinica-Neurologia-One-Saude?tracking_source=search_projects%7Cneurologia+site&l=19)
+- [x] "Sinais que precisa mde atencao neurologica" - retirar
+	- Por Sobre a clinica no lugar
+- [x] O que tratamos -> substituir por slide e por o titulo exames consultas. Procedimentos e tratamentos ( site antigo )
+	- Os carrosseis devem ficar automaticos
+- [x] Retirar as imagens do Doutor romito na sobre a conheca a nossa clinica, deixar so imagens da clinica
+- [x] Retirar as fontes de informacao, as noticias
+	- Deixar e deixar as fontes sem links
+- [x] Como funciona - Retirar essa secao
+- [x] Por que a neuropleno - retirar essa secao
+- [x] Forma de pagamento - retirar
+- [ ] Melhorar as perguntas e respostas do FAQ
+	- Vao me mandar os textos melhorados
+- [x] "Agende agora a sua avaliacao neurologica" no lugar de "Nao deixe sua saude para depois"
+- [ ] No lugar de bastidores, puxar os posts do instagram mais recentes da clinica deles 
+	- https://www.instagram.com/neuroplenoclinica/
+
+#internship-wrmax  

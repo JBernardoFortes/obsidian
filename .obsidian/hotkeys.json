@@ -7,5 +7,23 @@
       ],
       "key": "L"
     }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }

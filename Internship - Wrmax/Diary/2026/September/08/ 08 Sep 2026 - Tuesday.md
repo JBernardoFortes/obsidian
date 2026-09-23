@@ -1,0 +1,22 @@
+- Perguntei sobre os documentos e eles me disseram que o site do gov estava offline, ela me pediu o documento hoje diretamente para assinar logo
+- Aparentemente tem um novo empregado para fazer entrevista no momento, ele ta perdido aqui na sala risos.
+- A primeira demanda do dia que me passaram foi desenvolver uma landpage para o cliente Neuroclinica.
+    - Parece que eh uma landpage do zero, eles ja tem um site proprio mas eu vou me basear nas informacoes e na estrutura que ja tem nesse site para fazer esse novo com o claude
+    - Finalmente uma demanda de TI, espero aprender alguma coisa nova, tem bastante abertura para aprender, seja me design, arquitetura e orgainzacao de projeto com o github
+    - skill pay-ad e a skill de design
+- Vou fazer a inscricao no TJ enquanto ha tempo, o plano eh pagar o estagio obrigatorio aqui na empresa e depois ir para o TJ a depender do desenrolar aqui
+    - Se isso se completar com exito eu vou conseguir sair com mais ou menos 1 ano de experiencia no mercado de trabalho da faculdade, um bom objetivo
+- Chegou um amigo novo aqui, ajudei ele com o link de onde o trafego eh pego, parece que ele que vai ficar com essa parte de trafego pago porque eh bem urgente
+    - Nao me passaram o curso para estudar, entao acho que devem estar com pressa
+- Vou seguir com meu plano de fazer o contrato de 3 meses, pagar o estagio obrigatorio e ir para o TJ caso eu passe, vou estudar para passar
+- Me passaram uma nova demanda, postagem automatica, basicamente eh agendar as postagens que estao no notion checando todas as informacoes e possiveis erros
+- Acabei o rascunho da landpage, pedir para o Roberth avaliar, ele esta meio arisco agora
+- O gargalo da landpage sao as fotos, preciso de fotos mais reais dos procedimentos me disseram
+- Me passaram para consertar os links do site da vercel, para eles apontarem para o site da Tuigo e nao do AnotaAi
+    - Fazer depois dos ajustes da neuropleno
+    - Verificar se as utms estao certas
+- Ajustar o nome da home → inicial na landingpage da neuroclinica
+- Ajustar o background para ser um carrossel das imagens da clinica no fundo dos doutores
+- Tenho que consertar as tags ou entender o porque de no tag assistant ele nao mostrar os eventos mandados pelo tuigo
+
+[[September]]
