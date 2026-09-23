@@ -61,6 +61,15 @@ Eh comum as bancas compararem esses dois protocolos para confundir o candidato:
 | Tipo de Dados     | Texto Claro           | Cifrado / Criptografado |
 | Protocolo de Base | Nenhum                | SSL/TLS                 |
 
+---
+
+### 6. Resumo e Simulado de Fixacao
+
+- **HTTP**: = Sem criptografia / **HTTPS** = Com criptografia
+- **TLS** eh a versao moderna e evolucao do **SSL**
+- O HTTPS era caro computacionalmente, mas hoje eh padrao e ajuda no **SEO/Indexacao**
+- **Cadeado** = Conexao segura, mas nao garante que o site nao seja um golpe ( phishing )
+- **FPT** = Transferencia de arquivos / **HTTP** = Exibicao de paginas web
 
 ---
 
