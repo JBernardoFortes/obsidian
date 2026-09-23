@@ -46,6 +46,21 @@ O Certificado SSL/TLS eh o documento digital que viabiliza a conexao segura.
 Eh comum as bancas compararem esses dois protocolos para confundir o candidato:
 
 - **HTTP/HTTPS**: Projetado para a exibicao de paginas web(hipertexto), combinando textos e imagens que sao renderizados visualmente pelo navegador.
+- **FTP (File Transfer Protocol)**: Projetado especificamente para a **transferencia bruta de arquivos** entre sistemas, sem qualquer preocupacao com a renderizacao visual ou exibicao de paginas
+
+--- 
+
+### 5. Tabela comparativa
+
+
+| Criterio          | HTTP                  | HTTPS                   |
+| ----------------- | --------------------- | ----------------------- |
+| Criptografia      | Nenhuma (Texto claro) | Sim ( SSL ou TLS )      |
+| Porta Padrao      | 80                    | 443                     |
+| Seguranca         | Baixa                 | Alta                    |
+| Tipo de Dados     | Texto Claro           | Cifrado / Criptografado |
+| Protocolo de Base | Nenhum                | SSL/TLS                 |
+
 
 ---
 
