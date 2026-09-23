@@ -46,10 +46,13 @@ Nativamente, o PROCV so pesquisa para a direita. O criterio de busca deve estar 
 
 
 
-| Erro   | Causa Provavel                                                                                                     | Solucao Baseada na Fonte                                                |
-| ------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| \#N/D  | Valor nao encontrado (FALSO) ou, se VERDADEIRO, o `valor_procurado` eh menor que o menor valor da primeira coluna. | Verificar a existencia do valor ou classificar se usar busca aproximada |
-| \#REF! | O `num_indice_coluna` eh maior que a quantidade de colunas na matriz                                               | Ajustar o indice para um numero dentro dos limites do intervalo         |
+| Erro        | Causa Provavel                                                                                                     | Solucao Baseada na Fonte                                                |
+| ----------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| \#N/D       | Valor nao encontrado (FALSO) ou, se VERDADEIRO, o `valor_procurado` eh menor que o menor valor da primeira coluna. | Verificar a existencia do valor ou classificar se usar busca aproximada |
+| \#REF!      | O `num_indice_coluna` eh maior que a quantidade de colunas na matriz                                               | Ajustar o indice para um numero dentro dos limites do intervalo         |
+| \#VALOR!    | O `num_indice_coluna` eh menor que 1                                                                               | Corrigir o indice para um numero inteiro igual ou superior a 1          |
+| \#NOME?     | Erro de digitacao no nome da funcao ou falta de aspas em criterio de texto                                         | Corrigir ortografia da funcao ou inserir as aspas obrigatorias          |
+| \#DESPEJAR! | Conflito de intersecao implicita (uso de coluna inteira como A:A em vez de uma celula unica como A2).              | Ancorar a referencia com @( ex: @A:A ) ou usar referencias de celulas   |
 
 
 
