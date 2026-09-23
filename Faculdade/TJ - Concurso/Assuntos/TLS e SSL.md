@@ -73,15 +73,14 @@ O SSL/TLS atua na camada intermediaria entre a **Aplicacao** ( como o HTTP ) e o
 
 ### 5. Tabela resumo
 
-
-| Recurso / Conceito     | SSL<br>(Secure Sockets Layer)      | TSL<br>(Transport Layer Security)          |
-| ---------------------- | ---------------------------------- | ------------------------------------------ |
-| Situacao atual         | Obsoleto                           | Ativo e padrao                             |
-| Desenvolvedor          | Netscape                           | IETF                                       |
-| Iniciacao do Handshake | Conexao explicita, mais lenta      | Conexao implicita, otimizada e mais rapida |
-| Autenticacao de Dados  | MAC baseado em MD5                 | HMAC com hashes seguros                    |
-| Mensagem de Alerta     | Apenas 2 tipos, nao cripotgrafadas | Diversificadas criptografadas              |
-| Uso no HTTPS           |                                    |                                            |
+| Recurso / Conceito     | SSL<br>(Secure Sockets Layer)       | TSL<br>(Transport Layer Security)          |
+| ---------------------- | ----------------------------------- | ------------------------------------------ |
+| Situacao atual         | Obsoleto                            | Ativo e padrao                             |
+| Desenvolvedor          | Netscape                            | IETF                                       |
+| Iniciacao do Handshake | Conexao explicita, mais lenta       | Conexao implicita, otimizada e mais rapida |
+| Autenticacao de Dados  | MAC baseado em MD5                  | HMAC com hashes seguros                    |
+| Mensagem de Alerta     | Apenas 2 tipos, nao cripotgrafadas  | Diversificadas criptografadas              |
+| Uso no HTTPS           | Deu origem a camada segura do HTTPS | Prove a camada segura atual na porta 443   |
 
 
 ---
