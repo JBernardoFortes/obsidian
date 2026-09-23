@@ -11,6 +11,8 @@ project: internship-wrmax
 
 	Me foi pedido para fazer os ajustes no site da neuropleno em cima da hora, me irritei bastante, ainda mais com o pagamento atrasado quase 7 dias, amanha completa 7 dias de atraso no salario, muita falta de consideracao, o plano B do ano que vem era continuar na empresa ate encontrar outra oportunidade melhor, porem talvez eu saia dela assim que o contrato do estagio acabar, vamos ver como vai ser. Por enquanto, estou com 6 dias de salario atrasado, nao sei mais como pedir, ja mandei chave pix, cobro diariamente quando chego no trabalho, tlavez eu tenha que falar com eles diretamente, sendo um pouco mais direto, para eles se tocarem. Decepcionado. Sinceramente, so decepcionado.
 
+
+	A reuniao eh 10h, ela me mandou coisas para consertar as 9:43.
 ### Demandas de hoje:
 
 - [[Demandas - 23 Set 2026]]
