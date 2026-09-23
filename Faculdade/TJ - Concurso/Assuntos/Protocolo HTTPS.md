@@ -24,7 +24,15 @@ Antigamente, o HTTPS era reservado apenas a bancos e e-commerces devido ao **alt
 O funcionamento do HTTPS baseia-se em uma **Criptografia Hibrida**, dividida em duas fases claras:
 
 1. **Handshake ( Negociacao Inicial Segura )**: Nesta fase, utiliza-se a **criptografia assimetrica** (chaves publicas e privadas). O objetivo eh a autenticacao do servdor e a troca de chaves de seguranca de forma protegida
-2. **Trafego de Dados**: Uma vez estabelecida a conexao, passa-se a utilizar a **crip**
+2. **Trafego de Dados**: Uma vez estabelecida a conexao, passa-se a utilizar a **criptografia simetrica** para a transmissao das infomacoes.
+
+**Dicas de Prova**: A criptografia simetrica eh preferida para o trafego continuo de dados por ser tecnicamente mais rapida e eficinte para grandes volumes de informacao, enquanto a assimetrica eh usada paenas no inicio ( handshake ) pela sua seguranca na troca de chaves
+
+---
+
+### 3. Certificados Digitais e Autoridades Certificadoras ( CA )
+
+O Certificado SSL/TL
 
 ---
 
