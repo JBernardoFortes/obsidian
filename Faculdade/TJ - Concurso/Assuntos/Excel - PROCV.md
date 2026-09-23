@@ -46,9 +46,10 @@ Nativamente, o PROCV so pesquisa para a direita. O criterio de busca deve estar 
 
 
 
-| Erro  | Causa Provavel                                                      | Solucao Baseada na Fonte |
-| ----- | ------------------------------------------------------------------- | ------------------------ |
-| \#N/D | Valor nao encontrado (FALSO) ou, se VERDADEIRO, o `valor_procurado` |                          |
+| Erro   | Causa Provavel                                                                                                     | Solucao Baseada na Fonte                                                |
+| ------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| \#N/D  | Valor nao encontrado (FALSO) ou, se VERDADEIRO, o `valor_procurado` eh menor que o menor valor da primeira coluna. | Verificar a existencia do valor ou classificar se usar busca aproximada |
+| \#REF! | O `num_indice_coluna` eh maior que a quantidade de colunas na matriz                                               | Ajustar o indice para um numero dentro dos limites do intervalo         |
 
 
 
