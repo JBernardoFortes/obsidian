@@ -14,3 +14,5 @@
 - [ ] Estatico Clinica RN - Exames laboratoriais
 - [x] Ajustes site neuropleno
 	- Muitos
+
+#### O claude caiu, nao tem como eu fazer os estaticos

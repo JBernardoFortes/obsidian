@@ -32,7 +32,20 @@ O funcionamento do HTTPS baseia-se em uma **Criptografia Hibrida**, dividida em 
 
 ### 3. Certificados Digitais e Autoridades Certificadoras ( CA )
 
-O Certificado SSL/TL
+O Certificado SSL/TLS eh o documento digital que viabiliza a conexao segura.
+
+- **Finalidade**: Estabelecer a conexao criptografada e atestar a identidade do titular do dominio
+- **Emissao**: Eh emitido por uma Autoridade Certificadora (CA) confiavel, que verifica e atesta quem eh o administrador do site antes de fornecer o documento.
+
+	O Certificado SSL/TLS contem a **chave publica do servidor**, elemento indispensavel para o processo de handshake e para garantir que o navegador esta se comunicando com o servidor correto
+
+---
+
+### 4. Diferenciacao Adicional: HTTP vs FTP
+
+Eh comum as bancas compararem esses dois protocolos para confundir o candidato:
+
+- **HTTP/HTTPS**: Projetado para a exibicao de paginas web(hipertexto), combinando textos e imagens que sao renderizados visualmente pelo navegador.
 
 ---
 
