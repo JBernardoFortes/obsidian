@@ -13,6 +13,8 @@ Passei um tempinho configurando o obsidian e procurando algumas coisas para faze
 
 Roberth me disse que vai chegar outra pessoa aqui para compor a equipe de dados, quero aprender mais com ele sobre essa area, vai ser uma boa oportunidade de aprendizado, o que eu puder aprender com gente nova eu vou aproveitar 
 
+Fiz uma entrevista 1:1 com o Cairo, o amigo de comercio, ele eh gente boa, a gente conversou sobre muita coisa no geral, falamos sobre a empresa e o que da pra melhorar nela, e minhas sugestoes.
+
 ### Demandas do dia de hoje 
 
 - [[Demandas - 24 Set 2026]]
