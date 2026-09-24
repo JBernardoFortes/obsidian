@@ -7,3 +7,7 @@ Fazer o EDR da API do TSE e das apis necessarias para puxar os dados das analise
 
 ### EDR - Rascunho
 [[ER]]
+
+### EDR - Artur
+
+[[EDR - Artur]]

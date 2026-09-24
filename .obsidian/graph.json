@@ -78,14 +78,14 @@
       }
     },
     {
-      "query": "path:\"Faculdade/TJ - Concurso/Assuntos\"  ",
+      "query": "path:TJ - Concurso/Assuntos\"  ",
       "color": {
         "a": 1,
         "rgb": 9057155
       }
     },
     {
-      "query": "file:TJ",
+      "query": "path:\"TJ - Concurso\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -102,6 +102,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.5846358443777131,
+  "scale": 0.38975722958514203,
   "close": false
 }
