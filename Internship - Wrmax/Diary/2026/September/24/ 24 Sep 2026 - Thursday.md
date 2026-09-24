@@ -11,6 +11,8 @@ Hoje tem algumas demandas referentes ao site da neuropleno ainda, tambem tenho q
 
 Passei um tempinho configurando o obsidian e procurando algumas coisas para fazer nele para melhorar, realmente ele tem muita coisa instalavel, bizarro.
 
+Roberth me disse que vai chegar outra pessoa aqui para compor a equipe de dados, quero aprender mais com ele sobre essa area, vai ser uma boa oportunidade de aprendizado, o que eu puder aprender com gente nova eu vou aproveitar 
+
 ### Demandas do dia de hoje 
 
 - [[Demandas - 24 Set 2026]]
