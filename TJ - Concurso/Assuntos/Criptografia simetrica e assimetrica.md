@@ -19,7 +19,17 @@ Neste metodo, a mesma chave privada eh compartilhada entre os pontos. A seguranc
 
 #### Classificacao dos Algoritmos
 
-Os algoritmos simetrico
+Os algoritmos simetricos dividem-se em dois subgrupos principais:
+
+##### A. Cifras de Block ( Block Ciphers )
+
+Processam a mensagem em blocos de tamanho fixo
+
+- **DES ( Date Encryption Standard  )**: Opera com blocos de 64 bits. Atualmente eh considerado vulneravel a ataques de forca bruta
+
+- **3DES ( Tripe DES )**: Executa o processo de "codificar-decodificar-codificar" usando tres chaves de 64 bits. Esse processamento triplo eh o motivo de ser considerado um algoritmo lento comparado aos modernos
+
+
 
 
 
