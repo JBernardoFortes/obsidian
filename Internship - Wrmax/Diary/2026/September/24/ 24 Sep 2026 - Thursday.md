@@ -9,6 +9,8 @@ Ontem foi realizado o pagamento, quase atrasou por 7 dias. Deu ate um animo para
 
 Hoje tem algumas demandas referentes ao site da neuropleno ainda, tambem tenho que fazer alguns estaticos
 
+Passei um tempinho configurando o obsidian e procurando algumas coisas para fazer nele para melhorar, realmente ele tem muita coisa instalavel, bizarro.
+
 ### Demandas do dia de hoje 
 
 - [[Demandas - 24 Set 2026]]

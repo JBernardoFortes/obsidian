@@ -14,6 +14,9 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 - [ ] Estatico Regina Nogueira - Falta de Libido
 - [ ] Estatico Clinica RN - Vacinacao do adulto
 - [ ] Estatico Clinica RN - Exames laboratoriais
+- [ ] Olhar o Google Analitycs da forno
+	- Aparentemente nao esta mostrando os dados
+
 
 ----
 
