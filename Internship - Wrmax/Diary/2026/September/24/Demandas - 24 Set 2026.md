@@ -21,4 +21,3 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 
 ----
 
-[[ 24 Sep 2026 - Thursday]]
