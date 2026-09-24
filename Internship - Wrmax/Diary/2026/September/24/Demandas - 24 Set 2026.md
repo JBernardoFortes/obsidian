@@ -17,6 +17,8 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 - [ ] Estatico Clinica RN - Exames laboratoriais
 - [x] Olhar o Google Analitycs da forno
 	- Aparentemente nao esta mostrando os dados
+- [ ] Checar a API do Zernio e definir viabilidade
+	- [ ] 
 
 
 ----
