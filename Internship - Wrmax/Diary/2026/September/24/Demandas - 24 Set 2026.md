@@ -18,7 +18,7 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 - [x] Olhar o Google Analitycs da forno
 	- Aparentemente nao esta mostrando os dados
 - [ ] Checar a API do Zernio e definir viabilidade
-	- [ ] 
+	- Meio caro ( $48 para 10 contas )
 
 
 ----
