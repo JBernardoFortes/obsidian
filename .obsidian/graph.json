@@ -60,7 +60,7 @@
       "query": "path:\"Internship - Wrmax/internship - Wrmax\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 1760000
       }
     },
     {
@@ -89,6 +89,13 @@
       "color": {
         "a": 1,
         "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2802176
       }
     }
   ],
