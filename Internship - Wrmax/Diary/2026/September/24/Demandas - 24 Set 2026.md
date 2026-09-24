@@ -11,7 +11,7 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 		- Tem o problema da credencial errada
 	- [ ] Neuropleno
 		- Nao me lembro qual era o problema
-- [ ] Estatico Regina Nogueira - Laser intimo
+- [x] Estatico Regina Nogueira - Laser intimo
 - [ ] Estatico Regina Nogueira - Falta de Libido
 - [ ] Estatico Clinica RN - Vacinacao do adulto
 - [ ] Estatico Clinica RN - Exames laboratoriais
