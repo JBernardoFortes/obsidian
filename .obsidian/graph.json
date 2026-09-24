@@ -2,92 +2,113 @@
   "collapse-filter": true,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Faculdade/Faculdade.md\" OR path:\"TJ - Concurso/TJ - Concurso.md\" OR path:\"Internship - Wrmax/Internship - Wrmax.md\"",
+      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
       "color": {
         "a": 1,
-        "rgb": 16739125
-      }
-    },
-    {
-      "query": "path:\"TJ - Concurso/Assuntos\"",
-      "color": {
-        "a": 1,
-        "rgb": 13073822
-      }
-    },
-    {
-      "query": "path:\"TJ - Concurso/Questoes\"",
-      "color": {
-        "a": 1,
-        "rgb": 11903562
-      }
-    },
-    {
-      "query": "path:\"Faculdade/Banco de Dados Relacionais\"",
-      "color": {
-        "a": 1,
-        "rgb": 4886745
-      }
-    },
-    {
-      "query": "path:\"Faculdade/Topicos em Engenharia de Software\"",
-      "color": {
-        "a": 1,
-        "rgb": 6012837
-      }
-    },
-    {
-      "query": "path:\"Faculdade/Topicos em Inteligencia Artificial\"",
-      "color": {
-        "a": 1,
-        "rgb": 9338051
+        "rgb": 13509246
       }
     },
     {
       "query": "path:\"Internship - Wrmax/Diary/2026/August\"",
       "color": {
         "a": 1,
-        "rgb": 7316335
+        "rgb": 3888097
       }
     },
     {
       "query": "path:\"Internship - Wrmax/Diary/2026/September\"",
       "color": {
         "a": 1,
-        "rgb": 11109479
+        "rgb": 15291240
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/Internship - Wrmax Diary.md\"",
+      "query": "path:\"Faculdade/Faculdade.md\"",
       "color": {
         "a": 1,
-        "rgb": 8359065
+        "rgb": 56101
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Banco de Dados Relacionais\"",
+      "color": {
+        "a": 1,
+        "rgb": 1482885
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Topicos em Engenharia de Software\"",
+      "color": {
+        "a": 1,
+        "rgb": 11793557
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Topicos em Inteligencia Artificial\"",
+      "color": {
+        "a": 1,
+        "rgb": 2719929
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/internship - Wrmax\"",
+      "color": {
+        "a": 1,
+        "rgb": 1760000
       }
     },
     {
       "query": "path:\"Internship - Wrmax/Documents\"",
       "color": {
         "a": 1,
-        "rgb": 10259110
+        "rgb": 16507985
+      }
+    },
+    {
+      "query": "file:Questao",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso/Assuntos\"",
+      "color": {
+        "a": 1,
+        "rgb": 9057155
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso/Questoes\"",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2802176
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.59615005907838,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.385978731784167,
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.17418928212111945,
-  "close": true
+  "scale": 0.25983815305676133,
+  "close": false
 }
