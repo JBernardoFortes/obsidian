@@ -57,14 +57,14 @@
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/internship - Wrmax\"  ",
+      "query": "path:\"Internship - Wrmax/internship - Wrmax\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Documents\"  ",
+      "query": "path:\"Internship - Wrmax/Documents\"",
       "color": {
         "a": 1,
         "rgb": 16507985
@@ -78,17 +78,17 @@
       }
     },
     {
-      "query": "path:TJ - Concurso/Assuntos\"  ",
+      "query": "path:\"TJ - Concurso/Assuntos\"",
       "color": {
         "a": 1,
         "rgb": 9057155
       }
     },
     {
-      "query": "path:\"TJ - Concurso\"  ",
+      "query": "path:\"TJ - Concurso/Questoes\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 61183
       }
     }
   ],
@@ -102,6 +102,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.38975722958514203,
+  "scale": 0.25983815305676133,
   "close": false
 }
