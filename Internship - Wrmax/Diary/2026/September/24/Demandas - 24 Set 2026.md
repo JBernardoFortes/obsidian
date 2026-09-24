@@ -12,7 +12,7 @@ Hoje eu vou focar mais em consertar algumas pequenas coisas no site da neuroplen
 	- [ ] Neuropleno
 		- Nao me lembro qual era o problema
 - [x] Estatico Regina Nogueira - Laser intimo
-- [ ] Estatico Regina Nogueira - Falta de Libido
+- [x] Estatico Regina Nogueira - Falta de Libido
 - [ ] Estatico Clinica RN - Vacinacao do adulto
 - [ ] Estatico Clinica RN - Exames laboratoriais
 - [x] Olhar o Google Analitycs da forno
