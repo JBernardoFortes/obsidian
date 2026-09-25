@@ -19,6 +19,8 @@ Me chamaram para uma reuniao para levantar requisito sobre uma plataforma para o
 
 Me pediram tambem para criar uma interface para o disparo de mensagens, primeiro vamos deixar tudo rodando redondo, depois vamos fazer essa interface.
 
+Final do expediente acabou que eu fiquei sem fazer muita coisa, poderia estudar mas vou segurar um pouco por hoje, 12:40 eu comeco a me arrumar para ir embora.
+
 ---
 
 ### Demandas - 25 Set 2026
