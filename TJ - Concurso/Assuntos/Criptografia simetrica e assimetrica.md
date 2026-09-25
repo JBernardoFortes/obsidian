@@ -29,6 +29,7 @@ Processam a mensagem em blocos de tamanho fixo
 
 - **3DES ( Tripe DES )**: Executa o processo de "codificar-decodificar-codificar" usando tres chaves de 64 bits. Esse processamento triplo eh o motivo de ser considerado um algoritmo lento comparado aos modernos
 
+- **AES ( **
 
 
 
