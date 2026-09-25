@@ -15,6 +15,8 @@ Nao vou confiar de falar essas coisas pros amigos do RH por razoes obvias, eles 
 
 No geral eles sao gente boa, o unico problema eh essa parte de negligencia com as questoes dos outros.
 
+Me chamaram para uma reuniao para levantar requisito sobre uma plataforma para o cliente, me perguntaram sobre o Autentique, vou pesquisar sobre, to com medo deles fazerem isso com o Lovable full videcodado, queria que eles deixassem pra eu fazer pra eu saber o que esta sendo feito, mas se nao der paciencia. Seria uma projeto interessante para fazer.
+
 ---
 
 ### Demandas - 25 Set 2026

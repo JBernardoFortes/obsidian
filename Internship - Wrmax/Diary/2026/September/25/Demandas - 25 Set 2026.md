@@ -20,3 +20,6 @@
 
 - [ ] Fazer o link ser rastreavel do follow up da tuigo
 	- O link em si ta rastreavel para clicks, mas nao para compras
+	- Criar um novo link so para disparos internos da wrmax
+
+
