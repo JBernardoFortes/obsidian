@@ -9,8 +9,9 @@
 	- [x] Falta de libido
 	- [x] Laser intimo
 - [ ] Carrossel - Doutor Romilto Tadala
+	- [ ] 
 - [ ] Google meu negocio - OxCentro Centro Medico
-	- 
+	- As credenciais que tem disponiveis nao estao passando
 
 
 - [ ] Fazer os ajustes dos outros medicos da neuropleno na landpage deles
