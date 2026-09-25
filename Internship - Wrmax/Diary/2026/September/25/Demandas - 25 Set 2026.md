@@ -1,10 +1,12 @@
 
 - [ ] Publicar a landpage da Azuza no dominio deles
 	- Procurar as senhas no Notion
-- [ ] Estatico - Clinica RN: Vacinacao do adulto
+	- Nao encontrei os dados de acesso no Notion, vou comunicar o mais cedo possivel
+- [x] Estatico - Clinica RN: Vacinacao do adulto1
 - [ ] Estatico - Clinica RN: Exames Laboratoriais
 - [x] Tirar a logo dos estaticos da Enfermeira Regina Nogueira
 	- [x] Falta de libido
 	- [x] Laser intimo
 - [ ] Fazer os ajustes dos outros medicos da neuropleno na landpage deles
-	- Colocar fotos no carrossel na aba de profissionai
+	- Colocar fotos no carrossel na aba de profissionais
+	- Ainda nao consigo fazer por conta do gargalo dos dados
