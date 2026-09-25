@@ -25,7 +25,6 @@
 - [ ] Ajustar alguma coisa no disparo de mensagens da Forno Paulista
 	- Provavelmente o Roberth vai querer mudar algo ainda 
 - [x] Fazer uma arte da APIPA
-	- [[Arte APIPA]]
 - [x] Mandar o convite da APIPA com o nome em branco para o Roberth
 - [x] Fazer um banner para colocar no site da APIPA
 - [x] Colocar no site da APIPA

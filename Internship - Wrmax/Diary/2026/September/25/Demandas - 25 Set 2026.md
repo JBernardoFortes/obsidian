@@ -23,7 +23,7 @@
 	- Criar um novo link so para disparos internos da wrmax
 	- Preciso testar ainda em relacao a amanha, vou esperar, porque ele me retorna o feedback mas parece que ele ainda nao processou a campanha
 
-- [ ] Consertar o card da oxcentro
+- [x] Consertar o card da oxcentro
 	- IASPE eh com I nao com E no final
 
 - [ ] Me pediram tambem um estatico da oxcentro sobre aluguel de salas
