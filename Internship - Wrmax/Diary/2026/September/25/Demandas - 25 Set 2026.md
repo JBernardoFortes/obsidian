@@ -21,6 +21,7 @@
 - [ ] Fazer o link ser rastreavel do follow up da tuigo
 	- O link em si ta rastreavel para clicks, mas nao para compras
 	- Criar um novo link so para disparos internos da wrmax
+	- Preciso testar ainda em relacao a amanha, vou esperar, porque ele me retorna o feedback mas parece que ele ainda nao processou a campanha
 
 - [ ] Consertar o card da oxcentro
 	- IASPE eh com I nao com E no final
