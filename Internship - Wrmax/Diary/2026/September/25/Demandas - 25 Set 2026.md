@@ -9,7 +9,7 @@
 	- [x] Falta de libido
 	- [x] Laser intimo
 - [ ] Carrossel - Doutor Romilto Tadala
-	- [ ] 
+	- Vou tentar passar esse carrossel para outra pessoa, nao gostaria de fazer ele, ele eh mt exigente e eu nao sei editar imagens no canvas direito
 - [ ] Google meu negocio - OxCentro Centro Medico
 	- As credenciais que tem disponiveis nao estao passando
 
@@ -17,3 +17,6 @@
 - [ ] Fazer os ajustes dos outros medicos da neuropleno na landpage deles
 	- Colocar fotos no carrossel na aba de profissionais
 	- Ainda nao consigo fazer por conta do gargalo dos dados
+
+- [ ] Fazer o link ser rastreavel do follow up da tuigo
+	- O link em si ta rastreavel para clicks, mas nao para compras
