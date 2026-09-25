@@ -13,6 +13,11 @@ Tambem vou pedir para a Kellyane assinar os documentos do estagio. Uma coisa que
 
 Nao vou confiar de falar essas coisas pros amigos do RH por razoes obvias, eles falam pra confiar neles mas dependendo do quanto a gente tiver desalinhado com a empresa ele talvez recomende que me desliguem da empresa.
 
+### Demandas - 25 Set 2026
+
+Demandas do dia de hoje
+
+- 
 
 
 ---
