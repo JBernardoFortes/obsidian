@@ -2,7 +2,7 @@
 - [ ] Publicar a landpage da Azuza no dominio deles
 	- Procurar as senhas no Notion
 	- Nao encontrei os dados de acesso no Notion, vou comunicar o mais cedo possivel
-- [ ] Estatico - Clinica RN: Vacinacao do adulto
+- [x] Estatico - Clinica RN: Vacinacao do adulto
 - [ ] Estatico - Clinica RN: Exames Laboratoriais
 - [x] Tirar a logo dos estaticos da Enfermeira Regina Nogueira
 	- [x] Falta de libido
