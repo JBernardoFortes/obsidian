@@ -26,5 +26,5 @@
 - [x] Consertar o card da oxcentro
 	- IASPE eh com I nao com E no final
 
-- [ ] Me pediram tambem um estatico da oxcentro sobre aluguel de salas
+- [x] Me pediram tambem um estatico da oxcentro sobre aluguel de salas
 
