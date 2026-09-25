@@ -22,4 +22,8 @@
 	- O link em si ta rastreavel para clicks, mas nao para compras
 	- Criar um novo link so para disparos internos da wrmax
 
+- [ ] Consertar o card da oxcentro
+	- IASPE eh com I nao com E no final
+
+- [ ] Me pediram tambem um estatico da oxcentro sobre aluguel de salas
 
