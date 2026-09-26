@@ -9,4 +9,10 @@ c) Ao desnormalizar, dados que antes estavam distribuídos em várias tabelas pa
 d) A desnormalização é uma prática exclusiva de bancos de dados não relacionais, sendo incompatível com modelos relacionais.  
 e) Aplicações atuais, por utilizarem cache, não se beneficiam de nenhuma estratégia de desnormalização, tornando a prática obsoleta.
 
+Gabarito: 
+
+
+
+---
+
 [[ Normalizacao e Desnormalizacao]]
