@@ -8,38 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Faculdade/Faculdade.md\" OR path:\"TJ - Concurso/TJ - Concurso.md\" OR path:\"Internship - Wrmax/Internship - Wrmax.md\"",
+      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
+      "color": {
+        "a": 1,
+        "rgb": 13509246
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary/2026/August\"",
+      "color": {
+        "a": 1,
+        "rgb": 3888097
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary/2026/September\"",
+      "color": {
+        "a": 1,
+        "rgb": 15291240
+      }
+    },
+    {
+      "query": "path:\"Faculdade/Faculdade.md\"",
       "color": {
         "a": 1,
         "rgb": 56101
-      }
-    },
-    {
-      "query": "path:\"TJ - Concurso/Assuntos\"",
-      "color": {
-        "a": 1,
-        "rgb": 9057155
-      }
-    },
-    {
-      "query": "path:\"TJ - Concurso/Questoes\"",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
-      "query": "file:Questao",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
-      "query": "path:\"TJ - Concurso\"",
-      "color": {
-        "a": 1,
-        "rgb": 2802176
       }
     },
     {
@@ -64,24 +57,10 @@
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/2026/August\"",
+      "query": "path:\"Internship - Wrmax/internship - Wrmax\"",
       "color": {
         "a": 1,
-        "rgb": 3888097
-      }
-    },
-    {
-      "query": "path:\"Internship - Wrmax/Diary/2026/September\"",
-      "color": {
-        "a": 1,
-        "rgb": 15291240
-      }
-    },
-    {
-      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
-      "color": {
-        "a": 1,
-        "rgb": 13509246
+        "rgb": 1760000
       }
     },
     {
@@ -89,6 +68,34 @@
       "color": {
         "a": 1,
         "rgb": 16507985
+      }
+    },
+    {
+      "query": "file:Questao",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso/Assuntos\"",
+      "color": {
+        "a": 1,
+        "rgb": 9057155
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso/Questoes\"",
+      "color": {
+        "a": 1,
+        "rgb": 61183
+      }
+    },
+    {
+      "query": "path:\"TJ - Concurso\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2802176
       }
     }
   ],
@@ -102,6 +109,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.0489986020353074,
+  "scale": 0.1732254353711741,
   "close": true
 }

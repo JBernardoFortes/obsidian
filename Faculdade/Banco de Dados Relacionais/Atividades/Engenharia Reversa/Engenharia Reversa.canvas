@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"fa3d06e7abd67a28","type":"group","x":-800,"y":-820,"width":1920,"height":660,"color":"#a45151","label":"Modelo 1"},
+		{"id":"8365d38bc45412f7","type":"group","x":-800,"y":-40,"width":1787,"height":500,"color":"#4655a0","label":"Modelo 2"},
+		{"id":"ad873cafde25b024","type":"text","text":"## Aluno\n\nPK nmr_aluno\nnome\nend\nsexo\nFK curso","x":-780,"y":-580,"width":180,"height":200,"color":"#787878"},
+		{"id":"89cc4373b8c09cd9","type":"text","text":"## Matricula\n\nFK nmr_aluno\nFK cod_disciplina\n","x":-570,"y":-780,"width":180,"height":156,"color":"#787878"},
+		{"id":"9a36f048b1ddf3c5","type":"text","text":"## Concluida\n\nFK nmr_aluno\nFK cod_disciplina","x":-570,"y":-320,"width":180,"height":120,"color":"#787878"},
+		{"id":"c30c74dd2b7c4762","type":"text","text":"## Disciplina\n\nPK cod_disciplina\nnome_disciplina\nFK pre_cod_disc","x":-360,"y":-562,"width":180,"height":162,"color":"#787878"},
+		{"id":"7364605574f04f04","type":"text","text":"## Disciplina_curso\n\nFK cod_disciplina\nFK cod_curso\ntipo_disciplina","x":-80,"y":-562,"width":240,"height":159,"color":"#787878"},
+		{"id":"f4159fdfe7fc1758","type":"text","text":"## Curso\n\nPK cod_curso\nnome\n","x":240,"y":-542,"width":180,"height":120,"color":"#787878"},
+		{"id":"89bc8047de4c82a0","type":"text","text":"## Curso_departamento\n\nFK cod_curso\nFK cod_departamento","x":480,"y":-553,"width":280,"height":142,"color":"#787878"},
+		{"id":"c9b8e547859d5e41","type":"text","text":"## Departamento\n\nPK cod_departamento\nnome","x":840,"y":-552,"width":220,"height":141,"color":"#787878"},
+		{"id":"77ff4828b6555a94","type":"text","text":"## Conta\n\nPK id_conta\nsaldo","x":-550,"y":25,"width":140,"height":116},
+		{"id":"bd6bdf34a57d20fb","type":"text","text":"## Transacao\n\nPK id_trans\ndata\nvalor\nFK id_conta","x":-780,"y":-9,"width":180,"height":184},
+		{"id":"88f62d053ecb53d5","type":"text","text":"## CCA\n\nFK id_conta\nFK id_agencia\nFK id_cliente","x":-342,"y":13,"width":162,"height":140},
+		{"id":"fcf2a286dedfea5c","type":"text","text":"## Cliente\n\nPK id_cliente\nnome\ncidade\nRG","x":-335,"y":193,"width":148,"height":173},
+		{"id":"dcaadb047f1b4b65","type":"text","text":"## Funcionario\n\nPK id_funcionario\nnome\nend\nsal\nFK id_agencia","x":240,"y":-20,"width":196,"height":206},
+		{"id":"d46d8860307494d9","type":"text","text":"## Programador\n\nPK id_funcionario\nnome","x":218,"y":217,"width":240,"height":126},
+		{"id":"b7ee1522508bc867","type":"text","text":"## Limpeza\n\nPK id_funcionario\ncargo\ngen ( Nao compreendi na imagem)","x":493,"y":10,"width":307,"height":146},
+		{"id":"79cc7bb78a1eee14","type":"text","text":"## Agencia\n\nPK id_agencia\ncidade","x":-80,"y":21,"width":198,"height":124},
+		{"id":"85934d093ceb644a","type":"file","file":"Faculdade/Banco de Dados Relacionais/Atividades/Engenharia Reversa/Engenharia Reversa.md","x":-800,"y":480,"width":760,"height":960}
+	],
+	"edges":[
+		{"id":"b77e86dc75acc9bf","fromNode":"ad873cafde25b024","fromSide":"top","toNode":"89cc4373b8c09cd9","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"865b1e926ab6d6c6","fromNode":"89cc4373b8c09cd9","fromSide":"right","toNode":"c30c74dd2b7c4762","toSide":"top","toEnd":"none","color":"#ffffff"},
+		{"id":"f330eda73cc22738","fromNode":"9a36f048b1ddf3c5","fromSide":"left","toNode":"ad873cafde25b024","toSide":"bottom","toEnd":"none","color":"#ffffff"},
+		{"id":"30dd7cb1ce8a66c2","fromNode":"9a36f048b1ddf3c5","fromSide":"right","toNode":"c30c74dd2b7c4762","toSide":"bottom","toEnd":"none","color":"#ffffff"},
+		{"id":"2eb690af569ada12","fromNode":"c30c74dd2b7c4762","fromSide":"right","toNode":"7364605574f04f04","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"1734ce3e479eb89c","fromNode":"7364605574f04f04","fromSide":"right","toNode":"f4159fdfe7fc1758","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"015d66ea68ee0b2d","fromNode":"f4159fdfe7fc1758","fromSide":"right","toNode":"89bc8047de4c82a0","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"afbcbd7a5ffb14d9","fromNode":"c9b8e547859d5e41","fromSide":"left","toNode":"89bc8047de4c82a0","toSide":"right","toEnd":"none","color":"#ffffff"},
+		{"id":"b647de4b26b0d59a","fromNode":"88f62d053ecb53d5","fromSide":"right","toNode":"79cc7bb78a1eee14","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"35c7023118f58082","fromNode":"77ff4828b6555a94","fromSide":"left","toNode":"bd6bdf34a57d20fb","toSide":"right","toEnd":"none","color":"#ffffff"},
+		{"id":"a4b579b9caf2a370","fromNode":"77ff4828b6555a94","fromSide":"right","toNode":"88f62d053ecb53d5","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"6bf25c3264ffa08b","fromNode":"79cc7bb78a1eee14","fromSide":"right","toNode":"dcaadb047f1b4b65","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"d88f23598fef5d2a","fromNode":"dcaadb047f1b4b65","fromSide":"bottom","toNode":"d46d8860307494d9","toSide":"top","toEnd":"none","color":"#ffffff"},
+		{"id":"c57cfe08e7c2b2cc","fromNode":"dcaadb047f1b4b65","fromSide":"right","toNode":"b7ee1522508bc867","toSide":"left","toEnd":"none","color":"#ffffff"},
+		{"id":"1328f3fe12b3e5b6","fromNode":"88f62d053ecb53d5","fromSide":"bottom","toNode":"fcf2a286dedfea5c","toSide":"top","toEnd":"none","color":"#ffffff"}
+	]
+}
