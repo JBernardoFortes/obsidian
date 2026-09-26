@@ -45,7 +45,7 @@ Processam os dados bit a bit ou byte a byte:
 
 ---
 
-### Criptografia Assimetrica
+### 3. Criptografia Assimetrica
 
 Tambem chamada de criptografia de chave publica, utiliza uma dinamica onde o que uma chave cifra, apenas a outra do mesmo par pode decifrar. Geralmente, a chave publica cifra a mensagem, e a chave privada do receptor a decifra.
 
@@ -63,16 +63,27 @@ A criptografia assimetrica eh a base para garantir: **Autenticidade**, **Integri
 
 ---
 
-##### 4. Criptografia Hibrida: O Equilibrio no TLS/HTTPS
+### 4. Criptografia Hibrida: O Equilibrio no TLS/HTTPS
 
 A criptografia hibrida combina a seguranca da assimetrica com a velocidade da simetrica, sendo a base do protocolo **HttPS** ( Via camada TLS, sucessora do SSL )
 
 O processo ocorre em duas etapas logicas:
 
 - **Handshake**: Utiliza-se a **criptografia assimetrica**. O navegador utiliza a Chave Publica do servidor ( Obtida no Certificado Digital ) para cifrar uma chave de sessao ( que eh simetrica ). Dessa forma, apenas a Chave Privada do servidor pode revelar essa chave de sessao, garantindo que o segredo nao seja interceptado.
-- **Trafego de Dados**: Uma vez que ambos possuem a mesma chave de sessa
+- **Trafego de Dados**: Uma vez que ambos possuem a mesma chave de sessao, passa-se a utilizar a **criptografia simetrica** para o fluxo continuo de dados, garantindo a performance necesaria para a navegacao web.
+
+---
+
+### 5. Tabela comparativa e Guia 
 
 
+| Criterio                 | Criptografia Simetrica                       | Criptografia Assimetrica                    |
+| ------------------------ | -------------------------------------------- | ------------------------------------------- |
+| Quantidade de <br>Chaves | 1 ( Secreta/Compartilhada)                   | 2 (Par: Publica e Privada)                  |
+| Velocidade               | Alta                                         | Baixa                                       |
+| Recursos                 | Baixo Consumo                                | Alto Consumo                                |
+| Escalabilidade           | Baixa ( Dificil gerenciar <br>muitas chaves) | Alta ( Cada usuario tem<br>apenas um par)   |
+| Pilares principais       | Confidencialidade                            | Autenticidade, integridade<br>e Nao repudio |
 
 
 ---
