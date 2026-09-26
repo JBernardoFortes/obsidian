@@ -33,7 +33,27 @@ Processam a mensagem em blocos de tamanho fixo
 
 - **Blowfish**: Utiliza blocos de 8 bytes ( 64 bits ) e chaves variaveis de 32 e 448 bits
 
-- **IDEA ( International Data Encryption Algorithm )**: Opera em blocos de 64 bits com chaves de 128 bits; baseia-se em oper
+- **IDEA ( International Data Encryption Algorithm )**: Opera em blocos de 64 bits com chaves de 128 bits; baseia-se em operacoes matematicas complexas para evitar criptoanalise
+
+##### B. Cifras de Fluxo ( Stream Ciphers ):
+
+Processam os dados bit a bit ou byte a byte:
+
+- **RC4**: Opera 1 byte por vez. Foi a base do antigo protocolo SSL, mas hoje eh considerado defasado e inseguro
+	**Vantagens**: Alta velocidade de processamento e baixo custo computacional
+	**Desvantagens**: Complexidade na gestao e troca segura de chaves ( problema de distribuicao ); baixa escalabilidade e nao oferece irretratabilidade ( nao prova a autoria )
+
+---
+
+### Criptografia Assimetrica
+
+Tambem chamada de criptografia de chave publica, utiliza uma dinamica onde o que uma chave cifra, apenas a outra do mesmo par pode decifrar. Geralmente, a chave publica cifra a mensagem, e a chave privada do receptor a decifra.
+
+**Principais Plgoritmos e Protocolos**
+
+- **RSA ( Riverst-Shamir-Adleman )**: Baseado na dificuldade de fatoracao de numeros primos grandes. Eh o mais utilizado no mundo, operando com chaves de 2048 bits ou mais. Eh extremamente seguro, porem lento devido a complexidade matematica
+- **E**
+****
 
 
 
