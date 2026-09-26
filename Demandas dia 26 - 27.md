@@ -13,11 +13,11 @@
 - [x] Lista de topicos em engenharia
 - [x] Trabalho de topicos em IA 
 	- Consertar cabeca de atencao
-- [ ] Trabalho de BDR
+- [x] Trabalho de BDR
 	- Manipulacao de dados
-	- [ ] Enviar
-- [ ] Trabalho de BDR
-	- 
+	- [x] Enviar
+- [x] Trabalho de BDR
+	- JOIN
 - [ ] Carga do banco de dados de BDR
 - [ ] Fazer o modulo 6 da aws academy
 
