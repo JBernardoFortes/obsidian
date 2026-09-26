@@ -26,5 +26,5 @@
 - [ ] Carregar o cartao
 - [ ] Olhar e marcar o local da prova do TJ
 - [ ] Cortar a unha
-- [ ] Ir pra cadimia
+- [x] Ir pra cadimia
 - [ ] Abrir o Notebook pra ver os pinos
