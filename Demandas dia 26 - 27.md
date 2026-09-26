@@ -10,12 +10,11 @@
 
 #### Faculdade 
 
-- [ ] Lista de topicos em engenharia
-- [ ] Trabalho de topicos em IA 
+- [x] Lista de topicos em engenharia
+- [x] Trabalho de topicos em IA 
 	- Consertar cabeca de atencao
-- [ ] Trabalho de topicos em IA 
-- [ ] Trabalho de topicos em IA
 - [ ] Trabalho de BDR
+	- Manipulacao de dados
 - [ ] Trabalho de BDR
 - [ ] Carga do banco de dados de BDR
 - [ ] Fazer o modulo 6 da aws academy
