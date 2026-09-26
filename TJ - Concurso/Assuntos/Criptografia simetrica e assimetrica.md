@@ -52,8 +52,25 @@ Tambem chamada de criptografia de chave publica, utiliza uma dinamica onde o que
 **Principais Plgoritmos e Protocolos**
 
 - **RSA ( Riverst-Shamir-Adleman )**: Baseado na dificuldade de fatoracao de numeros primos grandes. Eh o mais utilizado no mundo, operando com chaves de 2048 bits ou mais. Eh extremamente seguro, porem lento devido a complexidade matematica
-- **E**
-****
+- **ECC ( Curva Eliptica )**: Oferece alto nivel de seguranca com chaves menores, sendo eficiente para dispositivos com pouco recursos.
+- **DSA ( Digital Signature Algorithm )**: Algoritmo focado especificamente em garantir a autenticidade atraves de assinaturas digitais.
+- **Diffie-Hellman**: Protocolo focado na troca segura de chaves simetricas sobre canais inseguros, utilizando logaritmos discretos
+- **ElGamal**: Baseado na dificuldade de resolver logaritmos discretos, similar ao Diffie-Hellman
+
+**Pilares e certificacao**
+
+A criptografia assimetrica eh a base para garantir: **Autenticidade**, **Integridade** e **Nao-repudio ( Irretratabilidade )**. O **Certificado Digital** eh o documento eletronico, emitido por uma Autoridade Certificadora (AC ), que valida a identidade de um titular. Para o funcionamento de criptografia, o ponto crucial eh que o **Certificado Digital contem a Chave Publica** do seu proprietario, permitindo que terceiros iniciem comunicacoes seguras com ele.
+
+---
+
+##### 4. Criptografia Hibrida: O Equilibrio no TLS/HTTPS
+
+A criptografia hibrida combina a seguranca da assimetrica com a velocidade da simetrica, sendo a base do protocolo **HttPS** ( Via camada TLS, sucessora do SSL )
+
+O processo ocorre em duas etapas logicas:
+
+- **Handshake**: Utiliza-se a **criptografia assimetrica**. O navegador utiliza a Chave Publica do servidor ( Obtida no Certificado Digital ) para cifrar uma chave de sessao ( que eh simetrica ). Dessa forma, apenas a Chave Privada do servidor pode revelar essa chave de sessao, garantindo que o segredo nao seja interceptado.
+- **Trafego de Dados**: Uma vez que ambos possuem a mesma chave de sessa
 
 
 
