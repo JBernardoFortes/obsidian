@@ -14,7 +14,7 @@ A escolha da estratégia de backup exige uma análise clínica da **Janela de Ba
 
 - **Backup Completo (Full):** Realiza a cópia integral de todos os dados. É a base de qualquer estratégia. Embora garanta a restauração mais simples e rápida, exige maior tempo de execução e grande espaço de armazenamento, o que pode inviabilizar sua execução diária em grandes volumes de dados.
 - **Backup Incremental:** Copia apenas os dados alterados desde o último backup (seja ele Full ou Incremental). Otimiza drasticamente a _Janela de Backup_ e o espaço em disco. **Análise "So What?":** O custo dessa agilidade na cópia é o aumento da complexidade no _restore_. A recuperação exige o último Full e _todos_ os incrementais subsequentes. Se um único link dessa cadeia falhar ou for corrompido, a integridade de toda a restauração é comprometida.
-- **Backup Diferencial:** Copia os dados alterados desde o último backup _Full_. Representa um meio-termo: ocupa mais espaço que o incremental, mas simplifica a recuperação, exigindo apenas o Full e o último diferencial.
+- **Backup Diferencial:** Copia os dados alterados desde o último backup _Full_. Representa um meio-termo: ocupa mais espaço que o incremental, mas simplifica a recuperação, exigindo apenas o Full e o último diferencial. Em algumas provas pode ser considerado que ele faz o backup desde o incremental ou o full.
 
 ## 3. Matriz Comparativa de Desempenho e Armazenamento
 
