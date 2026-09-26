@@ -174,13 +174,13 @@ Reúne intencionalmente as tabelas em uma única estrutura para evitar **JOINs**
 
 ## Resumo
 
-|Forma Normal|Objetivo principal|
-|---|---|
-|**UNF**|Estrutura não normalizada, com grupos repetitivos|
-|**1FN**|Garantir atomicidade dos valores|
-|**2FN**|Eliminar dependências parciais|
-|**3FN**|Eliminar dependências transitivas|
-|**FNBC**|Todo determinante deve ser uma superchave|
-|**4FN**|Eliminar dependências multivaloradas|
-|**5FN**|Eliminar dependências de junção|
-|**Desnormalização**|Otimizar consultas analíticas, aceitando redundância|
+| Forma Normal        | Objetivo principal                                   |
+| ------------------- | ---------------------------------------------------- |
+| **UNF**             | Estrutura não normalizada, com grupos repetitivos    |
+| **1FN**             | Garantir atomicidade dos valores                     |
+| **2FN**             | Eliminar dependências parciais                       |
+| **3FN**             | Eliminar dependências transitivas                    |
+| **FNBC**            | Todo determinante deve ser uma superchave            |
+| **4FN**             | Eliminar dependências multivaloradas                 |
+| **5FN**             | Eliminar dependências de junção                      |
+| **Desnormalização** | Otimizar consultas analíticas, aceitando redundância |
