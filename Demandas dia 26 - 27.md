@@ -15,7 +15,9 @@
 	- Consertar cabeca de atencao
 - [ ] Trabalho de BDR
 	- Manipulacao de dados
+	- [ ] Enviar
 - [ ] Trabalho de BDR
+	- 
 - [ ] Carga do banco de dados de BDR
 - [ ] Fazer o modulo 6 da aws academy
 
