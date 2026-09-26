@@ -29,7 +29,11 @@ Processam a mensagem em blocos de tamanho fixo
 
 - **3DES ( Tripe DES )**: Executa o processo de "codificar-decodificar-codificar" usando tres chaves de 64 bits. Esse processamento triplo eh o motivo de ser considerado um algoritmo lento comparado aos modernos
 
-- **AES ( **
+- **AES ( Advanced Encrypton Standard )**: O padrao atual do mercado. Trabalha com blocos de 128 bits e chaves de 128, 192 ou 256 bits. Eh altamente eficiente por processar os dados em varias rodadas ( iteracoes ), garantindo seguranca e rapidez
+
+- **Blowfish**: Utiliza blocos de 8 bytes ( 64 bits ) e chaves variaveis de 32 e 448 bits
+
+- **IDEA ( International Data Encryption Algorithm )**: Opera em blocos de 64 bits com chaves de 128 bits; baseia-se em oper
 
 
 
