@@ -51,4 +51,36 @@
 
 3. Mecanismos de transformacao de modelos na nuvem
 
-	Disponibilizar na nuvem motores de transformacao de modelos, permitindo realizar gerenciamento de modelos de maneira independente
+	Disponibilizar na nuvem motores de transformacao de modelos, permitindo realizar gerenciamento de modelos de maneira independente da plataforma
+
+4. Geracao de codigo na nuvem
+
+	Transferir servicos de geracao de codigo e simulacao para a nuvem. Isso pode facilitar a implantacao e evolucao das aplicacoes e aumentar a produtividade, pois os desenvolvedores nao precisam configurar e manter toda a infraestrutura necessaria para desenvolver aplicacoes baseadas em modelos.
+
+5. Gerenciamento global distribuido de modelos
+
+	Permitir o gerenciamento distribuido dos diversos artefatos envolvidos em projetos complexos de MDE, como modelos, metamodelos, transformacoes, injetores e projetores, facilitando sua manipulacao em um abiente distribuido.
+
+### 4. Explique a importancia das funcionalidades de auditoria, relatorios de uso e faturamento em um sistema de software web implementado em um ambiente de computacao em nuvem que utiliza IaaS e PaaS.
+
+1. Suporte ao modelo de negocio baseado em uso
+
+	Em ambientes IaaS e PaaS, os recursos computacionais sao consumidos sob demanda. Mecanismos de billing e relatorios de uso sao essenciais para mensurar com precisa o volume consumido e cobrar os clientes adequadamente.
+
+2. Auditoria e rastreabilidade
+
+	Sao necessarios para garantir a transparencia conformidade e governanca das operacoes administrativas executadas na infraestrutura ou plataforma
+
+3. Impacto no desenvolvimento e desempenho
+
+	Diferente do software tradicional isolado, esses mecanismos adicionariam uma camada de complexidade administrativa ao software e precisam ser implementados sem comprometer o desempenho ou o funcionamento da aplicacao
+
+### 5. Explique cada um dos seis principais componentes do Eucalyptus1, uma opção open source para computação em nuvem compatível com o AW
+
+1. Cloud Controller ( CLC )
+
+	Gerencia as requisicoes dos usuarios, autenticacao, gerenciamento de recursos e comunicacao com os demais componentes do Eucalyptus
+
+2. Cluster Controller ( CC )
+
+	Gerencia os recursos computacionais de um determinado cluster. Responsavel por contro
