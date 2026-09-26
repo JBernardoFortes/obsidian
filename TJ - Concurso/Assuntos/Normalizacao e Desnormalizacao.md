@@ -26,7 +26,19 @@ Uma vez compreendida as dependencias, aplicamos as regras sequenciais das Formas
 1. **1FN**: Exige **Atomicidade**. Atributos devem ser indivisiveis, proibindo campos multivalorados. Conforme a Tabela 1 da fonte, isso significa que cada professor possui apenas um nome ( sem homonimos ) e cada localidade ( cidade ) aparece de ofrma unica e atomica
 2. **2FN**: Focada na **eliminacao de dependencias parciais**. A tabela ja deve estar na 1FN e todos os atributos nao chave devem depender da chave primaria completa
 3. **3FN**: Foca na **eliminacao de dependencias transitivas**. Atributos nao chave devem ser independentes entre si, dependendo apenas da chave primaria
-4. **FNBC ( Forma Normal de Boyce-Codd )**: Um refinamento da 3FN onde **Todo atributo nao chave precisa depender funcionalmente diretamente da chave**, seja ela primaria ou candidata. 
+4. **FNBC ( Forma Normal de Boyce-Codd )**: Um refinamento da 3FN onde **Todo atributo nao chave precisa depender funcionalmente diretamente da chave**, seja ela primaria ou candidata. Isso garante a independencia absoluta de atributos nao chave, isolando dados de professores e disciplinas em tabelas proprias ( Tabelas 5,6 e 7) para evitar problemas nas dependencias
+5. **4FN**: Proibe **Dependencias multivaloradas**. Atributos que contem multiplos valores que se repetem para diversos registros devem ser isolados em **subconjuntos menores**. A fonte exemplifica a decomposicao da tabela principal de professores em novas tabelas de "Cidades" e "Anos de Ingreso" ( Tabelas 8, 9 e 10 ), que sao entao referenciados 
+6. **5FN**: Trata de **dependencia de juncao**. A tabela deve poder ser decomposta em subtabelas de modo que a reconstrucao da informacao original seja garantida. O foco aqui eh a capacidade de identificar cada campo em suas **tabelas de origem** apos a juncao ( Tabelas 11, 12 e 13).
+
+Embora a normalizacao busque a perfeicao, cenarios de alta performance exigem o caminho inverso
+
+---
+
+## 4. Desnormalizacao de Banco de Dados
+
+A desnormalizacao eh o uso estrategico de **redundancia intencional**. O design de um banco eh um equilibrio entre a pureza teorica e a necessidade pratica: a redundancia eh permitida **|dependendo do objetivo a ser tracado"**.
+
+Os "trade-offs" sao claros:sacrifica-se economia de espaco e facilidade de atualizacao em favor da **agilidade de consulta**. Niveis baixos na escala de normalizacao sao usados quando o desempenho de leitura 
 
 ---
 
