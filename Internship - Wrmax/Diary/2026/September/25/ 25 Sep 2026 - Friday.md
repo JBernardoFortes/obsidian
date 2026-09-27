@@ -21,6 +21,8 @@ Me pediram tambem para criar uma interface para o disparo de mensagens, primeiro
 
 Final do expediente acabou que eu fiquei sem fazer muita coisa, poderia estudar mas vou segurar um pouco por hoje, 12:40 eu comeco a me arrumar para ir embora.
 
+Preciso fazer o estudo de criptografia simetrica e assimetrica e fazer o de backup tambem.
+
 ---
 
 ### Demandas - 25 Set 2026
