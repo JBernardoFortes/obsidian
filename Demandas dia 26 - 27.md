@@ -19,7 +19,12 @@
 - [x] Trabalho de BDR
 	- JOIN
 - [ ] Carga do banco de dados de BDR
+	- Alinhas com os mlks
 - [ ] Fazer o modulo 6 da aws academy
+	- [ ] Lab 3
+	- [ ] Lambda
+	- [ ] Elastic Beanstalk
+	- [ ] Teste
 
 #### Geral
 
