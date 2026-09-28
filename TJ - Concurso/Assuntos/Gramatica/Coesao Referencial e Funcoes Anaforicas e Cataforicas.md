@@ -60,11 +60,36 @@ O uso de "o mesmo" para retomar substantivos eh um erro crasso e um "redacionism
 
 ---
 
-### 4. Coesao En
+### 4. Coesao Endoforica vs. Exoforica
 
+Eh vital distinguir a referencia interna da referencia ao contexto situacional
 
+- **Coesao Endoforica**: O referente esta dentro das linhas do texto
+	- Anafora
+	- Catafora
+- **Coesao Exoforica ou Deitica**: A referencia aponta para fora do texto, dependendo do *hic et nunc* (Aqui e agora) da enunciacao
+	- Exemplo: Um jornal de 2011 publica: "**Este ano** falece o ex-presidente"
+	- O referente de "Este ano" nao esta escrito no paragrafo; ele reside no calendario de quem escreve. A compreensao depende totalmente do contexto externo
 
+---
 
+### 5. Outros Mecanismo de Coesao Referencial
+
+- **Substituicao Lexical ( Reiteracao )**
+	- Utilizada para manter a progressao tematica sem o empobrecimento do vocabulario:
+		- **Sinonimos**: Termos com significados semelhantes
+		- **Hiperonimos**: Termos de sentido agrangente
+			- "A **ave** voou alto"
+			- para retomar **"pavao"**
+		- **Hiponimos**: Termos de sentido restrito/especifico
+			- "O **pavao** eh exuberante"
+			- para retomar uma mencao generica a "aves"
+
+- **Elipse**
+
+	Consiste na Omissao de um termo facilmente identificavel, garantindo fluidez.
+	- Exemplo: "Nao sou alegre nem sou triste: sou **poeta**"
+	- Ha a elipse do pronome sujeito "**Eu**", identificando pela desinencia verbal
 
 
 ---
