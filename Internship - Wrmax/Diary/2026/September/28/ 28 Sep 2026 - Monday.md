@@ -21,6 +21,8 @@ Acabou que eu to quase sem demanda, o Roberth me passou uma mas ficou muito conf
 
 Comuniquei sobre o link estar quebrado da Tuigo, e ele me disse para esperar 24h para ver se contabiliza, estranhei porque ele estava contabilizando em tempo real anteriormente.
 
+No caso foi me pedido para fazer uma arte mas o Roberth ja a fez e configurou a campanha no e-mail.
+
 
 ---
 
