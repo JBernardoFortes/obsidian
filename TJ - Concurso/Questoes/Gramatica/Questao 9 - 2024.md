@@ -9,7 +9,7 @@ c) Os pronomes de tratamento só devem ser utilizados de forma abreviada: V. Exa
 d) Não há regras específicas para usar Vossa Excelência ou Vossa Senhoria. Os dois pronomes podem ser usados indistintamente.  
 e) Todas as alternativas estão corretas.
 
-Gabarito: 
+Gabarito: A)
 
 ---
 
