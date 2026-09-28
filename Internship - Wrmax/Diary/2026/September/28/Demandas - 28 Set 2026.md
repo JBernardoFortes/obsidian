@@ -5,7 +5,6 @@
 
 ### Demandas do dia de hoje
 
-- [ ] Carrossel do Dr Romilto - Tadala
 - [ ] Google meu negocio 
 	- [ ] Oxcentro
 	- [ ] Neuropleno

@@ -13,7 +13,7 @@ Vou tambem pedir para a Keylianne assinar o contrato de estagio ( Termo de compr
 
 Ainda preciso fazer alguns estaticos, muito chato essas tasks, mas eh para um bem maior, vai dar certo
 
-
+Nao consigo fazer essa parte de rastreamento, tenho que falar com o Roberth sobre isso. Vai ser a minha primeira vez passando uma task para frente, mas isso eh normal
 
 ### Demandas
 
