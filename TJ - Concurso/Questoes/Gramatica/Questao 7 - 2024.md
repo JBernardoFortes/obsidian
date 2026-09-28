@@ -9,4 +9,6 @@ c) É obrigatória quando o texto só possui um parágrafo.
 d) Facultativa a partir do segundo parágrafo.  
 e) Facultativa quanto o texto tiver somente dois parágrafos.
 
+Gabarito: A) Nao eh obrigatoria quando o texto so tem um paragrafo
+
 [[Manual de Redacao da Presidencia da Republica]]
