@@ -17,6 +17,11 @@ Nao consigo fazer essa parte de rastreamento, tenho que falar com o Roberth sobr
 
 Por enquanto por eu nao conseguir fazer essas demandas acabou as tasks por hoje, eu realmente nao to conseguindo fazer essa parte de trackeamento pela Tuigo, coisa complicada demais, eles somem com as UTMs que eu mando, nao tao contabilizando pelo link quando eu acesso, so da problema. Eles tem que analisar os pros e contras de se usar uma plataforma assim para gerenciar a loja deles, realmente traz muita vantagem, porem essas desvantagens de nebulosidade do funcionamento interno da aplicacao que esta gerenciado o negocio deles eh algo que pra mim nao vale a pena.
 
+Acabou que eu to quase sem demanda, o Roberth me passou uma mas ficou muito confuso, tenho que parar de ficar concordando com tudo sem ele completar as coisas porque ai ele acha que eu entendi.
+
+
+---
+
 ### Demandas
 
 - [[Demandas - 28 Set 2026]]
