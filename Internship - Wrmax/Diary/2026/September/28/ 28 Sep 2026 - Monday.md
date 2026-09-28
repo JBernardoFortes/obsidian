@@ -13,6 +13,8 @@ Vou tambem pedir para a Keylianne assinar o contrato de estagio ( Termo de compr
 
 Ainda preciso fazer alguns estaticos, muito chato essas tasks, mas eh para um bem maior, vai dar certo
 
+
+
 ### Demandas
 
 - [[Demandas - 28 Set 2026]]
