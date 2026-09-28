@@ -15,6 +15,8 @@ Ainda preciso fazer alguns estaticos, muito chato essas tasks, mas eh para um be
 
 Nao consigo fazer essa parte de rastreamento, tenho que falar com o Roberth sobre isso. Vai ser a minha primeira vez passando uma task para frente, mas isso eh normal
 
+Por enquanto por eu nao conseguir fazer essas demandas acabou as tasks por hoje, eu realmente nao to conseguindo fazer essa parte de trackeamento pela Tuigo, coisa complicada demais, eles somem com as UTMs que eu mando, nao tao contabilizando pelo link quando eu acesso, so da problema. Eles tem que analisar os pros e contras de se usar uma plataforma assim para gerenciar a loja deles, realmente traz muita vantagem, porem essas desvantagens de nebulosidade do funcionamento interno da aplicacao que esta gerenciado o negocio deles eh algo que pra mim nao vale a pena.
+
 ### Demandas
 
 - [[Demandas - 28 Set 2026]]
