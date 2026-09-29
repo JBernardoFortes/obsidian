@@ -8,21 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
+      "query": "file:Demandas",
+      "color": {
+        "a": 1,
+        "rgb": 16744192
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 13509246
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/2026/August\"",
+      "query": "path:\"Internship - Wrmax/Diary/2026/August\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 3888097
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/2026/September\"",
+      "query": "path:\"Internship - Wrmax/Diary/2026/September\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 15291240
@@ -89,13 +96,6 @@
       "color": {
         "a": 1,
         "rgb": 2802176
-      }
-    },
-    {
-      "query": "file:Demandas",
-      "color": {
-        "a": 1,
-        "rgb": 0
       }
     }
   ],
