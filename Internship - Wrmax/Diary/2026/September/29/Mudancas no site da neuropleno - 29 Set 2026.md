@@ -9,7 +9,12 @@
 	- Fazer o carrossel passar mais rapido
 - [ ] Abaixo de "Conheca nossa equipe"
 	- Colocar uma parte onde tem os outros integrantes da clinica
-		- Sem Fo
+		- Sem foto profissional
+			- Jordano Sampaio
+			- Ricardo Carvalho
+			- Flavia Juliana
+				- Ate tem mas a qualidade eh abaixo
+	- Fazer depois das imagens serem disponibiizadas
 - [ ] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
 - [ ] Na "Estrutura em Teresina"
