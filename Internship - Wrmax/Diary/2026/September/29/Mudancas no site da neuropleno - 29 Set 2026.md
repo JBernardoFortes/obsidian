@@ -7,6 +7,9 @@
 	- Colocar um carrossel de imagens passando rapido
 - [ ] No "Conheca nossa equipe"
 	- Fazer o carrossel passar mais rapido
+- [ ] Abaixo de "Conheca nossa equipe"
+	- Colocar uma parte onde tem os outros integrantes da clinica
+		- Sem Fo
 - [ ] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
 - [ ] Na "Estrutura em Teresina"
