@@ -11,7 +11,7 @@
       "query": "file:Demandas",
       "color": {
         "a": 1,
-        "rgb": 16744192
+        "rgb": 1876012
       }
     },
     {
@@ -109,6 +109,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.1878780285956015,
-  "close": false
+  "scale": 0.04984924908546705,
+  "close": true
 }
