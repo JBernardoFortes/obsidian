@@ -9,7 +9,10 @@ Comecei o dia pedindo para o Roberth assinar para mim o documento de termo de co
 
 Conversei com a Keylianne sobre mudancas no site da neuropleno, inseri dentro de demandas do dia de hoje
 
-- [x] ### Demandas do dia de hoje
+Estou esperando a Keylianne me mandar os dados para por nos ajustes da neuropleno, e o chefe renovar a assinatura do chatGPT para eu criar os estaticos
+
+---
+### Demandas do dia de hoje
 
 - [[Demandas - 29 Set 2026]]
 
