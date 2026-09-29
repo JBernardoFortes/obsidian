@@ -6,3 +6,5 @@
 - [ ] Estatico 01 - "Hernia de Disco"
 - [ ] Estatico 04 - "Remedio Continuo"
 - [ ] Estatico 02 - "Artrose de joelho"
+- [ ] Mudancas no site da neuropleno
+	- [[Mudancas no site da neuropleno - 29 Set 2026]]
