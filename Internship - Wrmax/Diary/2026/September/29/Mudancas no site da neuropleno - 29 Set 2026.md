@@ -1,11 +1,11 @@
 
 ---
 
-- [ ] Na parte de "Avaliação clínica e acompanhamento"
+- [x] Na parte de "Avaliação clínica e acompanhamento"
 	- Trocar para neurointervencao que vai ser me passado
-- [ ] Na parte de "Sobre a clinica"
+- [x] Na parte de "Sobre a clinica"
 	- Colocar um carrossel de imagens passando rapido
-- [ ] No "Conheca nossa equipe"
+- [x] No "Conheca nossa equipe"
 	- Fazer o carrossel passar mais rapido
 - [ ] Abaixo de "Conheca nossa equipe"
 	- Colocar uma parte onde tem os outros integrantes da clinica
@@ -15,8 +15,8 @@
 			- Flavia Juliana
 				- Ate tem mas a qualidade eh abaixo
 	- Fazer depois das imagens serem disponibiizadas
-- [ ] Na "O que realizamos"
+- [x] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
-- [ ] Na "Estrutura em Teresina"
+- [x] Na "Estrutura em Teresina"
 	- Colocar mais imagens
-- [ ] Onde tem o numero de contado do wpp e do instagram colocar icones deles
+- [x] Onde tem o numero de contado do wpp e do instagram colocar icones deles
