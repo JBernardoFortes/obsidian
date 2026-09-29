@@ -9,4 +9,6 @@
 	- Fazer o carrossel passar mais rapido
 - [ ] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
-	- 
+- [ ] Na "Estrutura em Teresina"
+	- Colocar mais imagens
+- [ ] Onde tem o numero de contado do wpp e do instagram colocar icones deles

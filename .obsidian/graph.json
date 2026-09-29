@@ -71,13 +71,6 @@
       }
     },
     {
-      "query": "file:Questao",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
       "query": "path:\"TJ - Concurso/Assuntos\"",
       "color": {
         "a": 1,
@@ -97,6 +90,13 @@
         "a": 1,
         "rgb": 2802176
       }
+    },
+    {
+      "query": "file:Demandas",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +109,6 @@
   "repelStrength": 10.434334055504,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.053404810395948105,
-  "close": true
+  "scale": 0.1878780285956015,
+  "close": false
 }
