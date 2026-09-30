@@ -23,6 +23,7 @@ SUPER CTRL + E
 
 Para abrir o painel de emojis do omarchy
 
+Muita coisa pra fazer de uma vez so, tao me pondo pra trabalhar legal, vou focar em fazer um por um mesmo como eu disse anteiormente.
 
 ---
 
