@@ -9,10 +9,11 @@
 	- Fazer o carrossel passar mais rapido
 - [ ] Abaixo de "Conheca nossa equipe"
 	- Colocar uma parte onde tem os outros integrantes da clinica
+	- Estou procurando prints do instagram com fotos profissionais para por eles
 		- Sem foto profissional
-			- Jordano Sampaio
-			- Ricardo Carvalho
-			- Flavia Juliana
+			- [ ] Jordano Sampaio
+			- [ ] Ricardo Carvalho
+			- [ ] Flavia Juliana
 				- Ate tem mas a qualidade eh abaixo
 	- Fazer depois das imagens serem disponibiizadas
 - [x] Na "O que realizamos"
