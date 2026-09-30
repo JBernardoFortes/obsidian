@@ -12,4 +12,4 @@
 - [x] Fazer o estatico da Alianca Pneus
 	- Preciso mandar para o Roberth avaliar
 	- Mandei no grupo, esperando a avaliacao
-- [ ] Fazer o Template de apresentacao da APIPA
+- [x] Fazer o Template de apresentacao da APIPA
