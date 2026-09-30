@@ -11,11 +11,11 @@
 	- Colocar uma parte onde tem os outros integrantes da clinica
 	- Estou procurando prints do instagram com fotos profissionais para por eles
 		- Sem foto profissional
-			- [ ] Jordano Sampaio
+			- [x] Jordano Sampaio
 				- Encontrei uma foto dele 
-			- [ ] Ricardo Carvalho
+			- [x] Ricardo Carvalho
 				- Nao tem foto
-			- [ ] Flavia Juliana
+			- [x] Flavia Juliana
 			- [x] Joao Lucas Silva
 			- [x] Wilder Dias
 				- Ate tem mas a qualidade eh abaixo
