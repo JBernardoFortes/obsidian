@@ -25,6 +25,10 @@ Para abrir o painel de emojis do omarchy
 
 Muita coisa pra fazer de uma vez so, tao me pondo pra trabalhar legal, vou focar em fazer um por um mesmo como eu disse anteiormente.
 
+Comecei a me perguntar se esse estagio realmente eh pra mim, no caso de eu estar aprendendo o que eu quero, e a respostas eh nao, estou aqui pelo estagio obrigatorio e pelo dinheiro. Nao me identifico com a empresa e nem com os valores pregados aqui, estou so indo com a carruagem pra esperar pela oportunidade de ir para o tj
+
+O problema eh que eu acho que comeca a ficar aparente a minha falta de interesse com as atividades da empresa, nao vou me cobrar tanto tambem, quero desenvolvimento, nao ficar orquestrando agentes de IA, nao aprendo nada fazendo isso. Vou levar como eu estava dizendo, como 
+
 ---
 
 ### Demandas de hoje
