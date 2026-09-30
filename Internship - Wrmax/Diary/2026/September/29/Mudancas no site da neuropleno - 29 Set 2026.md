@@ -7,7 +7,7 @@
 	- Colocar um carrossel de imagens passando rapido
 - [x] No "Conheca nossa equipe"
 	- Fazer o carrossel passar mais rapido
-- [ ] Abaixo de "Conheca nossa equipe"
+- [ ] Abaixo de "Conheca n/ossa equipe"
 	- Colocar uma parte onde tem os outros integrantes da clinica
 	- Estou procurando prints do instagram com fotos profissionais para por eles
 		- Sem foto profissional
