@@ -15,6 +15,15 @@ Deu certo as assinaturas para o termo de compormisso, ja submeti o termo de comp
 
 Comecaram a me pedir 2 coisas ao mesmo tempo, respirar e lembrar que a empresa nao eh minha, fazer com calma.
 
+O Roberth me chamou para a sala dele, acho que ele sente que eu produzo mais se tiver perto dele. 🤨
+
+```Bash
+SUPER CTRL + E
+```
+
+Para abrir o painel de emojis do omarchy
+
+
 ---
 
 ### Demandas de hoje
