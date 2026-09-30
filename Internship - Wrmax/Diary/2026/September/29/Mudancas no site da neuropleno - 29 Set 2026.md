@@ -15,6 +15,11 @@
 			- [ ] Ricardo Carvalho
 			- [ ] Flavia Juliana
 				- Ate tem mas a qualidade eh abaixo
+	- Tinha Alguns doutores que nao foram adicionados no dia que eu estava fazendo as mudancas
+		- [x] Auro
+		- [ ] Jose Maria
+			- Nao tem foto
+		- [ ] 
 	- Fazer depois das imagens serem disponibiizadas
 - [x] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
