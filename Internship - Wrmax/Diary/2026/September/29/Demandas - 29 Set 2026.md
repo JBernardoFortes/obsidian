@@ -13,3 +13,4 @@
 	- Preciso mandar para o Roberth avaliar
 	- Mandei no grupo, esperando a avaliacao
 - [x] Fazer o Template de apresentacao da APIPA
+	- Gerei, esperar a oportunidade de apresentar pro Roberth e pedir o feedback
