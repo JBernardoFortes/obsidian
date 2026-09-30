@@ -29,6 +29,8 @@ Comecei a me perguntar se esse estagio realmente eh pra mim, no caso de eu estar
 
 O problema eh que eu acho que comeca a ficar aparente a minha falta de interesse com as atividades da empresa, nao vou me cobrar tanto tambem, quero desenvolvimento, nao ficar orquestrando agentes de IA, nao aprendo nada fazendo isso. Vou levar como eu estava dizendo, como 
 
+Tava conversando com a Bia e nao vou renovar, nao faz parte do que eu quero pra vida profissional, interessante a empresa vao fazer sucesso, mas o meu foco eh outro, vou atras do que me serve, ja estou derretido, fazendo as coisas sem vontade e estressado com o pessoal, a mascara ta ficando pesada. Mudancas de plano no plano B. 
+
 ---
 
 ### Demandas de hoje
