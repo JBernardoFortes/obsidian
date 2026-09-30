@@ -12,14 +12,13 @@
 	- Estou procurando prints do instagram com fotos profissionais para por eles
 		- Sem foto profissional
 			- [ ] Jordano Sampaio
+				- Encontrei uma foto dele 
 			- [ ] Ricardo Carvalho
+				- Nao tem foto
 			- [ ] Flavia Juliana
+			- [x] Joao Lucas Silva
+			- [x] Wilder Dias
 				- Ate tem mas a qualidade eh abaixo
-	- Tinha Alguns doutores que nao foram adicionados no dia que eu estava fazendo as mudancas
-		- [x] Auro
-		- [ ] Jose Maria
-			- Nao tem foto
-		- [ ] 
 	- Fazer depois das imagens serem disponibiizadas
 - [x] Na "O que realizamos"
 	- Fazer o carrossel passar mais rapido e o botao funcionar
