@@ -9,4 +9,5 @@
 - [ ] Mudancas no site da neuropleno
 	- [[Mudancas no site da neuropleno - 29 Set 2026]]
 - [ ] Fazer o estatico da Alianca Pneus
+	- Preciso mandar para o Roberth avaliar
 - [ ] Fazer o Template de apresentacao da APIPA

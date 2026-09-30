@@ -1,0 +1,24 @@
+---
+date: 2026/September/30/ 30 Sep 2026 - Wednesday
+type: diary
+project: internship-wrmax
+---
+---
+
+Ultimo dia de Setembro.
+
+Comecei o dia pedindo para o Roberth assinar o meu termo de compromisso pra ver se eu consigo mandar hoje para o Andre, submeter no sigaa
+
+Preciso continuar as demandas de ontem, acabou que eu fiz varias de uma vez e nao consegui terminar tudo por alguns gargalos em algumas tasks em especifico. Vou linkar as mesmas demandas de ontem nesse de hoje, como sao iguais
+
+---
+
+### Demandas de hoje
+
+- [[Demandas - 29 Set 2026]]
+
+
+---
+#internship-wrmax
+
+[[September]]
