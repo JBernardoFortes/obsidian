@@ -9,7 +9,7 @@ Hoje eles mudaram a senha de entrada da empresa ( 3009* ), acabei ficando de for
 
 A falta de instrucao eh algo que eu vou aprender a ficar mais de olho quando eu tiver minha empresa com meus empregados, ou estiver em algum cargo de lideranca, eh preciso realmente passar tudo passo a passo com todas as intrucoes possiveis que o sujeito pode precisar.
 
-Estudar sobre NFS para implementar na rede aqui da empresa, ver como fazer isso
+Estudar sobre NFS para implementar na rede aqui da empresa, ver como fazer isso. A Chefe disse para esperar pra ver o que o chefe quer que seja feito e se eh possivel.
 
 ---
 
