@@ -14,8 +14,9 @@ Essas sao as demandas pro dia de hoje
 - [ ] Levantar os requisitos para criar um NFS na rede da empresa
 	- Esperar para eles decidirem para ver o que querem
 	- Mas eu vou ir pesquisando
-- [ ] Mudancas no site da neuropleno
-	- [ ] Mudar a foto do dr romilto para ele profissional
-	- [ ] Dr Davi
-	- [ ] Aumentar a velocidade do carrosel
+- [x] Mudancas no site da neuropleno
+	- [x] Mudar a foto do dr romilto para ele profissional
+	- [x] Dr Davi
+	- [x] Aumentar a velocidade do carrosel
 		- 2 segundos
+	- Esperando pra ver se tem outras mudancas
