@@ -29,3 +29,4 @@ Essas sao as demandas pro dia de hoje
 			
 - [ ] Cadastrar a nova funcionaria
 - [ ] Cadastrar o novo cliente na aba do Notion
+- [ ] Subir os videos do Dr Gabriel Baiao nas campanhas
