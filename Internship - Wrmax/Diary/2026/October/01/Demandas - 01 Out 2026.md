@@ -4,10 +4,9 @@
 Essas sao as demandas pro dia de hoje
 
 - [ ] Carrossel Dr Romilto - Tadala
-	- Vou dar mais uma procastinada nisso pra fazer, realmente eh uma tarefa massante
 - [ ] Estatico - "Ja tomou infiltracao?
 - [ ] Estatico - Dr Gustavo - "Doi no ombro?" 
-- [ ] Estatico 01 - "Hernia de Disco"
+- [x] Estatico 01 - "Hernia de Disco"
 - [x] Estatico 04 - "Remedio Continuo"
 - [x] Estatico 02 - "Artrose de joelho"
 - [x] Carrossel - Ela culpou o travesseiro
@@ -20,3 +19,5 @@ Essas sao as demandas pro dia de hoje
 	- [x] Aumentar a velocidade do carrosel
 		- 2 segundos
 	- Esperando pra ver se tem outras mudancas
+- [ ] Cadastrar a nova funcionaria
+- [ ] Cadastrar o novo cliente na aba do Notion
