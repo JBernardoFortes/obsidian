@@ -38,6 +38,6 @@ Essas sao as demandas pro dia de hoje
 	- [x] Cadastrar no site da empresa
 - [ ] Subir os videos do Dr Gabriel Baiao nas campanhas
 	- [ ] Curimata
-	- [ ] Corrente
+	- [x] Corrente
 	- [ ] Luis Correia
 	- [ ] Geral
