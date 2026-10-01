@@ -17,8 +17,8 @@ Essas sao as demandas pro dia de hoje
 	- [x] Dr Davi
 	- [x] Aumentar a velocidade do carrosel
 		- 2 segundos
-	- [ ] Trocar "especialidades que completam o cuidado" para "Conheca nossa equipe & suas especialidades"
-	- [ ] Trocar a foto de angiografia
+	- [x] Trocar "especialidades que completam o cuidado" para "Conheca nossa equipe & suas especialidades"
+	- [x] Trocar a foto de angiografia
 		- https://drive.google.com/file/d/10pH64rbfXBGWKP6gkS9_AnZcqNEvbhai/view?usp=drive_link torcar essa foto para a de angiografia
 	- [ ] Trocar a foto de Aneurisma
 		- aneeurisma no tempo de 1:27 https://drive.google.com/drive/u/0/folders/1Yg5Oki0jPCgqT9LJ5WLr4oOSQQYCY6AD pegar o print dele apontando o dedo e cuidado com o nome do paciene
