@@ -30,9 +30,9 @@ Essas sao as demandas pro dia de hoje
 - [x] Cadastrar a nova funcionaria
 	- [x] Criar a coluna dela
 	- [x] Mandar o convite
-- [ ] Cadastrar o novo cliente na aba do Notion
+- [x] Cadastrar o novo cliente na aba do Notion
 	- luxemedicina@gmail.com
-	- [ ] Cadastrar na tabela de Clientes do Notion
-	- [ ] Cadastrar a coluna para ela
-	- [ ] Cadastrar a coluna para ela
+	- [x] Cadastrar na tabela de Clientes do Notion
+	- [x] Cadastrar a coluna para ela
+	- [x] Cadastrar no site da empresa
 - [ ] Subir os videos do Dr Gabriel Baiao nas campanhas
