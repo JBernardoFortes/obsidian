@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 2802176
       }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary/2026/October\" -file:Demandas",
+      "color": {
+        "a": 1,
+        "rgb": 7507207
+      }
     }
   ],
   "collapse-display": true,
@@ -110,5 +117,5 @@
   "linkStrength": 0.958886230150098,
   "linkDistance": 165,
   "scale": 0.17187727525804003,
-  "close": true
+  "close": false
 }
