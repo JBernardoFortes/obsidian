@@ -6,3 +6,5 @@ b) Nginx
 c) IIS (Internet Information Services)
 d) Proxy
 e) Lighttpd
+
+Gabarito: Proxy
