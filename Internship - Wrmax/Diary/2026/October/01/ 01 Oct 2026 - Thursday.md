@@ -11,6 +11,10 @@ A falta de instrucao eh algo que eu vou aprender a ficar mais de olho quando eu 
 
 Estudar sobre NFS para implementar na rede aqui da empresa, ver como fazer isso. A Chefe disse para esperar pra ver o que o chefe quer que seja feito e se eh possivel.
 
+Hoje reclamaram comigo sobre o estatico que eu fiz estar com muita cara de chatGPT, quem diria. Como eu nao quero ser designer eu vou continuar colocando no gpt mas passando parametros diferentes para ele mudar a imagem ao menos. Vou tentar pegar uma imagem de referencia que ja foi feita.
+
+Mandei para o chefe as mudancas no site da neuropleno, parece
+
 ---
 
 ### Demandas de hoje
