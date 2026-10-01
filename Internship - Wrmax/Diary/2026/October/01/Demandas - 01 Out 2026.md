@@ -11,8 +11,7 @@ Essas sao as demandas pro dia de hoje
 - [x] Estatico 02 - "Artrose de joelho"
 - [x] Carrossel - Ela culpou o travesseiro
 - [ ] Levantar os requisitos para criar um NFS na rede da empresa
-	- Esperar para eles decidirem para ver o que querem
-	- Mas eu vou ir pesquisando
+	- Ir pesquisando quando tiver tempo livre
 - [x] Mudancas no site da neuropleno
 	- [x] Mudar a foto do dr romilto para ele profissional
 	- [x] Dr Davi
