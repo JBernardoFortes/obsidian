@@ -13,4 +13,4 @@ Essas sao as demandas pro dia de hoje
 - [x] Carrossel - Ela culpou o travesseiro
 - [ ] Levantar os requisitos para criar um NFS na rede da empresa
 	- Esperar para eles decidirem para ver o que querem
-	- Mas eu vou ir pesquisando1
+	- Mas eu vou ir pesquisando
