@@ -12,6 +12,7 @@ Essas sao as demandas pro dia de hoje
 - [x] Carrossel - Ela culpou o travesseiro
 - [ ] Levantar os requisitos para criar um NFS na rede da empresa
 	- Ir pesquisando quando tiver tempo livre
+	- [[Compartilhamento de arquivos em Rede]]
 - [x] Mudancas no site da neuropleno
 	- [x] Mudar a foto do dr romilto para ele profissional
 	- [x] Dr Davi
