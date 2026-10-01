@@ -13,7 +13,7 @@ Estudar sobre NFS para implementar na rede aqui da empresa, ver como fazer isso.
 
 Hoje reclamaram comigo sobre o estatico que eu fiz estar com muita cara de chatGPT, quem diria. Como eu nao quero ser designer eu vou continuar colocando no gpt mas passando parametros diferentes para ele mudar a imagem ao menos. Vou tentar pegar uma imagem de referencia que ja foi feita.
 
-Mandei para o chefe as mudancas no site da neuropleno, parece
+Mandei para o chefe as mudancas no site da neuropleno, espero que eles nao sejam o tipo que pedem mudancas infinitas.
 
 ---
 
