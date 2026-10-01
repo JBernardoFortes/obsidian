@@ -10,4 +10,5 @@ Essas sao as demandas pro dia de hoje
 - [ ] Estatico 01 - "Hernia de Disco"
 - [ ] Estatico 04 - "Remedio Continuo"
 - [ ] Estatico 02 - "Artrose de joelho"
-- [ ] Carrossel - Ela culpou o travesseiro
+- [x] Carrossel - Ela culpou o travesseiro
+- [ ] Levantar os requisitos para criar um NFS na rede da empresa
