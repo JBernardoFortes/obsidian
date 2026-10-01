@@ -27,6 +27,12 @@ Essas sao as demandas pro dia de hoje
 		CRM 8610 / RQE 6202
 		https://drive.google.com/file/d/1xeZmL6toy-ZKDg3Dm6xhXrQPbBSB657H/view?usp=drive_linkDr. Joao Lucas
 	- [x] Ajustar o Grid dos doutores complementares	
-- [ ] Cadastrar a nova funcionaria
+- [x] Cadastrar a nova funcionaria
+	- [x] Criar a coluna dela
+	- [x] Mandar o convite
 - [ ] Cadastrar o novo cliente na aba do Notion
+	- luxemedicina@gmail.com
+	- [ ] Cadastrar na tabela de Clientes do Notion
+	- [ ] Cadastrar a coluna para ela
+	- [ ] Cadastrar a coluna para ela
 - [ ] Subir os videos do Dr Gabriel Baiao nas campanhas
