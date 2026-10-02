@@ -22,6 +22,14 @@
 	- [x] Urucui
 		- 29 / 10
 	- Provavelmente vou ter que subir isso no Ads Manager tambem
+	- Eh, vou ter
+- [ ] Subir os estaticos novos no meta ads
+	- [ ] Corrente
+	- [ ] Curimata
+	- [ ] Floriano
+	- [ ] Picos
+	- [ ] Balsas
+	- [ ] Urucui
 - [x] Checar a aba de Downloads do site da APIPA
 	- Aquele feito em Wordpress que nao funciona nada
 	- Posso testar ver depois, mas o Elementor nao abriu
