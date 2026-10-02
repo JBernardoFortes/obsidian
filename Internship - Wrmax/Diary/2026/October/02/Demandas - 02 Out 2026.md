@@ -2,22 +2,24 @@
 - [ ] Carrossel Dr Romilto - Tadala
 - [ ] Estatico - "Ja tomou infiltracao?
 - [ ] Estatico - Dr Gustavo - "Doi no ombro?" 
+	- Aqui tem um gargalo: Nao tem a imagem sugerida
 - [x] Estatico 01 - "Hernia de Disco"
-- [ ] Adaptar os estaticos pras cidades da campanha do Gabriel Baiao
+	- Submeti algumas imagens para avaliacao
+- [x] Adaptar os estaticos pras cidades da campanha do Gabriel Baiao
 	- Esperando me passarem as cidades para gerar os estaticos
-	- [ ] Corrente
+	- [x] Corrente
 		- 08 / 10
-	- [ ] Curimata
+	- [x] Curimata
 		- 08 / 10
-	- [ ] Luis Eduardo Magalhaes
+	- [x] Luis Eduardo Magalhaes
 		- 09 / 10
-	- [ ] Floriano
+	- [x] Floriano
 		- 15 / 10
-	- [ ] Picos
+	- [x] Picos
 		- 16 / 10
-	- [ ] Balsas
+	- [x] Balsas
 		- 23 / 10
-	- [ ] Urucui
+	- [x] Urucui
 		- 29 / 10
 	- Provavelmente vou ter que subir isso no Ads Manager tambem
 - [x] Checar a aba de Downloads do site da APIPA
