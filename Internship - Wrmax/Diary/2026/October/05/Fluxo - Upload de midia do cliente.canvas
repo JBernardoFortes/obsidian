@@ -1,476 +1,52 @@
 {
-	"nodes": [
-		{
-			"id": "aa4122ac1058f40d",
-			"type": "group",
-			"x": -1420,
-			"y": -900,
-			"width": 440,
-			"height": 780,
-			"label": "Demandas — 05 Out 2026",
-			"color": "6"
-		},
-		{
-			"id": "8ddc36b8e8e9d501",
-			"type": "file",
-			"x": -1400,
-			"y": -840,
-			"width": 400,
-			"height": 440,
-			"file": "Internship - Wrmax/Diary/2026/October/05/Demandas - 05 Out 2026.md"
-		},
-		{
-			"id": "f1312622f9dd16e5",
-			"type": "file",
-			"x": -1400,
-			"y": -380,
-			"width": 400,
-			"height": 220,
-			"file": "Internship - Wrmax/Diary/2026/October/05/ 05 Oct 2026 - Monday.md"
-		},
-		{
-			"id": "6b618d8bb52ac03b",
-			"type": "group",
-			"x": -900,
-			"y": -900,
-			"width": 460,
-			"height": 960,
-			"label": "Decisões fechadas hoje",
-			"color": "4"
-		},
-		{
-			"id": "f007f0c9f12f13ef",
-			"type": "text",
-			"x": -880,
-			"y": -840,
-			"width": 420,
-			"height": 200,
-			"text": "### Destino: Drive Compartilhado\n\nWorkspace + service account.\n\nPor quê: service account não tem cota própria no *Meu Drive*. Em Drive Compartilhado o dono do arquivo é o drive, e não sobra refresh token para manter."
-		},
-		{
-			"id": "997a808bccf17cc0",
-			"type": "text",
-			"x": -880,
-			"y": -610,
-			"width": 420,
-			"height": 160,
-			"text": "### Permissão: qualquer um com o link (leitor)\n\nÉ o único jeito de o próprio cliente reabrir o vídeo pelo card.\n\nContrapartida aceita: quem tiver o link acessa."
-		},
-		{
-			"id": "06b4e2c63559ea2a",
-			"type": "text",
-			"x": -880,
-			"y": -420,
-			"width": 420,
-			"height": 200,
-			"text": "### Banco: nada novo\n\nDrive + Notion + a sessão do Supabase que já existe dão conta do fluxo inteiro.\n\nBanco só voltaria à mesa se o destino fosse o Drive **de cada cliente** — aí seria um refresh token por cliente, criptografado."
-		},
-		{
-			"id": "749219475c2a3e36",
-			"type": "text",
-			"x": -880,
-			"y": -200,
-			"width": 420,
-			"height": 240,
-			"text": "### Pastas: reaproveitar a do cliente\n\nA empresa já tem uma pasta por cliente no Drive — o painel não cria estrutura paralela.\n\nDentro da pasta do cliente: `Videos anexados/` e, dentro dela, uma pasta por card, nomeada pelo título."
-		},
-		{
-			"id": "ac2eca3ca58643d0",
-			"type": "group",
-			"x": -380,
-			"y": -900,
-			"width": 460,
-			"height": 1690,
-			"label": "Fluxo em runtime",
-			"color": "5"
-		},
-		{
-			"id": "4cf22e46272450fe",
-			"type": "text",
-			"x": -340,
-			"y": -840,
-			"width": 380,
-			"height": 140,
-			"text": "## 1 · Cliente escolhe o vídeo\n\nNavegador, no card em *Conteúdo para aprovação*.\nSem limite de MB no painel: o teto passa a ser a cota do Drive."
-		},
-		{
-			"id": "47fa81c2767400ad",
-			"type": "text",
-			"x": -340,
-			"y": -670,
-			"width": 380,
-			"height": 260,
-			"text": "## 2 · `POST /api/cards/video/sessao`\n\nServidor valida, nessa ordem:\n- sessão Supabase (`createClient`)\n- `getCardWrite(pageId)` → dono (`card.cliente`)\n- etapa `=== STATUS_EDITAVEL`\n\nSão as mesmas checagens da rota de arquivos de hoje."
-		},
-		{
-			"id": "ae508940cebc8835",
-			"type": "text",
-			"x": -340,
-			"y": -380,
-			"width": 380,
-			"height": 240,
-			"text": "## 3 · Drive: pastas + sessão\n\n`garantirPasta()` idempotente, a partir do `folderId` da pasta do cliente:\n`<pasta do cliente> / Videos anexados / <título do card>`\n\nAbre upload *resumable* e devolve só a URL da sessão — capability URL, ~7 dias, válida para aquele único arquivo."
-		},
-		{
-			"id": "63b5263db56198d3",
-			"type": "text",
-			"x": -340,
-			"y": -110,
-			"width": 380,
-			"height": 240,
-			"text": "## 4 · `PUT` direto no Google\n\nNavegador envia em blocos múltiplos de 256 KiB: progresso real e retomável.\n\n**Não passa pelo Next.** Rota serverless tem limite de ~4,5 MB de corpo e timeout de função — e `arrayBuffer()` de um vídeo de GB estoura a memória."
-		},
-		{
-			"id": "2b5c714cb72cd615",
-			"type": "text",
-			"x": -340,
-			"y": 160,
-			"width": 380,
-			"height": 260,
-			"text": "## 5 · `POST /api/cards/video/concluir`\n\n- `files.get` confere dono e pasta-pai (senão o cliente injetaria um `fileId` qualquer)\n- aplica permissão *anyone → reader*\n- `setArquivos(pageId, [...card.files, novo])`"
-		},
-		{
-			"id": "48eaf22c5ce3d65e",
-			"type": "text",
-			"x": -340,
-			"y": 450,
-			"width": 380,
-			"height": 220,
-			"text": "## 6 · Card atualizado\n\nEntra como item `external` no **Files & media**, idêntico ao link colado hoje por `montarLinkExterno()`.\n\nA galeria já renderiza isso como cartão “Abrir vídeo”."
-		},
-		{
-			"id": "ce0df922d35ec3c1",
-			"type": "group",
-			"x": 160,
-			"y": -900,
-			"width": 460,
-			"height": 740,
-			"label": "Onde cada coisa é guardada",
-			"color": "3"
-		},
-		{
-			"id": "4a9a79b465c67b1c",
-			"type": "text",
-			"x": 180,
-			"y": -840,
-			"width": 420,
-			"height": 240,
-			"text": "### Google Drive — os bytes\n\nDrive Compartilhado (Workspace), service account como Gerente de Conteúdo.\n\nÉ a resposta ao gargalo da demanda: o armazenamento sai na cota do Workspace, sem contratar storage novo."
-		},
-		{
-			"id": "f8ae7395b93d50e2",
-			"type": "text",
-			"x": 180,
-			"y": -570,
-			"width": 420,
-			"height": 200,
-			"text": "### Notion — o link\n\nPropriedade `Files & media` do card. Nenhum schema novo.\n\nOpcional: uma propriedade de texto para cachear o `folderId` da pasta do card e poupar buscas."
-		},
-		{
-			"id": "e741ac5093c9a9f8",
-			"type": "text",
-			"x": 180,
-			"y": -340,
-			"width": 420,
-			"height": 160,
-			"text": "### Supabase — só sessão\n\nSegue como auth/sessão.\n\n**Nenhuma tabela nova.** O vídeo não encosta em banco em momento nenhum."
-		},
-		{
-			"id": "0c16b3cf6f6e343e",
-			"type": "group",
-			"x": 160,
-			"y": -120,
-			"width": 460,
-			"height": 1280,
-			"label": "A validar antes de fechar",
-			"color": "1"
-		},
-		{
-			"id": "c56d2f741c0e4964",
-			"type": "text",
-			"x": 180,
-			"y": -60,
-			"width": 420,
-			"height": 220,
-			"text": "### CORS / `Origin`\n\nO `PUT` sai do navegador, então a abertura da sessão precisa mandar o `Origin` certo para o Google liberar CORS na URL de sessão.\n\nÉ o único ponto capaz de derrubar o fluxo. Conferir na doc da Drive API."
-		},
-		{
-			"id": "5e1c34dabfa5f0d2",
-			"type": "text",
-			"x": 180,
-			"y": 190,
-			"width": 420,
-			"height": 220,
-			"text": "### Preview no painel\n\n`webViewLink` abre o player do Drive em outra aba — é o comportamento de hoje.\n\nPara preview embutido: `iframe` com `/file/<id>/preview`. `<video src>` apontando para o Drive é instável."
-		},
-		{
-			"id": "d576145f1391992e",
-			"type": "text",
-			"x": 180,
-			"y": 440,
-			"width": 420,
-			"height": 140,
-			"text": "### Antes de codar\n\n`npm install` no projeto: o AGENTS.md manda ler os guias de `node_modules/next/dist/docs/` (Next 16.2.9 tem quebras) e a pasta não está instalada."
-		},
-		{
-			"id": "788fc0a3780241fe",
-			"type": "text",
-			"x": 180,
-			"y": 610,
-			"width": 420,
-			"height": 200,
-			"text": "### As pastas dos clientes estão no Drive Compartilhado?\n\nSe estiverem no *Meu Drive* de alguém, a service account consegue escrever, mas o arquivo nasce sem cota e o upload falha.\n\nConferir — e mover para o Drive Compartilhado se for o caso."
-		},
-		{
-			"id": "110378868796281f",
-			"type": "text",
-			"x": 180,
-			"y": 840,
-			"width": 420,
-			"height": 280,
-			"text": "### Título muda, pasta não acompanha\n\nO app prefixa o título sozinho: `[REPROVADO]` em `reprovarCard` (e o card **segue** editável, dá para subir vídeo depois) e `[AJUSTAR]` em `registrarSolicitacaoAlteracao`.\n\nResolvo tirando esses prefixos e sanitizando `/` antes de usar como nome. Rename manual no Notion ainda cria pasta nova no próximo upload — se quiser à prova disso, sufixo com o `pageId` curto."
-		},
-		{
-			"id": "a6e9274e473481db",
-			"type": "group",
-			"x": 680,
-			"y": -900,
-			"width": 480,
-			"height": 960,
-			"label": "Setup no Google — parte sua",
-			"color": "2"
-		},
-		{
-			"id": "f935167e98f8c599",
-			"type": "text",
-			"x": 700,
-			"y": -840,
-			"width": 440,
-			"height": 320,
-			"text": "### Checklist\n\n1. Criar o Drive Compartilhado (ex.: *Clientes — Vídeos*)\n2. Projeto no Google Cloud → habilitar a **Drive API**\n3. Criar a service account → baixar a chave JSON\n4. Adicionar o e-mail da service account como **Gerente de Conteúdo** do Drive Compartilhado"
-		},
-		{
-			"id": "fffef9f10c87cf6e",
-			"type": "text",
-			"x": 700,
-			"y": -490,
-			"width": 440,
-			"height": 260,
-			"text": "### Env novas\n\n`GOOGLE_SA_EMAIL`\n`GOOGLE_SA_PRIVATE_KEY`\n`GDRIVE_SHARED_DRIVE_ID`\n`GDRIVE_PASTAS_CLIENTES`\n\nSó em rota de servidor — nunca com prefixo `NEXT_PUBLIC_`."
-		},
-		{
-			"id": "2f99983a7505bad8",
-			"type": "text",
-			"x": 700,
-			"y": -200,
-			"width": 440,
-			"height": 240,
-			"text": "### Mapa cliente → pasta\n\nPreciso do `folderId` de cada pasta de cliente já existente, casado com o valor do select **Cliente** do Notion:\n\n`GDRIVE_PASTAS_CLIENTES='{\"Dr Romilto\":\"1Ab…\"}'`\n\nCliente fora do mapa = erro 400. O painel nunca inventa pasta de cliente."
-		},
-		{
-			"id": "7aeba54ea3977a2f",
-			"type": "group",
-			"x": 680,
-			"y": 120,
-			"width": 480,
-			"height": 780,
-			"label": "Código a escrever — parte minha",
-			"color": "6"
-		},
-		{
-			"id": "f337bb0902dac5e4",
-			"type": "text",
-			"x": 700,
-			"y": 180,
-			"width": 440,
-			"height": 280,
-			"text": "### `lib/drive.ts`\n\nREST cru com `fetch`, no estilo do `lib/notion.ts`:\n- token via JWT da service account\n- `garantirPasta()`\n- `abrirSessaoResumable()`\n- `publicarLeitura()`\n- `verificarArquivo()`\n\nUma dependência nova só para assinar o JWT (`google-auth-library` ou `jose`)."
-		},
-		{
-			"id": "af0ca643e0fbecb9",
-			"type": "text",
-			"x": 700,
-			"y": 490,
-			"width": 440,
-			"height": 180,
-			"text": "### Rotas\n\n`app/api/cards/video/sessao/route.ts`\n`app/api/cards/video/concluir/route.ts`\n\nToda chamada ao Drive com `supportsAllDrives`."
-		},
-		{
-			"id": "ee5723ccaac556a2",
-			"type": "text",
-			"x": 700,
-			"y": 700,
-			"width": 440,
-			"height": 180,
-			"text": "### UI — `media-gallery.tsx`\n\nO botão decide pelo tamanho: ≤ 20 MB continua no Notion, acima vai para o Drive. Barra de progresso por bloco.\n\nO campo de link manual fica como reserva; o aviso “até 20 MB” sai."
-		}
+	"nodes":[
+		{"id":"ac2eca3ca58643d0","type":"group","x":-380,"y":-900,"width":460,"height":1660,"color":"5","label":"Fluxo"},
+		{"id":"0c16b3cf6f6e343e","type":"group","x":160,"y":-120,"width":460,"height":1280,"color":"1","label":"A validar antes de fechar"},
+		{"id":"a6e9274e473481db","type":"group","x":680,"y":-900,"width":480,"height":960,"color":"2","label":"Setup do Google"},
+		{"id":"7aeba54ea3977a2f","type":"group","x":680,"y":120,"width":480,"height":780,"color":"6","label":"Código"},
+		{"id":"6b618d8bb52ac03b","type":"group","x":-1280,"y":-680,"width":460,"height":760,"color":"4","label":"Decisoes"},
+		{"id":"ce0df922d35ec3c1","type":"group","x":160,"y":-900,"width":460,"height":620,"color":"3","label":"Armazenamento"},
+		{"id":"4cf22e46272450fe","type":"text","text":"## 1 · Cliente escolhe o vídeo\n\nCliente anexa o video no card respectivo do site","x":-340,"y":-840,"width":380,"height":140},
+		{"id":"47fa81c2767400ad","type":"text","text":"## 2 · `POST /api/cards/video/sessao`\n\nServidor valida, nessa ordem:\n- sessão Supabase (`createClient`)\n- `getCardWrite(pageId)` → dono (`card.cliente`)\n- etapa `=== STATUS_EDITAVEL`\n","x":-340,"y":-670,"width":380,"height":260},
+		{"id":"f935167e98f8c599","type":"text","text":"### Checklist\n\n1. Criar o Drive Compartilhado (ex.: *Clientes — Vídeos*)\n2. Projeto no Google Cloud → habilitar a **Drive API**\n3. Criar a service account → baixar a chave JSON\n4. Adicionar o e-mail da service account como **Gerente de Conteúdo** do Drive Compartilhado","x":700,"y":-840,"width":440,"height":320},
+		{"id":"fffef9f10c87cf6e","type":"text","text":"### Env novas\n\n`GOOGLE_SA_EMAIL`\n`GOOGLE_SA_PRIVATE_KEY`\n`GDRIVE_SHARED_DRIVE_ID`\n`GDRIVE_PASTAS_CLIENTES`\n\nSó em rota de servidor — nunca com prefixo `NEXT_PUBLIC_`.","x":700,"y":-490,"width":440,"height":260},
+		{"id":"2f99983a7505bad8","type":"text","text":"### Mapa cliente → pasta\n\nPreciso do `folderId` de cada pasta de cliente já existente, casado com o valor do select **Cliente** do Notion:\n\n`GDRIVE_PASTAS_CLIENTES='{\"Dr Romilto\":\"1Ab…\"}'`\n\nCliente fora do mapa = erro 400. O painel nunca inventa pasta de cliente.","x":700,"y":-200,"width":440,"height":240},
+		{"id":"4a9a79b465c67b1c","type":"text","text":"### Google Drive\n\nDrive Compartilhado (Workspace), service account como Gerente de Conteúdo.","x":180,"y":-840,"width":420,"height":170},
+		{"id":"c56d2f741c0e4964","type":"text","text":"### CORS / `Origin`\n\nO `PUT` sai do navegador, então a abertura da sessão precisa mandar o `Origin` certo para o Google liberar CORS na URL de sessão.\n\nÉ o único ponto capaz de derrubar o fluxo. Conferir na doc da Drive API.","x":180,"y":-60,"width":420,"height":220},
+		{"id":"5e1c34dabfa5f0d2","type":"text","text":"### Preview no painel\n\n`webViewLink` abre o player do Drive em outra aba — é o comportamento de hoje.\n\nPara preview embutido: `iframe` com `/file/<id>/preview`. `<video src>` apontando para o Drive é instável.","x":180,"y":190,"width":420,"height":220},
+		{"id":"f337bb0902dac5e4","type":"text","text":"### `lib/drive.ts`\n\nREST cru com `fetch`, no estilo do `lib/notion.ts`:\n- token via JWT da service account\n- `garantirPasta()`\n- `abrirSessaoResumable()`\n- `publicarLeitura()`\n- `verificarArquivo()`\n\nUma dependência nova só para assinar o JWT (`google-auth-library` ou `jose`).","x":700,"y":180,"width":440,"height":280},
+		{"id":"af0ca643e0fbecb9","type":"text","text":"### Rotas\n\n`app/api/cards/video/sessao/route.ts`\n`app/api/cards/video/concluir/route.ts`\n\nToda chamada ao Drive com `supportsAllDrives`.","x":700,"y":490,"width":440,"height":180},
+		{"id":"ee5723ccaac556a2","type":"text","text":"### UI — `media-gallery.tsx`\n\nO botão decide pelo tamanho: ≤ 20 MB continua no Notion, acima vai para o Drive. Barra de progresso por bloco.\n\nO campo de link manual fica como reserva; o aviso “até 20 MB” sai.","x":700,"y":700,"width":440,"height":180},
+		{"id":"d576145f1391992e","type":"text","text":"### Antes de codar\n\n`npm install` no projeto: o AGENTS.md manda ler os guias de `node_modules/next/dist/docs/` (Next 16.2.9 tem quebras) e a pasta não está instalada.","x":180,"y":440,"width":420,"height":140},
+		{"id":"788fc0a3780241fe","type":"text","text":"### As pastas dos clientes estão no Drive Compartilhado?\n\nSe estiverem no *Meu Drive* de alguém, a service account consegue escrever, mas o arquivo nasce sem cota e o upload falha.\n\nConferir — e mover para o Drive Compartilhado se for o caso.","x":180,"y":610,"width":420,"height":200},
+		{"id":"110378868796281f","type":"text","text":"### Título muda, pasta não acompanha\n\nO app prefixa o título sozinho: `[REPROVADO]` em `reprovarCard` (e o card **segue** editável, dá para subir vídeo depois) e `[AJUSTAR]` em `registrarSolicitacaoAlteracao`.\n\nResolvo tirando esses prefixos e sanitizando `/` antes de usar como nome. Rename manual no Notion ainda cria pasta nova no próximo upload — se quiser à prova disso, sufixo com o `pageId` curto.","x":180,"y":840,"width":420,"height":280},
+		{"id":"f007f0c9f12f13ef","type":"text","text":"### Destino: Drive Compartilhado\n\nWorkspace + service account.\n","x":-1260,"y":-620,"width":420,"height":120},
+		{"id":"749219475c2a3e36","type":"text","text":"### Pastas: reaproveitar a do cliente\n\nA empresa já tem uma pasta por cliente no Drive\n\nDentro da pasta do cliente: `Videos anexados/` e, dentro dela, uma pasta por card, nomeada pelo título.","x":-1260,"y":-180,"width":420,"height":220},
+		{"id":"997a808bccf17cc0","type":"text","text":"### Permissão: qualquer um com o link (leitor)\n","x":-1260,"y":-480,"width":420,"height":100},
+		{"id":"06b4e2c63559ea2a","type":"text","text":"### Banco\n\nDrive + Notion + a sessão do Supabase","x":-1260,"y":-340,"width":420,"height":120},
+		{"id":"2b5c714cb72cd615","type":"text","text":"## 5 · `POST /api/cards/video/concluir`\n\n- `files.get` confere dono e pasta-pai \n- aplica permissão *anyone → reader*\n- `setArquivos(pageId, [...card.files, novo])`","x":-340,"y":280,"width":380,"height":220},
+		{"id":"63b5263db56198d3","type":"text","text":"## 4 · `PUT` direto no Google\n\nNavegador envia em blocos múltiplos de 256 KiB\n\n**Não passa pelo Next.** Rota serverless tem limite de ~4,5 MB de corpo e timeout de função — e `arrayBuffer()` de um vídeo de GB estoura a memória.","x":-340,"y":0,"width":380,"height":240},
+		{"id":"48eaf22c5ce3d65e","type":"text","text":"## 6 · Card atualizado\n\nEntra como item `external` no **Files & media**, idêntico ao link colado hoje por `montarLinkExterno()`.","x":-340,"y":540,"width":380,"height":180},
+		{"id":"ae508940cebc8835","type":"text","text":"## 3 · Drive: pastas + sessão\n\n`garantirPasta()` A partir do `folderId` da pasta do cliente:\n`<pasta do cliente> / Videos anexados / <título do card>`\n\nAbre upload *resumable* e devolve só a URL da sessão — capability URL, ~7 dias, válida para aquele único arquivo.","x":-340,"y":-360,"width":380,"height":280},
+		{"id":"f8ae7395b93d50e2","type":"text","text":"### Notion\n\nPropriedade `Files & media` do card. Nenhum schema novo.\n","x":180,"y":-640,"width":420,"height":160},
+		{"id":"e741ac5093c9a9f8","type":"text","text":"### Supabase\n\nSegue como auth/sessão.\n","x":180,"y":-460,"width":420,"height":120}
 	],
-	"edges": [
-		{
-			"id": "722002fd19c171d9",
-			"fromNode": "f1312622f9dd16e5",
-			"fromSide": "bottom",
-			"toNode": "8ddc36b8e8e9d501",
-			"toSide": "top",
-			"toEnd": "arrow",
-			"label": "demandas de hoje"
-		},
-		{
-			"id": "cc806d7df4adb4a0",
-			"fromNode": "8ddc36b8e8e9d501",
-			"fromSide": "right",
-			"toNode": "f007f0c9f12f13ef",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "gargalo: armazenamento"
-		},
-		{
-			"id": "91a496e503e62e25",
-			"fromNode": "4cf22e46272450fe",
-			"fromSide": "bottom",
-			"toNode": "47fa81c2767400ad",
-			"toSide": "top",
-			"toEnd": "arrow"
-		},
-		{
-			"id": "2b27464eac717ace",
-			"fromNode": "47fa81c2767400ad",
-			"fromSide": "bottom",
-			"toNode": "ae508940cebc8835",
-			"toSide": "top",
-			"toEnd": "arrow"
-		},
-		{
-			"id": "6ed6267a6bc7bae4",
-			"fromNode": "ae508940cebc8835",
-			"fromSide": "bottom",
-			"toNode": "63b5263db56198d3",
-			"toSide": "top",
-			"toEnd": "arrow",
-			"label": "URL da sessão"
-		},
-		{
-			"id": "a83c8c19036825cf",
-			"fromNode": "63b5263db56198d3",
-			"fromSide": "bottom",
-			"toNode": "2b5c714cb72cd615",
-			"toSide": "top",
-			"toEnd": "arrow",
-			"label": "fileId"
-		},
-		{
-			"id": "56f302648f2e47e3",
-			"fromNode": "2b5c714cb72cd615",
-			"fromSide": "bottom",
-			"toNode": "48eaf22c5ce3d65e",
-			"toSide": "top",
-			"toEnd": "arrow"
-		},
-		{
-			"id": "c7936adc0e992d9b",
-			"fromNode": "f007f0c9f12f13ef",
-			"fromSide": "right",
-			"toNode": "ae508940cebc8835",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "service account"
-		},
-		{
-			"id": "ebd2673f9e06b1af",
-			"fromNode": "997a808bccf17cc0",
-			"fromSide": "right",
-			"toNode": "2b5c714cb72cd615",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "permissão"
-		},
-		{
-			"id": "dab951f840742a28",
-			"fromNode": "fffef9f10c87cf6e",
-			"fromSide": "left",
-			"toNode": "ae508940cebc8835",
-			"toSide": "right",
-			"toEnd": "arrow",
-			"label": "credenciais"
-		},
-		{
-			"id": "6ab3cd0a0b42d0f2",
-			"fromNode": "47fa81c2767400ad",
-			"fromSide": "right",
-			"toNode": "e741ac5093c9a9f8",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "auth"
-		},
-		{
-			"id": "914890e03adfd45b",
-			"fromNode": "63b5263db56198d3",
-			"fromSide": "right",
-			"toNode": "4a9a79b465c67b1c",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "bytes"
-		},
-		{
-			"id": "5719838e5a22f11e",
-			"fromNode": "48eaf22c5ce3d65e",
-			"fromSide": "right",
-			"toNode": "f8ae7395b93d50e2",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "link"
-		},
-		{
-			"id": "f92c46db8feaa3ef",
-			"fromNode": "c56d2f741c0e4964",
-			"fromSide": "left",
-			"toNode": "63b5263db56198d3",
-			"toSide": "right",
-			"toEnd": "arrow"
-		},
-		{
-			"id": "38210679f0859427",
-			"fromNode": "5e1c34dabfa5f0d2",
-			"fromSide": "left",
-			"toNode": "48eaf22c5ce3d65e",
-			"toSide": "right",
-			"toEnd": "arrow"
-		},
-		{
-			"id": "cc8b352449fc14af",
-			"fromNode": "749219475c2a3e36",
-			"fromSide": "right",
-			"toNode": "ae508940cebc8835",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "pasta do cliente"
-		},
-		{
-			"id": "f4aacc9dd2b94821",
-			"fromNode": "2f99983a7505bad8",
-			"fromSide": "left",
-			"toNode": "ae508940cebc8835",
-			"toSide": "right",
-			"toEnd": "arrow",
-			"label": "folderId"
-		},
-		{
-			"id": "5c18fb0fcab349cc",
-			"fromNode": "110378868796281f",
-			"fromSide": "left",
-			"toNode": "ae508940cebc8835",
-			"toSide": "left",
-			"toEnd": "arrow",
-			"label": "nome da pasta"
-		},
-		{
-			"id": "e283ba7ddb00fbe4",
-			"fromNode": "788fc0a3780241fe",
-			"fromSide": "top",
-			"toNode": "4a9a79b465c67b1c",
-			"toSide": "bottom",
-			"toEnd": "arrow",
-			"label": "cota"
-		}
+	"edges":[
+		{"id":"91a496e503e62e25","fromNode":"4cf22e46272450fe","fromSide":"bottom","toNode":"47fa81c2767400ad","toSide":"top"},
+		{"id":"2b27464eac717ace","fromNode":"47fa81c2767400ad","fromSide":"bottom","toNode":"ae508940cebc8835","toSide":"top"},
+		{"id":"6ed6267a6bc7bae4","fromNode":"ae508940cebc8835","fromSide":"bottom","toNode":"63b5263db56198d3","toSide":"top","label":"URL da sessão"},
+		{"id":"a83c8c19036825cf","fromNode":"63b5263db56198d3","fromSide":"bottom","toNode":"2b5c714cb72cd615","toSide":"top","label":"fileId"},
+		{"id":"56f302648f2e47e3","fromNode":"2b5c714cb72cd615","fromSide":"bottom","toNode":"48eaf22c5ce3d65e","toSide":"top"},
+		{"id":"c7936adc0e992d9b","fromNode":"f007f0c9f12f13ef","fromSide":"right","toNode":"ae508940cebc8835","toSide":"left","label":"service account"},
+		{"id":"ebd2673f9e06b1af","fromNode":"997a808bccf17cc0","fromSide":"right","toNode":"2b5c714cb72cd615","toSide":"left","label":"permissão"},
+		{"id":"dab951f840742a28","fromNode":"fffef9f10c87cf6e","fromSide":"left","toNode":"ae508940cebc8835","toSide":"right","label":"credenciais"},
+		{"id":"6ab3cd0a0b42d0f2","fromNode":"47fa81c2767400ad","fromSide":"right","toNode":"e741ac5093c9a9f8","toSide":"left","label":"auth"},
+		{"id":"914890e03adfd45b","fromNode":"63b5263db56198d3","fromSide":"right","toNode":"4a9a79b465c67b1c","toSide":"left","label":"bytes"},
+		{"id":"5719838e5a22f11e","fromNode":"48eaf22c5ce3d65e","fromSide":"right","toNode":"f8ae7395b93d50e2","toSide":"left","label":"link"},
+		{"id":"f92c46db8feaa3ef","fromNode":"c56d2f741c0e4964","fromSide":"left","toNode":"63b5263db56198d3","toSide":"right"},
+		{"id":"38210679f0859427","fromNode":"5e1c34dabfa5f0d2","fromSide":"left","toNode":"48eaf22c5ce3d65e","toSide":"right"},
+		{"id":"cc8b352449fc14af","fromNode":"749219475c2a3e36","fromSide":"right","toNode":"ae508940cebc8835","toSide":"left","label":"pasta do cliente"},
+		{"id":"f4aacc9dd2b94821","fromNode":"2f99983a7505bad8","fromSide":"left","toNode":"ae508940cebc8835","toSide":"right","label":"folderId"},
+		{"id":"e283ba7ddb00fbe4","fromNode":"788fc0a3780241fe","fromSide":"top","toNode":"4a9a79b465c67b1c","toSide":"bottom","label":"cota"}
 	]
 }
