@@ -87,10 +87,54 @@ A grande aceitacao corporativa da VPN SSL / TLS deve-se a dois fatores estrategi
 
 
 
-| Protocolo /<br>Solucao | Camada OSI            | Criptografia ? | Porta /<br>Protocolo de Transporte | Caso de uso |
-| ---------------------- | --------------------- | -------------- | ---------------------------------- | ----------- |
-| **IPsec (AH) **        | **Camada 3 ( Rede )** | **NAO**        | **Protocolo I**                    |             |
+| Protocolo /<br>Solucao | Camada OSI              | Criptografia ?          | Porta /<br>Protocolo de Transporte | Caso de uso                                                                                 |
+| ---------------------- | ----------------------- | ----------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------- |
+| **IPsec (AH) **        | **Camada 3 ( Rede )**   | **NAO**                 | **Protocolo IP 51**                | Apenas autenticidade e integridade; **imcompativel com NAT nativo**                         |
+| **IPsec ( ESP )**      | **Camada 3 ( Rede )**   | **SIM**                 | **Protocolo IP 50**                | Criptografia, integridade e autenticidade completas ( Site to Site e Remote Acess)          |
+| **VPN SSL / TLS**      | **Camada 4 / 7**        | **SIM**                 | **TCP 443**                        | Acesso remoto via navegador (clientless) ou cliente leve; facil travessia de Firewall / NAT |
+| **PPTP**               | **Camada 2 ( Enlace )** | **Fraca / obsoleta**    | **TCP 1723 / Protocolo GRE 47**    | Solucao legada, descontinuada e nao recomendada para ambientes corporativos                 |
+| **L2TP**               | **Camada 2 ( Enlace )** | **NAO ( Exige IPsec )** | **UDP 1701**                       | Tunelamento L2 puro: Necessita ser emparelhado com IPsec para criptografar                  |
+| **OpenVPN**            | **Camada 4 / 7**        | **SIM**                 | **UDP / TCP ( customizavel )**     | Solucao open-source baseada em OpenSSL, altamente flexivel, segura e customizavel           |
+| **WireGuard**          | **Camada 3 ( rede ) **  | **SIM**                 | **UDP ( customizavel )**           | Arquitetura moderna, codigo extremamente enxuto, altissimo desempenho e baixa latencia      |
 
+#### **6.2. Questões Simuladas nos Moldes das Principais Bancas**
+
+**1. (Estilo CEBRASPE - Certo/Errado)**
+
+> O protocolo IPsec, operando no modo túnel com o subprotocolo AH (Authentication Header), garante a confidencialidade e a integridade de todo o pacote IP original transmitido entre dois gateways de rede.
+
+> ( ) Certo ( ) Errado
+
+- **Gabarito:** **ERRADO**
+- **Comentário Detalhado:** O item está incorreto por atribuir a função de confidencialidade ao subprotocolo **AH (Authentication Header)**. Embora o Modo Túnel encapsule todo o pacote IP original e o protocolo AH garanta a integridade (via _hash_ SHA-256) e a autenticidade dos dados, **o AH não oferece criptografia**. A responsabilidade de prover confidencialidade e cifrar os dados pertence exclusivamente ao subprotocolo **ESP (Encapsulating Security Payload)**.
+
+---
+
+**2. (Estilo FGV - Múltipla Escolha)**
+
+> Uma instituição pública deseja implementar um serviço de VPN para permitir o acesso remoto seguro dos seus servidores em regime de trabalho remoto (_Home Office_). O requisito principal estabelecido pela equipe de Tecnologia da Informação é que a solução não exija softwares clientes complexos nem liberações de portas não padronizadas nos firewalls e roteadores residenciais dos colaboradores.
+
+> Considerando os requisitos apresentados, a tecnologia mais indicada para o cenário é:
+
+> A) IPsec em Modo Transporte utilizando o protocolo AH. 
+> B) PPTP nativo sem protocolos auxiliares. 
+> C) L2TP sem associação ao protocolo IPsec. 
+> D) VPN baseada em SSL/TLS operando na porta TCP 443. 
+> E) IPsec em Modo Túnel exclusivo com protocolo IP 50.
+
+- **Gabarito:** **D**
+- **Comentário Detalhado:** A alternativa **D** é a correta. A VPN baseada em **SSL/TLS** opera utilizando a porta padrão **TCP 443**, que se encontra aberta por padrão na imensa maioria dos firewalls e roteadores NAT. Adicionalmente, permite a modalidade _Clientless_, na qual o servidor acessa os sistemas corporativos diretamente através do navegador de internet sem a necessidade de instalação de softwares pesados. As demais alternativas estão incorretas: A e C não provêm criptografia; B utiliza um protocolo obsoleto/inseguro; E exige clientes dedicados e liberações específicas de protocolos de rede (IP 50) que frequentemente são bloqueados por provedores residenciais.
+
+---
+
+**3. (Estilo FCC - Múltipla Escolha)**
+
+> Na arquitetura do conjunto de protocolos IPsec, a diferença estrutural fundamental entre o Modo Transporte e o Modo Túnel reside no fato de que o Modo Túnel:
+
+> A) Dispensa a utilização de subprotocolos de autenticação como o AH e o ESP. B) Criptografa apenas a carga útil (_payload_), mantendo o cabeçalho IP original visível para roteamento. C) Criptografa todo o pacote IP original e adiciona um novo cabeçalho IP externo para o trânsito na rede. D) Opera exclusivamente na Camada de Aplicação do modelo OSI, de forma visível ao usuário. E) Elimina a necessidade de troca prévia de chaves criptográficas entre as entidades.
+
+- **Gabarito:** **C**
+- **Comentário Detalhado:** A alternativa **C** é a correta. No **Modo Túnel** do IPsec, todo o pacote IP original (incluindo o cabeçalho IP original e o _payload_) é criptografado e envelopado dentro de um novo pacote IP, que recebe um novo cabeçalho IP externo com os endereços dos _gateways_ de origem e destino. A alternativa B descreve o comportamento do Modo Transporte. A alternativa D está errada pois o IPsec atua na Camada 3 (Rede) e a alternativa E está incorreta pois a negociação e troca de chaves continuam sendo obrigatórias na arquitetura IPsec.
 
 
 
