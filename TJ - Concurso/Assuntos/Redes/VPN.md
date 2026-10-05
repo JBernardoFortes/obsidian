@@ -34,6 +34,21 @@ As bancas de concurso exploram exaustivamente a diferenca estrutural entre os do
 - **Modo Transparente**: Criptografia **apenas a carga util(payload)** do pacote IP original, mantendo o cabecalho IP original visivel e inalterado. Eh o modo indicado para comuincacoes diretas de host a host ( host-to-host ), onde ambos os computadores suportam o IPsec nativamente
 - **Modo Tunel**: Criptografa **todo o pacote IP original** (Cabecalho IP original + payload) e insere um **novo cabecalho IP externo** para roteamento entre os gateways. Eh a modalidade padrao e obrigatoria para conexoes gateway a gateway (site-to-site) e cliente a gateway (remote acess)
 
+### 2.3 Subprotocolos Integrantes: AH vs. ESP
+
+A arquitetura IPsec divide suas funcoes de seguranca em dois subprotocolos fundamentais:
+
+- **AH ( Authentication Header - Protocolo IP 51 )**: Prove **Autenticidade** e **Integridade** dos dados ( via funcoes de hash como SHA-256 ). **O protocolo AH nao oferece criptografia / confidencialidade**. Sob o protocolo AH, os dados trafegam inteiramente em texto claro.
+- **ESP ( Encapsulating Security Payload - Protocolo IP 50 )**: Prove **Autenticidade**, **Integridade** e **Criptografia ( Confidencialidade )** dos dados transmitidos ( utilizando algoritmos cifradores como AES ). O ESP pode ser utilizado isoladamente ou em combinacoes com o AH.
+	
+	**MAPA DA BANCA / DICA DOURADA:** **Incompatibilidade Histórica entre IPsec AH e NAT:** O Cebraspe adora cobrar este detalhe! O protocolo **AH** calcula o seu _hash_ de integridade cobrindo também o cabeçalho IP externo (incluindo os endereços IP de origem e destino). Quando o pacote passa por um roteador **NAT (Network Address Translation)**, o endereço IP é alterado para permitir o roteamento público. Essa alteração invalida o _hash_ do AH no destino, fazendo com que o pacote seja descartado. Por essa razão, **o AH é nativamente incompatível com NAT**, exigindo mecanismos adicionais (como _NAT-Traversal / NAT-T_) quando utilizado com o ESP.
+
+## 3. VPN SSL / TLS ( Camada 4 / 7 : Transporte e Aplicacao)
+
+### 3.1 Funcionamento na porta 443 ( HTTPS ) e Certificados Digitais
+
+
+
 ---
 
 [[Assuntos]]
