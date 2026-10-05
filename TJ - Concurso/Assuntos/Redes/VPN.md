@@ -23,7 +23,7 @@ Nas provas de concursos publicos ( especialmente Cebraspe, FGV e FCC ), a cobran
 
 ## 2. O Protocolo IPsec ( Camada 3 / Rede )
 
-### 2.1 VIsao Geral da Arquitetura IPsec
+### 2.1 Visao Geral da Arquitetura IPsec
 
 O **IPsec ( Internet Protocol Security )** eh uma suite flexivel de protocolos de seguranca que atua estritamente na **Camada 3 (Rede)** do modelo OSI / TCP-IP. Como opera na camada de rede, o IPsec oferece uma protecao transparente para todas as aplicacoes e protocolos das camadas superiores ( como HTTP, FPT e SMTP ), sem exigit adaptacoes nos softwares de usuario final.
 
@@ -31,7 +31,7 @@ O **IPsec ( Internet Protocol Security )** eh uma suite flexivel de protocolos d
 
 As bancas de concurso exploram exaustivamente a diferenca estrutural entre os dois modos de operacao do IPsec:
 
-- **Modo Transparente**: Criptografia **apenas a carga util(payload)** do pacote IP original, mantendo o cabecalho IP original visivel e inalterado. Eh o modo indicado para comuincacoes diretas de host a host ( host-to-host ), onde ambos os computadores suportam o IPsec nativamente
+- **Modo Transporte**: Criptografia **apenas a carga util(payload)** do pacote IP original, mantendo o cabecalho IP original visivel e inalterado. Eh o modo indicado para comuincacoes diretas de host a host ( host-to-host ), onde ambos os computadores suportam o IPsec nativamente
 - **Modo Tunel**: Criptografa **todo o pacote IP original** (Cabecalho IP original + payload) e insere um **novo cabecalho IP externo** para roteamento entre os gateways. Eh a modalidade padrao e obrigatoria para conexoes gateway a gateway (site-to-site) e cliente a gateway (remote acess)
 
 ### 2.3 Subprotocolos Integrantes: AH vs. ESP
@@ -131,7 +131,10 @@ A grande aceitacao corporativa da VPN SSL / TLS deve-se a dois fatores estrategi
 
 > Na arquitetura do conjunto de protocolos IPsec, a diferença estrutural fundamental entre o Modo Transporte e o Modo Túnel reside no fato de que o Modo Túnel:
 
-> A) Dispensa a utilização de subprotocolos de autenticação como o AH e o ESP. B) Criptografa apenas a carga útil (_payload_), mantendo o cabeçalho IP original visível para roteamento. C) Criptografa todo o pacote IP original e adiciona um novo cabeçalho IP externo para o trânsito na rede. D) Opera exclusivamente na Camada de Aplicação do modelo OSI, de forma visível ao usuário. E) Elimina a necessidade de troca prévia de chaves criptográficas entre as entidades.
+> A) Dispensa a utilização de subprotocolos de autenticação como o AH e o ESP. 
+> B) Criptografa apenas a carga útil (_payload_), mantendo o cabeçalho IP original visível para roteamento. 
+> C) Criptografa todo o pacote IP original e adiciona um novo cabeçalho IP externo para o trânsito na rede. 
+> D) Opera exclusivamente na Camada de Aplicação do modelo OSI, de forma visível ao usuário. E) Elimina a necessidade de troca prévia de chaves criptográficas entre as entidades.
 
 - **Gabarito:** **C**
 - **Comentário Detalhado:** A alternativa **C** é a correta. No **Modo Túnel** do IPsec, todo o pacote IP original (incluindo o cabeçalho IP original e o _payload_) é criptografado e envelopado dentro de um novo pacote IP, que recebe um novo cabeçalho IP externo com os endereços dos _gateways_ de origem e destino. A alternativa B descreve o comportamento do Modo Transporte. A alternativa D está errada pois o IPsec atua na Camada 3 (Rede) e a alternativa E está incorreta pois a negociação e troca de chaves continuam sendo obrigatórias na arquitetura IPsec.

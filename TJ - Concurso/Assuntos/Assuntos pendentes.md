@@ -1,6 +1,6 @@
 
-- [ ] VPN
-- [ ] Redacao Presidencial
+- [x] VPN
+- [x] Redacao Presidencial
 - [ ] Proxy
 
 
