@@ -72,7 +72,27 @@ A grande aceitacao corporativa da VPN SSL / TLS deve-se a dois fatores estrategi
 
 ### 4.1 Protocolos Legados de Camada de Enlace: PPTP e L2TP
 
-- **PPTP ( Point-to-Point Tunelling Protoocol )**: Desenvolvido para a **Camada 2 ( Enlace )** do modelo OSI, utiliza a porta **TCP 1723** e o protocolo **GRE ( Generic Routing Encapsulation - Protocolo IP 47 )**. Embora seja de simples configuracao, eh considerado obsoleto e inseguro devido a severas vuln
+- **PPTP ( Point-to-Point Tunelling Protoocol )**: Desenvolvido para a **Camada 2 ( Enlace )** do modelo OSI, utiliza a porta **TCP 1723** e o protocolo **GRE ( Generic Routing Encapsulation - Protocolo IP 47 )**. Embora seja de simples configuracao, eh considerado obsoleto e inseguro devido a severas vulnerabilidades criptograficas em seu mecanismo de autenticacao ( MS-CHAPv2 )
+- **L2TP ( Layer 2 Tunneling Protocol )**: Evolucao do PPTP que opera na **Camada 2 ( Enlace )**, utilizando a porta **UDP 1701. Atencao para a prova**: Ele realiza estritamente o tunelamento do trafego. Por este motivo, para garantir a confidencialidade, o L2TP eh obrigatoriamente emparelhado com o IPsec, originando a suite **L2TP/IPsec**.
+
+	**MAPA DA BANCA / DICA DOURADA:** A FCC adora elaborar afirmativas declarando que "o protocolo L2TP é uma excelente escolha por oferecer forte criptografia simétrica nativa aos pacotes da camada de enlace". Essa afirmativa é **FALSA**! O L2TP sozinho apenas encapsula o quadro; quem fornece a criptografia é o protocolo IPsec (especificamente o ESP) associado a ele.
+
+### 4.2 Solucoes Modernas : OpenVPN e WireGuard
+
+- **OpenVPN**: Solucao de codigo aberto ( open-source ) extremamente robusta e flexivel, fundamentada nas bibliotecas da suite **OpenSSL**. Funciona nas camadas 4 e 7 e pode ser configurada para operar em portas personalizadas tanto sob o protoco **UDP** quanto **TCP**, superando restricoes rigorosas de firewalls e oferecendo altissimo nivel de seguranca ( criptografia AES e autenticacao HMAX / SHA-256 ).
+- **WireGuard**: Protocolo moderno de **Camada 3 ( Rede )** que opera nativamente sobre **UDP** ( com portas customizaveis ). Apresenta um codigo-fonte enxerto e altamente otimizado ( com cerca de 4 mil linhas de codigo, em comparacao as centenas de milhares do OpenVPN / IPsec ), garantindo baixissima latencia, consumo reduzido de processamento e uso de primitivas criptograficas modernas de ultima geracao
+
+
+## 5. Tabela Comparativa dos Protocolos e Modos de VPN
+
+
+
+| Protocolo /<br>Solucao | Camada OSI            | Criptografia ? | Porta /<br>Protocolo de Transporte | Caso de uso |
+| ---------------------- | --------------------- | -------------- | ---------------------------------- | ----------- |
+| **IPsec (AH) **        | **Camada 3 ( Rede )** | **NAO**        | **Protocolo I**                    |             |
+
+
+
 
 ---
 
