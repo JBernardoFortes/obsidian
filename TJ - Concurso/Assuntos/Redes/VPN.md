@@ -50,7 +50,10 @@ A arquitetura IPsec divide suas funcoes de seguranca em dois subprotocolos funda
 As VPN baseadas nos protocolos **SSL ( Secure Sockets Layer )** e **TLS ( Transport Layer Security )** atuam nas camadas superiores da arquitetura de redes ( Camada 4 / **Transporte** e Camada 7 / **Aplicacao** do modelo OSI )
 
 - **Porta Padronizada**: Operam por padrao na porta **TCP 443**, a mesma porta utilizada pelo trafego web seguro ( HTTPS )
-- **Mecanismo de Criptografia Hibrida**: 
+- **Mecanismo de Criptografia Hibrida**: A VPN SSL / TLS utiliza o conceito de cripgrafia hibrida para otimizar a seguranca e o desempenho:
+
+	1. **Etapa Assimetrica ( Troca de Chaves / Handshake )**: Utiliza algoritmos assimetricos ( como **RSA** ou **Diffie-Hellman**) e certificados digitais X.509 validados por Autoridades Certificadoras ( AC ) para autenticar o servidor e negociar com seguranca uma chave secreta de sessao. A criptografia assimetrica resolve com precisao o problema da distribuicao de chaves em redes nao confiaveis.
+	2. **Etapa Simetrica ( Cifragens em Massa**
 
 ---
 
