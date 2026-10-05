@@ -47,7 +47,10 @@ A arquitetura IPsec divide suas funcoes de seguranca em dois subprotocolos funda
 
 ### 3.1 Funcionamento na porta 443 ( HTTPS ) e Certificados Digitais
 
+As VPN baseadas nos protocolos **SSL ( Secure Sockets Layer )** e **TLS ( Transport Layer Security )** atuam nas camadas superiores da arquitetura de redes ( Camada 4 / **Transporte** e Camada 7 / **Aplicacao** do modelo OSI )
 
+- **Porta Padronizada**: Operam por padrao na porta **TCP 443**, a mesma porta utilizada pelo trafego web seguro ( HTTPS )
+- **Mecanismo de Criptografia Hibrida**: 
 
 ---
 
