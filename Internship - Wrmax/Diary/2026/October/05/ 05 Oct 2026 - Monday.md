@@ -11,6 +11,8 @@ Nessas situacoes tentar respirar antes de acontecer alguma coisa, vai que o cara
 
 Eu tambem estava errado, acabou que na pressa, por **Andar com pressa** - coisa que eu evito ao maximo - eu negligenciei um pouco e tava no automatico, ai passei perto demais do carro dele, eu tambem tenho essa dificuldade de ver as pessoa atras do carro.
 
+Hoje eu esqueci de ler o livro da autoreesponsabilidade, fui retaliado por conta disso. A chefe me fez eu mesmo me chamar de irresponsavel na frente de todo mundo, isso eh abuso de poder e psicologico. Espero passar no TJ logo para sair daqui. Ainda me deram indiretas sobre o primeiro amor da empresa e ter responsabilidade na hora da passagem do livro.
+
 ### Demandas de hoje
 
 - [[Demandas - 05 Out 2026]]
