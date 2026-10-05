@@ -6,7 +6,8 @@
 		O maior gargalo eh o armazenamento dessas midias, entender depois como pode ser feito
 		Fluxo e decisoes: [[Fluxo - Upload de midia do cliente]]
 	- Preciso apresentar para eles o fluxo e entender o que eles querem de verdade
-- [ ] Entrar em contato com o suporte do Facebook BM porque estamos com dificuldade para agendar postagens
+- [x] Entrar em contato com o suporte do Facebook BM porque estamos com dificuldade para agendar postagens
+	- Esta funcionando
 - [ ] Estatico - Autoridade - "Ja tomou infiltracao?"
 - [ ] Comecar a configurar o NFS da empresa
 - [x] Preciso arrumar a foto profissional
