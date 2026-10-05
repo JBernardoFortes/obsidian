@@ -1,2 +1,2 @@
 
-[[Fluxo - Upload de midia do cliente.canvas]]
+![[Fluxo - Upload de midia do cliente.canvas]]
