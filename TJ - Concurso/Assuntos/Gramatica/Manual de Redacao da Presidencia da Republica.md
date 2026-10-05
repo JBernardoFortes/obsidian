@@ -73,7 +73,7 @@ O ato é estatal, não pessoal. É proibido o uso de impressões individuais ("e
 
 Esta é uma das "pegadinhas" favoritas das bancas. Memorize a **Regra de Ouro**:
 
-**🛑 PARE E DECORE:**
+**PARE E DECORE:**
 
 - Texto com **UM ÚNICO** parágrafo: **NÃO** deve ser numerado.
 - Texto com **DOIS OU MAIS** parágrafos: A numeração é **OBRIGATÓRIA** desde o primeiro.
