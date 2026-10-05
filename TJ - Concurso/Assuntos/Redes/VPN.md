@@ -53,7 +53,18 @@ As VPN baseadas nos protocolos **SSL ( Secure Sockets Layer )** e **TLS ( Transp
 - **Mecanismo de Criptografia Hibrida**: A VPN SSL / TLS utiliza o conceito de cripgrafia hibrida para otimizar a seguranca e o desempenho:
 
 	1. **Etapa Assimetrica ( Troca de Chaves / Handshake )**: Utiliza algoritmos assimetricos ( como **RSA** ou **Diffie-Hellman**) e certificados digitais X.509 validados por Autoridades Certificadoras ( AC ) para autenticar o servidor e negociar com seguranca uma chave secreta de sessao. A criptografia assimetrica resolve com precisao o problema da distribuicao de chaves em redes nao confiaveis.
-	2. **Etapa Simetrica ( Cifragens em Massa**
+	2. **Etapa Simetrica ( Cifragens em Massa )**: Apos o estabelecimento da sessao, os dados trafegados sao cifrados por algoritmos simetricos ( como **AES** ou **3DES** ), garantindo altissima velocidade no processamento da carga util. A integridade de cada bloco transmitido eh validada via codigo de autenticacao de mensagem baseado em hash ( **SHA-256** )
+
+	[[Criptografia simetrica e assimetrica]]
+
+### 3.2 Vantagens de Travessia ( Firewall / NAT ) e Tipos de Acesso
+
+A grande aceitacao corporativa da VPN SSL / TLS deve-se a dois fatores estrategicos:
+
+- **Facilidade de Travessia de Firewalls e NAT**: Como a porta TCP 443 esta liberada na quase totalidade dos firewalls corporativos e roteadores residenciais para navegacao web, a VPN SSL / TLS raramente sofre bloqueios ou exige configuracoes complexas de redirecionamento de portas.
+- **Modalidade de Acesso Remoto**: 
+	- Clientless SSL VPN ( Acesso sem cliente dedicado ): Atua na **Camada 7 ( aplicacao)**. O usuario acessa recursos corporativos especificos ( como e-mail, portal interno e sistemas web) diretamente pelo navegador de internet, sem necessidade de instalar qualquer software adicional
+	- Client-based SSL VPN ( Acesso com cliente leve ): Atua na **Camada 4 ( Transporte )**. Requer a instalacao de um software cliente enxuto no dispositivo do usuario, estabelecendo um tunel completo que concede acesso integral 
 
 ---
 
