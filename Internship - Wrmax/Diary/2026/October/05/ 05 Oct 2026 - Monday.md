@@ -13,6 +13,8 @@ Eu tambem estava errado, acabou que na pressa, por **Andar com pressa** - coisa 
 
 Hoje eu esqueci de ler o livro da autoreesponsabilidade, fui retaliado por conta disso. A chefe me fez eu mesmo me chamar de irresponsavel na frente de todo mundo, isso eh abuso de poder e psicologico. Espero passar no TJ logo para sair daqui. Ainda me deram indiretas sobre o primeiro amor da empresa e ter responsabilidade na hora da passagem do livro.
 
+Perguntar ao Roberth as especificidades dos cards
+
 ### Demandas de hoje
 
 - [[Demandas - 05 Out 2026]]
