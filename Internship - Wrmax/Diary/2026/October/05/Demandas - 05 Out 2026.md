@@ -14,3 +14,4 @@
 	- Fui no banheiro tnetar tirar, vou tentar editar com o GPT
 	- A Catarina tirou minha foto
 - [x] O Chefe me pediu para mandar umas fotos da apipa em documento para ele
+- [ ] Fazer um artifact que pega os saldos das campanhas da meta
