@@ -15,3 +15,4 @@
 	- A Catarina tirou minha foto
 - [x] O Chefe me pediu para mandar umas fotos da apipa em documento para ele
 - [ ] Fazer um artifact que pega os saldos das campanhas da meta
+	- Preciso levantar requisitos para fazer isso com calma, utilizando n8n ou outra ferramenta
