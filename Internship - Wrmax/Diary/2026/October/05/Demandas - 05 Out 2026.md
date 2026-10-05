@@ -7,3 +7,4 @@
 - [ ] Entrar em contato com o suporte do Facebook BM porque estamos com dificuldade para agendar postagens
 - [ ] Estatico - Autoridade - "Ja tomou infiltracao?"
 - [ ] Comecar a configurar o NFS da empresa
+- [ ] Preciso arrumar a foto profissional
