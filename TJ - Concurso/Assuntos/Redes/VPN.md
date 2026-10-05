@@ -64,7 +64,15 @@ A grande aceitacao corporativa da VPN SSL / TLS deve-se a dois fatores estrategi
 - **Facilidade de Travessia de Firewalls e NAT**: Como a porta TCP 443 esta liberada na quase totalidade dos firewalls corporativos e roteadores residenciais para navegacao web, a VPN SSL / TLS raramente sofre bloqueios ou exige configuracoes complexas de redirecionamento de portas.
 - **Modalidade de Acesso Remoto**: 
 	- Clientless SSL VPN ( Acesso sem cliente dedicado ): Atua na **Camada 7 ( aplicacao)**. O usuario acessa recursos corporativos especificos ( como e-mail, portal interno e sistemas web) diretamente pelo navegador de internet, sem necessidade de instalar qualquer software adicional
-	- Client-based SSL VPN ( Acesso com cliente leve ): Atua na **Camada 4 ( Transporte )**. Requer a instalacao de um software cliente enxuto no dispositivo do usuario, estabelecendo um tunel completo que concede acesso integral 
+	- Client-based SSL VPN ( Acesso com cliente leve ): Atua na **Camada 4 ( Transporte )**. Requer a instalacao de um software cliente enxuto no dispositivo do usuario, estabelecendo um tunel completo que concede acesso integral a rede IP da organizacao.
+
+	**MAPA DA BANCA / DICA DOURADA:** Questões da FGV frequentemente contrapõem o uso da VPN IPsec e da VPN SSL/TLS em cenários de _Home Office_. Lembre-se: enquanto o IPsec exige configurações complexas no cliente e liberações de protocolos IP de rede (IP 50 e 51) que costumam ser bloqueados em redes domésticas ou hotéis, a VPN SSL/TLS opera de forma transparente via porta **TCP 443**, sendo a escolha ideal para mobilidade e trabalho remoto.
+
+## 4. Outros Protocolos de Tunelamento
+
+### 4.1 Protocolos Legados de Camada de Enlace: PPTP e L2TP
+
+- **PPTP ( Point-to-Point Tunelling Protoocol )**: Desenvolvido para a **Camada 2 ( Enlace )** do modelo OSI, utiliza a porta **TCP 1723** e o protocolo **GRE ( Generic Routing Encapsulation - Protocolo IP 47 )**. Embora seja de simples configuracao, eh considerado obsoleto e inseguro devido a severas vuln
 
 ---
 
