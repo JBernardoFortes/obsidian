@@ -28,19 +28,7 @@ FROM tse_teste.candidatura c
 
 JOIN tse_teste.candidato ca
 
-ON ca.id_pessoa_proWITH historico AS (
-SELECT
-c.ano_eleicao,
-c.sq_candidato,
-ca.nm_candidato,
-c.sg_partido AS partido,
-c.ds_cargo AS cargo,
-c.sg_ue AS uf,
-c.cd_municipio_tse AS municipio,
-c.nr_turno_resultado AS turno,
-c.ds_sit_tot_turno AS situacao,
-c.qt_votos_totais AS votos,
-jeto = c.id_pessoa_projeto
+ON ca.id_pessoa_projeto = c.id_pessoa_projeto
 
 LEFT JOIN (
 
