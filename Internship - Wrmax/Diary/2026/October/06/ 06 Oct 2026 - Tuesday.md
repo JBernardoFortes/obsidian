@@ -11,6 +11,8 @@ Chamaram um novo cara de TI, parece que vao passar as tarefas de desenvolvimento
 
 Preciso ser pulso firme
 
+Me colocaram pra fazer arte enquanto o sujeito novo faz a landpage, estou de saida da empresa, nao me importo de ficar desempregado de novo.
+
 
 ---
 #internship-wrmax
