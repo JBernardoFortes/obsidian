@@ -4,11 +4,12 @@
 
 ---
 
-- [ ] Terminar o carrossel da APIPA
+- [x] Terminar o carrossel da APIPA
 	- Terminei, mas preciso que a chefe de o parecer
 - [ ] Fazer os aniversariantes do mes da Oftalmed
 	- [x] Lucivera ( 07 / 10 )
-		- "Feliz aniversário, Lucivera! Que seu novo ciclo seja repleto de saúde, alegrias e muitas realizações. O Oftalmed deseja um dia muito especial para você!"
+		- "Feliz an
+		- iversário, Lucivera! Que seu novo ciclo seja repleto de saúde, alegrias e muitas realizações. O Oftalmed deseja um dia muito especial para você!"
 		- Imagem: [https://drive.google.com/file/d/1dc6-zhIybsfrKddAtB38TbAHouwkRsvN/view?usp=drive_link](https://drive.google.com/file/d/1dc6-zhIybsfrKddAtB38TbAHouwkRsvN/view?usp=drive_link)
 	- [x] Dayane ( 17 / 10 )
 		- A principio esta faltando o texto dela, gerar um com base no ja feito
@@ -21,3 +22,4 @@
 		- A principio esta faltando as imagens dela
 - [ ] Estatico 05 - Infiltracao - Gabriel Baiao
 - [ ] Estatico - Dor no ombro Gabriel Baiao
+- [x] Estatico - Hernia de disco
