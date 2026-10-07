@@ -20,6 +20,6 @@
 	- [ ] Fatima ( 15 / 10 )
 		- "Feliz aniversário, Fátima! Desejamos que este novo ano da sua vida seja marcado por saúde, paz, felicidade e muitas conquistas. Um abraço especial da família Oftalmed!"
 		- A principio esta faltando as imagens dela
-- [ ] Estatico 05 - Infiltracao - Gabriel Baiao
+- [x] Estatico 05 - Infiltracao - Gabriel Baiao
 - [ ] Estatico - Dor no ombro Gabriel Baiao
 - [x] Estatico - Hernia de disco
