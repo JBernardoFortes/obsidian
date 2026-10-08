@@ -13,6 +13,8 @@ Aos trabalhos, comecar pra terminar
 
 Terminei as demandas de hoje, tem o extra que eh o levantamento de requisito para fazer o sistema que o chefe perdiu usando o obsidian, mas precisamos analisar ainda como ele iria querer, posso ver o que pode ser feito com o claude, perguntar o que poderia ser realmente util para a empresa e fazer parte da rotina dela.
 
+O Cairo me falou pra conversar com ele, fingir que somos amigos, foi brincadeira mas parece aquelas com fundo de verdade, vou falar com ele agora e se sobrar tempo eu escrevo o tema do que foi conversado por aqui
+
 ### Demandas
 
 - [[Demandas - 08 Out 2026]]
