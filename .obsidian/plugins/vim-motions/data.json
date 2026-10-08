@@ -173,5 +173,9 @@
   "smearTrailingStiffness": 0.3,
   "smearDamping": 0.85,
   "smearMaxLength": 400,
-  "pluginAutoFetch": false
+  "pluginAutoFetch": false,
+  "persistedMarks": [],
+  "harpoonPins": [],
+  "persistedJumpList": [],
+  "persistedFolds": {}
 }
