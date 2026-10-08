@@ -6,6 +6,7 @@
 	- Comecei a fazer essa parte com o MCP do canva
 - [x] A Catarina me pediu uma foto para por no fundo de um video da APIPA
 	- [x] Me pediram para fazer ele ficar mais claro, a cor do apipa mesmo
+	- [ ] Ela me pediu para subir a logo depois de enviar para ela
 - [ ] O Roberth me pediu para subir o site da Azuza novo
 	- [x] Checar se o formulario realmente funciona
 		- Esta funcionando
