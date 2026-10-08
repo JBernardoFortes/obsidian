@@ -14,9 +14,9 @@
 		- [ ] Eh na GoDaddy
 	- [ ] Conseguir entrar na conta
 		- O problema eh que tem autenticacao de dois fatores na conta que gerencia o dominio, espero que eu tenha oportunidade de subir esse site no dominio deles
-- [ ] Roberth me pediu para subir os anuncios
+- [x] Roberth me pediu para subir os anuncios
 	- [x] Luis Eduardo
-	- [ ] Floriano
+	- [x] Floriano
  
 - [ ] Extra: O Robeth me pediu pra fazer um projeto utilizando o obsidian + notion + claude para a empresa
 	- Levanta requisitos sobre como podemos fazer isso eventualmente

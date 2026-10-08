@@ -15,6 +15,8 @@ Terminei as demandas de hoje, tem o extra que eh o levantamento de requisito par
 
 O Cairo me falou pra conversar com ele, fingir que somos amigos, foi brincadeira mas parece aquelas com fundo de verdade, vou falar com ele agora e se sobrar tempo eu escrevo o tema do que foi conversado por aqui
 
+A conversa foi a continuacao da semana passada sobre o que eu espero sobre a empresa, o que eu to achando do meu trabalho, expectativas e sujestoes de melhoria etc etc. Eu gosto que eles se preocupam com isso, eles tem ate o dia do resultado do tj pra me convencer a ficar na empresa, ou ate o dia do termino do contrato do estagio supervisionado. Quero realmente desenvolver algo e aprender algo que vai ser relevante pra minha area em si, que eu va usar eventualmente.
+
 ### Demandas
 
 - [[Demandas - 08 Out 2026]]
