@@ -11,6 +11,8 @@ Depois que acabar as demandas para gerar estaticos vou fazer o levantamento de r
 
 Aos trabalhos, comecar pra terminar 
 
+Terminei as demandas de hoje, tem o extra que eh o levantamento de requisito para fazer o sistema que o chefe perdiu usando o obsidian, mas precisamos analisar ainda como ele iria querer, posso ver o que pode ser feito com o claude, perguntar o que poderia ser realmente util para a empresa e fazer parte da rotina dela.
+
 ### Demandas
 
 - [[Demandas - 08 Out 2026]]
