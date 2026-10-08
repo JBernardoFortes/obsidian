@@ -3,6 +3,7 @@
 - [x] Carrossel - Dr Gabriel - Mitos da infiltracao
 - [x] Carrossel - Dr Gabriel - Joelho estalando
 - [ ] Carrossel Dr Romilto - Tadala
+	- Comecei a fazer essa parte com o MCP do canva
  
 - [ ] Extra: O Robeth me pediu pra fazer um projeto utilizando o obsidian + notion + claude para a empresa
 	- Levanta requisitos sobre como podemos fazer isso eventualmente
