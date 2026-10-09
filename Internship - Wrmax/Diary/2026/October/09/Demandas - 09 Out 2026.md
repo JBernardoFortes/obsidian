@@ -49,3 +49,16 @@
 		- [x] Balsas
 		- [x] Urucui
 		- [x] Reportar para o chefe
+	- [ ] Baixar os videos dos municipios
+		- [x] Floriano
+		- [ ] Picos
+		- [ ] Baixa Grande
+		- [ ] Balsas
+		- [ ] Urucui
+	- [ ] Subir no meta Ads os videos de todos os municipios
+		- [ ] Floriano
+		- [ ] Picos
+		- [ ] Baixa Grande
+		- [ ] Balsas 
+		- [ ] Urucui
+		- [ ] Reportar para o chefe
