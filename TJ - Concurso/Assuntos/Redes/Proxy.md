@@ -23,7 +23,18 @@ O emprego de servidores intermediarios na arquitetura de redes atende a objetivo
 
 ### 2. Forward Proxy ( Proxy Direto )
 
-O Forward Proxy ( Proxy Direto ) eh a modalidade de proxy 
+O Forward Proxy ( Proxy Direto ) eh a modalidade de proxy voltada para a protecao, controle e atendimento as demands dos clientes e usuarios de uma rede interna corporativa ou institucional.
+
+#### 2.1 Localizacao e Atuacao na Redes de Clientes
+
+O Forward Proxy fica posicionado no perimetro de saida da rede local ( LAN ) em direcao a internet publica. Ele monitora e processa o trafego de saida ( Outbound traffic ), garantindo que todas as solicitacoes de navegacao e acesso a servicos externos geradas pelas estacoes de trabalho internas passem obrigatoriamente pela sua estrutura de filtragem.
+
+#### 2.2 Funcionalidades de Controle e Auditoria
+
+A implementacao do Forward Proxy prove ferramentas essenciais para a gestao da rede de clientes:
+
+- **Gestao de Acesso e Seguranca do Cliente**:
+	- **Controle e filtragem de conteudo**: 
 
 ---
 
