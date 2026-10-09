@@ -33,7 +33,7 @@
 	- Usei o medico errado para fazer o estatico
 - [ ] Fazer estatico de aviso de feriado para os clientes
 	- [x] Oxcentro 
-	- [ ] Oftalmed
+	- [x] Oftalmed
 	- [x] Clinica mais saude
 	- [x] Clinica RN
 	- [x] Alianca
