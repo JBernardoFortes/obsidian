@@ -87,7 +87,11 @@ Para obter alto rendimento em provas teoricas de concursos publicos, eh indispen
 
 A atuacao dos servidores intermediarios conecta-se diretamente aos protocolos de transferencia de dados da web e as camadas de seguranca criptografica:
 
-- **HTTP ( HyperText Transfer Protocol ) vs. FTP ( File Transfer Protocol )**: O HTTP eh o protocolo fundamental da web projetado para a transferencia e exibicao de paginas ( hipertexto ), combinando textos, imagens e elementos estaticos renderizados diretamente pelo navegador. O FTP, por sua vez, eh um protooclo dedicado especificamente a transferencia bruta de arquivos ( upload e download ) entr
+- **HTTP ( HyperText Transfer Protocol ) vs. FTP ( File Transfer Protocol )**: O HTTP eh o protocolo fundamental da web projetado para a transferencia e exibicao de paginas ( hipertexto ), combinando textos, imagens e elementos estaticos renderizados diretamente pelo navegador. O FTP, por sua vez, eh um protooclo dedicado especificamente a transferencia bruta de arquivos ( upload e download ) entre clientes e servidor, sem qualquer finalidade de renderizacao de paginas web. Ambos transmitem dados em texto claro ( plain text ), sem criptografia nativa.
+- **HTTPS ( HyperText Transfer Protocol Secure )**: Eh a implementacao do protocolo HTTP sobre uma camada de seguranca provida pelos protocolos SSL ( Secure Socket Layer ) ou, mais morderno e recomendado, TLS ( Transport Layer Secure ). Cifra todo o canal de comunicacao entre o cliente e o servidor.
+- **SSL / TLS Handshake**: Eh a fase de negociacao inicial na qual o cliente e o servidor estabelecem os parametros de seguranca. Durante o handshake, o servidor apresenta seu **Certificado SSL/TLS** ( emitido por uma Autoridade Certificadora confiavel ) contendo sua chave publica para comprovar sua identidade. Em seguida, os dispositivos negociam as chaves criptograficas que serao utilizadas durante a sessao.
+- **Algoritmos de Criptografia Assimetrica ( Chave publica )**: Utilizados na etapa inicial do SSL / TLS Handshake para autenticacao da identidade e troca segura da chave de sessao. Empregam um par de chave matematicamente associadas ( uma publica para cifrar e uma privada para decifrar / assinar )
+	- Principais Algoritmos Cobrados: **RSA** (Chaves de 2048 bits ou mais), **ECC** ( Criptografia de Curva Eliptca ), **Diffie-Hellman** ( Troca de chaves ), **DSA** ( Digital Signature Algi)
 
 ---
 
