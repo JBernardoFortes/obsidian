@@ -15,6 +15,12 @@
 
 #### Faziveis no momento 
 
+	A principio nao tem prioridade entre eles, posso fazer em qualquer ordem desde que eu termine tudo hoje. Vou comecar pelos que eu tenho que terminar hoje: 
+	1. Estatico de picos
+	2. Feriados
+	3. Alteracao do medico
+	4. O resto
+
 - [x] "Tirar a data do dia que eu fiz em um carrossel da APIPA"
 	- Estava literalmente assim no card da demanda 
 		- "(AJUSTE TIRAR A DATA DO DIA QUE VC FEZ)"
@@ -30,4 +36,8 @@
 	- [ ] Oftalmed
 	- [ ] Clinica mais saude
 	- [ ] Clinica RN
-- [ ] Subir 
+- [ ] Gerar os estaticos do Medico Gabriel para trafego pago
+	- [ ] Picos
+	- [ ] Baixa Grande
+	- [ ] Balsas
+	- [ ] Urucui
