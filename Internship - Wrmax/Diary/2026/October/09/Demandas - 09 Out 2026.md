@@ -36,8 +36,16 @@
 	- [ ] Oftalmed
 	- [ ] Clinica mais saude
 	- [ ] Clinica RN
-- [ ] Gerar os estaticos do Medico Gabriel para trafego pago
+- [x] Gerar os estaticos do Medico Gabriel para trafego pago
+	- [x] Picos
+	- [x] Baixa Grande
+	- [x] Balsas
+	- [x] Urucui
+- [ ] Subir no meta Ads os estaticos de todas as cidades
+	- [ ] Luis Eduardo
+	- [ ] Floriano
 	- [ ] Picos
 	- [ ] Baixa Grande
 	- [ ] Balsas
 	- [ ] Urucui
+	- [ ] Reportar para o chefe
