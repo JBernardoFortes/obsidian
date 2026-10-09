@@ -41,6 +41,21 @@ A implementacao do Forward Proxy prove ferramentas essenciais para a gestao da r
 
 ### 3. Reverse Proxy ( Proxy Reverso )
 
+Diferente da modalidade direta, o Reverse Proxy ( Proxy Reverso ) eh direcionado para a infraestrutura de servidores, atuando no recebimento e gerenciamento do trafego vindo da internet em direcao aos servicos internos
+
+#### 3.1 Posicionamento e Arquitetura do Proxy Reverso
+
+O Proxy Reverso fica posicionado na entrada da infraestrutura do servidor, frequentemente alocado na Zona Desmilitarizada ( DMZ ) da rede. Ele funciona como uma interface intermediaria obrigatoria entre os clientes externos ( usuarios na internet ) e os servidores web ( web servers ) ou servidores de aplicacao internos. No trafego de entrada ( inbound traffic ), o cliente externo conecta-se ao Proxy Reverso pensando estar conectando diretamente ao servidor final
+
+#### 3.2 Gerenciamento de Requisicoes e Balanceamento de Carga ( Load Balancing ) 
+
+Ao receber as requisicoes externas, o Proxy Reverso analisa o trafego e as distribui de forma otimizada entre os multiplos servidores web da infraestrutura interna. Essa funcionalidade eh a base do **balanceamento de carga ( load balancing )**, que distribui uniformemente a carga de trabalho, previne a sobrecarga de servidores individuais, melhora o tempo de resposta e garante a alta disponibilidade ( High Availability ) do sistema mesmo em picos de acesso.
+
+#### 3.2 Desempenho e Protecao Adicional contra Ataques Diretos
+
+Alem de otimizar o desempenho do sistema por meio de recursos como aceleracao por cache, compressao de dados e terminacao SSL/TLS, o Proxy Reverso oculta completamente a arquitetura interna e os enderecos IP reais dos servidores de aplicacao
+	**Protecao dos servidores Centrais**: Ao posicionar o Proxy Reverso como porta de entrada unica para as requisicoes externas, a topologia e os enderecos IP reais dos servidores web centrais permanecem ocultos da internet publica, estabelecendo uma camada defensiva essencial que impede e previne ataques diretos contra a infraestrutura central.
+
 
 
 ## Ilustracao de Forward Proxy vs. Reverse Proxy:
