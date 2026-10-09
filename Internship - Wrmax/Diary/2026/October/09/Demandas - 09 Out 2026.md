@@ -33,10 +33,10 @@
 	- Usei o medico errado para fazer o estatico
 - [ ] Fazer estatico de aviso de feriado para os clientes
 	- [x] Oxcentro 
-	- [x] Oftalmed
+	- [ ] Oftalmed
 	- [x] Clinica mais saude
-	- [ ] Clinica RN
-	- [ ] Alianca
+	- [x] Clinica RN
+	- [x] Alianca
 	
 - [x] Gerar os estaticos do Medico Gabriel para trafego pago
 	- [x] Picos
