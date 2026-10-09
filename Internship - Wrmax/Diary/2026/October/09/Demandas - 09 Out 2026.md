@@ -31,7 +31,7 @@
 	- Usar outra foto
 - [ ] Alterar o estatico de dor no ombro
 	- Usei o medico errado para fazer o estatico
-- [ ] Fazer estatico de aviso de feriado para os clientes
+- [x] Fazer estatico de aviso de feriado para os clientes
 	- [x] Oxcentro 
 	- [x] Oftalmed
 	- [x] Clinica mais saude

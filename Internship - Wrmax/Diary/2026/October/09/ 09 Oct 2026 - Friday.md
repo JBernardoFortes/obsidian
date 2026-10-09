@@ -14,6 +14,8 @@ Hoje tambem eh a minha apresentacao sobre o capitulo 01 do livro da autoresponsa
 
 Ah, e o tema do slide na verdade nao eh por capitulo, mas sim por leis que o livro aborda sobre, vou refazer o slidezinho.
 
+Cara, to pensando em refazer esse sistema deles de gerenciamento de tasks, pelo menos a parte do quadro kanban do Notion, esta muito desorganizado dessa forma, depois vou estudar um jeito de melhorar isso e tornar um projeto pessoal meu. Vou subir no meu github e criar uma instancia do projeto aqui para a empresa, no caso eu vou fazer com o escopo da empresa, o gargalo provavelmente vai ser a questao da midia, o upload, porque o notion eh uma mao na roda em relacao a isso. 
+
 ### Demandas do dia de hoje
 
 - [[Demandas - 09 Out 2026]]
