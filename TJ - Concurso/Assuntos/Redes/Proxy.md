@@ -91,7 +91,10 @@ A atuacao dos servidores intermediarios conecta-se diretamente aos protocolos de
 - **HTTPS ( HyperText Transfer Protocol Secure )**: Eh a implementacao do protocolo HTTP sobre uma camada de seguranca provida pelos protocolos SSL ( Secure Socket Layer ) ou, mais morderno e recomendado, TLS ( Transport Layer Secure ). Cifra todo o canal de comunicacao entre o cliente e o servidor.
 - **SSL / TLS Handshake**: Eh a fase de negociacao inicial na qual o cliente e o servidor estabelecem os parametros de seguranca. Durante o handshake, o servidor apresenta seu **Certificado SSL/TLS** ( emitido por uma Autoridade Certificadora confiavel ) contendo sua chave publica para comprovar sua identidade. Em seguida, os dispositivos negociam as chaves criptograficas que serao utilizadas durante a sessao.
 - **Algoritmos de Criptografia Assimetrica ( Chave publica )**: Utilizados na etapa inicial do SSL / TLS Handshake para autenticacao da identidade e troca segura da chave de sessao. Empregam um par de chave matematicamente associadas ( uma publica para cifrar e uma privada para decifrar / assinar )
-	- Principais Algoritmos Cobrados: **RSA** (Chaves de 2048 bits ou mais), **ECC** ( Criptografia de Curva Eliptca ), **Diffie-Hellman** ( Troca de chaves ), **DSA** ( Digital Signature Algi)
+	- Principais Algoritmos Cobrados: **RSA** (Chaves de 2048 bits ou mais), **ECC** ( Criptografia de Curva Eliptca ), **Diffie-Hellman** ( Troca de chaves ), **DSA** ( Digital Signature Algorithm ) e **El Gamal**
+- **Algoritmos de Criptografia Simetrica ( Chave Secreta / Compartilhada )**: Utilizados para cifrar o volume bruto de dados da aplicacao durante a sessao HTTPS apos a negociacao inicial. Empregam uma unica chave secreta compartilhada para cifrar e decifrar os dados, oferecendo alta velocidade e baixo consumo de processamento.
+	- *Principais Algoritmos Cobrados:* **AES** (Advanced Encryption Standard - com chaves de 128, 192 e 256 bits), **DES**, **3DES** (Triple DES), **Blowfish**, **RC4** e **IDEA**.
+- **Funcoes de Hash Criptografico**: Utilizadas para garantir a integridade da mensagem e dar suporte a assinaturas digitais, convertendo massas de dados em resumos de tamanho fixo irreversiveis. Exemplos de destaque : **SHA-256**
 
 ---
 
