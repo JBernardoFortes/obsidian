@@ -80,7 +80,14 @@ Para obter alto rendimento em provas teoricas de concursos publicos, eh indispen
 
 1. **Proxy ( Intermediario de Aplicacao )**: Solucao que atua nas camadas superiores do modelo OSI ( Camada de Aplicacao - Camada 7 ), intermediando solicitacoes de servicos especificos ( como HTTP e HTTPS ). ela nao se limita a liberar ou bloquear portas, mas inspeciona, altera ou responde as requisocoes em nome das pontas ( seja controlando usuarios no Forward ou balanceando servidores no Reverse ).
 2. **Firewall ( Filtro de Trafego e Inspecao de Seguranca )**: Dispositivo ou software focado no controle de acesso ao perimetro da rede. Inspeciona pacotes de dados e conexoes com base em tabelas de regras ( enderecos IP de origem / destino, portas e protocolos ) e estado da conexao ( stateful inspection ). Diferente do proxy, o firewall tipicamente atua nas camadas de Rede e Transporte ( Camadas 3 e 4 ) e eh posicionado nas fronteiras de rede ( como entre a internet, a DMZ e a Rede Interna ) para permitir ou bloquear o trafego.
-3. 
+3. **NAT ( Netword Address Translation - Traducao de enderecos de rede )**: Mecanismo de rede configurado em roteadores ou firewalls para reescrever os cabecalhos IP dos pacotes. Permite que multiplos computadores de uma rede interna operando com enderecos IP privados nao roteaveis compartilhem um unico endereco IP publico para acessar a internet, sem realizar qualquer tipo de intermediacao ou filtragem na camada de aplicacao.
+4. **VPN ( Virtual Private Network - Rede Privada Virtual )**: Tecnologia criada para estabelecer um tunel de comunicacao seguro e criptografado sobre uma rede publica nao confiavel ( como a internet ). Garante confidencialidade, integridade e autenticidade para o trafego de dados entre matriz e filiais ou entre usuarios remotos e rede corporativa.
+
+#### 5.2 Camadas de Protecao e Criptografia Associadas ( HTTP vs. HTTPS, FTP e SSL / TLS )
+
+A atuacao dos servidores intermediarios conecta-se diretamente aos protocolos de transferencia de dados da web e as camadas de seguranca criptografica:
+
+- **HTTP ( HyperText Transfer Protocol ) vs. FTP ( File Transfer Protocol )**: O HTTP eh o protocolo fundamental da web projetado para a transferencia e exibicao de paginas ( hipertexto ), combinando textos, imagens e elementos estaticos renderizados diretamente pelo navegador. O FTP, por sua vez, eh um protooclo dedicado especificamente a transferencia bruta de arquivos ( upload e download ) entr
 
 ---
 
