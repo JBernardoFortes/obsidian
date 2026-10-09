@@ -34,7 +34,12 @@ O Forward Proxy fica posicionado no perimetro de saida da rede local ( LAN ) em 
 A implementacao do Forward Proxy prove ferramentas essenciais para a gestao da rede de clientes:
 
 - **Gestao de Acesso e Seguranca do Cliente**:
-	- **Controle e filtragem de conteudo**: 
+	- **Controle e filtragem de conteudo**: Bloqueio ativo de sites, portas, protocolos e categorias de enderecos web nao autorizados pelas politicas de seguranca da informacao
+	- **Auditoria e monitoramento de navegacao**: Geracao de registros detalhados ( logs ) do historico de acessos, volume de dados trafegados e horarios de conexao por usuario ou endereco IP interno.
+	- **Mascaramento de IP do cliente**: Substituicao do endereco IP interno do usuario pelo endereco IP do proprio proxy frente aos servidores de destino na internet
+	- **Armazenamento em cache local**: Retencao temporaria de conteudos web e arquivos estaticos recorrentes para acelerar o tempo de resposta e poupar link de dados da organizacao.
+
+### 3. Reverse Proxy ( Proxy Reverso )
 
 ---
 
