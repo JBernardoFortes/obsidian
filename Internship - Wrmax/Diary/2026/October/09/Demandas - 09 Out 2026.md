@@ -55,8 +55,9 @@
 		- [ ] Baixa Grande
 		- [ ] Balsas
 		- [ ] Urucui
+		- Tem muitos videos que ainda nao foram prontos, tem videos prontos mas ja se passou a data do anuncio, vou esperar para mandarem novos videos
 	- [ ] Subir no meta Ads os videos de todos os municipios
-		- [ ] Floriano
+		- [x] Floriano
 		- [ ] Picos
 		- [ ] Baixa Grande
 		- [ ] Balsas 
