@@ -45,7 +45,7 @@
 	- [x] Luis Eduardo
 	- [x] Floriano
 	- [x] Picos
-	- [ ] Baixa Grande
+	- [x] Baixa Grande
 	- [ ] Balsas
 	- [ ] Urucui
 	- [ ] Reportar para o chefe
