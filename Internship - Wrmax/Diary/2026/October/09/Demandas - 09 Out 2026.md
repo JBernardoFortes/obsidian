@@ -27,9 +27,9 @@
 	- Depois vou perguntar para a chefe o que ela quis dizer com isso
 	- Acho que ela confundiu, nao eh a data, eh a posicao do slide
 	- Ela disse que eh para eu tirar nos proximos
-- [ ] Alterar estatico do g450
+- [x] Alterar estatico do g450
 	- Usar outra foto
-- [ ] Alterar o estatico de dor no ombro
+- [x] Alterar o estatico de dor no ombro
 	- Usei o medico errado para fazer o estatico
 - [x] Fazer estatico de aviso de feriado para os clientes
 	- [x] Oxcentro 
