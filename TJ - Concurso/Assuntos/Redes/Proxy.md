@@ -72,8 +72,13 @@ Alem de otimizar o desempenho do sistema por meio de recursos como aceleracao po
 | Principal Objetivo          | Controle de navegacao, Auditoria do usuario e economia de banda via cache local              | Balanceamento de carga, alta disponibilidade, desempenho e ocultacao de servidores                                       |
 | Tipo de Trafego gerenciado  | Trafego de saida ( Outbound ): Das estacoes internas para a internet                         | Trafego de entrada ( inbound ): Dos cliientes externos da internet para os servidores interos                            |
 | Exemplos associados         | Filtro de conteudo empresarial, bloqueio de redes sociais e logs de navegacao do funcionario | Distribuicao de carga em portais corporativos, terminacao SSL / TLS e protecao contra varreduras de IP na infraestrutura |
-j
-### 5. 
+### 5. Diferenciacao de Tecnologias Correlatas de Rede e Seguranca
+
+Para obter alto rendimento em provas teoricas de concursos publicos, eh indispensavel diferenciar a intermediacao executada por Proxies das demais solucoes de infraestrutura e perimetro de seguranca
+
+#### 5.1 Proxy vs Firewall, NAT e VPN
+
+
 
 ---
 
