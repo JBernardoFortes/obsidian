@@ -46,6 +46,6 @@
 	- [x] Floriano
 	- [x] Picos
 	- [x] Baixa Grande
-	- [ ] Balsas
+	- [x] Balsas
 	- [ ] Urucui
 	- [ ] Reportar para o chefe
