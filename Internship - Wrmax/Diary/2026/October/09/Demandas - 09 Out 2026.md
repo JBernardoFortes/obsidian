@@ -42,9 +42,9 @@
 	- [x] Balsas
 	- [x] Urucui
 - [ ] Subir no meta Ads os estaticos de todas as cidades
-	- [ ] Luis Eduardo
-	- [ ] Floriano
-	- [ ] Picos
+	- [x] Luis Eduardo
+	- [x] Floriano
+	- [x] Picos
 	- [ ] Baixa Grande
 	- [ ] Balsas
 	- [ ] Urucui
