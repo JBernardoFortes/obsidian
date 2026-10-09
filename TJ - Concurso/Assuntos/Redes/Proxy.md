@@ -57,10 +57,23 @@ Alem de otimizar o desempenho do sistema por meio de recursos como aceleracao po
 	**Protecao dos servidores Centrais**: Ao posicionar o Proxy Reverso como porta de entrada unica para as requisicoes externas, a topologia e os enderecos IP reais dos servidores web centrais permanecem ocultos da internet publica, estabelecendo uma camada defensiva essencial que impede e previne ataques diretos contra a infraestrutura central.
 
 
-
 ## Ilustracao de Forward Proxy vs. Reverse Proxy:
 
 ![[0196-forward-proxy-vs-reverse-proxy.png]]
+
+
+### 4. Comparativo Pratico: Forward Proxy vs. Reverse Proxy
+
+
+| Criterio de Comparacao      | Forward Proxy                                                                                | Reverse Proxy                                                                                                            |
+| --------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Localizacao na rede         | Na saida da rede local /<br>interna                                                          | Na entrada da infraestrutura de servidores                                                                               |
+| A quem protege / representa | Protege e representa os **Clientes / Usuarios** da rede interna                              | Protege e representa o **servidor / infraestrutura** de aplicacao                                                        |
+| Principal Objetivo          | Controle de navegacao, Auditoria do usuario e economia de banda via cache local              | Balanceamento de carga, alta disponibilidade, desempenho e ocultacao de servidores                                       |
+| Tipo de Trafego gerenciado  | Trafego de saida ( Outbound ): Das estacoes internas para a internet                         | Trafego de entrada ( inbound ): Dos cliientes externos da internet para os servidores interos                            |
+| Exemplos associados         | Filtro de conteudo empresarial, bloqueio de redes sociais e logs de navegacao do funcionario | Distribuicao de carga em portais corporativos, terminacao SSL / TLS e protecao contra varreduras de IP na infraestrutura |
+j
+### 5. 
 
 ---
 
