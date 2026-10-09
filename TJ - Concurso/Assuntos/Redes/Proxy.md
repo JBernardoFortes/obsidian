@@ -41,6 +41,12 @@ A implementacao do Forward Proxy prove ferramentas essenciais para a gestao da r
 
 ### 3. Reverse Proxy ( Proxy Reverso )
 
+
+
+## Ilustracao de Forward Proxy vs. Reverse Proxy:
+
+![[0196-forward-proxy-vs-reverse-proxy.png]]
+
 ---
 
 [[Assuntos]]
