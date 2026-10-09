@@ -10,3 +10,14 @@
 		- [x] Eh na GoDaddy
 	- [ ] Conseguir entrar na conta
 		- O problema eh que tem autenticacao de dois fatores na conta que gerencia o dominio, espero que eu tenha oportunidade de subir esse site no dominio deles
+- [ ] "Tirar a data do dia que eu fiz em um carrossel da APIPA"
+	- Estava literalmente assim no card da demanda 
+		- "(AJUSTE TIRAR A DATA DO DIA QUE VC FEZ)"
+	- Depois vou perguntar para a chefe o que ela quis dizer com isso
+- [ ] Alterar estatico do g450
+	- Usar outra foto
+- [ ] Alterar o estatico de dor no ombro
+	- Usei o medico errado para fazer o estatico
+- [ ] Fazer estatico de aviso de feriado para os clientes
+	- [ ] Oxcentro 
+	- [ ] 
