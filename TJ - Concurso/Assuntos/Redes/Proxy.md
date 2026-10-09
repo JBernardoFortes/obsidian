@@ -78,7 +78,9 @@ Para obter alto rendimento em provas teoricas de concursos publicos, eh indispen
 
 #### 5.1 Proxy vs Firewall, NAT e VPN
 
-
+1. **Proxy ( Intermediario de Aplicacao )**: Solucao que atua nas camadas superiores do modelo OSI ( Camada de Aplicacao - Camada 7 ), intermediando solicitacoes de servicos especificos ( como HTTP e HTTPS ). ela nao se limita a liberar ou bloquear portas, mas inspeciona, altera ou responde as requisocoes em nome das pontas ( seja controlando usuarios no Forward ou balanceando servidores no Reverse ).
+2. **Firewall ( Filtro de Trafego e Inspecao de Seguranca )**: Dispositivo ou software focado no controle de acesso ao perimetro da rede. Inspeciona pacotes de dados e conexoes com base em tabelas de regras ( enderecos IP de origem / destino, portas e protocolos ) e estado da conexao ( stateful inspection ). Diferente do proxy, o firewall tipicamente atua nas camadas de Rede e Transporte ( Camadas 3 e 4 ) e eh posicionado nas fronteiras de rede ( como entre a internet, a DMZ e a Rede Interna ) para permitir ou bloquear o trafego.
+3. 
 
 ---
 
