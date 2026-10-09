@@ -32,10 +32,12 @@
 - [ ] Alterar o estatico de dor no ombro
 	- Usei o medico errado para fazer o estatico
 - [ ] Fazer estatico de aviso de feriado para os clientes
-	- [ ] Oxcentro 
-	- [ ] Oftalmed
-	- [ ] Clinica mais saude
+	- [x] Oxcentro 
+	- [x] Oftalmed
+	- [x] Clinica mais saude
 	- [ ] Clinica RN
+	- [ ] Alianca
+	
 - [x] Gerar os estaticos do Medico Gabriel para trafego pago
 	- [x] Picos
 	- [x] Baixa Grande
