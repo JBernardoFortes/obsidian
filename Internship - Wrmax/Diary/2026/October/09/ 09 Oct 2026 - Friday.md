@@ -16,6 +16,10 @@ Ah, e o tema do slide na verdade nao eh por capitulo, mas sim por leis que o liv
 
 Cara, to pensando em refazer esse sistema deles de gerenciamento de tasks, pelo menos a parte do quadro kanban do Notion, esta muito desorganizado dessa forma, depois vou estudar um jeito de melhorar isso e tornar um projeto pessoal meu. Vou subir no meu github e criar uma instancia do projeto aqui para a empresa, no caso eu vou fazer com o escopo da empresa, o gargalo provavelmente vai ser a questao da midia, o upload, porque o notion eh uma mao na roda em relacao a isso. 
 
+Me pediram para prestar atencao em relacao aos estaticos de G360 para nao usar a mesma foto que ja foi usada no estatico passado, dar uma olhada na conta do sujeito para checar quais foram as ultimas e nao repetir. 
+
+Tambem me pediram para notificar quando acabar as tasks para eles analisarem logo e nao deixar para o proximo dia caso elas analisem de tarde por conta do meu horario de trabalho. No notion tinha que ter algo que notificasse a pessoa sobre as mudancas nos cards, principalmente os administradores. Criar uma nota mental para isso quando eu for fazer o meu quadro Kanban
+
 ### Demandas do dia de hoje
 
 - [[Demandas - 09 Out 2026]]
