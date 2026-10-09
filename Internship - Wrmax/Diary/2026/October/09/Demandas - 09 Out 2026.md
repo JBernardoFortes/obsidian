@@ -41,11 +41,11 @@
 	- [x] Baixa Grande
 	- [x] Balsas
 	- [x] Urucui
-- [ ] Subir no meta Ads os estaticos de todas as cidades
-	- [x] Luis Eduardo
-	- [x] Floriano
-	- [x] Picos
-	- [x] Baixa Grande
-	- [x] Balsas
-	- [ ] Urucui
-	- [ ] Reportar para o chefe
+	- [x] Subir no meta Ads os estaticos de todas as cidades
+		- [x] Luis Eduardo
+		- [x] Floriano
+		- [x] Picos
+		- [x] Baixa Grande
+		- [x] Balsas
+		- [x] Urucui
+		- [x] Reportar para o chefe
