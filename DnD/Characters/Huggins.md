@@ -8,9 +8,9 @@
 - **Apelidos:** [Tiefling]
 - **Espécie / raça:** Tiefling
 - **Classe:** [Warlock]
-- **Subclasse:** [Quando aplicável]
-- **Nível:** [Nível]
-- **Antecedente:** [Antecedente]
+- **Subclasse:** [The hexblade]
+- **Nível:** [3]
+- **Antecedente:** [Infernal]
 - **Tendência / alinhamento:** [Se usado na campanha]
 - **Idade:** [Idade]
 - **Altura:** 1,90 m
