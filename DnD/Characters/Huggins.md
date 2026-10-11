@@ -96,10 +96,6 @@
 
 ## 6. História do personagem
 
-### Resumo em poucas linhas
-
-Nascido sob o estigma de uma linhagem infernal, ele cresceu conhecendo de perto a desconfiança e o medo estampado no rosto das pessoas comuns . Seus chifres, cauda e olhar de cor sólida sempre foram tratados como mau agouro em cada vila e taverna por onde passou. Para escapar do isolamento e das ruas hostis, ele desenvolveu um hábito silencioso e solitário: **entalhar pequenas figuras em pedaços de madeira descartados**. O que começou como mera distração logo se tornou uma obsessão quase mística, retratando formas grotescas, criaturas aladas e silhuetas que ele jurava entrever nos cantos escuros do quarto.
-
 
 ## 7. Objetivos e conflitos
 
@@ -111,13 +107,25 @@ Nascido sob o estigma de uma linhagem infernal, ele cresceu conhecendo de perto 
 - **Conflito externo:** Guilda de ladroes do reino perseguem o "ele" crianca. Nao sabem dele adulto. 
 - **Segredo:** A missao do pacto
 
-## 13. História completa
+## 8. História completa
 
-[Escreva aqui a versão narrativa definitiva da história do personagem. Uma estrutura útil é:
 
-1. **Origem:** de onde veio e como era sua vida.
-2. **Formação:** o que aprendeu e quem o influenciou.
-3. **Ferida do passado:** o acontecimento que o marcou.
-4. **Sobrevivência:** como se tornou a pessoa que é hoje.
-5. **Presente:** o que está fazendo quando a campanha começa.
-6. **Futuro:** o que deseja alcançar e o que teme descobrir.]
+ Nascido tiefling em uma sociedade que enxerga sua herança como presságio de ruína, aprendeu desde muito cedo que a sobrevivência exigia viver à margem. Ainda criança, foi acolhido nas fileiras inferiores de uma influente guilda de ladrões e assassinos. Percebendo sua presença cativante e sua facilidade para ler as pessoas, a liderança o designou para a divisão de **enganação e trapaça**: seu trabalho era criar distrações, adotar disfarces inocentes, ludibriar alvos e abrir caminho para os golpes dos membros mais velhos.
+
+Crescendo no submundo, Higgins tornou-se um mestre na arte do ardil e da encenação. Aprendeu a observar os pontos fracos dos nobres e mercadores, a manipular a ganância alheia e a empunhar lâminas leves sem hesitação. Nos raros momentos de silêncio entre os golpes, desenvolveu o hábito obsessivo de entalhar pequenas figuras em lascas de madeira  Ele confiava em seus parceiros de equipe e acreditava ter um papel definitivo na guilda, até o dia em que o bando recebeu o trabalho mais ambicioso de suas vidas: infiltrar-se nos aposentos reais e roubar um tesouro pessoal do jovem príncipe.
+
+
+O plano de roubo era, na verdade, uma cortina de fumaça manchada de sangue. Um dos membros da equipe - chamado **Rezzlar** - mantinha uma missão paralela e secreta: **assassinar o príncipe**.
+
+Assim que a lâmina de Rezzlar tirou a vida do herdeiro real, ele voltou-se contra seus próprios companheiros para não deixar testemunhas vivas do regicídio. O massacre foi imediato. Higgins lutou desesperadamente pela vida, mas foi brutalmente subjugado: teve **um de seus chifres quebrado** e sofreu um corte profundo que marcou para sempre o seu rosto. Conseguiu escapar por conta da bagunca gerada pelos guardas reais durante o assassinato. Contudo, a notícia do fracasso e da morte do príncipe correu rápido: a guilda descobriu a confusão e, temendo a retaliação da coroa, mobilizou caçadores para eliminar qualquer ponta solta. Higgins foi perseguido implacavelmente até as extremidades do reino.
+
+Encurralado nas fronteiras do reino, desfigurado, ensanguentado e à beira da morte, Higgins ouviu uma voz ecoar na penumbra. Um **demônio verdadeiro das sombras** manifestou-se, oferecendo a salvação em troca de um pacto eterno. Sem ter mais nada a perder, Higgins aceitou.
+
+O garoto foi salvo, mas cresceu sob a tutela direta e a influência gélida desse ser abissal. Por ter sido forjado por uma entidade demoníaca durante seus anos de formação, sua psique se fragmentou: **Higgins perdeu a compreensão do verdadeiro valor da vida**, sendo incapaz de sentir empatia genuína pela morte dos outros ou de ter zelo pela sua própria integridade. Ele vive em um conflito interno permanente - atormenta-se questionando se sua existência é realmente digna ou se ele continua fraco demais para merecer viver. Para canalizar o pacto, adaptou suas antigas estatuetas de madeira e um anel fúnebre concedido pela entidade, usando-os como receptáculos para aprisionar almas e arrancar servos bélicos de dentro da escuridão.
+
+Como a guilda tem certeza absoluta de que a criança perseguida morreu nas fronteiras anos atrás, **ele não precisa andar escondido sob capuzes**. seu rosto marcado e seu chifre quebrado são vistos apenas como cicatrizes comuns de um mercenário de estrada.
+
+Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-inimigo: após o assassinato, **Rezzlar foi visto nas terras de fora do reino**. Higgins iniciou sua jornada em direção a essas terras ermas no encalço de sua vingança, buscando novos confrontos para alimentar seu poder e cumprir as ambições obscuras do seu patrono -- desígnios que ele gradualmente absorveu como sendo seus próprios. No caminho, mantém seu velho vício: engana e trapaceia civis constantemente, ora para arrancar algumas moedas, ora simplesmente pelo prazer e satisfação pessoal de provar sua superioridade sobre os tolos.
+
+- **O que deseja alcançar:** Rastrear Rezzlar no coração das _Wastelands_ e cobrar a dívida de sangue pelo massacre de sua equipe e pelo chifre partido; acumular poder marcial e arcano suficiente para superar a sensação de fraqueza e cumprir os desígnios do demônio das sombras, provando que sua existência tem valor absoluto.
+- **O que teme descobrir:** Teme no fundo perceber que sua vida realmente não possui valor algum e que ele não passa de um peão descartável e manipulado nas mãos do patrono demoníaco; e teme que, ao reencontrar Rezzlar, descubra que o traidor se tornou uma força muito além do que ele é capaz de destruir.
