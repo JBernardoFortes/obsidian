@@ -37,10 +37,11 @@
 ## 3. Personalidade
 
 - **Traços de personalidade:**
-  - Ele nao sabe o valor da vida
-	  - Tanto a dele
-	  - Quanto a dos outros
-  - Ele eh oportunista, nao ajuda sem nada em troca
+	  - Ele nao sabe o valor da vida
+		  - Tanto a dele
+		  - Quanto a dos outros
+	  - Ele eh oportunista, nao ajuda sem nada em troca
+	  - Ele mente e manipula para conseguir o que quer 
 - **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzlar e da guilda que perseguiu ele e quase o matou. Nao tem problema em se aproveitar dos outros e dos mais fracos. Prefere enganar do que confiar.
 - **Vínculo:** Demonio do pacto. Rezzlar. Guilda de ladroes do reino.
 - **Defeito:** Missoes do pacto com o demonio.
