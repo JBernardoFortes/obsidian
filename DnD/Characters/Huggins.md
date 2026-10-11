@@ -41,7 +41,7 @@
 	  - Tanto a dele
 	  - Quanto a dos outros
   - Ele eh oportunista, nao ajuda sem nada em troca
-- **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzlar e da guilda que perseguiu ele e quase o matou.
+- **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzlar e da guilda que perseguiu ele e quase o matou. Nao tem problema em se aproveitar dos outros e dos mais fracos. Prefere enganar do que confiar.
 - **Vínculo:** Demonio do pacto. Rezzlar. Guilda de ladroes do reino.
 - **Defeito:** Missoes do pacto com o demonio.
 - **Maior desejo:** Poder o suficiente para equiparar o pacto. Poder para se vingar do rezzlar
@@ -98,43 +98,18 @@
 
 ### Resumo em poucas linhas
 
-[Escreva de três a cinco frases que expliquem quem ele é, de onde veio, o que perdeu ou conquistou e o que procura agora.]
+Nascido sob o estigma de uma linhagem infernal, ele cresceu conhecendo de perto a desconfiança e o medo estampado no rosto das pessoas comuns . Seus chifres, cauda e olhar de cor sólida sempre foram tratados como mau agouro em cada vila e taverna por onde passou. Para escapar do isolamento e das ruas hostis, ele desenvolveu um hábito silencioso e solitário: **entalhar pequenas figuras em pedaços de madeira descartados**. O que começou como mera distração logo se tornou uma obsessão quase mística, retratando formas grotescas, criaturas aladas e silhuetas que ele jurava entrever nos cantos escuros do quarto.
 
-
-[Explique a história desses objetos.]
-
-### Acontecimentos marcantes
-
-1. **Primeira lembrança importante:** [ ]
-2. **Primeira grande perda:** [ ]
-3. **Maior erro cometido:** [ ]
-4. **Momento em que mudou de vida:** [ ]
-5. **Pessoa que nunca esqueceu:** [ ]
-
-### Situação atual
-
-- **Onde está agora?** [ ]
-- **Por que saiu de onde vivia?** [ ]
-- **Como ganha dinheiro atualmente?** [ ]
-- **O que está tentando conseguir?** [ ]
-- **Quem está procurando por ele?** [ ]
-- **Quem ele está procurando?** [ ]
-- **Qual problema pode alcançá-lo a qualquer momento?** [ ]
 
 ## 7. Objetivos e conflitos
 
-- **Objetivo imediato:** [Algo que pretende fazer em breve]
-- **Objetivo de longo prazo:** [Seu grande objetivo]
-- **Motivação principal:** [Por que isso importa]
-- **Necessidade emocional:** [O que precisa aprender ou aceitar]
-- **Conflito interno:** [Uma luta dentro de si]
-- **Conflito externo:** [Pessoa, organização ou circunstância que o impede]
-- **Segredo:** [Algo que esconde]
-- **Consequência se falhar:** [O que pode perder]
-- **O que poderia fazê-lo mudar de ideia:** [ ]
-
-
-
+- **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzlar
+- **Objetivo de longo prazo:** Cumprir as missoes do patrono do pacto e eventualmente arrumar um jeito de equilibrar ele. Cumprir a missao do pacto : Destruir o reino de dentro
+- **Motivação principal:** Vinganca.
+- **Necessidade emocional:** Precisa aprender a valorizar as vidas
+- **Conflito interno:** Sede de vinganca, porem realizacao da propria fraqueza
+- **Conflito externo:** Guilda de ladroes do reino perseguem o "ele" crianca. Nao sabem dele adulto. 
+- **Segredo:** A missao do pacto
 
 ## 13. História completa
 
