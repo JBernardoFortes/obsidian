@@ -53,7 +53,7 @@
 
 - **O que o irrita:** Ser enganado. O Reino. Pessoas do Reino. Nobres do Reino. Ricos.
 
-- **Contradição interna:** Nao saber o valor da vida. Questionar quando a sua vida precisa entrar em jogo ou nao. Perceber que nem todas as vidas tem o mesmo "valor social".
+- **Contradição interna:** Nao saber o valor da vida. Questionar quando a sua vida precisa entrar em jogo ou nao. Perceber que nem todas as vidas tem o mesmo "valor social". Ele sente que nao merece a sua vida, por ter sido salvo pelo patrono do pacto.
 
 ## 4. Atributos e regras
 
