@@ -4,8 +4,8 @@
 ## 1. Identidade
 
 - **Nome:** [Huggins
-- **Nome verdadeiro ou de nascimento:** [Kainon]
-- **Apelidos:** [Tiefling, engano]
+- **Nome verdadeiro ou de nascimento:** [Kali]
+- **Apelidos:** []
 - **Espécie / raça:** [Tiefling]
 - **Classe:** [Warlock]
 - **Subclasse:** [The hexblade]
