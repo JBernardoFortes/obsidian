@@ -9,4 +9,6 @@ c) Procurar um valor na primeira coluna de um intervalo (matriz) e retornar o va
 d) Encontrar a posição relativa de um item em um intervalo (retorna um número).  
 e) Procurar um valor em qualquer linha ou coluna e retornar o valor correspondente de outra linha ou coluna especificada.
 
+Gabarito: C)
+
 [[Excel - PROCV]]

@@ -1,0 +1,27 @@
+
+---
+
+- [x] Na parte de "Avaliação clínica e acompanhamento"
+	- Trocar para neurointervencao que vai ser me passado
+- [x] Na parte de "Sobre a clinica"
+	- Colocar um carrossel de imagens passando rapido
+- [x] No "Conheca nossa equipe"
+	- Fazer o carrossel passar mais rapido
+- [ ] Abaixo de "Conheca n/ossa equipe"
+	- Colocar uma parte onde tem os outros integrantes da clinica
+	- Estou procurando prints do instagram com fotos profissionais para por eles
+		- Sem foto profissional
+			- [x] Jordano Sampaio
+				- Encontrei uma foto dele 
+			- [x] Ricardo Carvalho
+				- Nao tem foto
+			- [x] Flavia Juliana
+			- [x] Joao Lucas Silva
+			- [x] Wilder Dias
+				- Ate tem mas a qualidade eh abaixo
+	- Fazer depois das imagens serem disponibiizadas
+- [x] Na "O que realizamos"
+	- Fazer o carrossel passar mais rapido e o botao funcionar
+- [x] Na "Estrutura em Teresina"
+	- Colocar mais imagens
+- [x] Onde tem o numero de contado do wpp e do instagram colocar icones deles

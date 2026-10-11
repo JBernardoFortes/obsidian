@@ -8,21 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\"",
+      "query": "file:Demandas",
+      "color": {
+        "a": 1,
+        "rgb": 1876012
+      }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary\" -path:\"Internship - Wrmax/Diary/2026\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 13509246
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/2026/August\"",
+      "query": "path:\"Internship - Wrmax/Diary/2026/August\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 3888097
       }
     },
     {
-      "query": "path:\"Internship - Wrmax/Diary/2026/September\"",
+      "query": "path:\"Internship - Wrmax/Diary/2026/September\" -file:Demandas",
       "color": {
         "a": 1,
         "rgb": 15291240
@@ -71,13 +78,6 @@
       }
     },
     {
-      "query": "file:Questao",
-      "color": {
-        "a": 1,
-        "rgb": 61183
-      }
-    },
-    {
       "query": "path:\"TJ - Concurso/Assuntos\"",
       "color": {
         "a": 1,
@@ -97,18 +97,25 @@
         "a": 1,
         "rgb": 2802176
       }
+    },
+    {
+      "query": "path:\"Internship - Wrmax/Diary/2026/October\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.59615005907838,
   "collapse-forces": false,
-  "centerStrength": 0.385978731784167,
-  "repelStrength": 10.434334055504,
-  "linkStrength": 1,
-  "linkDistance": 165,
-  "scale": 0.15709809425187185,
+  "centerStrength": 0.299869480095715,
+  "repelStrength": 13.1008547008547,
+  "linkStrength": 0.958886230150098,
+  "linkDistance": 194,
+  "scale": 0.07268373706818762,
   "close": true
 }

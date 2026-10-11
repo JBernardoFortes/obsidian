@@ -1,0 +1,40 @@
+
+- [ ] Carrossel Dr Romilto - Tadala
+- [ ] Estatico - "Ja tomou infiltracao?
+- [ ] Estatico - Dr Gustavo - "Doi no ombro?" 
+	- Aqui tem um gargalo: Nao tem a imagem sugerida
+- [x] Estatico 01 - "Hernia de Disco"
+	- Submeti algumas imagens para avaliacao
+- [x] Adaptar os estaticos pras cidades da campanha do Gabriel Baiao
+	- Esperando me passarem as cidades para gerar os estaticos
+	- [x] Corrente
+		- 08 / 10
+	- [x] Curimata
+		- 08 / 10
+	- [x] Luis Eduardo Magalhaes
+		- 09 / 10
+	- [x] Floriano
+		- 15 / 10
+	- [x] Picos
+		- 16 / 10
+	- [x] Balsas
+		- 23 / 10
+	- [x] Urucui
+		- 29 / 10
+	- Provavelmente vou ter que subir isso no Ads Manager tambem
+	- Eh, vou ter
+- [x] Subir os estaticos novos no meta ads
+	- [x] Corrente
+	- [x] Curimata
+	- [x] Floriano
+	- [x] Picos
+	- [x] Balsas
+	- [x] Urucui
+	- [x] Luis Eduardo
+	- Falta so reportar e esperar validacao
+- [x] Checar a aba de Downloads do site da APIPA
+	- Aquele feito em Wordpress que nao funciona nada
+	- Posso testar ver depois, mas o Elementor nao abriu
+- [x] Mandei um PDF para o Roberth da APIPA
+
+
