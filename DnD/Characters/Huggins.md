@@ -3,24 +3,24 @@
 
 ## 1. Identidade
 
-- **Nome:** [Huggins]
+- **Nome:** [Huggins
 - **Nome verdadeiro ou de nascimento:** [Kainon]
-- **Apelidos:** [Tiefling]
-- **Espécie / raça:** Tiefling
+- **Apelidos:** [Tiefling, engano]
+- **Espécie / raça:** [Tiefling]
 - **Classe:** [Warlock]
 - **Subclasse:** [The hexblade]
 - **Nível:** [3]
 - **Antecedente:** [Infernal]
 - **Tendência / alinhamento:** [Lawful Evil]
 - **Idade:** [27]
-- **Altura:** 1,90 m
+- **Altura:** [1,90 m]
 - **Peso / porte:** [Esguio;]
 - **Local de origem:** [Reino la do centro]
 - **Jogador:** [Bernardo]
 
 ## 2. Aparência
 
-- **Pele:** vermelho-escura, em tons de vinho
+- **Pele:** [vermelho-escura, em tons de vinho]
 - **Olhos:** [Amarelos]
 - **Cabelo:** [Curto, preto]
 - **Chifres:** curvados para trás; o chifre esquerdo é quebrado.
@@ -32,7 +32,7 @@
 - **Luvas:** couro com os dedos à mostra.
 - **Calças:** simples, terminando nos tornozelos.
 - **Acessórios:** pequena bolsa de moedas presa por um cordão ao redor do corpo. Anel preto com detalhes quadrados em branco no dedo indicador esquerdo
-- **Bengala:** madeira de tom uniforme, haste reta e cabo curvo; objeto cotidiano, não um cajado mágico.
+- **Bengala:** madeira de tom uniforme, haste reta e cabo curvo; Existe uma lamina escondida nela.
 
 ## 3. Personalidade
 
@@ -42,12 +42,18 @@
 		  - Quanto a dos outros
 	  - Ele eh oportunista, nao ajuda sem nada em troca
 	  - Ele mente e manipula para conseguir o que quer 
+	
 - **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzlar e da guilda que perseguiu ele e quase o matou. Nao tem problema em se aproveitar dos outros e dos mais fracos. Prefere enganar do que confiar.
+
 - **Vínculo:** Demonio do pacto. Rezzlar. Guilda de ladroes do reino.
-- **Defeito:** Missoes do pacto com o demonio.
+
+- **Defeito:** Missoes do pacto com o demonio. 
+
 - **Maior desejo:** Poder o suficiente para equiparar o pacto. Poder para se vingar do rezzlar
-- **O que o irrita:** Ser enganado.
-- **Contradição interna:** Nao saber o valor da vida. Questionar quando a sua vida precisa entrar em jogo ou nao.
+
+- **O que o irrita:** Ser enganado. O Reino. Pessoas do Reino. Nobres do Reino. Ricos.
+
+- **Contradição interna:** Nao saber o valor da vida. Questionar quando a sua vida precisa entrar em jogo ou nao. Perceber que nem todas as vidas tem o mesmo "valor social".
 
 ## 4. Atributos e regras
 
@@ -97,10 +103,9 @@
 
 ## 6. História do personagem
 
+### 7. Objetivos e conflitos
 
-## 7. Objetivos e conflitos
-
-- **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzlar
+- **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzlar. Obter respostas para ficar mais forte e se reconhecer como digno.
 - **Objetivo de longo prazo:** Cumprir as missoes do patrono do pacto e eventualmente arrumar um jeito de equilibrar ele. Cumprir a missao do pacto : Destruir o reino de dentro
 - **Motivação principal:** Vinganca.
 - **Necessidade emocional:** Precisa aprender a valorizar as vidas
@@ -108,7 +113,7 @@
 - **Conflito externo:** Guilda de ladroes do reino perseguem o "ele" crianca. Nao sabem dele adulto. 
 - **Segredo:** A missao do pacto
 
-## 8. História completa
+### 8. História completa
 
 
  Nascido tiefling em uma sociedade que enxerga sua herança como presságio de ruína, aprendeu desde muito cedo que a sobrevivência exigia viver à margem. Ainda criança, foi acolhido nas fileiras inferiores de uma influente guilda de ladrões e assassinos. Percebendo sua presença cativante e sua facilidade para ler as pessoas, a liderança o designou para a divisão de **enganação e trapaça**: seu trabalho era criar distrações, adotar disfarces inocentes, ludibriar alvos e abrir caminho para os golpes dos membros mais velhos.
