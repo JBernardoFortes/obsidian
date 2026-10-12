@@ -135,3 +135,101 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 - **O que deseja alcançar:** Rastrear Rezzlar no coração das _Wastelands_ e cobrar a dívida de sangue pelo massacre de sua equipe e pelo chifre partido; acumular poder marcial e arcano suficiente para superar a sensação de fraqueza e cumprir os desígnios do demônio das sombras, provando que sua existência tem valor absoluto.
 - **O que teme descobrir:** Teme no fundo perceber que sua vida realmente não possui valor algum e que ele não passa de um peão descartável e manipulado nas mãos do patrono demoníaco; e teme que, ao reencontrar Rezzlar, descubra que o traidor se tornou uma força muito além do que ele é capaz de destruir.
+
+
+---
+
+## Combate
+
+### **1. Habilidades de Subclasse: A Lâmina Maldita (_The Hexblade_)**
+
+- **Guerreiro Maldito (** **Hex Warrior** **)**:
+    - **Proficiências Adicionais**: Você é proficiente com **armaduras médias**, **escudos** e **armas marciais**.
+    - **Ataque com Carisma**: Ao concluir um descanso longo, você toca sua espada de uma mão. Até o próximo descanso longo, você usa o seu **modificador de Carisma** (em vez de Força ou Destreza) para as jogadas de ataque e de dano. _(Como você escolheu o Pacto da Lâmina no 3º nível, qualquer arma de pacto criada recebe esse benefício automaticamente).
+	- Alem disso, qualquer arma materializada o personagem possui proeficiencia.
+- **Maldição da Lâmina Maldita (** **Hexblade's Curse** **)**:
+    - **Uso**: 1 vez por descanso curto ou longo.
+    - **Como funciona**: Com uma **Ação Bônus**, você amaldiçoa uma criatura que possa ver a até 9 metros durante 1 minuto. Contra esse alvo você ganha:
+        - **Dano Extra**: Adiciona seu bônus de proficiência (**+2**) em todas as jogadas de dano.
+        - **Crítico Aprimorado**: Seus ataques acertam um acerto crítico com **19 ou 20** no d20.
+        - **Cura ao Abater**: Se o alvo morrer, você recupera Pontos de Vida iguais ao seu **nível de bruxo (3) + modificador de Carisma**.
+
+---
+
+### **2. Recursos de Classe & Pacto (Nível 3)**
+
+- **Dádiva do Pacto: Pacto da Lâmina (** **Pact of the Blade** **)**:
+    - Com **1 Ação**, você materializa sua arma corpo a corpo mágica na mão livre 
+    - Ela conta como **arma mágica** para superar resistência e imunidade a dano não mágico.
+    - Você pode dissipá-la a qualquer momento sem gastar ação .
+    - O personagem possui proeficiencia nela
+- **Invocações Místicas (2 Escolhas Recomendadas)** :
+    1. **Visão Diabólica (** **Devil's Sight** **)**: Você enxerga normalmente na escuridão mágica e não mágica até 36 metros. _(Combina com a sua magia Escuridão)_.
+    2. **Arma de Pacto Aprimorada (** **Improved Pact Weapon** **)**: Sua arma de pacto concede **+1 nos testes de ataque e dano**, funciona como seu foco arcano de conjuração e pode assumir a forma de armas à distância (arco curto/longo, bestas) [passage 24].
+
+---
+
+### **3. Repertório de Magias**
+
+- **Espaços de Magia (** **Spell Slots** **)**: **2 espaços de 2º nível** [passage 59].
+- **Recuperação de Espaços**: Todos os espaços são recuperados com um **descanso curto** ou longo [passage 61].
+- **CD de Resistência de Magia**: `8 + 2 (Proficiência) + Modificador de Carisma` [passage 62].
+- **Bônus de Ataque de Magia**: `+2 (Proficiência) + Modificador de Carisma` [passage 62].
+
+#### **Truques (Nível 0 — Ilimitados)**
+
+- **Rajada Mística (** **Eldritch Blast** **)**: 1 Ação | Alcance 36 m | Causa **1d10 de energia** [passage 60].
+- **Prestidigitação (** **Prestidigitation** **)**: 1 Ação | Alcance 3 m | Cria pequenos efeitos utilitários, limpa, suja, acende fogo ou altera sabores.
+- **Taumaturgia (** **Thaumaturgy** **) — Racial Tiefling**: 1 Ação | Alcance 9 m | Manifesta sinais sobrenaturais menores (voz amplificada, chamas tremulantes, tremores) [passage 58].
+
+#### **Magias de 2º Nível Conhecidas (Gastam 1 Espaço de 2º Nível)**
+
+- **Bruxaria (** **Hex** **)**: Ação Bônus | Alcance 18 m | Duração: Concentração, até 8 horas. Concede **+1d6 de dano necrótico** em cada golpe que acertar no alvo e impõe desvantagem em testes de um atributo escolhido. Pode ser movida para outro alvo quando o atual morrer.
+- **Reflexos (** **Mirror Image** **)**: 1 Ação | Alcance Pessoal | Duração: 1 minuto (**Não exige concentração**). Cria 3 cópias ilusórias suas para redirecionar ataques inimigos que acertariam você.
+- **Passo Nebuloso (** **Misty Step** **)**: Ação Bônus | Alcance Pessoal | Teletransporte instantâneo de até 9 metros para um espaço desocupado que possa ver.
+- **Escuridão (** **Darkness** **)**: 1 Ação | Alcance 18 m | Duração: Concentração, até 10 minutos. Cria uma esfera de 4,5 m de raio de escuridão mágica densa [passage 58].
+
+#### **Magia Racial Adicional (Gratuita)**
+
+- **Repreensão Infernal (** **Hellish Rebuke** **)**: 1 Reação (ao sofrer dano de um inimigo a até 18 m) | Conjurada como **2º nível** | Causa **3d10 de dano de fogo** (metade se passar na salvaguarda de Destreza) [passage 58]. Uso: **1 vez por descanso longo** sem gastar espaço [passage 58].
+
+---
+
+### **4. Guia Rápido de Ações em Combate (_O que você pode fazer por rodada_)**
+
+Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 metros**) e escolher **uma opção de cada categoria**:
+
+#### **🔴 Sua Ação Principal (Escolha 1)**
+
+- **Atacar com a Espada do Pacto**: Desfere 1 ataque corpo a corpo usando Carisma no acerto e no dano [passage 20, 64].
+- **Disparar com Rajada Mística**: Faz 1 ataque de magia à distância (1d10 de dano de energia a até 36 m) [passage 60].
+- **Conjurar Magia**: Lança _Reflexos_ (defesa sem concentração) ou _Escuridão_ (controle de área).
+- **Materializar a Lâmina**: Cria sua arma mágica em mãos (se ainda não estiver empunhada) [passage 64].
+- **Ações Táticas Padrão**: Desengajar, Esquivar, Disparada ou Ajudar.
+
+#### **🟡 Sua Ação Bônus (Escolha 1)**
+
+- **Ativar Maldição da Lâmina Maldita**: Marca um alvo a até 9 m para ganhar crítico 19-20 e dano extra [passage 18, 19].
+- **Conjurar Bruxaria (** **Hex** **)**: Marca um alvo com +1d6 de dano necrótico por acerto.
+- **Mover a Bruxaria**: Transfere a maldição de um alvo recém-morto para um novo oponente.
+- **Conjurar Passo Nebuloso**: Teletransporta-se até 9 metros para reposicionamento ou fuga.
+
+#### **🔵 Sua Reação (Fora do seu turno — Gatilhos Específicos)**
+
+- **Repreensão Infernal**: Se um inimigo te acertar, devolve 3d10 de fogo imediatamente [passage 58].
+- **Ataque de Oportunidade**: Golpeia com sua espada caso um inimigo saia do seu alcance corpo a corpo sem desengajar.
+
+---
+
+### **💡 Táticas e Combos de Combate do Higgins**
+
+1. **O Combo do Carrasco Solitário (Foco no Chefe / Rezzlar)**:
+
+- **Rodada 1**: Ação Bônus para ativar a _Maldição da Lâmina Maldita_ [passage 18] + Ação para atacar com a espada ou disparar _Rajada Mística_ [passage 60].
+- **Rodada 2**: Ação Bônus para lançar _Bruxaria_ no mesmo alvo + Ação de Ataque.
+- **Resultado**: Cada acerto de espada causa `Dano da Arma + Mod. Carisma + 2 (Proficiência) + 1d6 (Bruxaria)`, com chance de crítico em **19 ou 20** [passage 19, 20]!
+
+2. **O Truque do Demônio das Sombras (** **Escuridão + Visão Diabólica** **)**:
+
+- Conjure _Escuridão_ na sua própria espada ou no chão ao seu redor.
+- Com a invocação _Visão Diabólica_, você enxerga normalmente, enquanto a maioria dos inimigos fica cega: você ganha **vantagem em todos os seus ataques** e os inimigos sofrem **desvantagem para tentar acertar você**.
