@@ -11,4 +11,4 @@
 	- Organizar o tema e os documentos entre a equipe
 - [ ] Prova de topicos em IA 
 	- Estudar
-- [ ] Lista 03 de engenharia de software
+- [x] Lista 03 de engenharia de software
