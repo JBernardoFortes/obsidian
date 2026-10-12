@@ -9,5 +9,8 @@
     "downscalePercent": 100
   },
   "vimMode": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "showLineNumber": false
 }
