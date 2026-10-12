@@ -3,12 +3,13 @@
 
 ## 1. Identidade
 
-- **Nome:** [Huggins
+- **Nome:** [Higgins]
 - **Nome verdadeiro ou de nascimento:** [Kali]
 - **Apelidos:** []
 - **Espécie / raça:** [Tiefling]
 - **Classe:** [Warlock]
 - **Subclasse:** [The hexblade]
+- **Dádiva do Pacto**: Pacto da Lâmina (_Pact of the Blade_).
 - **Nível:** [3]
 - **Antecedente:** [Infernal]
 - **Tendência / alinhamento:** [Lawful Evil]
@@ -66,7 +67,7 @@
 | Sabedoria    |   [ ] | [ ]                       |
 | Carisma      |   [ ] | [ ]                       |
 
-- **Bônus de proficiência:** [ ]
+- **Bônus de proficiência:** +2
 - **Classe de Armadura (CA):** [ ]
 - **Pontos de vida (PV):** [Atual / máximo]
 - **Deslocamento:** [ ]
