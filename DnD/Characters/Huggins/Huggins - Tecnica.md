@@ -120,3 +120,6 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 - **Bolsa de Couro a Tiracolo**: Guarda suas figuras de madeira entalhada.
 - **Totens de Madeira**: Catalisadores rituais para suas futuras invocações sombrias.
 - **Anel Coletor de Almas**: Receptáculo fúnebre capaz de reter até 1 alma por vez como combustível arcano.
+
+
+[[Huggins]]

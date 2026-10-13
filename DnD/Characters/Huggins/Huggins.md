@@ -239,3 +239,6 @@ Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 me
 
 - Se durante a campanha você encontrar uma **arma mágica permanente** (como uma lâmina mágica encontrada em uma masmorra), você pode realizar um **ritual de 1 hora** com ela
 - Ao fazer isso, essa arma física real passa a ser a sua arma de pacto oficial: você pode fazê-la desaparecer para um **espaço extradimensional** e materializá-la na sua mão sempre que usar a sua ação de criar a arma de pacto
+
+
+[[Characters]]

@@ -176,12 +176,6 @@
   "pluginAutoFetch": false,
   "persistedMarks": [],
   "harpoonPins": [],
-  "persistedJumpList": [
-    {
-      "filePath": "DnD/Characters/Huggins/Huggins.md",
-      "line": 153,
-      "ch": 95
-    }
-  ],
+  "persistedJumpList": [],
   "persistedFolds": {}
 }
