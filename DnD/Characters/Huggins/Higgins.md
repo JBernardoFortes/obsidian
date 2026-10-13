@@ -5,7 +5,6 @@
 
 - **Nome:** [Higgins]
 - **Nome verdadeiro ou de nascimento:** [Kali]
-- **Apelidos:** []
 - **Espécie / raça:** [Tiefling]
 - **Classe:** [Warlock]
 - **Subclasse:** [The hexblade]
