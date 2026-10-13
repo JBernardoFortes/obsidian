@@ -129,14 +129,19 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 | Enganacao   | Criminoso ( Antecedente ) | Carisma  | +5    |
 | Furtividade | Criminoso ( Antecedente ) | Dex      | +2    |
 | Arcanismo   | Bruxo ( Classe )          | Int      | +4    |
-|             |                           |          |       |
+| Intimidacao | Bruxo ( Classe )          | Carisma  | +5    |
 
 ## 9. Atributos
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Atributo     | Rolagem | Bonus Racial | Final | Modificador |
+| ------------ | ------- | ------------ | ----- | ----------- |
+| Forca        | 7       | -            | 7     | -2          |
+| Destreza     | 15      | -            | 15    | +2          |
+| Constituicao | 15      | -            | 15    | +2          |
+| Inteligencia | 10      | +1           | 11    | +0          |
+| Sabedoria    | 11      | -            | 11    | +0          |
+| Carisma      | 15      | +2           | 17    | +31         |
 
 
 
