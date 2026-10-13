@@ -115,7 +115,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 
 ---
 
-## **7. Itens Narrativos do Pacto (Combinados com o Mestre)**
+## **7. Itens Narrativos do Pacto
 
 - **Bolsa de Couro a Tiracolo**: Guarda suas figuras de madeira entalhada.
 - **Totens de Madeira**: Catalisadores rituais para suas futuras invocações sombrias.
@@ -145,5 +145,68 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 
 
 
+## 10. Mecânica de Summon
+
+### 1. Armazenamento de almas
+
+- **Anel Coletor de Almas:** armazena no máximo uma alma por vez.
+    
+- **Extração:** depois de derrotar uma criatura, preciso tentar extrair sua alma.
+    
+- **Teste de resistência (save):** a extração exige um teste após o combate ( Carisma )
+    
+- **Dificuldade:** a CD do teste varia de acordo com a diferença de nível entre meu personagem e a criatura.
+    
+- **Falha:** se eu não passar no teste, não consigo extrair a alma. A consequência exata de uma falha ainda precisa ser confirmada com o mestre.
+    
+
+### 2. Totens e invocações
+
+- **Bolsa de couro:** guarda os totens ou figuras de madeira utilizados nas invocações.
+    
+- **Totens:** funcionam como catalisadores para invocar criaturas.
+    
+- **Almas:** ficam armazenadas no anel e servem como parte do sistema de invocação.
+    
+- **Limite de summons:** a quantidade de criaturas que posso invocar depende do nível delas.
+    
+
+### 3. Limite de invocações
+
+- Existe um limite de summons que posso manter ou utilizar, determinado pelo nível das criaturas. Mas eu posso invocar indefinidamente
+    
+- Caso eu ultrapasse esse limite, posso sofrer alguma punição.
+    
+- A punição por ultrapassar o limite e a forma exata de calcular a capacidade ainda precisam ser confirmadas com o mestre.
+    
+
+### 4. Fluxo de utilização
+
+1. Derrotar uma criatura durante o combate.
+    
+2. Após o combate, tentar extrair sua alma.
+    
+3. Realizar o save exigido pelo sistema.
+    
+4. Verificar se passei no teste e se consegui obter a alma.
+    
+5. Armazenar a alma no anel, respeitando o limite de uma alma por vez.
+    
+6. Utilizar os totens e os recursos disponíveis para realizar invocações, respeitando os limites do sistema.
+    
+
+### 5. Regras pendentes de confirmaçã
+
+- Qual é a CD exata do teste e como a diferença de nível a altera?
+    
+- O que acontece se eu falhar na extração?
+    
+- Qual é o limite de summons para cada nível de criatura?
+    
+- O que acontece se eu ultrapassar o limite?
+    
+- Existe custo de ação, recurso ou alma para invocar uma criatura?
+    
+- O que acontece com uma criatura invocada quando ela morre ou é dispensada?
 
 [[Higgins]]
