@@ -9,5 +9,5 @@
 - [x] Fazer o estatico da Fatima que tava faltando
 - [x] O Roberth me pediu uma coisa
 	- Isolar um print do video da APIPA
-- [ ] Fazer as mudancas no carrossel do Romilto
+- [x] Fazer as mudancas no carrossel do Romilto
 	- Pedi para o GPT fazer mas ainda nao foi satisfatorio, vou mandar mesmo assim, nao me interesso por essas tasks de design, ja to pensando em pedir para outra pessoa pegar essa task de qualquer forma.

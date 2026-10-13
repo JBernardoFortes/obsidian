@@ -13,6 +13,10 @@ Conversei com o bryan, ele eh legal, parece que ele tambem ta no sexto periodo d
 
 A chefe me pediu para ajustar as imagens do carrossel do romilto, espero que nao seja mais passado pra mim fazer esse tipo de coisa, sei la.
 
+Hoje vou sair mais cedo, entreguei todas as tasks, vou dar aquela enrolada tirando as coisas e guardando, indo no banheiro, etc etc.
+
+
+
 ### Demandas de hoje
 
 - [[Demandas - 13 Out 2026]]
