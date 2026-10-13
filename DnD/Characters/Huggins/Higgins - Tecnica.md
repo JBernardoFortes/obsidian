@@ -124,10 +124,12 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 
 ### 8. Antecedente & Pericias
 
-| Pericia | Origem | Bonus |
-| ------- | ------ | ----- |
-|         |        |       |
-|         |        |       |
+| Pericia     | Origem                    | Atributo | Bonus |
+| ----------- | ------------------------- | -------- | ----- |
+| Enganacao   | Criminoso ( Antecedente ) | Carisma  | +5    |
+| Furtividade | Criminoso ( Antecedente ) | Dex      | +2    |
+| Arcanismo   | Bruxo ( Classe )          | Int      | +4    |
+|             |                           |          |       |
 
 
 
