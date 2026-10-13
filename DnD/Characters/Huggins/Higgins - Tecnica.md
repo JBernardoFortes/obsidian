@@ -1,4 +1,4 @@
-# **HUGGINS**
+# **HIGGINS**
 
 - **Raça**: Tiefling 
 - **Classe**: Bruxo (_Warlock_) — 3º Nível 
@@ -122,4 +122,4 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 - **Anel Coletor de Almas**: Receptáculo fúnebre capaz de reter até 1 alma por vez como combustível arcano.
 
 
-[[Huggins]]
+[[Higgins]]
