@@ -122,4 +122,13 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 - **Anel Coletor de Almas**: Receptáculo fúnebre capaz de reter até 1 alma por vez como combustível arcano.
 
 
+### 8. Antecedente & Pericias
+
+| Pericia | Origem | Bonus |
+| ------- | ------ | ----- |
+|         |        |       |
+|         |        |       |
+
+
+
 [[Higgins]]
