@@ -12,3 +12,7 @@
 - [ ] Prova de topicos em IA 
 	- Estudar
 - [x] Lista 03 de engenharia de software
+- [ ] Preciso Arrumar o problema de sincronizacao com o Drive
+	- Mandar o colab para a equipe
+
+[[Faculdade]]
