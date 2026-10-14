@@ -5,7 +5,7 @@
 - [x] Estatico Clinica mais saude - Dia do Piaui
 - [x] Estatico Clinica mais saude - Outubro Rosa
 - [ ] Estatico - Ox Centro Medico - Outubro Rosa
-- [ ] Estatico Oftamed - Dia do medico
+- [x] Estatico Oftamed - Dia do medico
 - [x] Estatico Oxcentro Centro Medico Avancado do fds - Dia do Piaui
 - [ ] Estatico Regina Nogueira - Outubro Rosa
 - [x] Estatico Oftalmed - Dia do Piaui
