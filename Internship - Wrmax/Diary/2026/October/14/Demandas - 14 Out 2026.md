@@ -4,7 +4,6 @@
 - [ ] Estatico APIPA - Dia do Piaui
 - [x] Estatico Clinica mais saude - Dia do Piaui
 - [ ] Estatico Clinica mais saude - Outubro Rosa
-- [x] Estatico Clinica Mais saude - Dia do Piaui
 - [ ] Estatico - Ox Centro Medico - Outubro Rosa
 	- Oxcentro Centro Medico Avancado
 - [x] Estatico Oxcentro Centro Medico Avancado do fds - Dia do Piaui
