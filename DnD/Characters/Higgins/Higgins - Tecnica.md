@@ -1,7 +1,7 @@
 # **HIGGINS**
 
 - **Raça**: Tiefling 
-- **Classe**: Bruxo (_Warlock_) — 3º Nível 
+- **Classe**: Bruxo (_Warlock_) - 3º Nível 
 - **Patrono Transcendental (Subclasse)**: A Lâmina Maldita (_The Hexblade_) 
 - **Dádiva do Pacto**: Pacto da Lâmina (_Pact of the Blade_) 
 - **Bônus de Proficiência (BP)**: +2
