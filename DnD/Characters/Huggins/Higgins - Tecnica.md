@@ -36,6 +36,8 @@
         - Bônus de **+2 no dano** (+BP) em todos os seus ataques e magias
         - Seus ataques contra o alvo são **críticos com 19 ou 20** no d20.
         - Se o alvo morrer, você recupera **PV iguais a 3 (nível de bruxo) + Modificador de Carisma
+	- Alabarda : 1d10 dano cortante. Alcance
+	- Pistola simples : 1d10 dano perfurante. Longo alcance
 - **Pacto da Lâmina: Materializar / Dissipar Arma**
     - **Tipo**: **Ação Normal** (para materializar) / **Livre / Sem Ação** (para dissipar)
     - **Efeito**: Você cria uma arma corpo a corpo mágica na sua mão vazia da forma que desejar e é automaticamente proficiente com ela. Ela dissipa se ficar a mais de 1,5 m de você por 1 minuto, se você a dispensar ou se morrer.
