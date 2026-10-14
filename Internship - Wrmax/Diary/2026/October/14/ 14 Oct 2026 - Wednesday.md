@@ -15,6 +15,10 @@ To chegando no meu limite, vou parar de me trocar com essa empresa antes que eu 
 
 Simplesmente fiquei triste, por que as coisas nao dao certo pra mim nesse sentido ? porque eu dou azar com empresas ? Poderia estar indo bem, com um time de desenvolvedores fazzendo realmente algo produtivo e significativo pra minha carreira e para a sociedade, mas eu to preso aqui fazendo imagenzinha de instagram e subindo anunciozinho de instagram enquanto os meus chefes estao viajando. 
 
+Terminei as tasks de estatico do dia, sobraram a do medico baiao. Vou fazer amanha
+
+Fizemos uma reuniao e foi passado uma demanda para eu e o Bryan fazermos uma aplicacao interna ou reorganizarmos o notion, estavamos levantando requisitos para isso, o gargalo eh o armazenamento.
+
 ---
 
 ### Demandas de hoje
