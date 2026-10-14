@@ -13,6 +13,8 @@ Me contrataram para ser estagiario de TI nao de designer, vou continuar fazendo 
 
 To chegando no meu limite, vou parar de me trocar com essa empresa antes que eu comece a descontar nas pessoas que sao importantes para mim, vou gastar meu tempo aqui na empresa e pensar nela somente dentro aqui do meu horario de trabalho, depois disso eu sumo e so respondo no proximo dia.
 
+Simplesmente fiquei triste, por que as coisas nao dao certo pra mim nesse sentido ? porque eu dou azar com empresas ? Poderia estar indo bem, com um time de desenvolvedores fazzendo realmente algo produtivo e significativo pra minha carreira e para a sociedade, mas eu to preso aqui fazendo imagenzinha de instagram e subindo anunciozinho de instagram enquanto os meus chefes estao viajando. 
+
 ---
 
 ### Demandas de hoje
