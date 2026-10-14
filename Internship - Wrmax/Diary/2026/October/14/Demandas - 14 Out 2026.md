@@ -15,3 +15,4 @@
 	- [ ] Carrossel Medico Baiao - Dor regiao vertical
 	- Deixar por ultimos esses aqui, porque realmente nao sei direito o que fazer quanto a isso
 	- Vou tentar procurar alguma skill que faca as imagens ficarem com menos cara de IA
+- [x] Subir o estatico de Balsas do baiao
