@@ -1,7 +1,7 @@
 
 
 - [x] Estatico Alianca - Dia do Piaui
-- [ ] Estatico APIPA - Dia do Piaui
+- [x] Estatico APIPA - Dia do Piaui
 - [x] Estatico Clinica mais saude - Dia do Piaui
 - [ ] Estatico Clinica mais saude - Outubro Rosa
 - [ ] Estatico - Ox Centro Medico - Outubro Rosa
