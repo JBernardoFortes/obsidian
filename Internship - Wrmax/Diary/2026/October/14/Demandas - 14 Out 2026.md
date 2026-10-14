@@ -1,14 +1,15 @@
 
 
-- [ ] Estatico Alianca - Dia do Piaui
+- [x] Estatico Alianca - Dia do Piaui
 - [ ] Estatico APIPA - Dia do Piaui
-- [ ] Estatico Clinica mais saude - Dia do Piaui
+- [x] Estatico Clinica mais saude - Dia do Piaui
 - [ ] Estatico Clinica mais saude - Outubro Rosa
+- [x] Estatico Clinica Mais saude - Dia do Piaui
 - [ ] Estatico - Ox Centro Medico - Outubro Rosa
 	- Oxcentro Centro Medico Avancado
 - [x] Estatico Oxcentro Centro Medico Avancado do fds - Dia do Piaui
 - [ ] Estatico Regina Nogueira - Outubro Rosa
-- [ ] Estatico Oftalmed - Dia do Piaui
+- [x] Estatico Oftalmed - Dia do Piaui
 - [ ] Ajustes porque esta com cara de IA
 	- [ ] Carrossel Medico Gabriel - Joelho Estalando
 	- [ ] Carrossel Medico Gabriel - Mitos da infiltracao
