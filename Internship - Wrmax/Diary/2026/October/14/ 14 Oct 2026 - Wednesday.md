@@ -9,8 +9,15 @@ A chefe me ligou para reclamar comigo sobre os estaticos do tal medico baiao, el
 
 Tambem reclamei com a Maria sobre o como eles se comunicam com a gente, parece que tao falando com uns modelos de IA, fico muito irritado com falta de comunicacao, eh uma coisa que eu nao aturo em qualquer ambiente de trabalho.
 
-Me contrata
+Me contrataram para ser estagiario de TI nao de designer, vou continuar fazendo os estaticos dessa forma como eu estou fazendo e fe, se esta com cara de IA eu vou pedir alguma skill para a IA criar com menos cara de IA.
 
+To chegando no meu limite, vou parar de me trocar com essa empresa antes que eu comece a descontar nas pessoas que sao importantes para mim, vou gastar meu tempo aqui na empresa e pensar nela somente dentro aqui do meu horario de trabalho, depois disso eu sumo e so respondo no proximo dia.
+
+---
+
+### Demandas de hoje
+
+- [[Demandas - 14 Out 2026]]
 
 
 ---
