@@ -7,7 +7,7 @@
 - [ ] Estatico - Ox Centro Medico - Outubro Rosa
 - [x] Estatico Oftamed - Dia do medico
 - [x] Estatico Oxcentro Centro Medico Avancado do fds - Dia do Piaui
-- [ ] Estatico Regina Nogueira - Outubro Rosa
+- [x] Estatico Regina Nogueira - Outubro Rosa
 - [x] Estatico Oftalmed - Dia do Piaui
 - [ ] Ajustes porque esta com cara de IA
 	- [ ] Carrossel Medico Gabriel - Joelho Estalando
