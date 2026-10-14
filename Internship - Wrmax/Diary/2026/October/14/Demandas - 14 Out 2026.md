@@ -11,3 +11,5 @@
 - [ ] Ajustes porque esta com cara de IA
 	- [ ] Carrossel Medico Gabriel - Joelho Estalando
 	- [ ] Carrossel Medico Gabriel - Mitos da infiltracao
+	- Deixar por ultimos esses aqui, porque realmente nao sei direito o que fazer quanto a isso
+	- Vou tentar procurar alguma skill que faca as imagens ficarem com menos cara de IA
