@@ -72,9 +72,9 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
     - **Tipo**: **Ação Normal**
     - **Alcance**: 36 metros | **Componentes**: V, S | **Duração**: Instantânea
     - **Efeito**: Disparo arcano à distância. Faz uma jogada de ataque de magia contra o alvo; se acertar, causa **1d10 de dano de energia**.
-- **Prestidigitação (** **Prestidigitation** **)**
+- **Ilusao Menor
     - **Tipo**: **Ação Normal**
-    - **Alcance**: 3 metros | **Componentes**: V, S | **Duração**: Até 1 hora
+    - **Alcance**: 9 metros | **Componentes**: V, M | **Duração**: Até 1 minuto
     - **Efeito**: Truque utilitário para criar efeitos sensoriais inofensivos (sons, faíscas, brisas), acender/apagar tochas, limpar/sujar objetos ou aquecer/esfriar e temperar alimentos.
 - **Taumaturgia (** **Thaumaturgy** **) — Racial Tiefling** 
     - **Tipo**: **Ação Normal**
