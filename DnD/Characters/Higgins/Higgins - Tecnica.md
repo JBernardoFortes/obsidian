@@ -75,11 +75,14 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 - **Ilusao Menor
     - **Tipo**: **Ação Normal**
     - **Alcance**: 9 metros | **Componentes**: V, M | **Duração**: Até 1 minuto
-    - **Efeito**: Truque utilitário para criar efeitos sensoriais inofensivos (sons, faíscas, brisas), acender/apagar tochas, limpar/sujar objetos ou aquecer/esfriar e temperar alimentos.
+	- **Efeito**: Você cria um som ou uma imagem de um objeto, dentro
+	 do alcance, que permanece pela duração. A ilusão também
+	 termina se você dissipa-la usando uma ação ou conjurar
+ 	 essa magia novamente. 
 - **Taumaturgia (** **Thaumaturgy** **) — Racial Tiefling** 
     - **Tipo**: **Ação Normal**
     - **Alcance**: 9 metros | **Componentes**: V | **Duração**: Até 1 minuto
-    - **Efeito**: Manifesta sinais sobrenaturais menores (voz até 3 vezes mais alta, tremeluzir chamas, tremores de terra leves, portas abrindo/fechando sozinhas) 
+	- **Efeito**: Manifesta sinais sobrenaturais menores (voz até 3 vezes mais alta, tremeluzir chamas, tremores de terra leves, portas abrindo/fechando sozinhas) 
 
 ---
 
