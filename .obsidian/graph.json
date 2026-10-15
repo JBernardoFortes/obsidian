@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "file: \"Abusos\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -116,6 +123,6 @@
   "repelStrength": 13.1008547008547,
   "linkStrength": 0.958886230150098,
   "linkDistance": 194,
-  "scale": 0.0269119320971284,
-  "close": true
+  "scale": 0.12184733437354361,
+  "close": false
 }
