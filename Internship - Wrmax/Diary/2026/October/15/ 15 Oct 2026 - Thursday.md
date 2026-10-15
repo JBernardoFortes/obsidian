@@ -11,6 +11,7 @@ Comentei com o Bryan, pedem para eu tirar a cara de IA, mas eu faco com IA. Nao 
 
 Fica dificil trabalhar assim, me mandam ajustes e nao especificam. Me mandam fazer estaticos com o padrao dos clientes, mas nao tem padrao dos clientes. 
 
+### Lista de abusos que eu 
 ---
 #internship-wrmax
 
