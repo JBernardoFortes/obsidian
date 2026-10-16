@@ -146,7 +146,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 | Constituicao | 15      | -            | 15    | +2          |
 | Inteligencia | 10      | +1           | 11    | +0          |
 | Sabedoria    | 11      | -            | 11    | +0          |
-| Carisma      | 15      | +2           | 17    | +31         |
+| Carisma      | 15      | +2           | 17    | +3          |
 
 
 
