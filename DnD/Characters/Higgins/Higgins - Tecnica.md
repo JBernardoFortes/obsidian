@@ -72,7 +72,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
     - **Tipo**: **Ação Normal**
     - **Alcance**: 36 metros | **Componentes**: V, S | **Duração**: Instantânea
     - **Efeito**: Disparo arcano à distância. Faz uma jogada de ataque de magia contra o alvo; se acertar, causa **1d10 de dano de energia**.
-- **Ilusao Menor
+- **Ilusao Menor**
     - **Tipo**: **Ação Normal**
     - **Alcance**: 9 metros | **Componentes**: V, M | **Duração**: Até 1 minuto
 	- **Efeito**: Você cria um som ou uma imagem de um objeto, dentro
