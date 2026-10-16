@@ -9,7 +9,6 @@ Hoje eh o primeiro dia depois dos abusos psicologios que eu sofri. Vamos ver com
 
 Me lembrar que eu vou jogar D&D com os mlks depois disso aqui, vai ser divertido. Fiquei ansioso a semana inteira para jogar com eles, olhar pelo lado bom do dia.
 
-Ficar sozinho aqui no escritorio eh a melhor coisa que existe. A paz eh incompravel.
 
 Faltam 55 dias.
 
