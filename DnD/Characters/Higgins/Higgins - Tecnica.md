@@ -35,7 +35,7 @@
     - **Efeito**: Marca uma criatura visível. Contra ela, você recebe:
         - Bônus de **+2 no dano** (+BP) em todos os seus ataques e magias
         - Seus ataques contra o alvo são **críticos com 19 ou 20** no d20.
-        - Se o alvo morrer, você recupera **PV iguais a 3 (nível de bruxo) + Modificador de Carisma
+        - Se o alvo morrer, você recupera **PV** iguais a 3 (nível de bruxo) + Modificador de Carisma
 	- Alabarda : 1d10 dano cortante. Alcance
 	- Pistola simples : 1d10 dano perfurante. Longo alcance
 - **Pacto da Lâmina: Materializar / Dissipar Arma**
@@ -50,7 +50,7 @@
 
 ---
 
-## **3. Invocações Místicas 
+## **3. Invocações Místicas**
 
 - **Visão Diabólica (** **Devil's Sight** **)**
     - **Tipo**: **Passiva** (sempre ativa, sem custo de recurso).
@@ -64,7 +64,7 @@
 
 ---
 
-## **4. Truques (_Cantrips)**
+## **4. Truques (_Cantrips_)**
 
 _Podem ser conjurados livremente sem gastar espaços de magia._
 
@@ -120,7 +120,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 
 ---
 
-## **7. Itens Narrativos do Pacto
+## **7. Itens Narrativos do Pacto**
 
 - **Bolsa de Couro a Tiracolo**: Guarda suas figuras de madeira entalhada.
 - **Totens de Madeira**: Catalisadores rituais para suas futuras invocações sombrias.
