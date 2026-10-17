@@ -1,0 +1,7 @@
+[[Higgins]]
+
+
+| Item | Quantidade | Tipo |
+| ---- | ---------- | ---- |
+|      |            |      |
+|      |            |      |
