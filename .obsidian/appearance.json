@@ -2,5 +2,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "paragraphSpaces"
-  ]
+  ],
+  "cssTheme": "Paper feel",
+  "theme": "moonstone",
+  "textFontFamily": ""
 }
