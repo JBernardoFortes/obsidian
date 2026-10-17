@@ -162,7 +162,9 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
     
 - **Dificuldade:** a CD do teste varia de acordo com a diferença de nível entre meu personagem e a criatura.
     
-- **Falha:** se eu não passar no teste, não consigo extrair a alma. A consequência exata de uma falha ainda precisa ser confirmada com o mestre.
+- **Falha:** se eu não passar no teste, não consigo extrair a alma. 
+
+- **Falha Critica**: Em caso de falha crítica, a criatura retorna dos mortos como um morto vivo com o dobro da vida. Ele sofre dano de deterioração fixo por cada turno.
     
 
 ### 2. Totens e invocações
@@ -182,7 +184,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
     
 - Caso eu ultrapasse esse limite, posso sofrer alguma punição.
     
-- A punição por ultrapassar o limite e a forma exata de calcular a capacidade ainda precisam ser confirmadas com o mestre.
+- A punição por ultrapassar o limite e a forma exata de calcular a capacidade ainda precisam ser confirmadas.
     
 
 ### 4. Fluxo de utilização
