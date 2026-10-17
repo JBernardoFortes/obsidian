@@ -1,6 +1,5 @@
 [
   "calendar",
   "obsidian-importer",
-  "git-vault-sync",
-  "vim-motions"
+  "git-vault-sync"
 ]

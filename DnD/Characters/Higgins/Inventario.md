@@ -1,4 +1,4 @@
-[[Higgins]]
+[[Higgins - Historia]]
 
 ---
 
