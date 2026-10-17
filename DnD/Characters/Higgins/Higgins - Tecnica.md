@@ -36,7 +36,7 @@
         - Bônus de **+2 no dano** (+BP) em todos os seus ataques e magias
         - Seus ataques contra o alvo são **críticos com 19 ou 20** no d20.
         - Se o alvo morrer, você recupera **PV** iguais a 3 (nível de bruxo) + Modificador de Carisma
-	- Alabarda : 1d10 dano cortante. Alcance
+	- Alabarda / Glaive / Lança longa  : 1d10 dano cortante. Alcance. Pesada
 	- Pistola simples : 1d10 dano perfurante. Longo alcance
 - **Pacto da Lâmina: Materializar / Dissipar Arma**
     - **Tipo**: **Ação Normal** (para materializar) / **Livre / Sem Ação** (para dissipar)
@@ -202,7 +202,7 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
 6. Utilizar os totens e os recursos disponíveis para realizar invocações, respeitando os limites do sistema.
     
 
-### 5. Regras pendentes de confirmaçã
+### 5. Regras pendentes de confirmação
 
 - Qual é a CD exata do teste e como a diferença de nível a altera?
     
