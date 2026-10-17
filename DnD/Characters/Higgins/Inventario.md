@@ -12,3 +12,4 @@
 | Totem de ( ? )    | 1          | Totem de invocacao |
 
 
+[[Higgins - Historia]]

@@ -25,3 +25,4 @@
 - Teste de Sabedoria: `dice: 1d20`
 - Teste de Carisma: `dice: 1d20+3`
 
+[[Higgins - Historia]]

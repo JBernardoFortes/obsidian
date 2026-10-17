@@ -58,3 +58,6 @@ Enxerga normalmente na escuridão normal e mágica até 36 m.
 - **+1 em ataque e dano com a arma de pacto**, salvo se ela já tiver bônus mágico.
 - A arma pode funcionar como foco arcano para magias de bruxo.
 - Permite materializar arco curto, arco longo, besta leve ou besta pesada, conforme a ficha.
+
+
+[[Higgins - Historia]]
