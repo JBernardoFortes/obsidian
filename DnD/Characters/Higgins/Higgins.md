@@ -1,6 +1,3 @@
-
----
-
 ## 1. Identidade
 
 - **Nome:** [Higgins]
@@ -119,7 +116,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ## 6. Combate
 
-### **1. Habilidades de Subclasse: A Lâmina Maldita (_The Hexblade_)**
+### **6.1. Habilidades de Subclasse: A Lâmina Maldita (_The Hexblade_)**
 
 - **Guerreiro Maldito (** **Hex Warrior** **)**:
     - **Proficiências Adicionais**: Você é proficiente com **armaduras médias**, **escudos** e **armas marciais**.
@@ -134,7 +131,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ---
 
-### **2. Recursos de Classe & Pacto (Nível 3)**
+### **6.2. Recursos de Classe & Pacto (Nível 3)**
 
 - **Dádiva do Pacto: Pacto da Lâmina (** **Pact of the Blade** **)**:
     - Com **1 Ação**, você materializa sua arma corpo a corpo mágica na mão livre 
@@ -148,7 +145,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ---
 
-### **3. Repertório de Magias**
+### **6.3. Repertório de Magias**
 
 - **Espaços de Magia (** **Spell Slots** **)**: **2 espaços de 2º nível**.
 	- **Recuperação de Espaços**: Todos os espaços são recuperados com um **descanso curto** ou longo.
@@ -174,7 +171,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ---
 
-### **4. Guia Rápido de Ações em Combate 
+### **6.4. Guia Rápido de Ações em Combate 
 
 Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 metros**) e escolher **uma opção de cada categoria**:
 
@@ -199,7 +196,7 @@ Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 me
 - **Ataque de Oportunidade**: Golpeia com sua espada caso um inimigo saia do seu alcance corpo a corpo sem desengajar.
 
 ---
-### Táticas e Combos de Combate
+### 6.5 Táticas e Combos de Combate
 
 1. Combo 01:
 
@@ -212,7 +209,7 @@ Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 me
 - Conjure _Escuridão_ na sua própria espada ou no chão ao seu redor.
 - Com a invocação _Visão Diabólica_, você enxerga normalmente, enquanto a maioria dos inimigos fica cega: você ganha **vantagem em todos os seus ataques** e os inimigos sofrem **desvantagem para tentar acertar você**.
 
-### Me atentar:
+### 6.7 Me atentar:
 
 - Se durante a campanha você encontrar uma **arma mágica permanente** (como uma lâmina mágica encontrada em uma masmorra), você pode realizar um **ritual de 1 hora** com ela
 - Ao fazer isso, essa arma física real passa a ser a sua arma de pacto oficial: você pode fazê-la desaparecer para um **espaço extradimensional** e materializá-la na sua mão sempre que usar a sua ação de criar a arma de pacto

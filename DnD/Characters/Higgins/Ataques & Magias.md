@@ -25,9 +25,8 @@
 - **Dano anotado:** 1d10 perfurante
 - A ficha de origem não especifica bônus de ataque/dano nem se a pistola é arma de pacto. Confirme com o mestre antes de usar fórmulas finais.
 
-  
-## Truques
 
+## Truques
 
 ### Rajada Mística
 
@@ -51,7 +50,6 @@ Ação; alcance 9 m; componente V; dura até 1 minuto. Efeitos sobrenaturais men
 - **Efeito:** cada ataque que acerta o alvo causa +1d6 necrótico; escolha um atributo para impor desvantagem nos testes de habilidade relacionados.
 - Dano extra: `dice: 1d6`
 
- 
 ### Passo Nebuloso (Misty Step)
 
 Ação bônus; pessoal; componente V. Teletransporta até 9 m para um espaço desocupado que você possa ver.
