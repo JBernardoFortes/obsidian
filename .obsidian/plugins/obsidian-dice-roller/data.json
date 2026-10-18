@@ -5,7 +5,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": false,
+  "displayResultsInline": true,
   "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
@@ -14,11 +14,10 @@
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": true,
-  "graphics": "3d",
   "renderAllDice": true,
   "addToView": false,
   "renderTime": 2000,
-  "colorfulDice": true,
+  "colorfulDice": false,
   "scaler": 1,
   "diceColor": "#202020",
   "textColor": "#ffffff",
@@ -76,6 +75,6 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "version": "11.4.2",
-  "viewResults": []
+  "viewResults": [],
+  "version": "11.4.2"
 }
