@@ -1,0 +1,72 @@
+## **1. Origens: A Lama do Distrito Vermelho**
+
+Você não sabe quem foram seus pais, se está vivo por milagre ou por descuido. O único berço que você conheceu foi o **Distrito Vermelho**, o canto mais podre, barulhento e perigoso da capital **Theron**, no reino de **Elysia**.
+
+Lá, entre o cheiro de bebida barata, as luzes decadentes do único bordel do bairro e os becos onde o sangue seca rápido, a **máfia local** dominava tudo.
+
+- **O Treinamento**: Para a máfia, crianças órfãs não eram vidas a serem salvas, mas ferramentas descartáveis. Um homem chamado **Loyd** era o encarregado de cuidar e treinar a garotada. O primeiro passo era ser jogado nas ruas como **pedinte e mendigo**, usando a miséria para criar distrações, roubar algibeiras e atrair nobres incautos para armadilhas.
+- **A Especialização**: Conforme você crescia, a guilda separava os garotos. Por causa da sua lábia, da sua capacidade de ler pessoas e do seu charme frio, você foi direcionado para a divisão de **enganação, golpes e trapaça**. Você aprendeu a sorrir enquanto planejava a ruína de alguém.
+
+---
+
+## **2. A Queda: O Golpe, a Traição e o Bode Expiatório**
+
+Sua vida mudou para sempre no dia do grande golpe idealizado pela cúpula da máfia: um roubo audacioso contra o próprio **Príncipe de Elysia**.
+
+1. **A Execução**: O plano era perfeito, mas a ganância e a loucura de um homem destruíram tudo. **Rezzelar**, um membro da sua própria equipe, quebrou o protocolo e **assassinou o príncipe**.
+2. **O Massacre**: Por motivos desconhecidos por Higgins, Rezzelar voltou sua lâmina contra os próprios companheiros. Ele chacinou seus amigos um a um e atacou você, deixando-o sangrando no chão, crente de que você estava morto.
+3. **A Segunda Traição**: Sangrando e desesperado, você conseguiu se arrastar de volta ao Distrito Vermelho buscando abrigo com a máfia. Mas não existe lealdade entre ladrões: ao perceberem a gravidade de ter um príncipe morto, o líder da guilda e **Loyd** decidiram que você seria o **bode expiatório perfeito** para entregar aos guardas reais e salvar a pele da organização.
+
+Ferido, traído por quem chamava de irmão e caçado pela guilda e pela guarda, você fugiu de Theron sem nada.
+
+---
+
+## **3. O Pacto: A Lâmina nas Sombras**
+
+Com a morte no encalço e o peito queimando de ódio, você se encurralou na escuridão. Foi ali que **Ele** se manifestou.
+
+Você não sabe o nome do seu **Patrono Transcendental**. Sabe apenas que é uma entidade ancestral que habita as sombras e se alimenta da essência dos mortos. Ele lhe estendeu a mão na forma de uma barganha:
+
+- **O Poder**: Ele concedeu a você o poder do **Guerreiro Maldito (_Hexblade_)**, a capacidade de invocar armas místicas da penumbra e o **Anel Coletor de Almas**.
+- **O Preço**: A sua vida agora pertence a Ele. Voce o serve, recebendo missoes periodicamente e instrucoes dele...
+
+Você aceitou sem hesitar. Não por amor à vida, mas porque precisava permanecer vivo o suficiente para encontrar **Rezzelar** e ver o sangue dele escorrer.
+
+---
+
+## **4. O Grande Conflito Interno: A Busca pelo Valor da Vida**
+
+A tragédia do Higgins não é apenas o seu passado de violência, mas a **ausência total de propósito no seu presente**.
+
+### **A Apatia e o Desprezo pela Vida**
+
+Crescer no Distrito Vermelho e ser descartado duas vezes ensinou ao Higgins uma lição cruel: **a vida humana não tem valor**.
+
+- Ele mata sem remorso porque aprendeu que matar é apenas uma ferramenta de sobrevivência.
+- Ele ceifa almas com seu anel quase com indiferença mecânica.
+- O problema mais profundo: **ele também não valoriza a própria vida**. Se ele morrer hoje, sente que o mundo não perderá nada.
+
+### **A Vingança como Ilusão de Combustível**
+
+Higgins vive em função de duas coisas: **cumprir as exigencias do Patrono** e **caçar Rezzelar nas Wastelands**. A vingança é o único motor que mantém o Higgins andando. É a anestesia que esconde o vazio no seu peito.
+
+### **A Pergunta que Assombra as Noites: _"E depois?"_**
+
+A grande crise existencial do Higgins que você deve explorar nas sessões é a terrível dúvida do amanhã:
+
+- _"Quando a minha lâmina finalmente atravessar o pescoço do **Rezzelar** e ele virar poeira... o que vai soar dentro de mim?"_
+- _"O que sobra de um homem que só existiu para matar quem o traiu?"_
+- _"Eu saí da escravidão da máfia só para me tornar escravo de uma espada sombria?"_
+- **"Todos sao escravos de algo"**
+
+Inconscientemente, enquanto viaja com o grupo de aventureiros, **Higgins está procurando uma razão para que a vida (a dele e a dos outros) passe a valer alguma coisa**.
+
+---
+
+### Motivos para viajar com o grupo
+
+Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** decide que se juntar ao grupo temporariamente o fara encontrar o seu alvo de novo. Entretanto, Ele sente uma hesitacao inerente apos o seu reencontro com o traidor, a diferenca de habilidades entre eles eh gritante e algo que nao eh facilmente ignorado. Isso consequentemente aticou a sua procura por mais poder, o que fez com que ele tentasse extrair a alma de uma minhoca gigante que foi derrotada com a ajuda do exercito imperial, porem ele cometeu um erro grotesco. O inimigo se reergueu como um zumbi com a alma corromp
+
+---
+
+[[Higgins - Geral]]

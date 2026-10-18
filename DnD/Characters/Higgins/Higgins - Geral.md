@@ -117,7 +117,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ---
 
-## Combate
+## 6. Combate
 
 ### **1. Habilidades de Subclasse: A Lâmina Maldita (_The Hexblade_)**
 
