@@ -11,7 +11,6 @@
 - **Dádiva do Pacto**: Pacto da Lâmina (_Pact of the Blade_).
 - **Nível:** [3]
 - **Antecedente:** [Infernal]
-- **Tendência / alinhamento:** [Lawful Evil]
 - **Idade:** [27]
 - **Altura:** [1,90 m]
 - **Peso / porte:** [Esguio;]
@@ -59,51 +58,30 @@
 
 | Atributo     | Valor | Modificador / observações |
 | ------------ | ----: | ------------------------- |
-| Força        |   [ ] | [ ]                       |
-| Destreza     |   [ ] | [ ]                       |
-| Constituição |   [ ] | [ ]                       |
-| Inteligência |   [ ] | [ ]                       |
-| Sabedoria    |   [ ] | [ ]                       |
-| Carisma      |   [ ] | [ ]                       |
+| Força        |  [ 7] | [-2 ]                     |
+| Destreza     | [15 ] | [+2 ]                     |
+| Constituição | [15 ] | [+2 ]                     |
+| Inteligência | [11 ] | [+0 ]                     |
+| Sabedoria    | [11 ] | [+0 ]                     |
+| Carisma      | [ 17] | [+3 ]                     |
 
 - **Bônus de proficiência:** +2
-- **Classe de Armadura (CA):** [ ]
+- **Classe de Armadura (CA):** [15]
 - **Pontos de vida (PV):** [Atual / máximo]
-- **Deslocamento:** [ ]
-- **Iniciativa:** [ ]
-- **Dados de vida:** [ ]
-- **Salvaguardas proficientes:** [ ]
-- **Perícias proficientes:** [ ]
-- **Idiomas:** [ ]
-- **Sentidos especiais:** [ ]
-- **Resistências / imunidades:** [ ]
-- **Habilidades raciais:** [ ]
-- **Habilidades de classe:** [ ]
-- **Magias e recursos:** [Se aplicável]
-- **Equipamento inicial:** [ ]
-- **Moedas:** [PC / PP / PE / PO / PL ou moedas do sistema]
+- **Deslocamento:** [Padrao]
+- **Iniciativa:** [+2]
+- **Dados de vida:** [ 3d8 ]
+- **Perícias proficientes:** [ Arcanismo, Furtividade, Intimidacao, Persuasao]
+- **Idiomas:** [ Normal, Demoniaco ]
+- **Sentidos especiais:** [ Visao no escuro ]
+- **Resistências / imunidades:** [ Resistencia a Fogo ]
+- **Habilidades raciais:** [ Taumaturgia, Hellish Rebuke ]
+- **Habilidades de classe:** [ Maldicao da lamina maldita, lamina maldita ]
 
-## 5. Equipamento e objetos pessoais
 
-| Objeto                         | Descrição                                                                        | Importância para o personagem                                                   |
-| ------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Bengala de cabo curvo / Espada | Haste reta, madeira de cor uniforme e cabo curvado                               | Apenas uma bengala que ele usa para conjurar feiticos e transformar em espada.  |
-| Bolsa de moedas                | Pequena bolsa de couro presa por um cordão                                       | Carrega as figuras que ele usa para esculpir em madeira para as suas invocacoes |
-| Chapéu marrom                  | Chapéu simples de trabalhador                                                    | Nada                                                                            |
-| Luvas sem dedos                | Couro gasto, dedos à mostra                                                      | Nada                                                                            |
-| Anel rapta almas               | Anel preto com detalhes quadriculados em branco como as estruturas maias antigas | Anel concebido pelo pacto. Da a ele a habilidade de guardar almas               |
-| Faca de corte                  | Pequena faca de corte                                                            | Usada para esculpir as figuras                                                  |
+## 5. História do personagem
 
-### Inventário
-
-- [ ] [Item]
-- [ ] [Item]
-- [ ] [Item]
-- [ ] [Item]
-
-## 6. História do personagem
-
-### 7. Objetivos e conflitos
+### 5.1 Objetivos e conflitos
 
 - **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzlar. Obter respostas para ficar mais forte e se reconhecer como digno.
 - **Objetivo de longo prazo:** Cumprir as missoes do patrono do pacto e eventualmente arrumar um jeito de equilibrar ele. Cumprir a missao do pacto : Destruir o reino de dentro
@@ -113,7 +91,7 @@
 - **Conflito externo:** Guilda de ladroes do reino perseguem o "ele" crianca. Nao sabem dele adulto. 
 - **Segredo:** A missao do pacto
 
-### 8. História completa
+### 5.2 História completa
 
 
  Nascido tiefling em uma sociedade que enxerga sua herança como presságio de ruína, aprendeu desde muito cedo que a sobrevivência exigia viver à margem. Ainda criança, foi acolhido nas fileiras inferiores de uma influente guilda de ladrões e assassinos. Percebendo sua presença cativante e sua facilidade para ler as pessoas, a liderança o designou para a divisão de **enganação e trapaça**: seu trabalho era criar distrações, adotar disfarces inocentes, ludibriar alvos e abrir caminho para os golpes dos membros mais velhos.

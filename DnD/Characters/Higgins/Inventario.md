@@ -1,4 +1,4 @@
-[[Higgins - Historia]]
+[[Higgins - Geral]]
 
 ---
 
@@ -15,4 +15,4 @@
 | Livro de recompensas ( Bounty Hunter ) | 1          | Item Chave         |
 
 
-[[Higgins - Historia]]
+[[Higgins - Geral]]

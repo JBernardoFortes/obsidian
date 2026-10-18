@@ -91,4 +91,4 @@ Ação; alcance 18 m; concentração até 10 minutos. Cria uma esfera de escurid
 - Rolagem de dano: `dice: 3d10`
 - Metade do dano: role `dice: 3d10` e divida o resultado por 2, arredondando para baixo conforme decisão do mestre.
 
-[[Higgins - Historia]]
+[[Higgins - Geral]]

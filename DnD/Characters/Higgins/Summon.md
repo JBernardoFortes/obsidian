@@ -38,4 +38,4 @@
 - A CD é variável e deve ser informada pelo mestre; não há fórmula confirmada nas anotações.
     
 
-[[Higgins - Historia]]
+[[Higgins - Geral]]

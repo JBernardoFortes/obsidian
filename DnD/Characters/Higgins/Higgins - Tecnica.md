@@ -216,4 +216,4 @@ _Podem ser conjurados livremente sem gastar espaços de magia._
     
 - O que acontece com uma criatura invocada quando ela morre ou é dispensada?
 
-[[Higgins - Historia]]
+[[Higgins - Geral]]
