@@ -1,4 +1,4 @@
-[[Higgins - Geral]]
+[[Higgins]]
 
 ---
 
@@ -15,4 +15,4 @@
 | Livro de recompensas ( Bounty Hunter ) | 1          | Item Chave         |
 
 
-[[Higgins - Geral]]
+[[Higgins]]

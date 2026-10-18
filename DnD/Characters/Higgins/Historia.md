@@ -63,10 +63,21 @@ Inconscientemente, enquanto viaja com o grupo de aventureiros, **Higgins está p
 
 ---
 
-### Motivos para viajar com o grupo
+### Motivos para viajar com o grupo ( Sessao 01 )
 
-Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** decide que se juntar ao grupo temporariamente o fara encontrar o seu alvo de novo. Entretanto, Ele sente uma hesitacao inerente apos o seu reencontro com o traidor, a diferenca de habilidades entre eles eh gritante e algo que nao eh facilmente ignorado. Isso consequentemente aticou a sua procura por mais poder, o que fez com que ele tentasse extrair a alma de uma minhoca gigante que foi derrotada com a ajuda do exercito imperial, porem ele cometeu um erro grotesco. O inimigo se reergueu como um zumbi com a alma corromp
+Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** decide que se juntar ao grupo temporariamente o fara encontrar o seu alvo de novo. Entretanto, Ele sente uma hesitacao inerente apos o seu reencontro com o traidor, a diferenca de habilidades entre eles eh gritante e algo que nao eh facilmente ignorado. Isso consequentemente aticou a sua procura por mais poder, o que fez com que ele tentasse extrair a alma de uma minhoca gigante que foi derrotada com a ajuda do exercito imperial, porem ele cometeu um erro grotesco. O inimigo se reergueu como um zumbi com a alma corrompida, **Higgins** deve priorizar a sobrevivencia para depois pensar na sua vinganca.
+
+#### Relacionamento com o grupo
+
+
+| Pessoa    | Visao de Higgins                                                                                                                                                                                     |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Halfling  | Contribuiu significativamente na batalha contra o exercito, pode ser util na sua <br>procura por **Rezzelar**.                                                                                       |
+| Meio-Drow | **Rezzelar** tem uma curiosidade peculiar com esse individuo, ele pode ter algum<br>relacionamento com ele, observar ele e se aproximar com cautela.                                                 |
+| Alto-Elfo | Nao teve contato.                                                                                                                                                                                    |
+| Humano    | Apesar de ser fraco e inexperiente, mostrou uma bravura impar ao assumir os canhoes<br>da cidade e incentivar o grupo a evacuar os cidadoes. Inconsequente porem engenhoso,<br>observar com cautela. |
+
 
 ---
 
-[[Higgins - Geral]]
+[[Higgins]]

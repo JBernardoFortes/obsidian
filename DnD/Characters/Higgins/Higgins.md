@@ -23,7 +23,7 @@
 - **Olhos:** [Amarelos]
 - **Cabelo:** [Curto, preto]
 - **Chifres:** curvados para trás; o chifre esquerdo é quebrado.
-- **Cicatriz:** no rosto, próxima ao chifre quebrado. Chifre quebrado na missao para matar o principe. Rezzlar que quebrou ele.
+- **Cicatriz:** no rosto, próxima ao chifre quebrado. Chifre quebrado na missao para matar o principe. Rezzelar que quebrou ele.
 - **Cauda:** Media, no estilo de um diabrete; Ponta no formato de uma lanca
 - **Porte físico:** alto, magro e esguio, com membros compridos.
 - **Vestuário:** roupas de rua inspiradas em trabalhadores pobres da Primeira Revolução Industrial; bem cuidadas o suficiente para uso diário, mas simples e gastas.
@@ -42,13 +42,13 @@
 	  - Ele eh oportunista, nao ajuda sem nada em troca
 	  - Ele mente e manipula para conseguir o que quer 
 	
-- **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzlar e da guilda que perseguiu ele e quase o matou. Nao tem problema em se aproveitar dos outros e dos mais fracos. Prefere enganar do que confiar.
+- **Ideal:** Ele tem o objetivo de ajudar o demonio do pacto a destruir o reino do centro. Se vingar do rezzelar e da guilda que perseguiu ele e quase o matou. Nao tem problema em se aproveitar dos outros e dos mais fracos. Prefere enganar do que confiar.
 
-- **Vínculo:** Demonio do pacto. Rezzlar. Guilda de ladroes do reino.
+- **Vínculo:** Demonio do pacto. Rezzelar. Guilda de ladroes do reino.
 
 - **Defeito:** Missoes do pacto com o demonio. 
 
-- **Maior desejo:** Poder o suficiente para equiparar o pacto. Poder para se vingar do rezzlar
+- **Maior desejo:** Poder o suficiente para equiparar o pacto. Poder para se vingar do rezzelar
 
 - **O que o irrita:** Ser enganado. O Reino. Pessoas do Reino. Nobres do Reino. Ricos.
 
@@ -83,7 +83,7 @@
 
 ### 5.1 Objetivos e conflitos
 
-- **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzlar. Obter respostas para ficar mais forte e se reconhecer como digno.
+- **Objetivo imediato:** Procurar formas de ficar mais forte para derrotar o rezzelar. Obter respostas para ficar mais forte e se reconhecer como digno.
 - **Objetivo de longo prazo:** Cumprir as missoes do patrono do pacto e eventualmente arrumar um jeito de equilibrar ele. Cumprir a missao do pacto : Destruir o reino de dentro
 - **Motivação principal:** Vinganca.
 - **Necessidade emocional:** Precisa aprender a valorizar as vidas
@@ -99,9 +99,9 @@
 Crescendo no submundo, Higgins tornou-se um mestre na arte do ardil e da encenação. Aprendeu a observar os pontos fracos dos nobres e mercadores, a manipular a ganância alheia e a empunhar lâminas leves sem hesitação. Nos raros momentos de silêncio entre os golpes, desenvolveu o hábito obsessivo de entalhar pequenas figuras em lascas de madeira  Ele confiava em seus parceiros de equipe e acreditava ter um papel definitivo na guilda, até o dia em que o bando recebeu o trabalho mais ambicioso de suas vidas: infiltrar-se nos aposentos reais e roubar um tesouro pessoal do jovem príncipe.
 
 
-O plano de roubo era, na verdade, uma cortina de fumaça manchada de sangue. Um dos membros da equipe - chamado **Rezzlar** - mantinha uma missão paralela e secreta: **assassinar o príncipe**.
+O plano de roubo era, na verdade, uma cortina de fumaça manchada de sangue. Um dos membros da equipe - chamado **Rezzelar** - mantinha uma missão paralela e secreta: **assassinar o príncipe**.
 
-Assim que a lâmina de Rezzlar tirou a vida do herdeiro real, ele voltou-se contra seus próprios companheiros para não deixar testemunhas vivas do regicídio. O massacre foi imediato. Higgins lutou desesperadamente pela vida, mas foi brutalmente subjugado: teve **um de seus chifres quebrado** e sofreu um corte profundo que marcou para sempre o seu rosto. Conseguiu escapar por conta da bagunca gerada pelos guardas reais durante o assassinato. Contudo, a notícia do fracasso e da morte do príncipe correu rápido: a guilda descobriu a confusão e, temendo a retaliação da coroa, mobilizou caçadores para eliminar qualquer ponta solta. Higgins foi perseguido implacavelmente até as extremidades do reino.
+Assim que a lâmina de Rezzelar tirou a vida do herdeiro real, ele voltou-se contra seus próprios companheiros para não deixar testemunhas vivas do regicídio. O massacre foi imediato. Higgins lutou desesperadamente pela vida, mas foi brutalmente subjugado: teve **um de seus chifres quebrado** e sofreu um corte profundo que marcou para sempre o seu rosto. Conseguiu escapar por conta da bagunca gerada pelos guardas reais durante o assassinato. Contudo, a notícia do fracasso e da morte do príncipe correu rápido: a guilda descobriu a confusão e, temendo a retaliação da coroa, mobilizou caçadores para eliminar qualquer ponta solta. Higgins foi perseguido implacavelmente até as extremidades do reino.
 
 Encurralado nas fronteiras do reino, desfigurado, ensanguentado e à beira da morte, Higgins ouviu uma voz ecoar na penumbra. Um **demônio verdadeiro das sombras** manifestou-se, oferecendo a salvação em troca de um pacto eterno. Sem ter mais nada a perder, Higgins aceitou.
 
@@ -109,10 +109,10 @@ O garoto foi salvo, mas cresceu sob a tutela direta e a influência gélida dess
 
 Como a guilda tem certeza absoluta de que a criança perseguida morreu nas fronteiras anos atrás, **ele não precisa andar escondido sob capuzes**. seu rosto marcado e seu chifre quebrado são vistos apenas como cicatrizes comuns de um mercenário de estrada.
 
-Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-inimigo: após o assassinato, **Rezzlar foi visto nas terras de fora do reino**. Higgins iniciou sua jornada em direção a essas terras ermas no encalço de sua vingança, buscando novos confrontos para alimentar seu poder e cumprir as ambições obscuras do seu patrono -- desígnios que ele gradualmente absorveu como sendo seus próprios. No caminho, mantém seu velho vício: engana e trapaceia civis constantemente, ora para arrancar algumas moedas, ora simplesmente pelo prazer e satisfação pessoal de provar sua superioridade sobre os tolos.
+Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-inimigo: após o assassinato, **Rezzelar foi visto nas terras de fora do reino**. Higgins iniciou sua jornada em direção a essas terras ermas no encalço de sua vingança, buscando novos confrontos para alimentar seu poder e cumprir as ambições obscuras do seu patrono -- desígnios que ele gradualmente absorveu como sendo seus próprios. No caminho, mantém seu velho vício: engana e trapaceia civis constantemente, ora para arrancar algumas moedas, ora simplesmente pelo prazer e satisfação pessoal de provar sua superioridade sobre os tolos.
 
-- **O que deseja alcançar:** Rastrear Rezzlar no coração das _Wastelands_ e cobrar a dívida de sangue pelo massacre de sua equipe e pelo chifre partido; acumular poder marcial e arcano suficiente para superar a sensação de fraqueza e cumprir os desígnios do demônio das sombras, provando que sua existência tem valor absoluto.
-- **O que teme descobrir:** Teme no fundo perceber que sua vida realmente não possui valor algum e que ele não passa de um peão descartável e manipulado nas mãos do patrono demoníaco; e teme que, ao reencontrar Rezzlar, descubra que o traidor se tornou uma força muito além do que ele é capaz de destruir.
+- **O que deseja alcançar:** Rastrear Rezzelar no coração das _Wastelands_ e cobrar a dívida de sangue pelo massacre de sua equipe e pelo chifre partido; acumular poder marcial e arcano suficiente para superar a sensação de fraqueza e cumprir os desígnios do demônio das sombras, provando que sua existência tem valor absoluto.
+- **O que teme descobrir:** Teme no fundo perceber que sua vida realmente não possui valor algum e que ele não passa de um peão descartável e manipulado nas mãos do patrono demoníaco; e teme que, ao reencontrar Rezzelar, descubra que o traidor se tornou uma força muito além do que ele é capaz de destruir.
 
 
 ---

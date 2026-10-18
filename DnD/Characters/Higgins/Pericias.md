@@ -16,4 +16,4 @@
 - Intimidação: `dice: 1d20+5`
     
 
-[[Higgins - Geral]]
+[[Higgins]]

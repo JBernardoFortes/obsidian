@@ -60,4 +60,4 @@ Enxerga normalmente na escuridão normal e mágica até 36 m.
 - Permite materializar arco curto, arco longo, besta leve ou besta pesada, conforme a ficha.
 
 
-[[Higgins - Geral]]
+[[Higgins]]
