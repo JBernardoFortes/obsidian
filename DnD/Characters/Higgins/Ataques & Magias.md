@@ -75,10 +75,11 @@ Ação; pessoal; dura 1 minuto; não exige concentração. Cria 3 duplicatas ilu
     - Se o ataque do inimigo for igual ou maior que 12, a **duplicata é destruída**. Se for menor que 12, a ilusão desvia do golpe e continua inteira 
 - **Se o ataque NÃO foi para a duplicata** (você tirou abaixo de 6 no d20): O ataque vem direto para você . O inimigo rola para acertar contra a sua **CA normal (CA 15)**.
 
-
 ### Escuridão (Darkness)
 
-Ação; alcance 18 m; concentração até 10 minutos. Cria uma esfera de escuridão mágica com raio de 4,5 m. A Visão Diabólica permite enxergar normalmente nela, conforme a ficha.
+Ação; alcance 18 m; concentração até 10 minutos. Cria uma esfera de escuridão mágica com raio de 4,5 m. A Visão Diabólica permite enxergar normalmente nela, conforme a ficha. 
+- **Dentro da escuridao eu tenho rolagem de vantagem para ataques contra inimigos que nao conseguem enxergar, e eles tem desvantagem me atacando.** 
+- **Tambem tenho vantagem para ficar furtivo dentro da area**
 
 ### Repreensão Infernal (Hellish Rebuke)
 
