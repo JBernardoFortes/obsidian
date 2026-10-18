@@ -13,12 +13,12 @@
   "formulas": {},
   "defaultRoll": 1,
   "defaultFace": 100,
-  "renderer": false,
-  "renderAllDice": false,
+  "renderer": true,
+  "renderAllDice": true,
   "addToView": false,
   "renderTime": 2000,
   "colorfulDice": false,
-  "scaler": 1,
+  "scaler": 0.9,
   "diceColor": "#202020",
   "textColor": "#ffffff",
   "textFont": "Arial",
@@ -75,6 +75,7 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
+  "version": "11.4.2",
   "viewResults": [
     {
       "result": "9",
@@ -83,6 +84,5 @@
       "timestamp": 1792279013893,
       "id": "ttOn94PnfWEM"
     }
-  ],
-  "version": "11.4.2"
+  ]
 }
