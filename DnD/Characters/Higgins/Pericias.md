@@ -5,7 +5,7 @@
 | Arcanismo   | Bruxo     | Inteligência | +4            |
 | Intimidação | Bruxo     | Carisma      | +5            |
 
-## Rolagens rápidas
+## Rolagens
 
 - Enganação: `dice: 1d20+5`
     
