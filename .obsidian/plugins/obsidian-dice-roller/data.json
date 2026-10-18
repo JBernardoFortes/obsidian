@@ -5,7 +5,7 @@
   "copyContentButton": true,
   "customFormulas": [],
   "displayFormulaForMod": true,
-  "displayResultsInline": true,
+  "displayResultsInline": false,
   "displayFormulaAfter": false,
   "escapeDiceMod": true,
   "signed": false,
@@ -19,8 +19,8 @@
   "renderTime": 2000,
   "colorfulDice": false,
   "scaler": 1,
-  "diceColor": "#202020",
-  "textColor": "#ffffff",
+  "diceColor": "#ab7e1c",
+  "textColor": "#d6c085",
   "textFont": "Arial",
   "showLeafOnStartup": true,
   "narrativeSymbolSet": "Genesys",
@@ -75,6 +75,6 @@
   "showRenderNotice": true,
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
-  "viewResults": [],
-  "version": "11.4.2"
+  "version": "11.4.2",
+  "viewResults": []
 }
