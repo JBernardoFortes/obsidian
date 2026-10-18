@@ -28,7 +28,7 @@ Com a morte no encalço e o peito queimando de ódio, você se encurralou na esc
 Você não sabe o nome do seu **Patrono Transcendental**. Sabe apenas que é uma entidade ancestral que habita as sombras e se alimenta da essência dos mortos. Ele lhe estendeu a mão na forma de uma barganha:
 
 - **O Poder**: Ele concedeu a você o poder do **Guerreiro Maldito (_Hexblade_)**, a capacidade de invocar armas místicas da penumbra e o **Anel Coletor de Almas**.
-- **O Preço**: A sua vida agora pertence a Ele. Voce o serve, recebendo missoes periodicamente e instrucoes dele...
+- **O Preço**: A sua vida agora pertence a Ele. Voce o serve, recebendo missoes periodicamente e instrucoes dele.
 
 Você aceitou sem hesitar. Não por amor à vida, mas porque precisava permanecer vivo o suficiente para encontrar **Rezzelar** e ver o sangue dele escorrer.
 
@@ -69,14 +69,12 @@ Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** decide que s
 
 #### Relacionamento com o grupo
 
-
 | Pessoa    | Visao de Higgins                                                                                                                                                                                     |
 | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Halfling  | Contribuiu significativamente na batalha contra o exercito, pode ser util na sua <br>procura por **Rezzelar**.                                                                                       |
 | Meio-Drow | **Rezzelar** tem uma curiosidade peculiar com esse individuo, ele pode ter algum<br>relacionamento com ele, observar ele e se aproximar com cautela.                                                 |
 | Alto-Elfo | Nao teve contato.                                                                                                                                                                                    |
 | Humano    | Apesar de ser fraco e inexperiente, mostrou uma bravura impar ao assumir os canhoes<br>da cidade e incentivar o grupo a evacuar os cidadoes. Inconsequente porem engenhoso,<br>observar com cautela. |
-
 
 ---
 
