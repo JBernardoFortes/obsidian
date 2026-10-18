@@ -60,7 +60,7 @@ Ação bônus; pessoal; componente V. Teletransporta até 9 m para um espaço de
 
 Ação; pessoal; dura 1 minuto; não exige concentração. Cria 3 duplicatas ilusórias. Com 3 duplicatas, um ataque é desviado para uma duplicata com resultado 6+ na rolagem indicada na sua ficha; com 2, 8+; com 1, 11+. CA da cópia: 10 + modificador de Destreza = **12**.
 
-#### **Passo a Passo de Como Funciona o Ataque**
+#### **Passo a Passo de Como Funciona**
 
 1. **O Inimigo Declara o Ataque**
 2. **Player Rola o d20 (Teste de Redirecionamento)**:
