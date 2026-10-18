@@ -1,10 +1,10 @@
 ## Ataques
 
-### Arma de pacto — alabarda / glaive / lança longa
+### Arma de pacto
 
-- **Dano-base anotado:** 1d10 cortante
-- **Bônus de ataque:** Carisma (+3) + proficiência (+2) + aprimoramento (+1) = **+6**
-- **Dano sugerido com arma de pacto aprimorada:** `1d10 + 4` cortante
+- **Dano-base anotado:** **1d10** cortante ( Alabarda, Glaive ) / **2d6** Cortante ( Greatsword )
+- **Bônus de ataque:** Carisma (**+3**) + proficiência (**+2**) + aprimoramento (**+1**) = **+6**
+- **Dano sugerido com arma de pacto aprimorada:** dado de dano + 4 ( +3 (CAR) + 1 (Aprimoramento) )
 - Rolagem de ataque: `dice: 1d20+6`
 - Rolagem de dano: `dice: 1d10+4`
 - Com Maldição da Lâmina Maldita: `dice: 1d10+6` (inclui +2 de dano da maldição)
