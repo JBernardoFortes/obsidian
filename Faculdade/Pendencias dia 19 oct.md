@@ -1,7 +1,13 @@
 
 
 - [ ] Trabalho de BDR
-	- Fazer outras duas questoes visuais
+	- Fazer 6 questoes para quinta
+		- Temos 3
+	- Arrumar loading
+	- Arrumar Mapa
+	- Arrumar graficos
+	- Implementar uma funcionalidade de selecionar varios anos para comparar
+	- Consetar o filtro para presidente ( Nao esta sendo usado )
 	- Arrumar a documentacao das questoes
 - [ ] Trabalho de topicos em engenharia de software
 	- Subir em uma instancia ec2 
