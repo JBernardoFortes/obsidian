@@ -61,6 +61,8 @@ A grande crise existencial do Higgins que você deve explorar nas sessões é a 
 
 Inconscientemente, enquanto viaja com o grupo de aventureiros, **Higgins está procurando uma razão para que a vida (a dele e a dos outros) passe a valer alguma coisa**.
 
+> **"Para vencer algumas lutas, você tem que lutar como se já estivesse morto."**
+
 ---
 
 ### Motivos para viajar com o grupo ( Sessao 01 )
