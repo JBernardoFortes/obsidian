@@ -15,7 +15,7 @@
 - **Alcance:** 36 m
 - **Ataque mágico:** +5
 - **Dano:** 1d10 de energia
-- Ataque: `dice: 1d20+5`
+- Ataque: `dice: 1d20+5 ( CAR + Proef )`
 - Dano: `dice: 1d10`
 - Dano contra alvo da Maldição: `dice: 1d10+2`
 - Dano contra alvo sob Hex: `dice: 1d10+1d6`
