@@ -5,3 +5,5 @@
 - [ ] Refazer - Ajustes - Carrossel DR ROMILTO - TADALA
 	- Nao quero ter que interagir com eles para fazer essa demanda, pelo menos nao antes de baixar a poeira de ter sido abusado psicologicamente pela chefe. 
 	- Se for necessario eu faco isso no canva e fe.
+- [ ] A chefe me pediu para refazer o estatico do jailson
+	- Agora tenho o repositorio de fotos
