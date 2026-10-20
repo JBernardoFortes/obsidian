@@ -17,6 +17,7 @@
 - [x] Os estaticos do medico marconi
 	- Eletroneuromiografia
 	- O Bryan vai fazer
+	- Acabou que foi eu que fiz, ele ficou responsavel pelos videos 
 - [x] Neuropleno
 	- Consultas neurologicas
 	- Fazer alguns ajustes dos estaticos da neuropleno
