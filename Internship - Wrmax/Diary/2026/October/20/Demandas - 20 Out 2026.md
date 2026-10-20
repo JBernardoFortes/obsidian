@@ -1,5 +1,5 @@
 
-- [ ] Refazer - Estatico - Mais Saude - Outubro Rosa
+- [x] Refazer - Estatico - Mais Saude - Outubro Rosa
 	- Fica naquela duvida se foi revisado ou nao
 	- Sinceramente, nao quero interagir com a Chefe
 - [ ] Refazer - Ajustes - Carrossel DR ROMILTO - TADALA
@@ -9,3 +9,5 @@
 	- Agora tenho o repositorio de fotos
 - [ ] O Chefe me pediu para criar uns criativos para subir na campanha da Daena
 	- Esperar o Nathan mandar as demandas.
+- [ ] Os estaticos da neuropleno
+	- Doutor Marconi

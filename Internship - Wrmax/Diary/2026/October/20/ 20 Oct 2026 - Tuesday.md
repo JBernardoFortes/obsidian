@@ -9,6 +9,8 @@ Hoje eu cheguei na empresa junto dos chefes, tive que pedir uber para vir trabal
 
 Hoje por enquanto nao tinha nenhuma task para eu fazer, apenas os mesmos cards de refazer e reajuste. Vou esperar para ver como vai ficar o resto do dia, porque o Cairo semana passada tomou ciencia de que eu nao quero mexer com design o tempo inteiro e que a empresa errou na contratacao do cargo. E tambem ficou ciente do abuso que eu sofri aqui na empresa pela chefe.
 
+
+
 ### Demandas de hoje
 
 - [[Demandas - 20 Out 2026]]
