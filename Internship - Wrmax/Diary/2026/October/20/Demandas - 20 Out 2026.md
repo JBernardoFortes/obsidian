@@ -7,15 +7,16 @@
 	- Se for necessario eu faco isso no canva e fe.
 - [x] A chefe me pediu para refazer o estatico do jailson
 	- Agora tenho o repositorio de fotos
-- [ ] O Chefe me pediu para criar uns criativos para subir na campanha da Daena
+- [x] O Chefe me pediu para criar uns criativos para subir na campanha da Daena
 	- Esperar o Nathan mandar as demandas.
 	- Os criativos ja estao prontos, falta so subir na campanha da Daena
 	- O Bryan vai fazer os estaticos da Daena
 	- Parece que o Nathan vai subir
-- [ ] Os estaticos do medico marconi
+- [x] Os estaticos do medico marconi
 	- Eletroneuromiografia
 	- O Bryan vai fazer
-- [x] Neuropleno
+- [ ] Neuropleno
 	- Consultas neurologicas
+	- Fazer alguns ajustes dos estaticos da neuropleno
 - [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
 	- Esta rodando porem sem os videos.
