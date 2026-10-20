@@ -11,7 +11,8 @@
 	- Esperar o Nathan mandar as demandas.
 - [ ] Os estaticos do medico marconi
 	- Eletroneuromiografia
-- [ ] Neuropleno
+- [x] Neuropleno
 	- Consultas neurologicas
 	- O Bryan vai fazer 
-- [ ] Checar se a campanha de Urucui do doutor Gabriel esta rodando
+- [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
+	- [ ] 
