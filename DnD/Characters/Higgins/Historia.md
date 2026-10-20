@@ -67,7 +67,7 @@ Inconscientemente, enquanto viaja com o grupo de aventureiros, **Higgins está p
 
 ### Motivos para viajar com o grupo ( Sessao 01 )
 
-Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** decide que se juntar ao grupo temporariamente o fara encontrar o seu alvo de novo. Entretanto, Ele sente uma hesitacao inerente apos o seu reencontro com o traidor, a diferenca de habilidades entre eles eh gritante e algo que nao eh facilmente ignorado. Isso consequentemente aticou a sua procura por mais poder, o que fez com que ele tentasse extrair a alma de uma minhoca gigante que foi derrotada com a ajuda do exercito imperial, porem ele cometeu um erro grotesco. O inimigo se reergueu como um zumbi com a alma corrompida, **Higgins** deve priorizar a sobrevivencia para depois pensar na sua vinganca.
+Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** aposta que se juntar ao grupo temporariamente o fara encontrar o seu alvo de novo. Entretanto, Ele sente uma hesitacao inerente apos o seu reencontro com o traidor, a diferenca de habilidades entre eles eh gritante e algo que nao eh facilmente ignorado. Isso consequentemente aticou a sua procura por mais poder, o que fez com que ele tentasse extrair a alma de uma minhoca gigante que foi derrotada com a ajuda do exercito imperial. Porem, ele cometeu um erro grotesco e o inimigo se reergueu como um zumbi com a alma corrompida, **Higgins** deve priorizar a sobrevivencia para depois pensar na sua vinganca.
 
 #### Relacionamento com o grupo
 
