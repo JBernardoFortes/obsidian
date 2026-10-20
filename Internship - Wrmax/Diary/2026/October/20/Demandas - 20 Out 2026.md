@@ -9,10 +9,10 @@
 	- Agora tenho o repositorio de fotos
 - [ ] O Chefe me pediu para criar uns criativos para subir na campanha da Daena
 	- Esperar o Nathan mandar as demandas.
-- [ ] Os estaticos do medico marconi
+- [x] Os estaticos do medico marconi
 	- Eletroneuromiografia
-- [x] Neuropleno
+	- O Bryan vai fazer
+- [ ] Neuropleno
 	- Consultas neurologicas
-	- O Bryan vai fazer 
 - [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
-	- [ ] 
+	- Esta rodando porem sem os videos.
