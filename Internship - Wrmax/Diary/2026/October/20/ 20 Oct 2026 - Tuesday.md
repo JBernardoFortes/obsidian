@@ -11,6 +11,10 @@ Hoje por enquanto nao tinha nenhuma task para eu fazer, apenas os mesmos cards d
 
 O chefe chamou para uma reuniao na sala dele, acabou que ficamos fazendo as coisas aqui. O Bryan tambem disse anteriormente que ele quer fazer como se fosse um capcut para uso interno da empresa, na minha percepcao eh algo que nao precisa e que o preco que ele paga na assinatura ele vai ter que pagar na infraestrutura para manter esse projeto, assim como tambem na manutencao.
 
+Todo dia estou sentindo fortes dores de cabeca. Pode ser algo relacionado com pouco sono ou sono que pouca qualidade. Preciso me atentar a isso. Vou parar de ficar me trocando pelo trabalho. Preciso viver mais.
+
+Tava pensando, perdi a oportunidade da faculdade de fazer ciencia na minha graduacao, pesquisar algo, o diferencial da federal acaba que nao vai ser tao aplicado assim, mas todas as minhas escolhas me trouxeram para o momento de agora, conhecer as pessoas que eu conheci e as coisas que eu realizei. 
+
 ### Demandas de hoje
 
 - [[Demandas - 20 Out 2026]]
