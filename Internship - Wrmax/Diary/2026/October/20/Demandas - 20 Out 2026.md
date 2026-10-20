@@ -23,5 +23,6 @@
 	- Pediram ajustes quanto as imagens da clinica nos estaticos, utilizar a imagem 
 - [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
 	- Esta rodando porem sem os videos.
-- [ ] Olhar os nossos dominios e ver o que esta fora do ar - Chefe pediu
+- [x] Olhar os nossos dominios e ver o que esta fora do ar - Chefe pediu
 	- O pagamento esta atrasado, vamos renovar ele ( R$ 45,99 )
+	- Fizemos a renovacao mas nao estou conseguindo localizar os sites que estao errados.
