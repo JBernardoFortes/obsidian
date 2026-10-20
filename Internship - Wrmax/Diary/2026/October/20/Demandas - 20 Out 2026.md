@@ -22,3 +22,4 @@
 	- Fazer alguns ajustes dos estaticos da neuropleno
 - [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
 	- Esta rodando porem sem os videos.
+- [ ] Olhar os nossos dominios e ver o que esta fora do ar - Chefe pediu
