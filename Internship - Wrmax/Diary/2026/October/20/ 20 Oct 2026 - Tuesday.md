@@ -15,6 +15,8 @@ Todo dia estou sentindo fortes dores de cabeca. Pode ser algo relacionado com po
 
 Tava pensando, perdi a oportunidade da faculdade de fazer ciencia na minha graduacao, pesquisar algo, o diferencial da federal acaba que nao vai ser tao aplicado assim, mas todas as minhas escolhas me trouxeram para o momento de agora, conhecer as pessoas que eu conheci e as coisas que eu realizei. 
 
+Cabei minhas demandas 12:00 PM em ponto. Vou ficar de molho esse resto de expediente ate umas 12:40 PM. Vi uma coisa preocupante, mesmo subindo os estaticos da neuropleno eles ainda pediram outros estaticos para o Claude. 
+
 ### Demandas de hoje
 
 - [[Demandas - 20 Out 2026]]
