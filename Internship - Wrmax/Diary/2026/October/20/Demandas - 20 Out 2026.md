@@ -5,6 +5,7 @@
 - [ ] Refazer - Ajustes - Carrossel DR ROMILTO - TADALA
 	- Nao quero ter que interagir com eles para fazer essa demanda, pelo menos nao antes de baixar a poeira de ter sido abusado psicologicamente pela chefe. 
 	- Se for necessario eu faco isso no canva e fe.
+	- Preciso pedir para alguem pegar essa task e fazer no meu lugar 
 - [x] A chefe me pediu para refazer o estatico do jailson
 	- Agora tenho o repositorio de fotos
 - [x] O Chefe me pediu para criar uns criativos para subir na campanha da Daena
@@ -15,7 +16,7 @@
 - [x] Os estaticos do medico marconi
 	- Eletroneuromiografia
 	- O Bryan vai fazer
-- [ ] Neuropleno
+- [x] Neuropleno
 	- Consultas neurologicas
 	- Fazer alguns ajustes dos estaticos da neuropleno
 - [x] Checar se a campanha de Urucui do doutor Gabriel esta rodando
