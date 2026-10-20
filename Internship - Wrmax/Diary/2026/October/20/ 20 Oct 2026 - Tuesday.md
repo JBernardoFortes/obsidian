@@ -9,7 +9,7 @@ Hoje eu cheguei na empresa junto dos chefes, tive que pedir uber para vir trabal
 
 Hoje por enquanto nao tinha nenhuma task para eu fazer, apenas os mesmos cards de refazer e reajuste. Vou esperar para ver como vai ficar o resto do dia, porque o Cairo semana passada tomou ciencia de que eu nao quero mexer com design o tempo inteiro e que a empresa errou na contratacao do cargo. E tambem ficou ciente do abuso que eu sofri aqui na empresa pela chefe.
 
-O chefe chamou para uma reuniao na sala dele, acabou que ficamos fazendo as coisas aqui.
+O chefe chamou para uma reuniao na sala dele, acabou que ficamos fazendo as coisas aqui. O Bryan tambem disse anteriormente que ele quer fazer como se fosse um capcut para uso interno da empresa, na minha percepcao eh algo que nao precisa e que o preco que ele paga na assinatura ele vai ter que pagar na infraestrutura para manter esse projeto, assim como tambem na manutencao.
 
 ### Demandas de hoje
 
