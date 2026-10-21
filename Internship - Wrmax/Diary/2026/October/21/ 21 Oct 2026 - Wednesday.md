@@ -13,6 +13,8 @@ Acabou que estao me passando tasks que nao tem importancia, as urgentes estao fi
 
 Mais um caso onde eles pedem para o Bryan resolver questoes de TI enquanto pra mim eles nao pedem nada, gosto de ficar sem fazer nada, mas isso aqui so reforca que eu nao estou aprendendo muita coisa, estou estagnado sem aprender muitas coisas novas, quero ser contratado por uma empresa grande, trabalhar em um fluxo definido onde eu entenda o que tem que ser feito, quero ter esse calibre para ser contratado por esse tipo de empresa.
 
+Acho que nao vou renovar o contrato nao, ou se renovar comecar a procurar outras oportunidades no linkedin todo dia de manha, utilizar o opencode go para fazer alguma aplicacao para mim onde eu consigo fazer esse levantamento de vagas divulgadas com as palavras chaves que eu selecionar. Talvez eu procure ate outros cargos alem do cargo de estagiario.
+
 ### Demandas de Hoje
 
 - [[Demandas - 21 Out 2026]]
