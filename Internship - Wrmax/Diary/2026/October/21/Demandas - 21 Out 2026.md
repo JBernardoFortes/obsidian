@@ -8,4 +8,5 @@
 	- [x] Noticias
 - [x] Corrigir o nome da Alianca no Notion ( Alianca Auto Centro )
 	- Separado e corretamente escrito
+- Sao 10:44 AM e acabou as tasks por enquanto.
 
