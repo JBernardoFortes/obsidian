@@ -171,7 +171,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 ---
 
-### **6.4. Guia Rápido de Ações em Combate 
+### 6.4. Guia Rápido de Ações em Combate 
 
 Em cada rodada do seu turno, você pode se mover até o seu deslocamento (**9 metros**) e escolher **uma opção de cada categoria**:
 
