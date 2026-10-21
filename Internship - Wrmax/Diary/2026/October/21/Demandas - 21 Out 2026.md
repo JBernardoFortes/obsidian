@@ -4,6 +4,8 @@
 	- Coloquei uma musica de trilha original, perguntar pra ela depois ja que o Instagram aparentemente derruba pelo que o Claude disse 
 - [x] Criativo Gabriel Luis Eduardo Dia 30/10
 - [x] Colocar o anuncio do Banner no site da APIPA para um evento que vai ter
+	- [x] Banner
+	- [x] Noticias
 - [x] Corrigir o nome da Alianca no Notion ( Alianca Auto Centro )
 	- Separado e corretamente escrito
 
