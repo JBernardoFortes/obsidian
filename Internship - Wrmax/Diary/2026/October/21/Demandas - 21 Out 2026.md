@@ -13,4 +13,5 @@
 	- Subir no trafego da campanha ja existente
 	- Que trafego
 	- Procurei as fotos e nao consegui encontrar 
+	- [x] Achei as imagens
 
