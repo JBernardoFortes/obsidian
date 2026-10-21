@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f9a5446db4b41f",
+        "id": "9bb79b6c4bc93a4e",
         "type": "tabs",
         "children": [
           {
-            "id": "288ff053c17b91ef",
+            "id": "9da898a129070e47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship - Wrmax/Diary/2026/09/11-09-26 -- Friday.md",
+                "file": "Faculdade/Topicos em Engenharia de Software/Listas/4th Lista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-09-26 -- Friday"
+              "title": "4th Lista"
+            }
+          },
+          {
+            "id": "a195227169700d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Topicos em Engenharia de Software/Listas/Listas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Listas"
+            }
+          },
+          {
+            "id": "3d5e5c95dcd3c932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Topicos em Engenharia de Software/Listas/3th Lista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3th Lista"
+            }
+          },
+          {
+            "id": "00afb319c099ce99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Topicos em Engenharia de Software/Respostas/lista3-20239005392.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lista3-20239005392"
+            }
+          },
+          {
+            "id": "ce97a5ee6874e595",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -41,7 +94,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -83,42 +136,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.7887878417969
   },
   "right": {
     "id": "86638c8753fe2df3",
     "type": "split",
     "children": [
       {
-        "id": "b80d1bd3768c7db5",
+        "id": "3e359dcd00ad1f42",
         "type": "tabs",
+        "dimension": 42.462311557788944,
         "children": [
           {
-            "id": "be06bc9f418b9edc",
+            "id": "ae998338f0f3a7bc",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Internship - Wrmax/Diary/2026/09/11-09-26 -- Friday.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "f503d8545b45f642",
+            "id": "aad28b9ac8203222",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship - Wrmax/Diary/2026/09/11-09-26 -- Friday.md",
+                "file": "Internship - Wrmax/Diary/2026/October/21/Demandas - 21 Out 2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +172,40 @@
             }
           },
           {
-            "id": "394209fa5979251e",
+            "id": "2f66223101ef160d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internship - Wrmax/Diary/2026/October/21/Demandas - 21 Out 2026.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a9f36a8001d10160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4b7850145d79be11",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +220,7 @@
             }
           },
           {
-            "id": "7fc31800d53b7190",
+            "id": "fe24718eb4c359b9",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,41 +232,37 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "eb1628e3c50cb94d",
+        "type": "tabs",
+        "dimension": 57.537688442211056,
+        "children": [
           {
-            "id": "0ad867acaa42cba4",
+            "id": "0b935af0263d02db",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Internship - Wrmax/Diary/2026/09/11-09-26 -- Friday.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "ae998338f0f3a7bc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.435302734375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "git-vault-sync:Git Vault Sync: Sync vault": false,
+      "git-vault-sync:Git Vault Sync: Review changes & sync": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -196,48 +270,61 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "288ff053c17b91ef",
+  "active": "ce97a5ee6874e595",
   "lastOpenFiles": [
-    "Internship - Wrmax/Diary/2026/09/12-09-26 -- Saturday.md",
-    "Internship - Wrmax/Diary/2026/09/11-09-26 -- Friday.md",
-    "Internship - Wrmax/2026/09/12-09-26 -- Saturday.md",
-    "Internship - Wrmax/2026/09",
-    "Internship - Wrmax/2026",
-    "Internship - Wrmax/Diary",
-    "Internship - Wrmax/Diary/2026/09/10-09-26 -- Thursday.md",
-    "Internship - Wrmax/Diary/2026/09/09-09-26 -- Wednesday.md",
-    "Internship - Wrmax/Diary/2026/09/08-09-26 -- Tuesday.md",
-    "Internship - Wrmax/Diary/2026/09/04-09-26 -- Friday.md",
-    "Internship - Wrmax/Diary/2026/09/03-09-26 -- Thursday.md",
-    "Internship - Wrmax/Diary/2026/09/02-09-26 -- Wednesday.md",
-    "Internship - Wrmax/Diary/2026/09/01-09-26 -- Tuesday.md",
-    "Internship - Wrmax/Diary/2026/08/31-08-26 -- Monday.md",
-    "Internship - Wrmax/Diary/2026/08/28-08-26 -- Friday.md",
-    "Internship - Wrmax/Diary/2026/08/27-08-26 -- Thursday.md",
-    "Internship - Wrmax/Diary/2026/08/26-08-26 -- Wednesday.md",
-    "Internship - Wrmax/Diary/2026/08/25-08-26 -- Tuesday.md",
-    "Internship - Wrmax/Diary/2026/08/24-08-26 -- Monday.md",
-    "Internship - Wrmax/Diary/2026/08/21-08-26 -- Friday.md",
-    "Internship - Wrmax/Diary/2026/08/20-08-26 -- Thursday.md",
-    "Internship - Wrmax/Diary/2026/08/19-08-26 -- Wednesday.md",
-    "Internship - Wrmax/Diary/2026/08/18-08-26 -- Tuesday.md",
-    "Internship - Wrmax/Diary/2026/08/17-08-26 -- Monday.md",
-    "Internship - Wrmax/Diary/2026/08/13-08-26 -- Thursday.md",
-    "Diario-wrmax/Dia 1.md",
-    "Diario-wrmax/Dia 08.md",
-    "Diario-wrmax/WRMax · Orquestração de agentes para edição e geração de imagem.md",
-    "Diario-wrmax/Prompt Obrigatorio.md",
-    "Diario-wrmax",
-    "Internship - Wrmax/Diary/2026/09",
-    "Internship - Wrmax/Diary/2026/08",
-    "Internship - Wrmax/Diary/2026",
-    "Internship - Wrmax/12/09",
-    "Internship - Wrmax/12",
-    "Internship - Wrmax/09 / 10 ",
+    "Faculdade/Topicos em Engenharia de Software/Respostas/lista3-20239005392.md",
+    "Faculdade/Topicos em Engenharia de Software/Listas/3th Lista.md",
+    "Faculdade/Topicos em Engenharia de Software/Topicos em Engenharia de Software.md",
+    "Faculdade/Topicos em Engenharia de Software/Respostas/lista1-20239005392.md",
+    "Faculdade/Topicos em Engenharia de Software/Respostas da primeira lista.md",
+    "Faculdade/Topicos em Engenharia de Software/Listas/4th Lista.md",
+    "Faculdade/Topicos em Engenharia de Software/Respostas/lista4-20239005392.md",
+    "Faculdade/Topicos em Engenharia de Software/Respostas/Respostas.md",
+    "Faculdade/Topicos em Engenharia de Software/Listas/Listas.md",
+    "Faculdade/Topicos em Engenharia de Software/Listas/lista1-TES.pdf",
+    "Faculdade/Topicos em Engenharia de Software/Listas/lista4-TES.pdf",
+    "Internship - Wrmax/Diary/2026/October/21/ 21 Oct 2026 - Wednesday.md",
+    "Internship - Wrmax/Diary/2026/October/21/Demandas - 21 Out 2026.md",
+    "DnD/Characters/Higgins/Historia.md",
+    "DnD/Characters/Higgins/Higgins.md",
+    "Internship - Wrmax/Diary/2026/October/20/Demandas - 20 Out 2026.md",
+    "Internship - Wrmax/Diary/2026/October/21",
+    "Internship - Wrmax/Diary/2026/October/20/ 20 Oct 2026 - Tuesday.md",
+    "Internship - Wrmax/Diary/2026/October/16/ 16 Oct 2026 - Friday.md",
+    "Internship - Wrmax/Diary/2026/October/20",
+    "DnD/Characters/Higgins/Imagens/Visual.md",
+    "DnD/Characters/Higgins/Imagens/HigginsSummon.png",
+    "DnD/Characters/Higgins/Imagens/HigginsStill.png",
+    "DnD/Characters/Higgins/Imagens/HigginsEspada.png",
+    "DnD/Characters/Higgins/Imagens/HigginsAlabarda.png",
+    "DnD/Characters/Higgins/Summon.md",
+    "DnD/Characters/Higgins/Pericias.md",
+    "DnD/Characters/Higgins/Inventario.md",
+    "DnD/Characters/Higgins/Habilidades & Invocacoes Misticas.md",
+    "DnD/Characters/Higgins/Ficha Tecnica.md",
+    "DnD/Characters/Higgins/Atributos.md",
+    "DnD/Characters/Higgins/Ataques & Magias.md",
+    "Faculdade/Pendencias dia 19 oct.md",
+    "DnD/Characters/Higgins/Imagens",
+    "DnD/Characters/Higgins/Higgins - Tecnica.md",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/WhatsApp Image 2026-10-15 at 12.40.26 PM (3).jpeg",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos",
+    "Internship - Wrmax/Diary/2026/October/16",
+    "Internship - Wrmax/Diary/Abusos",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/WhatsApp Image 2026-10-15 at 12.40.25 PM.jpeg",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/WhatsApp Image 2026-10-15 at 12.40.26 PM.jpeg",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/WhatsApp Image 2026-10-15 at 12.40.26 PM (1).jpeg",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/WhatsApp Image 2026-10-15 at 12.40.26 PM (2).jpeg",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos/screenshot-2026-10-15_12-13-07.png",
+    "Internship - Wrmax/Diary/2026/October/15/Abusos",
+    "Internship - Wrmax/Diary/2026/October/15",
+    "Internship - Wrmax/Diary/2026/October/05/Fluxo - Upload de midia do cliente.canvas",
+    "Faculdade/Banco de Dados Relacionais/Atividades/Engenharia Reversa/Engenharia Reversa.canvas",
+    "Faculdade/Banco de Dados Relacionais/Atividades/Engenharia Reversa/Engenharia Reversa 1.canvas",
+    "Faculdade/Banco de Dados Relacionais/Projeto da disciplina/EDR/ER.canvas",
     "Faculdade/Banco de Dados Relacionais/Engenharia Reversa.canvas"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "remoteUrl": "https://github.com/JBernardoFortes/obsidian-vault.git",
+  "branch": "main",
+  "authorName": "Bernardo",
+  "authorEmail": "joseberk2@gmail.com",
+  "username": "JBernardoFortes",
+  "token": "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",
+  "commitMessage": "feat(sync): JBernardoFortes [ T480 ] - {{date}}",
+  "autoSyncEnabled": true,
+  "autoSyncInterval": 7,
+  "syncOnStartup": true,
+  "lastSyncAt": 1792603089192,
+  "excludePaths": ".obsidian/workspace.json\n.obsidian/workspace-mobile.json\n.DS_Store\n.trash/",
+  "language": "en",
+  "syncEngine": "auto",
+  "apiBaseline": {
+    "commitSha": null,
+    "shas": {}
+  }
+}
