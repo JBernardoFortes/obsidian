@@ -9,4 +9,7 @@
 - [x] Corrigir o nome da Alianca no Notion ( Alianca Auto Centro )
 	- Separado e corretamente escrito
 - Sao 10:44 AM e acabou as tasks por enquanto.
+- [ ] Localizar imagens das salas de consultas da Oxcentro
+	- Subir no trafego da campanha ja existente
+	- Que trafego
 
