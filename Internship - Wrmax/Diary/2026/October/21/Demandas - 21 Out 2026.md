@@ -3,7 +3,7 @@
 	- Colocar uma musica em alta qualquer que ela pediu
 	- Coloquei uma musica de trilha original, perguntar pra ela depois ja que o Instagram aparentemente derruba pelo que o Claude disse 
 - [x] Criativo Gabriel Luis Eduardo Dia 30/10
-- [ ] Colocar o anuncio do Banner no site da APIPA para um evento que vai ter
+- [x] Colocar o anuncio do Banner no site da APIPA para um evento que vai ter
 - [x] Corrigir o nome da Alianca no Notion ( Alianca Auto Centro )
 	- Separado e corretamente escrito
 
