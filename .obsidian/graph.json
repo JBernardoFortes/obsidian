@@ -8,6 +8,27 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"DnD/Characters/Higgins\"",
+      "color": {
+        "a": 1,
+        "rgb": 15022389
+      }
+    },
+    {
+      "query": "path:\"DnD/Characters\"",
+      "color": {
+        "a": 1,
+        "rgb": 14239471
+      }
+    },
+    {
+      "query": "path:\"DnD\"",
+      "color": {
+        "a": 1,
+        "rgb": 8141549
+      }
+    },
+    {
       "query": "file:Demandas",
       "color": {
         "a": 1,
@@ -123,6 +144,6 @@
   "repelStrength": 13.1008547008547,
   "linkStrength": 0.958886230150098,
   "linkDistance": 194,
-  "scale": 0.379014188753432,
+  "scale": 0.1678648111181701,
   "close": true
 }
