@@ -92,12 +92,16 @@ Higgins e o grupo se direcionam para um acampamento real ali perto, onde eles en
 
 O Halfling parece desconfiar de Higgins, qual o motivo dele estar andando com eles. Higgins pretende utilizar o Caio para atrair **Rezzelar** e obter sua vingança, até la ele ira acompanhar o grupo e tentar obter mais controle sobre os seus poderes das sombras. Talvez eventualmente ele explique isso para eles, no proximo dia. Higgins precisa ser amigavel com eles, lembrar que ele precisa utilizar eles como um meio para seu objetivo.
 
+Eles descansaram em um acampamento real, Higgins construiu mais um totem, um de chefe Orc. Ele esta acompanhando o grupo Espinhos do fds.
+
 #### relacionamento com o grupo
 
-
-| Pessoa   | Visao de Higgins |
-| -------- | ---------------- |
-| Halfling |                  |
+| Pessoa    | Visao de Higgins                                                                                                                                                                                                                 |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Halfling  | O Halfling é o mais sensato do grupo. Ele parece desconfiar do Higgins quanto as suas motivaçoes para andar com eles. Tentar convencer ele de que ele precisa do Half Drow para obter vinganca, se necessario expor os objetivos |
+| Half Drow | O Half Drow sera util para atrair **Rezzelar** para perto, até a oportunidade chegar novamente, sera interessante continuar acompanhando esse elfo e esperar ele atrair o inimigo                                                |
+| Humano    | Parece inconsequente ainda. Pensa pouco nas consequencias e procura agir sozinho. Parece convicto de construir a espada mesmo depois de Adams dizer que precisa de sangue celestial.                                             |
+| High Elf  | Nao teve contato                                                                                                                                                                                                                 |
 
 
 

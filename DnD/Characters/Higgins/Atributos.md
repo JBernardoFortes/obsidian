@@ -16,6 +16,23 @@
 - **Bônus de ataque mágico:** proficiência (+2) + Carisma (+3) = **+5**
 - **PV recuperados ao derrotar o alvo da Maldição:** nível de bruxo (3) + Carisma (+3) = **6 PV**
 
+
+## Estado
+
+- **Bônus de proficiência:** +2
+- **Classe de Armadura (CA):** [15]
+- **Pontos de vida (PV):** [22 / 22]
+- **Deslocamento:** [9m]
+- **Iniciativa:** [+2]
+- **Dados de vida:** [ 3d8 ]
+- **Perícias proficientes:** [ Arcanismo, Furtividade, Intimidacao, Persuasao]
+- **Idiomas:** [ Normal, Demoniaco ]
+- **Sentidos especiais:** [ Visao no escuro ]
+- **Resistências / imunidades:** [ Resistencia a Fogo ]
+- **Habilidades raciais:** [ Taumaturgia, Hellish Rebuke ]
+- **Habilidades de classe:** [ Maldicao da lamina maldita, lamina maldita ]
+
+
 ## Rolagens
   
 - Teste de Força: `dice: 1d20-2`
