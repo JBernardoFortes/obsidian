@@ -78,6 +78,29 @@ Apos reencontrar **Rezzelar** com o Meio-Drow do grupo, **Higgins** aposta que s
 | Alto-Elfo | Nao teve contato.                                                                                                                                                                                    |
 | Humano    | Apesar de ser fraco e inexperiente, mostrou uma bravura impar ao assumir os canhoes<br>da cidade e incentivar o grupo a evacuar os cidadoes. Inconsequente porem engenhoso,<br>observar com cautela. |
 
+### Fuga da batalha ( Sessão 1.5 )
+
+Higgins e o grupo continuam a batalha contra a minhoca zumbi gigante, eles dão um bom dano nela, porém as custas das vidas dos soldados dos dois exercitos ajudando eles. Eventualmente a batalha se vê perdida, e Adams teleporta o Meio Drow, o Halfling, o Paladino e Higgins para uma colina ali perto, onde eles puderam ver o que aconteceu com a cidade.
+
+Um anão lançou um feitiço nela, **Rezzelar** e companhia estavam na cidade em busca de alguma coisa, eles se movimentavam em direção ao grupo, porem o anao lançou / ativou um feitiço na cidade que trocou o plano dela com outra cidade muito parecida, praticamente identica. Todos que estavam na cidade foram para outro plano, **Rezzelar** e companhia se retiraram com seus poderes, levando consigo o Humano.
+
+O Humano voltou com uma blueprint de arma que **Rezzelar** pediu para ele fazer. Uma espada.
+
+Da cidade do outro plano, foi liberto um anjo, desconfio que seja o anjo vermelho, pela coloração das vestes.
+
+Higgins e o grupo se direcionam para um acampamento real ali perto, onde eles encontram o principe e seu conselheiro aparentemente. O principe comenta sobre contratar eles para cumprir missoes para o reino.
+
+O Halfling parece desconfiar de Higgins, qual o motivo dele estar andando com eles. Higgins pretende utilizar o Caio para atrair **Rezzelar** e obter sua vingança, até la ele ira acompanhar o grupo e tentar obter mais controle sobre os seus poderes das sombras. Talvez eventualmente ele explique isso para eles, no proximo dia. Higgins precisa ser amigavel com eles, lembrar que ele precisa utilizar eles como um meio para seu objetivo.
+
+#### relacionamento com o grupo
+
+
+| Pessoa   | Visao de Higgins |
+| -------- | ---------------- |
+| Halfling |                  |
+
+
+
 ---
 
 [[Higgins]]
