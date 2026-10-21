@@ -14,4 +14,6 @@
 	- Que trafego
 	- Procurei as fotos e nao consegui encontrar 
 	- [x] Achei as imagens
+		- Coloquei no Notion
+- [x] Alterar o nome do lucasClimaCO para 
 
