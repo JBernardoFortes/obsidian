@@ -15,6 +15,8 @@ Mais um caso onde eles pedem para o Bryan resolver questoes de TI enquanto pra m
 
 Acho que nao vou renovar o contrato nao, ou se renovar comecar a procurar outras oportunidades no linkedin todo dia de manha, utilizar o opencode go para fazer alguma aplicacao para mim onde eu consigo fazer esse levantamento de vagas divulgadas com as palavras chaves que eu selecionar. Talvez eu procure ate outros cargos alem do cargo de estagiario.
 
+Quando abrem a boca para me pedir alguma coisa eh referente a alguma coisa de trafego pago ou imagens, ou me passam uma tarefa misteriosa. Ja estou de saco cheio dessas tarefas misteriosas, nao sei se eles acham que eu vou ficar me esforcando pra fazer ate conseguir, se eles acham isso estao muito enganados. 
+
 ### Demandas de Hoje
 
 - [[Demandas - 21 Out 2026]]
