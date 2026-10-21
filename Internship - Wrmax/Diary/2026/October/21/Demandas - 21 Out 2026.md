@@ -16,4 +16,6 @@
 	- [x] Achei as imagens
 		- Coloquei no Notion
 - [x] Alterar o nome do lucasClimaCO para 
+- [ ] Subir o site da Azuza
+- [ ] Cadastrar dr antonio lopes - ortopedista no site e notion
 
