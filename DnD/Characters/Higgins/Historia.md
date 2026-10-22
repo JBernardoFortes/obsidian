@@ -96,12 +96,12 @@ Eles descansaram em um acampamento real, Higgins construiu mais um totem, um de 
 
 #### relacionamento com o grupo
 
-| Pessoa    | Visao de Higgins                                                                                                                                                                                                                 |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Halfling  | O Halfling é o mais sensato do grupo. Ele parece desconfiar do Higgins quanto as suas motivaçoes para andar com eles. Tentar convencer ele de que ele precisa do Half Drow para obter vinganca, se necessario expor os objetivos |
-| Half Drow | O Half Drow sera util para atrair **Rezzelar** para perto, até a oportunidade chegar novamente, sera interessante continuar acompanhando esse elfo e esperar ele atrair o inimigo                                                |
-| Humano    | Parece inconsequente ainda. Pensa pouco nas consequencias e procura agir sozinho. Parece convicto de construir a espada mesmo depois de Adams dizer que precisa de sangue celestial.                                             |
-| High Elf  | Nao teve contato                                                                                                                                                                                                                 |
+| Pessoa    | Visao de Higgins                                                                                                                                                                                                                  |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Halfling  | O Halfling é o mais sensato do grupo. Ele parece desconfiar do Higgins quanto as suas motivaçoes para andar com eles. Tentar convencer ele de que ele precisa do Half Drow para obter vinganca, se necessario, expor os objetivos |
+| Half Drow | O Half Drow sera util para atrair **Rezzelar** para perto, até a oportunidade chegar novamente, sera interessante continuar acompanhando esse elfo e esperar ele atrair o inimigo                                                 |
+| Humano    | Parece inconsequente ainda. Pensa pouco nas consequencias e procura agir sozinho. Parece convicto de construir a espada mesmo depois de Adams dizer que precisa de sangue celestial.                                              |
+| High Elf  | Nao teve contato                                                                                                                                                                                                                  |
 
 
 
