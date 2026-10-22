@@ -19,18 +19,34 @@
 
 ## Estado
 
-- **Bônus de proficiência:** +2
-- **Classe de Armadura (CA):** [15]
-- **Pontos de vida (PV):** [22 / 22]
-- **Deslocamento:** [9m]
+- **Bônus de proficiência (BP):** +2
+- **Classe de Armadura (CA):** [ 15 ]
+- **Pontos de vida (PV):** [ 22 / 22 ]
+- **Dados de Vida**: [ 3d8 + 6 ] 
+- **Spell Slots** ( 2° Nivel ):
+	- [ ] 1
+	- [ ] 2
+- **Deslocamento:** [ 9m ]
 - **Iniciativa:** [+2]
 - **Dados de vida:** [ 3d8 ]
-- **Perícias proficientes:** [ Arcanismo, Furtividade, Intimidacao, Persuasao]
-- **Idiomas:** [ Normal, Demoniaco ]
-- **Sentidos especiais:** [ Visao no escuro ]
-- **Resistências / imunidades:** [ Resistencia a Fogo ]
-- **Habilidades raciais:** [ Taumaturgia, Hellish Rebuke ]
-- **Habilidades de classe:** [ Maldicao da lamina maldita, lamina maldita ]
+- **Perícias proficientes:**
+	- [ Arcanismo ]
+	- [ Furtividade ]
+	- [ Intimidacao ]
+	- [ Persuasao ]
+- **Idiomas:**
+	- [ Normal ]
+	- [ Demoniaco ]
+- **Sentidos especiais:**
+	- [ Visao no escuro ]
+- **Resistências / imunidades:**
+	- [ Resistencia a Fogo ]
+- **Habilidades raciais:**
+	- [ Taumaturgia ]
+	- [ Hellish Rebuke ]
+- **Habilidades de classe:**
+	- [ Maldicao da lamina maldita ]
+	- [ Lamina maldita ]
 
 
 ## Rolagens
