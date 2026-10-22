@@ -32,4 +32,4 @@
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
 - [ ] Criar card de aniversario 
-	- [ ] 
+	
