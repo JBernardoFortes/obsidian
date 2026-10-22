@@ -36,4 +36,6 @@
 	- [x] Fazer os videos
 	- [x] Fazer os estaticos
 	- [ ] Subir
+- [ ] Canopus
+- [ ] Ferrara
 	
