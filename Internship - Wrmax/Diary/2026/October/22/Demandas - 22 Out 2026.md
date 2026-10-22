@@ -32,4 +32,7 @@
 - [x] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
 - [x] Criar card de aniversario 
+- [ ] Subir uns anuncios da Tmax
+	- [ ] Fazer os videos
+	- [ ] Fazer os estaticos
 	
