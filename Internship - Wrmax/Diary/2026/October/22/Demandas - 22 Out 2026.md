@@ -1,5 +1,7 @@
 - [ ] Adicionar cliente novo no Notion e no site da empresa
 	- [ ] Dr Antonio Lopes - Ortopedista
-	- a
+	- [ ] jailson.pdsaude@gmail.com
+		- Checar se ele esta no site
 - [ ] Checar os emails cadastrados no site da empresa
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
+	- Precisamos ver 
