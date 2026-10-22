@@ -1,5 +1,6 @@
 - [ ] Adicionar cliente novo no Notion e no site da empresa
 	- [ ] Dr Antonio Lopes - Ortopedista
+		- Esperar o email dele
 	- [x] jailson.pdsaude@gmail.com
 		- Checar se ele esta no site
 - [x] Checar os emails cadastrados no site da empresa
@@ -12,21 +13,23 @@
 	- [ ] APIPA - Associacao Piauiense dos Produtores de Algodao
 	- [ ] G-360 Gestao Empresarial e Financeira
 	- [x] Regina Nogueira
-	- [ ] Clinica Regina Nogueira
+	- [x] Clinica Regina Nogueira
 	- [ ] Hospital Oftalmed
 	- [ ] Clinica Mais Saude
-	- [ ] TMAX Imobiliaria
+	- [x] TMAX Imobiliaria
 	- [ ] Kleverson Folha Gois
 	- [ ] Roberth Moreira
 	- [ ] Dra. Kellyane Folha
 	- [ ] PIzzaria Forno Paulista
 	- [ ] WRMAX Marketing & IA 
 	- [ ] Azuza Gourmet
-	- [ ] LUXE medicina
+	- [x] LUXE medicina
 	- [ ] Dr. Antonio Lopes
 	- [ ] Dr. Marconi Cosme S. De O Filho
 	- [ ] UsoCor
-	- [ ] Jailson
-	- [ ] Lucas
+	- [x] Jailson
+	- [x] Lucas
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
+- [ ] Criar card de aniversario 
+	- [ ] 
