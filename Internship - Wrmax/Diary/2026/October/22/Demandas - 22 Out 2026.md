@@ -29,7 +29,7 @@
 	- [ ] UsoCor
 	- [x] Jailson
 	- [x] Lucas
-- [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
+- [x] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
-- [ ] Criar card de aniversario 
+- [x] Criar card de aniversario 
 	
