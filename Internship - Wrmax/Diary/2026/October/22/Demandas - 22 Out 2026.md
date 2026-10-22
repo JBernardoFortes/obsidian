@@ -2,4 +2,4 @@
 	- [ ] Dr Antonio Lopes - Ortopedista
 	- a
 - [ ] Checar os emails cadastrados no site da empresa
-- [ ] 
+- [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
