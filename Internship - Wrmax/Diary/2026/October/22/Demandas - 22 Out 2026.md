@@ -2,16 +2,16 @@
 	- [ ] Dr Antonio Lopes - Ortopedista
 	- [x] jailson.pdsaude@gmail.com
 		- Checar se ele esta no site
-- [ ] Checar os emails cadastrados no site da empresa
+- [x] Checar os emails cadastrados no site da empresa
 	- [ ] Alianca Auto Centro
 	- [ ] Dr. Gabriel Baiao
-	- [ ] Dr. Gustavo de Souza Pereira
+	- [x] Dr. Gustavo de Souza Pereira
 	- [ ] Oxcentro Centro Medico Avancado
-	- [ ] Dr. Romilto Pacheco
-	- [ ] Clinica Neuropleno
+	- [x] Dr. Romilto Pacheco
+	- [x] Clinica Neuropleno
 	- [ ] APIPA - Associacao Piauiense dos Produtores de Algodao
 	- [ ] G-360 Gestao Empresarial e Financeira
-	- [ ] Regina Nogueira
+	- [x] Regina Nogueira
 	- [ ] Clinica Regina Nogueira
 	- [ ] Hospital Oftalmed
 	- [ ] Clinica Mais Saude
@@ -23,6 +23,10 @@
 	- [ ] WRMAX Marketing & IA 
 	- [ ] Azuza Gourmet
 	- [ ] LUXE medicina
-	- [ ] Dr.
+	- [ ] Dr. Antonio Lopes
+	- [ ] Dr. Marconi Cosme S. De O Filho
+	- [ ] UsoCor
+	- [ ] Jailson
+	- [ ] Lucas
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
