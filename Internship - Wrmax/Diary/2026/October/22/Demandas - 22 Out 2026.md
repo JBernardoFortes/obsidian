@@ -32,10 +32,10 @@
 - [x] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
 - [x] Criar card de aniversario 
-- [ ] Subir uns anuncios da Tmax
+- [x] Subir uns anuncios da Tmax
 	- [x] Fazer os videos
 	- [x] Fazer os estaticos
-	- [ ] Subir
-- [ ] Canopus
-- [ ] Ferrara
+	- [x] Subir
+- [x] Canopus
+- [x] Ferrara
 	

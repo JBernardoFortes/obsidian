@@ -9,6 +9,7 @@ Hoje eh o dia combinado do meu pagamento, vou esperar ate o final do dia pra ver
 
 A principio nao tem nada no meu Notion para fazer. Esperar alguma demanda, enquanto isso vou ir vendo o trabalho de BDR e alguma analise possivel de ser feita.
 
+
 ### Demandas de hoje
 
 - [[Demandas - 22 Out 2026]]
