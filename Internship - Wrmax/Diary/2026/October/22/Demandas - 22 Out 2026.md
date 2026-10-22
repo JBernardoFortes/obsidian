@@ -1,0 +1,1 @@
+- [ ] Adicionar cliente novo no Notion e no site da empresa
