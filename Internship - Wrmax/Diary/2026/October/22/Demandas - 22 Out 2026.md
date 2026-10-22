@@ -21,5 +21,8 @@
 	- [ ] Dra. Kellyane Folha
 	- [ ] PIzzaria Forno Paulista
 	- [ ] WRMAX Marketing & IA 
+	- [ ] Azuza Gourmet
+	- [ ] LUXE medicina
+	- [ ] Dr.
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
