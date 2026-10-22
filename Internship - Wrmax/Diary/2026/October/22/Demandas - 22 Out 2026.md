@@ -33,6 +33,7 @@
 	- Precisamos ver 
 - [x] Criar card de aniversario 
 - [ ] Subir uns anuncios da Tmax
-	- [ ] Fazer os videos
-	- [ ] Fazer os estaticos
+	- [x] Fazer os videos
+	- [x] Fazer os estaticos
+	- [ ] Subir
 	
