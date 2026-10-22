@@ -3,5 +3,23 @@
 	- [x] jailson.pdsaude@gmail.com
 		- Checar se ele esta no site
 - [ ] Checar os emails cadastrados no site da empresa
+	- [ ] Alianca Auto Centro
+	- [ ] Dr. Gabriel Baiao
+	- [ ] Dr. Gustavo de Souza Pereira
+	- [ ] Oxcentro Centro Medico Avancado
+	- [ ] Dr. Romilto Pacheco
+	- [ ] Clinica Neuropleno
+	- [ ] APIPA - Associacao Piauiense dos Produtores de Algodao
+	- [ ] G-360 Gestao Empresarial e Financeira
+	- [ ] Regina Nogueira
+	- [ ] Clinica Regina Nogueira
+	- [ ] Hospital Oftalmed
+	- [ ] Clinica Mais Saude
+	- [ ] TMAX Imobiliaria
+	- [ ] Kleverson Folha Gois
+	- [ ] Roberth Moreira
+	- [ ] Dra. Kellyane Folha
+	- [ ] PIzzaria Forno Paulista
+	- [ ] WRMAX Marketing & IA 
 - [ ] Levantar requisitos para resolver os problemas que a Kellyane disse 
 	- Precisamos ver 
