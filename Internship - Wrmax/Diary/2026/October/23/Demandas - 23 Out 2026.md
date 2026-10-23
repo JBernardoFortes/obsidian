@@ -1,1 +1,5 @@
 - [ ] Fazer os estaticos da Wrmax
+	- [ ] Carrossel de cada tema
+- [ ] Estatico alianca dia do comerciario
+	- [ ] Teresina - Feriado
+	- [ ] Timon - Normal
