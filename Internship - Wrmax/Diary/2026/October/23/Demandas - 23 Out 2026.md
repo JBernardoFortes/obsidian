@@ -1,1 +1,1 @@
-- [ ] 
+- [ ] Fazer os estaticos da Wrmax

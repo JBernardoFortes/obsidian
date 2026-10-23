@@ -13,6 +13,8 @@ Ontem o Artur foi muito desnecessario comigo, ele foi rude sem motivo aparente. 
 
 Preciso pegar pra repaginar o Front do trabalho de Banco de Dados Relacionais. O nosso esta muito atras dos demais grupos, nao gosto disso, o Joao Carlos nao fez muita coisa ate hoje, Eu tambem nao fiz muita coisa referente ao Front, a questao que eu fiz ficou mal feita por conta da falta de dados, esse final de semana eu vou redesenhar o front e alguns graficos.
 
+Hoje 
+
 ---
 ### Demandas de hoje
 
