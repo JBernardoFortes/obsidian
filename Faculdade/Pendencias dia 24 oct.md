@@ -17,4 +17,12 @@
 - [ ] Preciso Arrumar o problema de sincronizacao com o Drive
 	- Mandar o colab para a equipe
 
+## Prioridades
+
+- [ ] Trabalho de BDR ( 2 ) 
+	- Melhorar o front no geral
+	- Tem que repaginar ele de alguma forma
+- [ ] Seminario de Educacao Ambiental ( 1 )
+	- Dividir os temas com a equipe e fazer o slide
+
 [[Faculdade]]
