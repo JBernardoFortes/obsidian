@@ -22,7 +22,7 @@
 - [ ] Trabalho de BDR ( 2 ) 
 	- Melhorar o front no geral
 	- Tem que repaginar ele de alguma forma
-- [ ] Seminario de Educacao Ambiental ( 1 )
+- [x] Seminario de Educacao Ambiental ( 1 )
 	- Dividir os temas com a equipe e fazer o slide
 
 [[Faculdade]]
