@@ -69,3 +69,6 @@ Ao término da exposição, os apresentadores podem abrir a discussão com as se
 2. **Sobre a desigualdade de proteção entre biomas:** *"Se a aplicação rigorosa do Código Florestal na Amazônia acaba deslocando a pressão do agronegócio para o Cerrado e a Caatinga, que possuem menor percentual exigido de Reserva Legal, como as políticas públicas podem ser redesenhadas para proteger ecossistemas não-florestais sem inviabilizar a produção agrícola?"
 3. **Sobre sustentabilidade social vs. conservação (O dilema das RESEX):** *"As Reservas Extrativistas foram criadas para unir proteção da natureza e desenvolvimento comunitário, mas muitas sofrem com a pobreza e o avanço da pecuária interna. Como o Estado pode tornar a economia extrativista viável e atrativa frente à pressão do mercado capitalista tradicional?"*[39]
 4. **Sobre financiamento e fiscalização:** _"Diante de frequentes cortes orçamentários na pasta ambiental e da extensão territorial do Brasil, instrumentos de comando e controle (como multas e fiscalização do IBAMA) ainda são suficientes, ou o Brasil precisa migrar de vez para incentivos econômicos (como REDD+ e pagamento por serviços ambientais)?"_
+
+[[Educacao Ambiental]]
+[[Estudos Seminario - Ed ambiental]]
