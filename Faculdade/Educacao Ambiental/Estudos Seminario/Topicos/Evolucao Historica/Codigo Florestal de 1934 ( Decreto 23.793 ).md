@@ -13,6 +13,8 @@ tags:
 > [!question] Pergunta central
 > Em uma frase: o que este tópico explica sobre a política ambiental?
 
+Ele discorre sobre como o Codigo Flores
+
 ## 1. Definição com minhas palavras
 (escreva sem olhar a fonte)
 
