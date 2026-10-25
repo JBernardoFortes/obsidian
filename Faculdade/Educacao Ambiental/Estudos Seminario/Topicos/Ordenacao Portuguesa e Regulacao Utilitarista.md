@@ -20,7 +20,8 @@ tags:
 
 
 ## 1. Definição com minhas palavras
-(escreva sem olhar a fonte)
+
+
 
 ## 2. Contexto
 - Qual problema isto tenta resolver?
