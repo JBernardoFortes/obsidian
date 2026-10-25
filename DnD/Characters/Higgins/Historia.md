@@ -111,7 +111,13 @@ Higgins desiste de dialogar com o idoso. Ele se direciona para um grupo de solda
 
 Durante o jogo de Gwent, ao conversar com os soldados Higgins descobre algumas informacoes importantes sobre o Imperio no outro continente. O Imperio por muito tempo foi o principal inimigo do Reino, tendo travado guerras constantes contra ele, porem nos dias atuais o Imperio esta ocupado demais com um outro reinado no mesmo continente, parece que eles estao em guerra. Mesmo o Imperio sendo considerado a forca mais forte entre os continentes, ele aparentemente nao consegue travar uma guerra de duas frentes ao mesmo tempo. 
 
-Um dos soldados conta uma parte da historia do Imperio, mesmo que este seja um inimigo jurado do reino, ao qual muda o clima da mesa ao ser mencionado. Dentre as informacoes fornecidas, Higgins e atentou a Tres principais: O exercito especial do Imperio, o Primeiro Imperador do Imperio Saara e Informacoes sobre armamentos especiais nas maos do imperio. Dizem que o imperio tem um exercito especial, eles sao especializados em cacar dragoes e sao referencia intercontinental. Informacoes sobre o imperador Saara sao escassas, porem algumas sao interessantes: O Imperador utilizava pal
+Um dos soldados conta uma parte da historia do Imperio, mesmo que este seja um inimigo jurado do reino, ao qual muda o clima da mesa ao ser mencionado. Dentre as informacoes fornecidas, Higgins e atentou a Tres principais: O exercito especial do Imperio, o Primeiro Imperador do Imperio Saara e Informacoes sobre armamentos especiais nas maos do imperio. Dizem que o imperio tem um exercito especial, eles sao especializados em cacar dragoes e sao referencia intercontinental. Informacoes sobre o imperador Saara sao escassas, porem algumas sao interessantes: O Imperador utilizava palavras como poder, principalmente no campo da Guerra e Conquista. 
+
+Existem rumores de que o Imperio tem posse de armas poderosas. Uma delas eh a **Segunda Mao do Imperador**, os poderes dela sao desconhecidos, porem entre os soldados era unanime de que ela continha poderes extraordinarios. Eles tambem estao em posse das **Armas Ancestrais**, armas essas que foram usadas para rivalizar com os deuses nas guerras antigas. Alem disso, tambem existe um boato de que eles possuem a **Espada Matadora de Deuses ( Godslayer )**. Porem essas informacoes eh classificada como boato entre os soldados.
+
+Apos a conversa com os soldados, Higgins descobre que o Principe Regente esta procurando alguem. A missao dele eh cacar alguma pessoa pelas terras devastadas. Tambem eh informado que o nome do Idoso maluco eh Neriel, ele fazia parte da Realeza, porem nao se sabe o que aconteceu com ele.
+
+Neriel rapta Higgins, o Halfling e o Hummano para uma floresta desconhecida, cheia de criaturas perigosas. La Neriel faz com que eles sejam expostos a presenca de um Behir, o idoso muda de plano para lutar com a criatura enquanto o grupo derrota um leopardo
 
 
 ---
