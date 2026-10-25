@@ -1,9 +1,9 @@
 
 - [ ] **1.1 Evolução histórica**
 
-1. [ ] **Ordenações portuguesas e regulação utilitarista**
-    - [ ] Que recursos eram regulados e com que objetivo?
-    - [ ] Por que essa regulação não é conservacionista?
+1. [x] **Ordenações portuguesas e regulação utilitarista**
+    - [x] Que recursos eram regulados e com que objetivo?
+    - [x] Por que essa regulação não é conservacionista?
 2. [ ] **Código Florestal de 1934 (Decreto 23.793)**
     - [ ] Por que é considerado um marco sistemático?
     - [ ] O que ele deixava de fora em relação à PNMA?

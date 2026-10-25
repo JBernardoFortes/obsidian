@@ -53,23 +53,28 @@ As leis portuguesas impostas ao extrativismo brasileiro tinham o teor monopolist
 
 - Este tópico trata de educação ambiental? Onde e como?
 
-	 Sim. Ele informa que as leis brasileiras ambientalistas tem inicio na epoca coloni
+	 Sim. Ele informa que as leis brasileiras ambientalistas tem inicio na epoca colonial do brasil. Mesmo que as leis nao fossem criadas com o intuito de preservar a mata do Brasil, elas consequentemente tiveram algum grau de influencia nessa preservacao, mesmo que infima. O importante eh lembrar que as leis foram criadas mais com o cunho economico do que com a preocupacao ambiental de fato.
 
 ## 6. Termos que preciso dominar
-- [[ ]]
+
+- Lembrar que a coroa nao tinha intencoes de preservar a mata do Brasil.
+- Ao decorrer da historia e das fases do Brasil foram criadas diversas leis diferentes, como apendices de leis ou decretos para preservar especies diferentes ou que eram "tendencia" na epoca vigente.
+- No Brasil imperio a desmatacao aumentou, por conta da expansao agricola e da cultura de `plantation`. 
 
 ## 7. Fontes
-- Lei, decreto ou resolução (artigo):
+
+
 - Fonte secundária confiável:
+	- https://www.ecodebate.com.br/2016/11/14/historico-e-evolucao-da-legislacao-ambiental-no-brasil-parte-13-artigo-de-antonio-silvio-hendges/
+	- https://www.revistaea.org/artigo.php?idartigo=477
+	- https://oeco.org.br/noticias/voce-sabe-qual-foi-a-primeira-lei-ambiental-do-brasil/
 
-## 8. Teste de recuperação
-> Responda sem consultar as anotações.
-1.
-2.
-3.
 
-## 9. Explicar a um leigo
+
+## 8. Explicar a um leigo
+ 
 > Máximo de 5 frases, sem jargão.
+> Basicamente, as leis ambientais no Brasil tem inicio no periodo colonial, quando a coroa queria limitar quem poderia extrair o Pau-Brasil naquela epoca, a fim de preservar o monopolio que ela continha. Na epoca existiam extratores licenciados, como Fernando de Noronha ( nome da ilha ) que foi o primeiro a receber essa licenca. Existia penas para quem descumpria, como perda de todos os bens e pena de morte. As leis ajudaram mesmo que imfimamente a preservar as florestas, mas o intuito era meramente economico.
 
-## 10. Dúvidas
+## 10. Dúvidas ( Se houver )
 -
