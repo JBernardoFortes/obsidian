@@ -103,6 +103,15 @@ Eles descansaram em um acampamento real, Higgins construiu mais um totem, um de 
 | Humano    | Parece inconsequente ainda. Pensa pouco nas consequencias e procura agir sozinho. Parece convicto de construir a espada mesmo depois de Adams dizer que precisa de sangue celestial.                                              |
 | High Elf  | Nao teve contato                                                                                                                                                                                                                  |
 
+### Descanso em um acampamento real ( Sessao 2 )
+
+Higgins e o grupo chegam ao acampamento real e sao chamados para a cabana do principe regente do acampamento. La eles encontram um velho excentrico poderoso, que brinca com os mais fracos e parece ter algum tipo de problema mental relacionado a velhice. Parece entediado em nao encontrar alguem tao forte quanto ele. Higgins eh obrigado a brincar de esconde-esconde com esse velho juntamente do Half Drow. Depois disso ele tenta perguntar para o velho sobre o **Rezzelar** e descobrir o paradeiro dele, porem o velho brinca com ele criando ilusoes.
+
+Higgins desiste de dialogar com o idoso. Ele se direciona para um grupo de soldados jogando Gwent a fim de descobrir alguma informacao sobre a sua caca. Ao dialogar com os soldados ele descobre que ele esta sendo cacado por um exercito real, eles se encontram nas terras do Sul, perto da fronteira com o pais do Sul - Um pais que as pessoas nao comentam muito sobre, parece ter algum tipo de preconceito ou tabu envolvendo esse pais. Existe uma dualidade em Higgins, a urgencia pela vinganca o consome, mas ao mesmo tempo ele sentiu na pele o quao mais fraco do que **Rezzelar** ele esta. "Como ele ficou tao mais forte do que eu nesse mesmo espaco de tempo?" - Eh uma pergunta que assombra ele durante silencios inesperados. 
+
+Durante o jogo de Gwent, ao conversar com os soldados Higgins descobre algumas informacoes importantes sobre o Imperio no outro continente. O Imperio por muito tempo foi o principal inimigo do Reino, tendo travado guerras constantes contra ele, porem nos dias atuais o Imperio esta ocupado demais com um outro reinado no mesmo continente, parece que eles estao em guerra. Mesmo o Imperio sendo considerado a forca mais forte entre os continentes, ele aparentemente nao consegue travar uma guerra de duas frentes ao mesmo tempo. 
+
+Um dos soldados conta uma parte da historia do Imperio, mesmo que este seja um inimigo jurado do reino, ao qual muda o clima da mesa ao ser mencionado. Dentre as informacoes fornecidas, Higgins e atentou a Tres principais: O exercito especial do Imperio, o Primeiro Imperador do Imperio Saara e Informacoes sobre armamentos especiais nas maos do imperio. Dizem que o imperio tem um exercito especial, eles sao especializados em cacar dragoes e sao referencia intercontinental. Informacoes sobre o imperador Saara sao escassas, porem algumas sao interessantes: O Imperador utilizava pal
 
 
 ---
