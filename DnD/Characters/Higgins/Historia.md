@@ -117,7 +117,18 @@ Existem rumores de que o Imperio tem posse de armas poderosas. Uma delas eh a **
 
 Apos a conversa com os soldados, Higgins descobre que o Principe Regente esta procurando alguem. A missao dele eh cacar alguma pessoa pelas terras devastadas. Tambem eh informado que o nome do Idoso maluco eh Neriel, ele fazia parte da Realeza, porem nao se sabe o que aconteceu com ele.
 
-Neriel rapta Higgins, o Halfling e o Hummano para uma floresta desconhecida, cheia de criaturas perigosas. La Neriel faz com que eles sejam expostos a presenca de um Behir, o idoso muda de plano para lutar com a criatura enquanto o grupo derrota um leopardo
+Neriel rapta Higgins, o Halfling e o Hummano para uma floresta desconhecida, cheia de criaturas perigosas. La Neriel faz com que eles sejam expostos a presenca de um Behir, o idoso muda de plano para lutar com a criatura enquanto o grupo derrota um leopardo. Depois ele retorna o grupo para o acampamento de novo.
+
+O Halfling avisa ao grupo que eles vao em uma missao para derrotar uma vila goblin. Higgins precisa ficar de olho no Half Drow para caso o **Rezzelar** apareca em busca dele. 
+
+
+| Pessoa    | Visao de Higgins                                                                                                                                                                                                                                                     |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Halfling  | O Halfling parece ter problemas com Bebidas. Ele eh sensato, parece lucido. Ele eh bastante esguio. Conseguiu desviar das tentativas do Neriel de atacar ele varias vezes. Preciso convencer ele de que sou util ao grupo para ele nao desconfiar dos meus objetivos |
+| Half Drow | Estupido. Eh uma palavra que define ele bem. Inconsequente. "Por que **Rezzelar** esta de olho nesse individuo?".                                                                                                                                                    |
+| Humano    | Corajogo ou inconsequente. Tocou no Behir no fundo do lago sem saber o que era. Tem algumas ideias malucas, como pular no lago para fugir de uma pantera.                                                                                                            |
+| High Elf  | Nao teve contato                                                                                                                                                                                                                                                     |
+
 
 
 ---
