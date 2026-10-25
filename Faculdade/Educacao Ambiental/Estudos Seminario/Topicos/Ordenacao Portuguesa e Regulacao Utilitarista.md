@@ -4,7 +4,7 @@ date:
 type: diary
 project: internship-wrmax
 tipo: estudo
-tema: "[[Estudos Seminario - Ed ambiental]]"
+tema: "[[Evolucao Historica]]"
 parte: ""
 status: não iniciado
 data:
@@ -16,6 +16,8 @@ tags:
 
 > [!question] Pergunta central
 > Em uma frase: o que este tópico explica sobre a política ambiental?
+
+
 
 ## 1. Definição com minhas palavras
 (escreva sem olhar a fonte)
@@ -53,4 +55,3 @@ tags:
 
 ## 10. Dúvidas
 -
-[[Internship - Wrmax Diary]] 
