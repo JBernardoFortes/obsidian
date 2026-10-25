@@ -21,6 +21,8 @@ O codigo de 1934 promulgado pelo Getulio Vargas foi um marco historico para as l
 
 O codigo tem boas condutas, porem pela caracteristica industrialista e agronomica do governo de Getulio Vargas ele deixou muitos pontos possivels para contornar a lei e continuar com a exploracao desenfreada das florestas. 
 
+Existe o problema de definicao de florestas tambem, os criterios variavam de forma inconsistente, como por exemplo, uma floresta poderia ser definida por extensao territorial, beleza ou biodiversidade. O replantio que eles propunham tambem havia lacunas, poderia ser feito uma homogeinizacao das florestas, o que resulta em uma diminuicao da biodiversidade da flora e da fauna da area.
+
 ## 2. Contexto
 
 - Qual problema isto tenta resolver?
@@ -67,13 +69,14 @@ O codigo tem boas condutas, porem pela caracteristica industrialista e agronomic
 - Lei, decreto ou resolução (artigo):
 
 - https://www.jusbrasil.com.br/legislacao/116688/decreto-23793-34
-
-- Fonte secundária confiável:
-
+- https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d23793.html
+- https://www2.camara.leg.br/legin/fed/decret/1930-1939/decreto-23793-23-janeiro-1934-498279-publicacaooriginal-78167-pe.html
 
 ## 8. Explicar a um leigo
 
 > Máximo de 5 frases, sem jargão.
+> Em 1934, durante a Era Vargas no Brasil, foi criado o Codigo Florestal, que definia as florestas como bem de interesse publico, o que possibilitava o estado a intervir nas questoes que envolviam esse tema. Ela define diversas leis para preservacao ambiental, como replantio e conversavao ambiental. Porem essas leis tem problemas que sao inerentes de uma politica voltada pra o progresso industrial e uma economia primariamente constituida pelo agronegocio. O replantio poderia ser feito com o intuito de deixar a floresta mais "homogenia", diminuindo assim a biodiversidade. A definicao de floresta tambem era falha, eles definiam ela com base em criterios diversos e inconsistentes, como beleza ou extensao territorial somente. 
+> Essa lei foi um marco no progresso ambientalista para o Brasil, porem ela nao deixa de possuir falhas.
 
 ## 9. Dúvidas ( Se houver )
 -

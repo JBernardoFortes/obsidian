@@ -4,9 +4,8 @@
 1. [x] **Ordenações portuguesas e regulação utilitarista**
     - [x] Que recursos eram regulados e com que objetivo?
     - [x] Por que essa regulação não é conservacionista?
-2. [ ] **Código Florestal de 1934 (Decreto 23.793)**
-    - [ ] Por que é considerado um marco sistemático?
-    - [ ] O que ele deixava de fora em relação à PNMA?
+2. [x] **Código Florestal de 1934 (Decreto 23.793)**
+    - [x] Por que é considerado um marco sistemático?
 3. [ ] **PNMA (Lei 6.938/1981): objetivos e princípios**
     - [ ] Qual é o objetivo central do art. 4º?
     - [ ] Por que a lei é chamada de “integrada”?

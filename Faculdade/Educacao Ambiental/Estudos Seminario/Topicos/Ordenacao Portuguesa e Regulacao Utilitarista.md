@@ -76,5 +76,5 @@ As leis portuguesas impostas ao extrativismo brasileiro tinham o teor monopolist
 > Máximo de 5 frases, sem jargão.
 > Basicamente, as leis ambientais no Brasil tem inicio no periodo colonial, quando a coroa queria limitar quem poderia extrair o Pau-Brasil naquela epoca, a fim de preservar o monopolio que ela continha. Na epoca existiam extratores licenciados, como Fernando de Noronha ( nome da ilha ) que foi o primeiro a receber essa licenca. Existia penas para quem descumpria, como perda de todos os bens e pena de morte. As leis ajudaram mesmo que imfimamente a preservar as florestas, mas o intuito era meramente economico.
 
-## 10. Dúvidas ( Se houver )
+## 9. Dúvidas ( Se houver )
 -
