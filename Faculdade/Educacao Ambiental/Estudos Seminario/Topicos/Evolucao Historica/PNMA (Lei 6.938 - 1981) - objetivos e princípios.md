@@ -23,6 +23,8 @@ O CONAMA eh responsavel pela articulacao e criacao de normas para a preservacao 
 
 Eles definiram que independente de quem eh a culpa do dano causado no meio ambiente, o sujeito deve arcar com as consequencias e retribuir com algum tipo de acao para recuperar o dano causado. Aqui se encontra uma limitacao da CONAMA, eles definem que deve ser punido, porem nem toda recuperacao realmente "recupera" o dano causado, haja vista que para florestas crescerem pode demorar de decadas a seculos. O licenciamento atribuido a PNMA / SISNAMA nao mitiga o dano causado ao meio ambiente.
 
+Ela se chama integrada porque reune diferentes elementos de protecao ambiental em uma mesma politica publica.
+
 ## 2. Contexto
 
 - Qual problema isto tenta resolver?
@@ -57,21 +59,25 @@ Eles definiram que independente de quem eh a culpa do dano causado no meio ambie
 
 - Este tópico trata de educação ambiental? Onde e como?
 
-	 Sim. Ele R
+	 Sim. Ele Representa um marco para as leis ambientais no Brasil.
 
 ## 6. Termos que preciso dominar
 
-- [[ ]]
+- SISNAMA
+- CONAMA
+- IBAMA
 
 ## 7. Fontes
 
 - Lei, decreto ou resolução (artigo):
-- Fonte secundária confiável:
 
+- https://www.planalto.gov.br/ccivil_03/leis/l6938.htm
 
 ## 8. Explicar a um leigo
 
 > Máximo de 5 frases, sem jargão.
+> O PNMA, Politica Nacional do Meio Ambiente, foi outro marco para as leis ambientais no Brasil, diferentemente do Codigo Florestal anterior, aqui ele aumenta o escopo do que se considera meio ambiente preservavel, ele define como o conjunto de elementos quimicos, biologicos e fisicos que permitem a existencia da vida. 
+> O PNMA criou o SISNAMA, Sistema Nacional do Meio Ambiente, com isso foi criado dois outros Orgaos publicos: O CONAMA e o IBAMA. O CONAMA eh responsavel pela articulacao das regras e leis para preservacao do meio ambiente, enquanto o IBAMA eh responsavel pelo licenciamento, fiscalizacao e execucao das normas publicas que competem a ele. Ele possui alguns problemas, como o fato de que a obrigatoriedade da recuperacao do dano causado nao anula o que foi feito, porque florestas ou outros meios ambientais podem levar decadas, ou ate seculos, para se recuperarem para o estado em que se encontravam anteriormente. 
 
 ## 9. Dúvidas ( Se houver )
 -

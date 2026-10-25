@@ -6,9 +6,9 @@
     - [x] Por que essa regulação não é conservacionista?
 2. [x] **Código Florestal de 1934 (Decreto 23.793)**
     - [x] Por que é considerado um marco sistemático?
-3. [ ] **PNMA (Lei 6.938/1981): objetivos e princípios**
-    - [ ] Qual é o objetivo central do art. 4º?
-    - [ ] Por que a lei é chamada de “integrada”?
+3. [x] **PNMA (Lei 6.938/1981): objetivos e princípios**
+    - [x] Qual é o objetivo central do art. 4º?
+    - [x] Por que a lei é chamada de “integrada”?
 4. [ ] **SISNAMA: estrutura e órgãos**
     - [ ] Quais são os seis níveis do sistema e o papel de cada um?
     - [ ] Como a descentralização entre União, estados e municípios funciona?
