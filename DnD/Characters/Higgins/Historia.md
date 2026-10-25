@@ -84,7 +84,7 @@ Higgins e o grupo continuam a batalha contra a minhoca zumbi gigante, eles dão 
 
 Um anão lançou um feitiço nela, **Rezzelar** e companhia estavam na cidade em busca de alguma coisa, eles se movimentavam em direção ao grupo, porem o anao lançou / ativou um feitiço na cidade que trocou o plano dela com outra cidade muito parecida, praticamente identica. Todos que estavam na cidade foram para outro plano, **Rezzelar** e companhia se retiraram com seus poderes, levando consigo o Humano.
 
-O Humano voltou com uma blueprint de arma que **Rezzelar** pediu para ele fazer. Uma espada.
+O Humano voltou com uma blueprint de arma. Uma espada.
 
 Da cidade do outro plano, foi liberto um anjo, desconfio que seja o anjo vermelho, pela coloração das vestes.
 
