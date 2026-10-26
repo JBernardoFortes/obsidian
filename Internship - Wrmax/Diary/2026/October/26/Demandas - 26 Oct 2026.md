@@ -10,4 +10,5 @@
 	- [x] Pegar o email dela
 	- [x] becacristofani@gmail.com
 - [x] Muda o nome das colunas no Notion
-- [ ] Fazer avisos de feriado dia 02/11
+- [ ] Fazer avisos de feriado dia 02/11 feriado nacional
+	- [ ] Oxcentro 
