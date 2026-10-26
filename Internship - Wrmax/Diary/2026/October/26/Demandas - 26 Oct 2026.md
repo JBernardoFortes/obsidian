@@ -3,9 +3,11 @@
 - [x] Fazer uma propriedade do banco do Notion ficar obrigatoria
 	- [x] Modificar a Skill do Claude
 - [x] Card de aniversario Medico Samuel
+	- [x] Colocar o card em formato stories
 - [x] Carrossel da APIPA
 - [x] Criar Aba para a menina nova
 - [x] Ver como fazer a auditoria melhor com as pessoas do Notion
 	- [x] Pegar o email dela
 	- [x] becacristofani@gmail.com
 - [x] Muda o nome das colunas no Notion
+- [ ] Fazer avisos de feriado dia 02/11
