@@ -5,7 +5,7 @@
 - [x] Card de aniversario Medico Samuel
 - [x] Carrossel da APIPA
 - [x] Criar Aba para a menina nova
-- [ ] Ver como fazer a auditoria melhor com as pessoas do Notion
+- [x] Ver como fazer a auditoria melhor com as pessoas do Notion
 	- [x] Pegar o email dela
-	- [ ] becacristofani@gmail.com
+	- [x] becacristofani@gmail.com
 - [x] Muda o nome das colunas no Notion
