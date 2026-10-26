@@ -3,7 +3,9 @@
 - [x] Fazer uma propriedade do banco do Notion ficar obrigatoria
 	- [x] Modificar a Skill do Claude
 - [x] Card de aniversario Medico Samuel
-- [ ] Carrossel da APIPA
+- [x] Carrossel da APIPA
 - [x] Criar Aba para a menina nova
 - [ ] Ver como fazer a auditoria melhor com as pessoas do Notion
-	- [ ] Pegar o email dela
+	- [x] Pegar o email dela
+	- [ ] becacristofani@gmail.com
+- [x] Muda o nome das colunas no Notion
