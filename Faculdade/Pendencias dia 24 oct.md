@@ -1,6 +1,6 @@
 
 
-- [ ] Trabalho de BDR
+- [x] Trabalho de BDR
 	- Fazer 6 questoes para quinta
 		- Temos 3
 	- Arrumar loading
@@ -12,7 +12,7 @@
 - [ ] Trabalho de topicos em engenharia de software
 	- Subir em uma instancia ec2 
 	- Falar com o pessoal do grupo que ja tem feito
-- [ ] Seminario de ambiental
+- [x] Seminario de ambiental
 	- Organizar o tema e os documentos entre a equipe
 - [ ] Preciso Arrumar o problema de sincronizacao com o Drive
 	- Mandar o colab para a equipe
