@@ -129,6 +129,13 @@ O Halfling avisa ao grupo que eles vao em uma missao para derrotar uma vila gobl
 | Humano    | Corajogo ou inconsequente. Tocou no Behir no fundo do lago sem saber o que era. Tem algumas ideias malucas, como pular no lago para fugir de uma pantera.                                                                                                            |
 | High Elf  | Nao teve contato                                                                                                                                                                                                                                                     |
 
+### Dungeon Goblin ( Sessao 3 )
+
+Higgins acompanha o Halfling para o ferreiro, no caminho ele mostra para ele o cartaz do **Rezzelar** e explica a importancia do amigo dele para ele reencontrar ele novamente. No ferreiro eles interagem com alguns soldados e com o ferreiro anao, ele atira no Higgins com uma escopeta porque ele perguntou para ele sobre a dificuldade de produzir armas matadoras de dragoes. 
+
+Apos isso, eles se dirigem para a cabana do comandante para adquirir a missao de exterminar uma vila goblin. Ele instrue os cacadores de recompensa a ir falar com os guardas no final do acampamento. Eles encontram um guarda ferido, voltando da vila goblin, um dos guardas leva eles ate um buraco onde supostamente seria a vila goblin. No final, o buraco na verdade era uma Dungeon, durante a exploracao e combate da dungeon, o Half-Drow perde o controle dos seus bracos negros e um deles cria um boca e comeca a conjurar uma magia perigosa. Higgins consegue impedir que o braco conjure a magia, porem o Half-Drow por algum motivo queria que ela fosse conjurada e ataca o Draconato de ouro o deixando incapacitado. Higgins eh obrigado a usar o totem do chefe orc que ele produziu noites anteriores para imobilizar o maluco. Ele consegue cortar os dois bracos do insandecido, porem o braco desenvolve pernas e cresce, fica no formato de uma minhoca com patas e com uma palma da mao gigante no lugar da cabeca.
+
+Apos a ajuda do macaco do Adams, eles conseguem jogar a minhoca no portal que ela mesmo conjurou. Depois disso Higgins imobiliza o Half-Drow e o amarra em cordas a fim de eliminar o perigo que ele representa para o grupo. Depois de um descanso curto, eles entram em uma sala que antecede a vila goblin que eles procuravam, eles enfrentam um goblin montado em um Owl Bear e 
 
 
 ---
