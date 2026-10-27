@@ -9,7 +9,8 @@
 - **CD de Resistência de Magia**: `8 + 2 (BP) + Modificador de Carisma`.
 - **Bônus de Ataque de Magia**: `+2 (BP) + Modificador de Carisma`.
 
-1/8 bonus de força
+
+2/8 bonus de força
 
 ---
 
