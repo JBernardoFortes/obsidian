@@ -4,9 +4,6 @@
 Em ajustes finais
 
 Estrutura do site aprovada.  
-Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
-
-
 
 ## Ajustes Visuais
 
@@ -20,12 +17,12 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 	- [x] Imagem
 - [x] Adicionar Ilha Gastronômica
 	- [x] Imagem
-- [ ] Adicionar Feijoada
+- [x] Adicionar Feijoada
 	- [x] Solicitar fotos da feijoada
-	- [ ] Imagem
-- [ ] Buscar fotos da festa infantil da Ravena
+	- [x] Imagem
+- [x] Buscar fotos da festa infantil da Ravena
 	- [x] Solicitar fotos da Festa infantil
-	- [ ] Imagem
+	- [x] Imagem
 - [x] Ativar slide automático
 
 
@@ -57,5 +54,4 @@ Restam ajustes de conteúdo, formulário, vídeos e depoimentos.
 
 ---
 
-Periodo de trabalho : 10/09 -> 14/09 
 
