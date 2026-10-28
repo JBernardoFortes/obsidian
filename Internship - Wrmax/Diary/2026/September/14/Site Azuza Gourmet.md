@@ -59,7 +59,11 @@ Estrutura do site aprovada.
 #### Commits feitos
 
 - https://github.com/JBernardoFortes/obsidian/commit/2348a298f35b04465d1b0d82dd10e93e337d5397
+	- ![[Pasted image 20261028105930.png]]
 - https://github.com/JBernardoFortes/obsidian/commit/c958fa92dd0c182fa865837f3136d99243994eeb
+	- ![[Pasted image 20261028105943.png]]
 - https://github.com/JBernardoFortes/obsidian/commit/9a110597d30e14bfb04774fa1d1f7bef55a41ab0
+	- ![[Pasted image 20261028105954.png]]
 - https://github.com/JBernardoFortes/obsidian/commit/cc9e04d7b48dffcae281524887a781c233f70464
+	- ![[Pasted image 20261028110008.png]]
 
