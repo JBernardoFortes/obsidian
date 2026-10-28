@@ -54,4 +54,9 @@ Estrutura do site aprovada.
 
 ---
 
+### Auditoria dos ajustes
+
+#### Commits feitos
+
+- 
 
