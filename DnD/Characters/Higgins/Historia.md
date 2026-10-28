@@ -141,6 +141,8 @@ Fora da Dungeon, Higgins encontra o velho Neriel sentado comendo uns peixes, a s
 
 A realeza tem olhos verdes e cabelos loiros. O guarda que mostrou a dungeon tinha esses mesmos tracos.
 
+Higgins precisa manter o Half Drow vivo para reencontrar **Rezzelar**.
+
 | Pessoa            | Visao de Higgins                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Halfling          | O Halfling parece ser o mais sensato do grupo. Ele concordou facil com Higgins acompanhar o grupo para ficar de olho no Half-drow. Ele possui uma machadinha estranha, crucifica a suas vitimas. Ele se compadece com a vida dos outros, isso pode acabar atrapalhando ele no futuro. Ele sabe que o Half-drow eh problematico.                                                                                                             |
