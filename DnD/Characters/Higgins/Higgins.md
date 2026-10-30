@@ -149,7 +149,7 @@ Através de contatos no submundo, Higgins descobriu o paradeiro de seu arqui-ini
 
 - **Espaços de Magia (** **Spell Slots** **)**: **2 espaços de 2º nível**.
 	- **Recuperação de Espaços**: Todos os espaços são recuperados com um **descanso curto** ou longo.
-- **CD de Resistência de Magia**: `8 + 2 (Proficiência) + Modificador de 
+- **CD de Resistência de Magia**: `8 + 2 (Proficiência) + Modificador de Carisma
 - **Bônus de Ataque de Magia**: `+2 (Proficiência) + Modificador de Carisma` 
 
 #### **Truques (Nível 0 — Ilimitados)**
