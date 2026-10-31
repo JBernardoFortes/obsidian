@@ -151,7 +151,7 @@ Higgins precisa manter o Half Drow vivo para reencontrar **Rezzelar**.
 | High Elf          | Um paladino que nao assume a linha de frente, estranho. Pouco movel, nao confiavel em combates, nao depender dele.                                                                                                                                                                                                                                                                                                                          |
 | Draconato de Ouro | Ele veio com o macaco do Adams, deve ter algum tipo de ligacao entre eles. Corajoso porem inexperiente.                                                                                                                                                                                                                                                                                                                                     |
 
-### Invasão Goblin
+### Invasão Goblin ( Sessão 4 )
 
 Depois de passar um tempo estudando a magia e jogando cartas com os soldados, Higgins parte para procurar alguns ratos a fim de experimentar algumas coisas. Ele encontra uma cabana que Neriel pretendia cuidar, porém, os soldados disseram que Higgins poderia cuidar dos ratos de la de dentro. Adentrando na cabana, Higgins se depara com 3 ratos comendo rações e roendo os panos da tenda. Ele consegue matar 2 com o `Raio Maligno`, porém um dos ratos conseguiu se safar. Estranhamente, esse rato começou a falar e se apresentar como a realeza da cidade dos ratos, Vanderwouvs. Ele queria tratar de assuntos sérios com o principe. Depois de convencer Higgins de que este não seria capaz de atingir ele, Higgins o leva para a tenda real.
 
@@ -161,7 +161,9 @@ Ao anoitecer, algo estranho acontece. Os goblins antes amigaveis começam a cres
 
 Os Goblins eram imortais, eles viviam enquanto a noite estivesse de pé. Depois de lutar para sobreviver, Neriel utiliza um spell de nivel **Celestial** e aprisiona todos os goblins em um domo, enquanto ele repele os aliados. Fora do domo, o estranho loiro de olhos verdes aparece, o mesmo que direcionou o grupo para a masmorra de goblins. Ele muda de plano com o Higgins e o Caio, a fim de assassinar o Caio. Depois de alguns dialogos, Higgins utiliza um spell para mudar de plano de novo, porém dessa vez para um plano das sombras. Lá, Higgins encontra uma criatura familiar, a minhoca gigante. Ela estava seguindo ele pelo reino das sombras a todo o instante. Depois de serem salvos do reino das sombras pelo Neriel, eles começam a fugir do anjo de Prata. 
 
-O feitiço do Neriel acordou um **Tarrasque**. O anjo de Prata doma o tarrasque de alguma forma, o envolvendo em flocos prateados de neve. Após isso, ele ataca o acampamento com a mesma nuvem que usou para controlar o tarrasque, porem o grupo consegue fugir com ajuda do Neriel.
+O feitiço do Neriel acordou um **Tarrasque**. O anjo de Prata doma o tarrasque de alguma forma, o envolvendo em flocos prateados de neve. Após isso, ele ataca o acampamento com a mesma nuvem que usou para controlar o tarrasque, porem o grupo consegue fugir com ajuda do Neriel. Após chegarem em segurança, eles vao descansar na tenda hospitalar. Antes de ir a tenda, Higgins vai ao deserto conversar com seu patrono, ele disse que ia resolver a situacao da minhoca, que Adams era uma peça fundamental para o plano dele e que ele contataria ele quando ele voltasse a capital.
+
+Durante o descanso, o grupo é supreendido pelo monge que salvou eles de **Rezzelar**. 
 
 
 
