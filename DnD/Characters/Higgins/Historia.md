@@ -151,6 +151,13 @@ Higgins precisa manter o Half Drow vivo para reencontrar **Rezzelar**.
 | High Elf          | Um paladino que nao assume a linha de frente, estranho. Pouco movel, nao confiavel em combates, nao depender dele.                                                                                                                                                                                                                                                                                                                          |
 | Draconato de Ouro | Ele veio com o macaco do Adams, deve ter algum tipo de ligacao entre eles. Corajoso porem inexperiente.                                                                                                                                                                                                                                                                                                                                     |
 
+### Invasão Goblin
+
+Depois de passar um tempo estudando a magia e jogando cartas com os soldados, Higgins parte para procurar alguns ratos a fim de experimentar algumas coisas. Ele encontra uma cabana que Neriel pretendia cuidar, porém, os soldados disseram que Higgins poderia cuidar dos ratos de la de dentro. Adentrando na cabana, Higgins se depara com 3 ratos comendo rações e roendo os panos da tenda. Ele consegue matar 2 com o `Raio Maligno`, porém um dos ratos conseguiu se safar. Estranhamente, esse rato começou a falar e se apresentar como a realeza da cidade dos ratos, Vanderwouvs. Ele queria tratar de assuntos sérios com o principe. Depois de convencer Higgins de que este não seria capaz de atingir ele, Higgins o leva para a tenda real.
+
+Lá é descoberto que o rato é fruto de um experimento de Neriel. Depois de algumas conversas o Rato entra no grupo.
+
+Ao anoitecer, algo estranho acontece. Os goblins antes amigaveis começam a crescer e se transformar em criaturas deformadas, com ossos expostos pelo corpo. No pescoço, eles expunham uma marca demoniaca que remetia a `Noite`. 
 
 ---
 
