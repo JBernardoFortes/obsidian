@@ -157,7 +157,9 @@ Depois de passar um tempo estudando a magia e jogando cartas com os soldados, Hi
 
 Lá é descoberto que o rato é fruto de um experimento de Neriel. Depois de algumas conversas o Rato entra no grupo.
 
-Ao anoitecer, algo estranho acontece. Os goblins antes amigaveis começam a crescer e se transformar em criaturas deformadas, com ossos expostos pelo corpo. No pescoço, eles expunham uma marca demoniaca que remetia a `Noite`. 
+Ao anoitecer, algo estranho acontece. Os goblins antes amigaveis começam a crescer e se transformar em criaturas deformadas, com ossos expostos pelo corpo. No pescoço, eles expunham uma marca demoniaca que remetia a `Noite`. Em um ato de desespero, Higgins utiliza o Totem dado pelo seu patrono, ele invocou um **Receptáculo do Patrono**, uma árvore gigante que se alimentava dos soldados e dos goblins, porem ela saiu de controle, e teve que ser eliminada pelo principe. 
+
+Os Goblins eram imortais, eles viviam enquanto a noite estivesse de pé. Depois de lutar para sobreviver, Neriel utiliza um spell de nivel **Celestial** e aprisiona todos os goblins em um domo, enquanto ele repele os aliados. Fora do domo, o estranho loiro de olhos verdes aparece, o mesmo que direcionou o grupo para a masmorra de goblins. Ele muda de plano com o Higgins e o Caio, a fim de assassinar o Caio. Depois de alguns dialogos, Higgins utiliza um spell para mudar de plano de novo, 
 
 ---
 
