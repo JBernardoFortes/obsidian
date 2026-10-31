@@ -180,7 +180,6 @@ O Halfling conta o envolvimento do Half-Drow com o anjo de prata.
 
 
 
-
 ---
 
 [[Higgins]]
