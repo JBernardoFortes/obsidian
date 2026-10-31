@@ -163,7 +163,9 @@ Os Goblins eram imortais, eles viviam enquanto a noite estivesse de pé. Depois 
 
 O feitiço do Neriel acordou um **Tarrasque**. O anjo de Prata doma o tarrasque de alguma forma, o envolvendo em flocos prateados de neve. Após isso, ele ataca o acampamento com a mesma nuvem que usou para controlar o tarrasque, porem o grupo consegue fugir com ajuda do Neriel. Após chegarem em segurança, eles vao descansar na tenda hospitalar. Antes de ir a tenda, Higgins vai ao deserto conversar com seu patrono, ele disse que ia resolver a situacao da minhoca, que Adams era uma peça fundamental para o plano dele e que ele contataria ele quando ele voltasse a capital.
 
-Durante o descanso, o grupo é supreendido pelo monge que salvou eles de **Rezzelar**. 
+Durante o descanso, o grupo é supreendido pelo monge que salvou eles de **Rezzelar**. Ele fala que eles devem pagar a divida com um favor, baixar a barreira do monasterio para ele pegar a **Alabarda do primeiro Mestre**. Eles vao ao monasterio destruido, e la eles tem uma visao da invasao acontecendo em tempo real. Eles ouvem sobre uma **Ultima Luz**, que ela é a esperança. Depois de conversarem o antigo mestre, um Tiefling, eles sao surpreendidos pelo Monge traidor, assim que o tiefling o chama. Ele pega a alabarda e luta com **Rezzelar** enquanto o grupo foge com a primeira luz. 
+
+Ao chegar ao acampamento, Neriel os avisa de que eles mexeram com pessoas perigosas. Que eles iam atras do grupo e provavelmente os matariam. Ele se oferece la
 
 
 
